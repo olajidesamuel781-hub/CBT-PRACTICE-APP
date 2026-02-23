@@ -1,0 +1,135 @@
+.quiz-container {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #98a2a2;
+}
+
+h2, h3 {
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  margin: 8px 0;
+  padding: 12px;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  background-color: #5a8ae4; /* default blue */
+  color: rgb(3, 3, 3);
+}
+
+button:hover:not(.selected-option) {
+  background-color: #1c286e; /* green on hover if not selected */
+}
+
+button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+button.selected-option {
+  background-color: #03115f; /* red stays when selected */
+  color: white;
+}
+
+.nav-buttons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+}
+
+.nav-buttons button {
+  width: 48%;
+  background-color: #091741;
+}
+
+.nav-buttons button:hover:not(.selected-option) {
+  background-color: #293436; /* slightly darker blue on hover */
+}
+
+.timer-bar-container {
+  width: 100%;
+  height: 20px;
+  background-color: #eee;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  overflow: hidden;
+}
+
+.timer-bar {
+  height: 100%;
+  width: 100%;
+  transition: width 1s linear, background-color 0.5s;
+  background-color: #2ecc71; /* starts green */
+}
+
+.review-question {
+  text-align: left;
+  margin: 15px 0;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+.review-question p {
+  margin: 5px 0;
+}
+
+.correct {
+  color: green;
+}
+
+.incorrect {
+  color: red;
+}
+
+.finished-buttons {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.finished-buttons button {
+  width: 45%;
+  background-color: #0c7a9c;
+}
+
+.finished-buttons button:hover {
+  background-color: #293636;
+}
+.top-buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.top-buttons button {
+  width: 50%;
+}
+.top-buttons {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.top-buttons button {
+  width: 50%;
+}
+
+.quit-btn {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.quit-btn:hover {
+  background-color: #c0392b;
+}

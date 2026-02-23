@@ -1,0 +1,72 @@
+.dash {
+  min-height: 100vh;
+  background: linear-gradient(to right, #141e30, #243b55);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.dash-card {
+  background: white;
+  width: 100%;
+  max-width: 520px;
+  border-radius: 12px;
+  padding: 24px;
+  color: #2c3e50;
+}
+
+.small {
+  font-size: 14px;
+  opacity: 0.9;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+  margin-top: 12px;
+  flex-wrap: wrap;
+}
+
+.btn {
+  border: none;
+  padding: 12px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  background: #2c3e50;
+  color: white;
+  font-weight: 600;
+}
+
+.btn:hover {
+  background: #1f2d3a;
+}
+
+.btn.premium {
+  background: #0ea5e9;
+}
+
+.btn.premium:hover {
+  background: #0284c7;
+}
+
+.box {
+  background: #f3f6fb;
+  border: 1px solid #e6edf7;
+  padding: 14px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.lock {
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  padding: 14px;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+.lock-title {
+  font-weight: 700;
+  margin-bottom: 6px;
+}
