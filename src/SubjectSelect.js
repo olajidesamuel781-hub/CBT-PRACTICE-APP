@@ -1,4 +1,3 @@
-// SubjectSelect.js
 import { useState } from "react";
 import { PaystackButton } from "react-paystack";
 import "./Landing.css";
@@ -43,7 +42,9 @@ export default function SubjectSelect({
     <div className="auth-page">
       <img src={aaulogo} alt="Ambrose Alli University Logo" className="auth-logo" />
       <h1 className="auth-title">CBT PRACTICE APP</h1>
-      <p className="auth-subtitle">AMBROSE ALLI UNIVERSITY & EXAM PRACTICE SYSTEM</p>
+      <p className="auth-subtitle">
+        AMBROSE ALLI UNIVERSITY & EXAM PRACTICE SYSTEM
+      </p>
 
       <div className="auth-card">
         <p style={{ marginBottom: "12px", textAlign: "center" }}>
@@ -55,7 +56,9 @@ export default function SubjectSelect({
         </button>
 
         {premiumLoading && (
-          <p style={{ textAlign: "center", marginTop: "10px" }}>Checking premium...</p>
+          <p style={{ textAlign: "center", marginTop: "10px" }}>
+            Checking premium...
+          </p>
         )}
 
         {!isPremium && !premiumLoading && (
@@ -68,7 +71,9 @@ export default function SubjectSelect({
           />
         )}
 
-        <h3 style={{ textAlign: "center", marginTop: "16px" }}>Select Subject</h3>
+        <h3 style={{ textAlign: "center", marginTop: "16px" }}>
+          Select Subject
+        </h3>
 
         <div className="subject-grid-modern">
           {subjects.map((s) => {
@@ -77,7 +82,9 @@ export default function SubjectSelect({
             return (
               <div
                 key={s}
-                className={`subject-item ${subject === s ? "active-subject" : ""}`}
+                className={`subject-item ${
+                  subject === s ? "active-subject" : ""
+                }`}
                 onClick={() => pickSubject(s)}
                 style={{ opacity: locked ? 0.6 : 1 }}
               >
@@ -88,7 +95,13 @@ export default function SubjectSelect({
         </div>
 
         {!!notice && (
-          <p style={{ color: "#ffb4b4", marginTop: "12px", textAlign: "center" }}>
+          <p
+            style={{
+              color: "#ffb4b4",
+              marginTop: "12px",
+              textAlign: "center",
+            }}
+          >
             {notice}
           </p>
         )}
