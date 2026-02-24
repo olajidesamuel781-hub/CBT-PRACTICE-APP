@@ -1,7 +1,6 @@
 export const allQuestions = {
-   "BIO 101": [],
-
-    "CHM 101": [
+    "BIO 101":[],
+  "CHM 101": [
         {
     question: "The Brønsted–Lowry concept of acid and bases failed to explain __________.",
     options: [
@@ -1079,12 +1078,7 @@ export const allQuestions = {
   },
   {
     question: "The hydrogen ion concentration of a weak acid can be calculated by the expression ______________",
-    options: [
-      "Product of conc. (acid) and the degree of dissociation constant K",
-      "Square root of Ka × concentration",
-      "Ka / concentration",
-      "Concentration / Ka"
-    ],
+    options: ["Product of conc. (acid) and the degree of dissociation constant K", "Square root of Ka × concentration", "Ka / concentration", "Concentration / Ka"],
     answer: "Square root of Ka × concentration"
   },
   {
@@ -1299,12 +1293,7 @@ export const allQuestions = {
   },
   {
     question: "The amount of heat required to raise the temperature of the unit mass of gas through one degree at constant volume, is called",
-    options: [
-      "specific heat at constant pressure",
-      "specific heat at constant volume",
-      "kilo Joule",
-      "none of these"
-    ],
+    options: ["specific heat at constant pressure", "specific heat at constant volume", "kilo Joule", "none of these"],
     answer: "specific heat at constant volume"
   },
   {
@@ -1336,6 +1325,743 @@ export const allQuestions = {
     question: "Which of the following has the minimum atomic mass?",
     options: ["Oxygen", "Sulphur", "Nitrogen", "Carbon"],
     answer: "Carbon"
+  }
+    ],
+      "CHM 112": [
+      {
+    question: "Two compounds that are mirror images of each other but are not superimposable on each other are best described as",
+    options: ["Mirror images", "Enantiomers", "Diastereomers", "All of the above", "None of the above"],
+    answer: "Enantiomers"
+  },
+  {
+    question: "In a polarimeter, which component comes immediately after the light source?",
+    options: ["Eye-piece", "Sample tube", "Analyzer", "Polarizer", "None of the above"],
+    answer: "Polarizer"
+  },
+  {
+    question: "Which of the following factors does NOT affect the observed rotation of an optically active compound?",
+    options: ["Nature of the compound", "Concentration", "Length of the polarimeter tube", "Solubility", "None of the above"],
+    answer: "Solubility"
+  },
+  {
+    question: "64g of galactose (C6H12O6) was dissolved in 1dm3 of water and the solution gave an observed rotation of 58.7° in a 14cm polarimeter tube. What is the specific rotation of galactose? (C = 12, H = 1, O = 16)",
+    options: ["6550°", "655°", "65.5°", "6.55°", "None of the above"],
+    answer: "655°"
+  },
+  {
+    question: "Which of the following elements would exhibit the strongest hydrogen bonding?",
+    options: ["Fluorine", "Oxygen", "Nitrogen", "Chlorine", "Sulphur"],
+    answer: "Fluorine"
+  },
+  {
+    question: "A body-centred cubic lattice structure is exhibited by",
+    options: ["Aluminium", "Cobalt", "Zinc", "Iron", "Calcium"],
+    answer: "Iron"
+  },
+  {
+    question: "The unusually high boiling point of water compared to hydrogen sulphide is as a result of",
+    options: ["Molecular mass of water", "Hydrogen bonding", "The position of oxygen in the periodic table", "The low atomic number of hydrogen", "None of the above"],
+    answer: "Hydrogen bonding"
+  },
+  {
+    question: "The two substances that are often reacted together to form soap are",
+    options: ["Oil and soda", "Triglyceride and sodium", "Potassium and oil", "Sodium hydroxide and oil", "Triglyceride and glycerol"],
+    answer: "Sodium hydroxide and oil"
+  },
+  {
+    question: "In a soap molecule, the long tail is",
+    options: ["Charged", "Water-loving", "Hydrophobic", "Soluble in water", "None of the above"],
+    answer: "Hydrophobic"
+  },
+  {
+    question: "The IUPAC name of the compound that is polymerized to yield PVC is",
+    options: ["Ethene", "Chloroethene", "Vinyl chloride", "Styrene", "Ethyne"],
+    answer: "Chloroethene"
+  },
+  {
+    question: "Which of the following insecticides is natural and a respiratory inhibitor?",
+    options: ["Pyrethrin", "Chlordane", "Parathion", "Endrin", "Rotenone"],
+    answer: "Rotenone"
+  },
+  {
+    question: "Which of the following is the Ziegler-Natta catalyst?",
+    options: ["Ethyl lithium", "Ethyl magnesium bromide", "Aluminium sulphate", "Ethyl titanium", "None of the above"],
+    answer: "None of the above"
+  },
+  {
+    question: "Which of the following is NOT an anti-malarial drug?",
+    options: ["Quinine", "Pyrimethamine", "Proguanil", "Halofantrine", "None of the above"],
+    answer: "None of the above"
+  },
+  {
+    question: "One of the following is NOT a major class of dyes.",
+    options: ["Nitrite", "Stilbene", "Sulphur", "Oxazine", "None of the above"],
+    answer: "Nitrite"
+  },
+  {
+    question: "One element that is commonly found in a molecule of detergent but not in soap is",
+    options: ["Sodium", "Oxygen", "Sulphur", "Carbon", "Hydrogen"],
+    answer: "Sulphur"
+  },
+  {
+    question: "The explosive substance trinitrotoluene (TNT) contains _____ atoms of carbon.",
+    options: ["3", "4", "6", "7", "8"],
+    answer: "7"
+  },
+  {
+    question: "Methyl orange is an example of _________ dye.",
+    options: ["Azo", "Xanthine", "Oxazine", "Sulphur", "Nitrogen"],
+    answer: "Azo"
+  },
+  {
+    question: "Which of the following is true about a chiral compound?",
+    options: ["Exists in right and left-handed forms", "Could be dextro- or laevo-rotatory", "Glucose is a common example", "All of the above", "None of the above"],
+    answer: "All of the above"
+  },
+  {
+    question: "Which of these substances is used in the production of soft soap (toilet soap)?",
+    options: ["NaOH", "KOH", "Na", "K", "None of the above"],
+    answer: "KOH"
+  },
+  {
+    question: "How many atoms of the central element are found in one block of a face-centred cubic lattice?",
+    options: ["6", "8", "10", "12", "14"],
+    answer: "14"
+  },
+  {
+    question: "Which of these commercial products is made of polystyrene?",
+    options: ["Shopping bags", "Electrical insulators", "Pipes for toilet systems", "Bread wrappers", "None of the above"],
+    answer: "None of the above"
+  },
+  {
+    question: "Dieldrin is a pesticide that is effective in killing",
+    options: ["Rats", "Lizards", "Snakes", "Mice", "None of the above"],
+    answer: "None of the above"
+  },
+  {
+    question: "When dissolved in water, soap or detergent molecules form clusters known as",
+    options: ["Micels", "Micells", "Miccelles", "Micelles", "Miceles"],
+    answer: "Micelles"
+  },
+  {
+    question: "Which of the following words is not involved in the definition of the term “drug”?",
+    options: ["Tissue", "Chemical", "Function", "Change", "None of the above"],
+    answer: "None of the above"
+  },
+  {
+    question: "Glycerol, a product involved in soap manufacture, has the IUPAC name",
+    options: ["Propan-1,2,3-ol", "1,2,3-propanol", "1,2-propan-3-ol", "1-propan-2,3-ol", "None of the above"],
+    answer: "None of the above"
+  },
+  {
+    question: "Classification of organic compounds is based on their carbon skeleton or …………",
+    options: ["Molecular weight", "Functional group", "Atomic mass", "Atomic orbital", "Molecular orbital"],
+    answer: "Functional group"
+  },
+  {
+    question: "The compounds below are liquids at ordinary temperature and pressure except……….",
+    options: ["Hexane", "Nonane", "Dodecane", "Eicosane", "Heptadecane"],
+    answer: "Eicosane"
+  },
+  {
+    question: "Each member of a homologous series differs from the next by",
+    options: ["–CH2", "CH2-", "–CH2-", "Methylene gp", "C & D"],
+    answer: "C & D"
+  },
+  {
+    question: "The following compounds are alkanes except",
+    options: ["C7H14", "C7H16", "C8H18", "C27H56", "C20H42"],
+    answer: "C7H14"
+  },
+  {
+    question: "Rotation about a double bond in an organic compound is",
+    options: ["Restricted", "Occurs freely", "Evenly distributed", "Has equal distance", "All of the above"],
+    answer: "Restricted"
+  },
+  {
+    question: "How many carbon atoms are there in henpentacontane",
+    options: ["61", "71", "17", "51", "66"],
+    answer: "61"
+  },
+  {
+    question: "What type of hybridization(s) do we have in a molecule of 2,4,4-trimethylheptane",
+    options: ["Sp", "Sp2", "Sp3", "Sp & Sp3", "Sp2 & Sp3"],
+    answer: "Sp3"
+  },
+  {
+    question: "The electronic configuration of carbon in its excited state is ………",
+    options: ["1S22S22Px12Py12Pz1", "1S22S22Px12Py12Pz0", "1S22S12Px12Py12Pz1", "1S12S22Px12Py12Pz1", "1S22S12Px12Py12Pz0"],
+    answer: "1S22S12Px12Py12Pz1"
+  },
+  {
+    question: "A triple bond is formed by ……..",
+    options: ["Two sigma bonds and one pi bond", "Three sigma bonds", "Two pi bonds and one sigma bond", "Three pi bonds", "None of the above"],
+    answer: "Two pi bonds and one sigma bond"
+  },
+  {
+    question: "Pi bonds are characterized by the following except",
+    options: ["Formed by lateral overlap of p orbital", "Permits no free rotation", "Has higher energy than the sigma bond", "At least one pi bond can exist between atoms", "Has cylindrical charge symmetry"],
+    answer: "Has cylindrical charge symmetry"
+  },
+  {
+    question: "The basis for classifying organic compounds into groups is the similarity in ………",
+    options: ["Atomic orbital", "Molecular orbital", "Molecular structure", "Functional groups", "Quantum number"],
+    answer: "Molecular structure"
+  },
+  {
+    question: "The chemical and physical properties of a compound are as a result of its",
+    options: ["Molecular structure", "The valency", "Spin quantum number", "Systematic manner", "Energy level"],
+    answer: "Molecular structure"
+  },
+  {
+    question: "The symmetry properties of atomic orbitals are dictated by",
+    options: ["Energy levels", "Quantum numbers", "S-orbital", "P-orbital", "Dumb bell shape"],
+    answer: "Quantum numbers"
+  },
+  {
+    question: "The function of the magnetic quantum number is that it",
+    options: ["Defines the shell", "Differentiates the subshells", "Gives the orientation of the electron spin", "Describes the orientation of the orbital in space", "Symbolizes electrons with rotation in opposite spin"],
+    answer: "Describes the orientation of the orbital in space"
+  },
+  {
+    question: "When the secondary quantum number is equal to zero, we have",
+    options: ["s-orbital", "p-orbital", "s & p orbitals", "d- orbital", "f-orbital"],
+    answer: "s-orbital"
+  },
+  {
+    question: "The symbols for the four quantum numbers are",
+    options: ["n, L, ML, Ms", "n, l, ml, ms", "N, L, ml, Ms", "N, l, mL, ms", "N, L, ML, ML"],
+    answer: "n, l, ml, ms"
+  },
+  {
+    question: "The three principles used to distribute electrons in atomic orbitals are",
+    options: ["Aufbau, Paul’s exclusion principle and Hund’s rule", "Aufbua, Paulis esclusion principle and Hund’s rule", "Afubau, Pauls exclution principle and Hund’s rule", "Aufbau, Paulis exclusion principle and Hund’s rule", "Afubau, Pauls exclution principle and Hund’s rule"],
+    answer: "Aufbau, Paulis exclusion principle and Hund’s rule"
+  },
+  {
+    question: "The overlap of like phase signs gives a bonding MO which has …….. than the individual AOs",
+    options: ["Greater stability", "Lower energy", "Higher energy", "Lower stability", "A & B"],
+    answer: "A & B"
+  },
+  {
+    question: "The nodal plane in an antibonding molecular orbital is",
+    options: ["Plane of low electron density", "Plane of no electron density", "Plane of higher electron density", "Plane of greater stability", "None of the above"],
+    answer: "Plane of no electron density"
+  },
+  {
+    question: "Constructive interference means",
+    options: ["Combination of same wave signs", "Combination of opposite wave signs", "Combination of crest and trough", "Formation of a larger wave", "A & D"],
+    answer: "A & D"
+  },
+  {
+    question: "The type(s) of hybridization involved in 3-Methyl-3-Phenyloct-4-yne is/are",
+    options: ["sp, sp2 & sp3", "sp2 & sp3", "sp3 & sp", "sp & sp2", "sp2 only"],
+    answer: "sp, sp2 & sp3"
+  },
+  {
+    question: "The following compounds are alkynes except",
+    options: ["C2H2", "C9H16", "C11H20", "C14H28", "C6H10"],
+    answer: "C14H28"
+  },
+  {
+    question: "The compounds below are gases at ordinary temperature and pressure except",
+    options: ["CH4", "C2H6", "C3H8", "C4H10", "C5H12"],
+    answer: "C5H12"
+  },
+  {
+    question: "What type of A.O is involved in the bonding of ethylene molecule",
+    options: ["1s, 2s, 2px", "2s, 2px", "2s, 2px, 2py", "2s, 2px, 2py, 2pz", "2s, 2py"],
+    answer: "2s, 2px"
+  },
+  {
+    question: "The chemical formula for heptacosane is",
+    options: ["CH3(CH3)25CH3", "CH3(CH3)26CH3", "CH3(CH2)25CH3", "CH3(CH2)26CH3", "CH3(CH4)25CH3"],
+    answer: "CH3(CH2)25CH3"
+  },
+    {
+    question: "The following are abbreviations for alkyl groups for carbon atoms 1-4 except",
+    options: ["Me", "Et", "Py", "Pr", "Bu"],
+    answer: "Py"
+  },
+  {
+    question: "The secondary butyl group has……..carbon(s) bonded to the head carbon",
+    options: ["1", "2", "3", "4", "1 or 2"],
+    answer: "2"
+  },
+  {
+    question: "A chemical name typically has …….parts in the IUPAC system of nomenclature",
+    options: ["1", "3", "5", "4", "2"],
+    answer: "4"
+  },
+  {
+    question: "The word IUPAC is pronounced as",
+    options: ["i-u-park", "i-u-pack", "eye-you-pack", "eye-you-park", "eye-you-packe"],
+    answer: "eye-you-pack"
+  },
+  {
+    question: "The function of the suffix in a chemical name identifies",
+    options: ["The location of substituent", "The number of carbon atoms", "The primary functional group", "The number of alkyl groups", "The type of alkyl groups"],
+    answer: "The primary functional group"
+  },
+  {
+    question: "What class of organic compounds does pyridine belong",
+    options: ["Aliphatic", "Aromatic", "Alicyclic", "Heterocyclic", "B & C"],
+    answer: "Heterocyclic"
+  },
+  {
+    question: "The angle at which methane form hybrid molecule is",
+    options: ["120o", "150o", "109o.51", "180o", "190o.5"],
+    answer: "109o.51"
+  },
+  {
+    question: "How many sigma bonds are there in a molecule of undecene",
+    options: ["20", "21", "26", "22", "23"],
+    answer: "22"
+  },
+  {
+    question: "How many pi bond(s) are there in a pyrrole ring",
+    options: ["4", "1", "3", "2", "5"],
+    answer: "2"
+  },
+  {
+    question: "How many carbon atoms are there in a molecule of hectyne",
+    options: ["50", "70", "90", "55", "100"],
+    answer: "100"
+  },
+  {
+    question: "What type(s) of hybridization is involved in a molecule of 3-cyclobutylpentane",
+    options: ["Sp3", "Sp & sp2", "Sp & sp3", "Sp", "Sp2"],
+    answer: "Sp3"
+  },
+  {
+    question: "The isopropyl and isobutyl groups both have an alkyl group at the …….carbon",
+    options: ["1st", "2nd", "1st & 2nd", "Terminal", "B & D"],
+    answer: "2nd"
+  },
+  {
+    question: "The following are example of alicyclic compounds except",
+    options: ["C3H4", "C3H6", "C4H8", "C5H10", "C6H12"],
+    answer: "C3H4"
+  },
+  {
+    question: "Heterocyclic compounds typically contain one of the following elements in addition to the carbons in their ring",
+    options: ["Fe", "B", "H", "S", "F"],
+    answer: "S"
+  },
+  {
+    question: "The electrons in benzene are",
+    options: ["Localized", "Delocalized", "Energized", "Form a pi cloud", "B & D"],
+    answer: "B & D"
+  },
+  {
+    question: "Linear combination of atomic orbitals produce a new orbital called",
+    options: ["pi cloud orbital", "s orbital", "p orbital", "molecular orbital", "antibonding sigma orbital"],
+    answer: "molecular orbital"
+  },
+  {
+    question: "The lateral overlap of 2p orbital with opposite signs gives",
+    options: ["Sigma bonds", "Pi bonds", "Antisigma bonds", "Antipi bonds", "None of the above"],
+    answer: "Antipi bonds"
+  },
+  {
+    question: "The principle involved in the filling of orbitals in order of increasing energy is known as",
+    options: ["Pauls Exclusion Principle", "Afubau’s", "Aufbua", "Aufbau", "Paulis exclusion Principle"],
+    answer: "Aufbau"
+  },
+  {
+    question: "How many pi bond(s) are there in a molecule of 4-methylnon-7-en-1-yne",
+    options: ["4", "1", "3", "2", "None"],
+    answer: "3"
+  },
+  {
+    question: "How many sigma bonds are there in acetylene molecule",
+    options: ["5", "4", "6", "3", "2"],
+    answer: "3"
+  },
+  {
+    question: "The chemical formula for nonadecane is",
+    options: ["CH3(CH3)17CH3", "CH3(CH2)17CH3", "CH3(CH4)17CH3", "CH3(CH2)19CH3", "CH3(CH3)19CH3"],
+    answer: "CH3(CH2)17CH3"
+  },
+  {
+    question: "How many sigma and pi bonds are there in a molecule of 3-isopropylcyclobutyne",
+    options: ["15σ, 2π", "12σ, 2π", "14σ, 2π", "13σ, 2π", "16σ, 2π"],
+    answer: "16σ, 2π"
+  },
+  {
+    question: "Which of the following scientists published the most acceptable and successful periodic table",
+    options: ["Moseley", "Mendeleev", "Lavoisier", "Dobereiner", "Newlands"],
+    answer: "Mendeleev"
+  },
+  {
+    question: "The modern periodic table consists of elements arranged in order of increasing",
+    options: ["Atomic number", "Atomic weight", "Atomic mass", "Atomic symbol", "Atomic density"],
+    answer: "Atomic number"
+  },
+  {
+    question: "The periodic table is divided into groups and periods in the following order",
+    options: ["5 periods and 10 groups", "10 periods and 5 groups", "7 periods and 18 groups", "18 periods and 7 groups", "None of the above"],
+    answer: "7 periods and 18 groups"
+  },
+  {
+    question: "The scientist who made an earlier attempt of placing groups of three elements with similar properties into “triads” was",
+    options: ["Newland", "Johann", "Moseley", "Mendeleev", "Lavoisier"],
+    answer: "Johann"
+  },
+  {
+    question: "The clearest distinction among the elements is their classification as",
+    options: ["Reactive and non reactive", "Groups and periods", "Transition and main group", "Metals and non metal", "Malleable and Ductile"],
+    answer: "Metals and non metal"
+  },
+  {
+    question: "All of the following elements belong to group three (3) except",
+    options: ["Aluminium", "Gallium", "Silicon", "Indium", "Boron"],
+    answer: "Silicon"
+  },
+  {
+    question: "Which of the groups in the periodic table is referred to as the pnicogens",
+    options: ["Group 3", "Group 6", "Group 4", "Group 2", "Group 5"],
+    answer: "Group 5"
+  },
+  {
+    question: "The relative ability of a bonded atom to attract the shared electron is termed",
+    options: ["Ionization energy", "Atomic radii", "Electron affinity", "Electronegativity", "Electron potential"],
+    answer: "Electronegativity"
+  },
+  {
+    question: "The ionization energy of elements in the periodic table generally",
+    options: ["Decreases down a group and increases across a period", "Increases down a group and decreases along a period", "Increases down a group and increases along a period", "Decreases down a group and decreases along a period", "All of the above"],
+    answer: "Decreases down a group and increases across a period"
+  },
+  {
+    question: "All the physical and chemical characteristics of the elements is based ultimately on the",
+    options: ["Atomic number", "Atomic size", "Atomic radii", "Electronic configuration", "Electron affinity"],
+    answer: "Electronic configuration"
+  },
+  {
+    question: "The element Hydrogen can neither be placed in group 1 nor group 7 and this unique behaviour is due to",
+    options: ["Its small size", "High ionization energy", "Closeness to the nucleus", "Low electronegativity", "One proton"],
+    answer: "Its small size"
+  },
+  {
+    question: "In the periodic table, the group with the lowest ionization energy is",
+    options: ["Group 7A", "Group 3A", "Group 1A", "Group 5A", "Group 8A"],
+    answer: "Group 1A"
+  },
+  {
+    question: "The alkali halide used as a dehumidifier in our cooling unit is",
+    options: ["RbBr", "NaBr", "LiBr", "KBr", "CsBr"],
+    answer: "LiBr"
+  },
+  {
+    question: "The group 2A element used in the production of missile parts, bicycle wheels and camera bodies is called",
+    options: ["Calcium", "Beryllium", "Strontium", "Barium", "Magnesium"],
+    answer: "Magnesium"
+  },
+  {
+    question: "The element in the periodic table with the largest temperature range is",
+    options: ["Calcium", "Gallium", "Indium", "Thallium", "Strontium"],
+    answer: "Gallium"
+  },
+  {
+    question: "All of the following are uses of carbon dioxide except",
+    options: ["Refrigerant gas", "Fire extinguishers", "Making beverages", "Fertilizers", "Gaseous fuel"],
+    answer: "Gaseous fuel"
+  },
+  {
+    question: "Phosphorous trichloride(PCl3) is used for the following except as",
+    options: ["Plant growth regulator", "Insecticides", "Flame retardant", "Fuel additives", "Oil"],
+    answer: "Plant growth regulator"
+  },
+  {
+    question: "The second most abundant element in the universe is",
+    options: ["Hydrogen", "Oxygen", "Argon", "Helium", "Carbon"],
+    answer: "Helium"
+  },
+  {
+    question: "The only liquid non metal known is",
+    options: ["Chlorine", "Bromine", "Fluorine", "Iodine", "Astatine"],
+    answer: "Bromine"
+  },
+  {
+    question: "The most reactive of the group 7A elements is",
+    options: ["Fluorine", "Bromine", "Chlorine", "Astatine", "Iodine"],
+    answer: "Fluorine"
+  },
+  {
+    question: "The only liquid metal known is",
+    options: ["Mercury", "Indium", "Titanium", "Scandium", "Chromium"],
+    answer: "Mercury"
+  },
+  {
+    question: "The group 8A elements have great stability as a result of",
+    options: ["Monoatomic nature", "Completely filled shells", "Highest ionization energy", "Highest atomic radii", "None of the above"],
+    answer: "Completely filled shells"
+  },
+  {
+    question: "The element with the lowest melting point known at 25 atmospheric pressure is",
+    options: ["Helium", "Hydrogen", "Argon", "Xenon", "Radon"],
+    answer: "Helium"
+  },
+  {
+    question: "……..is the Hydrogen halide found in the stomach fluid of mammals",
+    options: ["Hydrogen chloride", "Hydrogen fluoride", "Hydrogen bromide", "Hydrogen iodide", "Hydrogen astanide"],
+    answer: "Hydrogen chloride"
+  },
+  {
+    question: "Which of the metal halide is added to table salt to prevent thyroid disease (goiter)",
+    options: ["Calcium iodide", "Potassium iodide", "Sodium iodide", "Magnesium chloride", "Calcium chloride"],
+    answer: "Potassium iodide"
+  },
+  {
+    question: "The energy change accompanying the addition of electrons to gaseous atoms or ions is referred to as",
+    options: ["Ionization energy", "Potential energy", "Electron affinity", "Electronegativity", "Kinetic energy"],
+    answer: "Electron affinity"
+  },
+  {
+    question: "Which of the group 3A elements is used in the production of silicate glasses",
+    options: ["Aluminium", "Indium", "Thallium", "Gallium", "Boron"],
+    answer: "Boron"
+  },
+  {
+    question: "Which of the Nitrogen halides is the most reactive",
+    options: ["Nitrogen fluoride", "Nitrogen chloride", "Nitrogen bromide", "Nitrogen iodide", "Nitrogen astanide"],
+    answer: "Nitrogen chloride"
+  },
+  {
+    question: "Which of the following phosphorus compounds is used in the manufacture of match stick head",
+    options: ["Phosphorus decasulphide", "Phosphorus disulphide", "Phosphorus heptasulphide", "Phosphorus trisulphide", "Phosphorus octasulphide"],
+    answer: "Phosphorus trisulphide"
+  },
+    {
+    question: "The structure of an alkyne with four carbon atoms could be:",
+    options: ["CH3CH2CH2CH3", "CH3-C≡C-CH3", "CH2=CH=CH-CH3", "CH2=CH-CH2-CH3", "CH3-CH2-CH=CH2"],
+    answer: "CH3-C≡C-CH3"
+  },
+  {
+    question: "Which of these is an organic compound:",
+    options: ["CaCO3", "NaHSO4", "CH3(CH2)16CH3", "KCN", "NaHCO3"],
+    answer: "CH3(CH2)16CH3"
+  },
+  {
+    question: "CnHn+2 is the general formula of:",
+    options: ["Alkenes", "Alkynes", "Alcohols", "Alkanes", "none of the above"],
+    answer: "Alkanes"
+  },
+  {
+    question: "Ethylenic bond is also referred to as:",
+    options: ["carbon-carbon single bond", "olefinic bond", "carbon-carbon multiple bond", "carbon-carbon triple bond", "carbon-carbon bond"],
+    answer: "olefinic bond"
+  },
+  {
+    question: "The structural difference between n-propane and n-butane is:",
+    options: ["a methylene group", "an alkyl group", "a methyl group", "an isopropyl group", "a tert-butyl group"],
+    answer: "a methylene group"
+  },
+  {
+    question: "C28H54 is:",
+    options: ["an alkene", "an alkane", "an alkyne", "a saturated hydrocarbon", "an alkyl halide"],
+    answer: "an alkane"
+  },
+  {
+    question: "Which of these compounds are homologues?",
+    options: ["C4H8, C5H3, and C6H10", "C4H12, C5H10, and C6H10", "C4H8, C5H5, and C6H6", "C4H9, C5H9, and C6H9", "C4H10, C5H12, and C6H14"],
+    answer: "C4H10, C5H12, and C6H14"
+  },
+  {
+    question: "A quaternary carbon is a carbon atom",
+    options: ["attached indirectly to another carbon atom", "attached directly to two carbon atoms", "attached directly to four carbon atoms", "attached directly to no carbon atom", "attached indirectly to three carbon atoms"],
+    answer: "attached directly to four carbon atoms"
+  },
+  {
+    question: "CH3-CH-CH3 is:",
+    options: ["an isopropyl group", "an n-propyl group", "a butyl group", "a symmetrical group", "a neopentyl group"],
+    answer: "an isopropyl group"
+  },
+  {
+    question: "n-Decane contains:",
+    options: ["21 hydrogens", "22 hydrogens", "23 hydrogens", "24 hydrogens", "25 hydrogens"],
+    answer: "22 hydrogens"
+  },
+  {
+    question: "The ethylenic bond in CH2═CH2═CH2—CH2—CH3 are called",
+    options: ["conjugated double bonds", "isolated double bonds", "restricted double bonds", "cumulated double bonds", "unsymmetrical double bonds"],
+    answer: "cumulated double bonds"
+  },
+  {
+    question: "Which group of the following list of organic compounds is made up of ONLY hydrocarbons?",
+    options: ["alkanes, alcohols and sulphoxides", "sulphides, sulphoxides and sulphones", "alkenes, aldehydes and ketones", "amines, ethers and esters", "alkynes, alkenes and alkanes"],
+    answer: "alkynes, alkenes and alkanes"
+  },
+  {
+    question: "All organic compounds are carbon-containing, but not all carbon-containing substances are organic. This statement is:",
+    options: ["incorrect", "uncorrect", "not sure", "correct", "not quite sure"],
+    answer: "correct"
+  },
+  {
+    question: "The alkyl group derived from CH3-CH2-CH2-CH2-CH2-CH2-CH3 is:",
+    options: ["hexyl", "butyl", "neopentyl", "pentyl", "heptyl"],
+    answer: "heptyl"
+  },
+  {
+    question: "How many types of bonds are contained in CH2═CH—CH3?",
+    options: ["1", "2", "3", "4", "5"],
+    answer: "3"
+  },
+  {
+    question: "The characteristic chemical reactivity of an organic compound is attributable to its:",
+    options: ["functional group", "methyl group", "hydroxyl group", "amino group", "cyano group"],
+    answer: "functional group"
+  },
+  {
+    question: "Aldehydes and ketones are often referred to collectively as:",
+    options: ["carboxylic compounds", "carbonyl compounds", "hydroxylic compounds", "anhydride compounds", "carbohydrate compounds"],
+    answer: "carbonyl compounds"
+  },
+  {
+    question: "The simplest alkyne has",
+    options: ["4 carbons", "3 carbons", "2 carbons", "5 carbons", "1 carbon"],
+    answer: "2 carbons"
+  },
+  {
+    question: "How many methylene groups are present in CH3—CH2—CH2—CH3",
+    options: ["2", "3", "1", "4", "5"],
+    answer: "2"
+  },
+  {
+    question: "Which of these compounds does not contain a carbonyl group?",
+    options: ["an amide", "an ester", "an amine", "an acid anhydride", "an aldehyde"],
+    answer: "an amine"
+  },
+  {
+    question: "How many hydroxyl groups are present in heptanol?",
+    options: ["2", "7", "5", "3", "1"],
+    answer: "1"
+  },
+  {
+    question: "Ph—O—CH3 is:",
+    options: ["a single acid", "a symmetrical aldehyde", "a mixed alcohol", "an unsymmetrical ether", "an oxygenated amide"],
+    answer: "an unsymmetrical ether"
+  },
+  {
+    question: "The compound CH3CH2COOCH3, is:",
+    options: ["an amine", "a nitrile", "a carboxylic acid", "a thiol", "an ester"],
+    answer: "an ester"
+  },
+  {
+    question: "The compound, CH3CH2NHCH3, is",
+    options: ["a primary amine", "a secondary amine", "a tertiary amine", "a quaternary amine", "a primary amide"],
+    answer: "a secondary amine"
+  },
+  {
+    question: "Which of these compounds is an alcohol (i) CH3COOH; (ii) CH3CONH2; (iii) CH3OH; (iv) CH3CN; (v) CH3COOCCH3",
+    options: ["ii", "iv", "v", "iii", "i"],
+    answer: "iii"
+  },
+  {
+    question: "CH3CH2SO2CH3 is:",
+    options: ["a sulphide", "a sulphonic acid", "a sulphoxide", "a sulphone", "a thiol"],
+    answer: "a sulphone"
+  },
+  {
+    question: "State the number of distinct bonds in CH3SOCH3",
+    options: ["3", "6", "4", "5", "2"],
+    answer: "3"
+  },
+  {
+    question: "In CH3CH2SOCH2CH3, the valency of the element sulphur is:",
+    options: ["4", "1", "2", "3", "5"],
+    answer: "4"
+  },
+  {
+    question: "The compound: CH3N(CH3)2, is:",
+    options: ["an acid halide", "an amine", "a phenol", "a hydrocarbon", "a nitrile"],
+    answer: "an amine"
+  },
+  {
+    question: "—CN is a:",
+    options: ["carbonyl group", "brutal group", "ethyl group", "neighbouring group", "cyano group"],
+    answer: "cyano group"
+  },
+  {
+    question: "Which of the following statement is incorrect?",
+    options: ["every alcohol contains a hydroxyl group", "organic sulphides are also called thioethers", "an acid halide has no carbonyl group", "amines and amides are quite different", "the general formula of alkenes is: CnH2n"],
+    answer: "an acid halide has no carbonyl group"
+  },
+  {
+    question: "Carbon-Carbon triple bond is also referred to as:",
+    options: ["an olefinic bond", "an acetylenic bond", "aethylenic bond", "a rigid bond", "a covalent bond"],
+    answer: "aethylenic bond"
+  },
+  {
+    question: "How many methyl groups are in CH3CH2CH2CH3?",
+    options: ["1", "2", "3", "4", "5"],
+    answer: "2"
+  },
+  {
+    question: "The valencies of the element sulphur in sulphides, sulphoxides and sulphones, respectively are:",
+    options: ["2, 4, 6", "3, 5, 7", "1, 3, 5", "1, 5, 7", "1, 3, 7"],
+    answer: "2, 4, 6"
+  },
+  {
+    question: "Chemistry is the science of:",
+    options: ["molecules and their transformations", "carbon atoms", "pollution and degradation", "physical properties", "once-living organism"],
+    answer: "molecules and their transformations"
+  },
+  {
+    question: "CH3CH2CH2CH3 is:",
+    options: ["sec-Butane", "tert- Butane", "N-Butane", "iso-Butane", "n-Butane"],
+    answer: "n-Butane"
+  },
+  {
+    question: "In CH3CH2X, R=?",
+    options: ["methyl", "propyl", "butyl", "ethyl", "pentyl"],
+    answer: "ethyl"
+  },
+  {
+    question: "I CH3CH2XH2X, X=?",
+    options: ["x-ray", "halogen", "nitrogen", "neon", "helium"],
+    answer: "halogen"
+  },
+  {
+    question: "CH3C(CH3)2—CH2— is:",
+    options: ["tert-butyl", "isobutyl", "neopentyl", "sec-butyl", "isopropyl"],
+    answer: "tert-butyl"
+  },
+  {
+    question: "Carbonyl compounds are",
+    options: ["ethers and esters", "aldehydes and ketones", "amines and amides", "carboxylic acids and acid halides", "sulphides and sulphoxides"],
+    answer: "aldehydes and ketones"
+  },
+  {
+    question: "RR′CO is the general formula of:",
+    options: ["phenols", "alcohols", "ketones", "aldehydes", "cycloalkanes"],
+    answer: "ketones"
+  },
+  {
+    question: "Which of the following is not a carboxylic acid?",
+    options: ["CH3CO2H", "CH3COOH", "HCOOH", "HCHO", "C6H5CO2H"],
+    answer: "HCHO"
+  },
+  {
+    question: "CH3CH2CO.N(CH3)2 is:",
+    options: ["an amide", "an amine", "an ester", "a ketone", "an ether"],
+    answer: "an amide"
+  },
+  {
+    question: "An amine group is",
+    options: ["—COC—", "—COOR", "—COX", "—CONH2", "—NH2"],
+    answer: "—NH2"
+  },
+  {
+    question: "The general formula of alkynes is:",
+    options: ["CnH2n-3", "CnH2n", "CnH2n-2", "CnHn-2", "Cn+1H2n"],
+    answer: "CnH2n-2"
+  },
+  {
+    question: "How many functional groups are in this compound, NCCH2CH2SH",
+    options: ["4", "5", "2", "6", "3"],
+    answer: "2"
   }
     ],
     "CSC 101": [
@@ -2649,7 +3375,7 @@ export const allQuestions = {
     },
     {
       question: "It is true that *descriptive* means giving a picture in words about anything",
-      options: ["Yes", "No", "How can?"],
+      options: ["Yes", "No", "How can?", "none of the above"],
       answer: "Yes"
     },
     {
@@ -2669,7 +3395,7 @@ export const allQuestions = {
     },
     {
       question: "There are several reasons why students should work to improve their reading skills",
-      options: ["True", "False"],
+      options: ["True", "False", "Maybe", "Not sure", "None"],
       answer: "True"
     },
     {
@@ -4000,1984 +4726,7 @@ export const allQuestions = {
     answer: "A.J. Ayer"
   }
     ],
-    "MTH 101": [],
-
-    "PHY 101": [
-        {
-  question: "The scalar product of two parallel vectors is",
-  options: ["0", "90", "180", "360"],
-  answer: "0"
-  },
-  {
-  question: "How much distance is required to stop a car travelling at 108 km/hr if the driver’s reaction time is 0.1 s?",
-  options: ["3 m", "1.5 m", "2 m", "3.5 m"],
-  answer: "1.5 m"
-  },
-  {
-  question: "_____ is an aspect of experimental observation",
-  options: ["calculation", "solving", "correlation", "finding"],
-  answer: "correlation"
-  },
-  {
-  question: "The dimension for coefficient of viscosity is",
-  options: ["MLT⁻¹", "MLT", "ML⁻¹T⁻¹", "MT⁻¹"],
-  answer: "ML⁻¹T⁻¹"
-  },
-  {
-  question: "All quantities of physics are",
-  options: ["Dimensional analysis", "Fundamental quantities", "Physical quantities", "Derived quantities"],
-  answer: "Physical quantities"
-  },
-  {
-  question: "If P(3, −2, 1) and Q(1, 0, −4), the displacement QP is",
-  options: ["2i − 2j − 5k", "3i + 2j + 5k", "2i − 2j − 5k", "2i − 2j + 5k"],
-  answer: "2i − 2j + 5k"
-  },
-  {
-  question: "In the equation (P + a/V)(V − b) = RT, the dimension of a is",
-  options: ["ML²T⁻¹", "MLT", "ML²T⁻²", "MT⁻¹"],
-  answer: "ML²T⁻²"
-  },
-  {
-  question: "The shaft of a motor makes 3000 revolutions in 4.5 minutes. Find its angular velocity",
-  options: ["69.8 rad/s", "60 rad/s", "40.8 rad/s", "35.5 rad/s"],
-  answer: "69.8 rad/s"
-  },
-  {
-  question: "A vector equal in magnitude but opposite in direction to the resultant of vectors is called",
-  options: ["Equal vector", "Equilibrium vector", "Position vector", "Unit vector"],
-  answer: "Equilibrium vector"
-  },
-  {
-  question: "If P = (2i + aj + k) and Q = (4i − 2j − 2k) are perpendicular, find a",
-  options: ["4", "2", "3", "5"],
-  answer: "3"
-  },
-  {
-  question: "In a sprint race, the winner must possess",
-  options: ["Velocity", "Speed", "Acceleration", "Strength"],
-  answer: "Acceleration"
-  },
-  {
-  question: "Which of the following is a scalar?",
-  options: ["Pressure", "Velocity", "Displacement", "Force"],
-  answer: "Pressure"
-  },
-  {
-  question: "The energy possessed by virtue of position is",
-  options: ["Potential energy", "Heat energy", "Kinetic energy", "Solar energy"],
-  answer: "Potential energy"
-  },
-      {
-    question: "Find the loss of potential energy. A body of mass 15kg originally at rest 5m above the ground falls and penetrates 15cm into the earth.",
-    options: ["712.95 J", "735 J", "700 J", "750 J"],
-    answer: "712.95 J"
-  },
-  {
-    question: "Calculate the average resistance of the earth.",
-    options: ["712.95 J", "720 J", "700 J", "750 J"],
-    answer: "712.95 J"
-  },
-  {
-    question: "A bus moving at a speed of 20m/s begins to slow at the rate of 3m/s each second. Find how far it goes before stopping.",
-    options: ["66.69 m", "60 m", "70 m", "80 m"],
-    answer: "66.69 m"
-  },
-  {
-    question: "A ball that is thrown vertically upward on the moon returns to its starting point in 4 secs. The acceleration due to gravity there is 1.6 m/s² downward. Find the ball's original speed.",
-    options: ["6.4 m/s", "3.2 m/s", "8 m/s", "4 m/s"],
-    answer: "6.4 m/s"
-  },
-  {
-    question: "Using the theory of dimension, determine the dimension of constant ‘a’ in the Van der Waal's equation; { P + a/v² } (v - b) = RT",
-    options: ["ML⁻¹T⁻²", "ML²T⁻²", "ML³T⁻²", "ML⁵T⁻²"],
-    answer: "ML⁵T⁻²"
-  },
-  {
-    question: "The physical quantity whose dimensional formula is ML⁻¹T⁻¹ is ?",
-    options: ["Viscosity", "Density", "Pressure", "Force"],
-    answer: "Viscosity"
-  },
-  {
-    question: "A body starts from rest and travels 90m in the fifth second. The velocity of the body after 10 secs is ?",
-    options: ["200 m/s", "180 m/s", "160 m/s", "220 m/s"],
-    answer: "200 m/s"
-  },
-  {
-    question: "Find the angle θ between the two vectors. The sides of a parallelogram are given by the vectors A= i+2j+3k and B= 4i+5j+6k",
-    options: ["13°", "15°", "10°", "20°"],
-    answer: "13°"
-  },
-  {
-    question: "Find the area of the parallelogram.",
-    options: ["7.349 cm²", "8.000 cm²", "6.500 cm²", "7.000 cm²"],
-    answer: "7.349 cm²"
-  },
-  {
-    question: "A force given by F=4i-3j+2k is applied at the point (1, -1, 2). Find the moment of F about the point (2, -1, -3).",
-    options: ["26.79 Nm", "25.00 Nm", "27.50 Nm", "28.00 Nm"],
-    answer: "26.79 Nm"
-  },
-  {
-    question: "A force of 20N acts on a body for 6s. What is the change in the momentum of the body?",
-    options: ["120 N/s", "100 N/s", "130 N/s", "110 N/s"],
-    answer: "120 N/s"
-  },
-  {
-    question: "What is the kinetic energy of a wagon of mass 15kg whose momentum is 30 kg·m/s?",
-    options: ["30 J", "40 J", "20 J", "50 J"],
-    answer: "30 J"
-  },
-  {
-    question: "Evaluate α and β in the equation E = k mᵅ Vᵝ, where E is the kinetic energy, m the mass, V the velocity and K a dimensionless constant.",
-    options: ["α = 1, β = 2", "α = 2, β = 1", "α = 1, β = 1", "α = 2, β = 2"],
-    answer: "α = 1, β = 2"
-  },
-  {
-    question: "The ______ of a liquid is the force per unit length acting in the surface perpendicular to one side of a line in the surface.",
-    options: ["Surface Tension", "Viscosity", "Density", "Pressure"],
-    answer: "Surface Tension"
-  },
-  {
-    question: "Find the volume of a parallelepiped whose edges are given by: A=2i+3j-k, B=i-2j+2k, and C=3i-2j-k",
-    options: ["29 m³", "30 m³", "28 m³", "27 m³"],
-    answer: "29 m³"
-  },
-  {
-    question: "What is the component of the force F=3i+2k in the direction of the vector A =4i+4j+7k",
-    options: ["5.56 N", "4.50 N", "6.00 N", "5.00 N"],
-    answer: "5.56 N"
-  },
-  {
-    question: "A curve of radius 30 m is to be banked so that a car makes the turn at a speed of 13 m/s without depending on friction. What must be the slope of the curve (the banking angle)?",
-    options: ["θ = 53°", "θ = 45°", "θ = 60°", "θ = 30°"],
-    answer: "θ = 53°"
-  },
-    {
-    question: "A body makes the following successive displacement: 20m, 40° south of west and 5m, straight south. Calculate the resultant displacement.",
-    options: ["24.0 m", "23.5 m", "25.0 m", "22.0 m"],
-    answer: "24.0 m"
-  },
-  {
-    question: "A constant force acts on a 5kg object and reduces its velocity from 7m/s to 3m/s in a time of 5 sec. Find the force.",
-    options: ["6.1 N", "5.0 N", "4.0 N", "7.0 N"],
-    answer: "6.1 N"
-  },
-  {
-    question: "What is the resultant of the forces 3N and 4N inclined at an angle of 60° to each other.",
-    options: ["6.1 N", "5.0 N", "7.0 N", "8.0 N"],
-    answer: "6.1 N"
-  },
-  {
-    question: "Find the values of a in A = ai - 2j + k, obtains an expression for the time taken to reach maximum height.",
-    options: ["a = –2 or 3", "a = 2 or –3", "a = 1 or 4", "a = 0 or 5"],
-    answer: "a = –2 or 3"
-  },
-  {
-    question: "A stone is thrown vertically upwards with an initial speed U. Obtain an expression for the time taken to reach its maximum height.",
-    options: ["T = g/U", "T = U/g", "T = 2U/g", "T = U/2g"],
-    answer: "T = U/g"
-  },
-  {
-    question: "Calculate the absolute pressure at an ocean depth of 100m. Assume the density of water is 1.0 × 10³ kg/m³ and Patm = 1.01 × 10⁵ Pa.",
-    options: ["1.08 × 10⁶ Pa", "1.10 × 10⁶ Pa", "1.05 × 10⁶ Pa", "1.12 × 10⁶ Pa"],
-    answer: "1.08 × 10⁶ Pa"
-  },
-  {
-    question: "The tendency of a force to rotate a body about some axis is measured by a quantity called ______.",
-    options: ["Torque", "Momentum", "Force", "Energy"],
-    answer: "Torque"
-  },
-  {
-    question: "A satellite of mass 800kg is orbiting the moon in a circular path of radius 17600 km. The weight of the satellite is 130 N. Calculate the speed of the satellite.",
-    options: ["53.48 m/s", "50.00 m/s", "55.00 m/s", "60.00 m/s"],
-    answer: "53.48 m/s"
-  },
-  {
-    question: "The mass of the earth is 6.0 × 10²⁴ kg and the radius of its orbit is 1.5 × 10¹¹ m. Find the moment of the earth in its orbit around the sun.",
-    options: ["8.82 × 10⁴⁰ Nm", "9.00 × 10⁴⁰ Nm", "8.50 × 10⁴⁰ Nm", "9.50 × 10⁴⁰ Nm"],
-    answer: "8.82 × 10⁴⁰ Nm"
-  },
-  {
-    question: "An object projected into space from the ground with an initial velocity of 60 m/s takes 10 s to strike the ground. The angle of projection is?",
-    options: ["θ = 55°", "θ = 60°", "θ = 45°", "θ = 30°"],
-    answer: "θ = 55°"
-  },
-  {
-    question: "The maximum height attained by the object is?",
-    options: ["123.24 m", "120.00 m", "125.00 m", "130.00 m"],
-    answer: "123.24 m"
-  },
-  {
-    question: "Three forces of magnitudes 20N, 10N, 5N act on a particle in directions which make 120° with one another. Calculate the magnitude of the resultant force.",
-    options: ["13.24 N", "15.00 N", "12.00 N", "14.00 N"],
-    answer: "13.24 N"
-  },
-  {
-    question: "A particle acted upon by forces 1, 2c and 2i with angles between them being 60°, 30° and 60°. Calculate the magnitude of the resultant force.",
-    options: ["6.24 N", "5.00 N", "7.00 N", "8.00 N"],
-    answer: "6.24 N"
-  },
-  {
-    question: "The direction of the resultant force in the previous question is?",
-    options: ["θ = 88°", "θ = 90°", "θ = 85°", "θ = 80°"],
-    answer: "θ = 88°"
-  },
-  {
-    question: "A motorist drives 120 km at 100 km/h and 120 km at 80 km/h. What is his average speed for the trip?",
-    options: ["90.0 km/h", "88.9 km/h", "85.0 km/h", "92.0 km/h"],
-    answer: "88.9 km/h"
-  },
-  {
-    question: "What is the component of the force F = 3i + 2k in the direction of the vector A = 4i + 4j + 7k?",
-    options: ["5.56 N", "4.50 N", "6.00 N", "5.00 N"],
-    answer: "5.56 N"
-  },
-  {
-    question: "A uniform beam 12m long is loaded with weights of 8kg and 5kg suspended at its ends. At what point must the beam be supported so that it remains horizontal?",
-    options: ["5.25 m", "6.00 m", "5.50 m", "4.80 m"],
-    answer: "5.25 m"
-  },
-  {
-    question: "Which of the following vectors are perpendicular?",
-    options: ["2i–3j and 3i+2j", "i+j and i–j", "3i+4j and 4i–3j", "5i+2j and 2i–5j"],
-    answer: "2i–3j and 3i+2j"
-  },
-  {
-    question: "A 1kg object with velocity 6i–3j m/s collides into two equal fragments. One flies off with velocity 2i–j m/s. The velocity of the other fragment is?",
-    options: ["4i + j m/s", "3i + 2j m/s", "5i m/s", "2i + 3j m/s"],
-    answer: "4i + j m/s"
-  },
-  {
-    question: "A 4kg ball moving at 8 m/s collides with a stationary ball of mass 12kg and stick together. The kinetic energy loss in the collision is?",
-    options: ["96 J", "80 J", "100 J", "90 J"],
-    answer: "96 J"
-  },
-  {
-    question: "What is the resultant of the forces 3N and 4N inclined at 60° to each other?",
-    options: ["6.1 N", "5.0 N", "7.0 N", "8.0 N"],
-    answer: "6.1 N"
-  },
-  {
-    question: "A particle is moving from point A to point B with position vectors 2i–3j and 5i–3j respectively. The work done is?",
-    options: ["45 J", "40 J", "50 J", "35 J"],
-    answer: "45 J"
-  },
-  {
-    question: "The dimension of the coefficient of viscosity of fluid is?",
-    options: ["ML⁻¹T⁻¹", "MLT⁻¹", "ML⁻²T⁻¹", "ML⁻¹T⁻²"],
-    answer: "ML⁻¹T⁻¹"
-  },
-  {
-    question: "The displacement ‘s’ of a particle given by S = 4b – 3c + 2t has dimension [L²T⁻¹]. Find the value of c.",
-    options: ["L", "L²", "T⁻¹", "LT⁻²"],
-    answer: "L"
-  },
-  {
-    question: "Ballistic pendulum is an example of perfectly elastic collision.",
-    options: ["True", "False", "Partially true", "None of the above"],
-    answer: "False"
-  },
-  {
-    question: "The velocity of sound in any medium is given by the equation V = √(E/ρ) where E is the density of the medium.",
-    options: ["True", "False", "Only true for gases", "Only true for solids"],
-    answer: "False"
-  },
-      {
-    question: "The van Der Waal equation for real gases is (p + a/V²)(V - b) = RT. The SI units of 'a' in the equation is?",
-    options: ["kg·m·s⁻²", "kg·m³·s⁻²", "kg·m⁵·s⁻²", "kg·m²·s⁻²"],
-    answer: "kg·m⁵·s⁻²"
-  },
-  {
-    question: "A moving particle in space has position vector r(t) = 2t i + (5t² + 4) k at t = 5s. The magnitude of the velocity of the motion is?",
-    options: ["50 m/s", "75 m/s", "100 m/s", "125 m/s"],
-    answer: "75 m/s"
-  },
-  {
-    question: "The magnitude of the acceleration of the motion is?",
-    options: ["5 m/s²", "10 m/s²", "15 m/s²", "20 m/s²"],
-    answer: "10 m/s²"
-  },
-  {
-    question: "Given that the acceleration of a particle moving in space is a = i + 3t j + 2t k, then the velocity of the particle will be?",
-    options: [
-      "v = t i + t² j + 2t k",
-      "v = t i + 3/2 t² j + t² k",
-      "v = 2t i + 3t² j + t² k",
-      "v = t i + 3t j + 2t² k"
-    ],
-    answer: "v = t i + 3/2 t² j + t² k"
-  },
-  {
-    question: "A moving particle in space has position vector r(t) = (2t²+5)i + (3t-4)j + t³k at t = 5s. The magnitude of the velocity of the motion is?",
-    options: ["60 m/s", "75 m/s", "80 m/s", "90 m/s"],
-    answer: "75 m/s"
-  },
-  {
-    question: "The magnitude of the acceleration of the motion is?",
-    options: ["20 m/s²", "25 m/s²", "30 m/s²", "35 m/s²"],
-    answer: "30 m/s²"
-  },
-  {
-    question: "Given that the acceleration of a particle moving in space is a = i + 3t j + 2t k, then the velocity of the particle will be?",
-    options: [
-      "v = t i + t² j + t² k",
-      "v = t i + 3/2 t² j + t² k",
-      "v = 2t i + 3t j + t² k",
-      "v = t i + 3t² j + 2t k"
-    ],
-    answer: "v = t i + 3/2 t² j + t² k"
-  },
-  {
-    question: "A mass of 10g is vibrating up and down with simple harmonic motion, amplitude 4cm, period 2√2 s. The velocity of the centre of oscillation is?",
-    options: ["0.10 m/s", "0.126 m/s", "0.15 m/s", "0.20 m/s"],
-    answer: "0.126 m/s"
-  },
-  {
-    question: "Its velocity 1cm from the centre is?",
-    options: ["0.10 m/s", "0.11 m/s", "0.12 m/s", "0.13 m/s"],
-    answer: "0.12 m/s"
-  },
-  {
-    question: "For large values of the amplitude of motion, the order of magnitude of r is?",
-    options: ["10", "10²", "10³", "10⁴"],
-    answer: "10²"
-  },
-  {
-    question: "For small values of the amplitude of motion, the order of magnitude of r is?",
-    options: ["10⁻³", "10⁻²", "10⁻¹", "10⁰"],
-    answer: "10⁻²"
-  },
-  {
-    question: "Use dimensional analysis to test the validity of P = ρE²V⁻¹, where ρ = density (ML⁻³), E = Young's modulus (ML⁻¹T⁻²), V = velocity (LT⁻¹).",
-    options: ["Valid", "Invalid", "Uncertain", "Inapplicable"],
-    answer: "Valid"
-  },
-  {
-    question: "The equation F = ρA²V² where F = MLT⁻², ρ = ML⁻³, V = LT⁻¹. Is it valid?",
-    options: ["Valid", "Invalid", "Uncertain", "Inapplicable"],
-    answer: "Invalid"
-  },
-  {
-    question: "The expression a = ρt/m for a moving body is valid given a = LT⁻², ρ = ML⁻³, t = T, m = M.",
-    options: ["Valid", "Invalid", "Uncertain", "Inapplicable"],
-    answer: "Valid"
-  },
-  {
-    question: "A vector whose tail coincides with the origin and arrowhead determines the position of a particle is called?",
-    options: ["Unit Vector", "Position Vector", "Displacement Vector", "Force Vector"],
-    answer: "Position Vector"
-  },
-  {
-    question: "A vector A = 4m–30° and B = 8m–110°. The sum AB = ?",
-    options: ["21–7j", "20–5j", "19–6j", "22–8j"],
-    answer: "21–7j"
-  },
-  {
-    question: "If two vectors OA = 3i+5j and OB = 5i–2j, then AB = ?",
-    options: ["i – 3j", "2i – 7j", "3i + 2j", "4i – 5j"],
-    answer: "2i – 7j"
-  },
-  {
-    question: "The magnitude of AB from question above is?",
-    options: ["5.00", "6.50", "7.28", "8.00"],
-    answer: "7.28"
-  },
-  {
-    question: "Calculate the length of the position vector r = i + j + k.",
-    options: ["1.00", "1.41", "1.73", "2.00"],
-    answer: "1.73"
-  },
-  {
-    question: "Determine the component of the force –3i + 4j + 2k in the direction i + 2j + 3k. Magnitude of resultant forces on particle P, F₁ = 3i + 4j, F₂ = –2i?",
-    options: ["4.00", "5.00", "5.56", "6.00"],
-    answer: "5.56"
-  },
-  {
-    question: "The following forces are equilibrant forces?",
-    options: ["F = i – j", "F = i + j", "F = 2i", "F = j only"],
-    answer: "F = i + j"
-  },
-      {
-    question: "Calculate the centripetal force of an object of mass 50kg which moves round a circle of 30cm diameter with a uniform angular velocity of 2rad/s.",
-    options: ["50 N", "60 N", "70 N", "80 N"],
-    answer: "60 N"
-  },
-  {
-    question: "If scalar product of two vectors is zero, then the two vectors are?",
-    options: ["Parallel", "Perpendicular", "Collinear", "Coplanar"],
-    answer: "Perpendicular"
-  },
-  {
-    question: "A force given by F = 3i + 4j is applied at the point (1, –2). Find the moment of F about the point (2, –1).",
-    options: ["20 Nm", "26.79 Nm", "30 Nm", "35 Nm"],
-    answer: "26.79 Nm"
-  },
-  {
-    question: "What is the kinetic energy of a wagon of mass 125kg whose momentum is 30 kg·m/s?",
-    options: ["2.5 J", "3.6 J", "4.0 J", "5.0 J"],
-    answer: "3.6 J"
-  },
-  {
-    question: "A body starts from rest and travels 90 m in the fifth second. Calculate the acceleration of the body.",
-    options: ["15 m/s²", "20 m/s²", "25 m/s²", "30 m/s²"],
-    answer: "20 m/s²"
-  },
-  {
-    question: "Velocity of a body in m/s changes with displacement according to the law v = 2x². What is the acceleration of the body at a displacement of 2cm?",
-    options: ["6.0×10⁻² m/s²", "6.4×10⁻² m/s²", "7.0×10⁻² m/s²", "8.0×10⁻² m/s²"],
-    answer: "6.4×10⁻² m/s²"
-  },
-  {
-    question: "Write down the result of the following cross multiplication: (i × i) k × i",
-    options: ["j", "–j", "k", "0"],
-    answer: "–j"
-  },
-  {
-    question: "Write down the result of the following scalar multiplication: (i · i) k · k",
-    options: ["0", "1", "–1", "2"],
-    answer: "1"
-  },
-  {
-    question: "A moving particle in space has position vector r = 2t² i + 5t j. What is the velocity at t = 1 sec?",
-    options: ["5.0 m/s", "6.71 m/s", "7.5 m/s", "8.0 m/s"],
-    answer: "6.71 m/s"
-  },
-  {
-    question: "Given that the acceleration of a particle in space is a = V⁻¹ i + t² j + 5 k. What is the velocity of the particle at t = 1?",
-    options: [
-      "v = i + 2j + 5k",
-      "v = i + j + 5k",
-      "v = 2i + j + 5k",
-      "v = i + 3j + 5k"
-    ],
-    answer: "v = i + j + 5k"
-  },
-  {
-    question: "At what velocity was the bomb projected? (to 2 d.p)",
-    options: ["60.00 m/s", "63.69 m/s", "65.00 m/s", "70.00 m/s"],
-    answer: "63.69 m/s"
-  },
-  {
-    question: "What lateral distance were the injured soldiers from the point where the bomb was thrown? (to 2 d.p)",
-    options: ["400.00 m", "411.09 m", "420.00 m", "430.00 m"],
-    answer: "411.09 m"
-  },
-  {
-    question: "Calculate the velocity of the satellite orbiting round the earth if the radius of the earth is 6.4×10⁶ cm and g = 980 cm/s².",
-    options: ["7.5×10⁵ m/s", "7.92×10⁵ m/s", "8.0×10⁵ m/s", "8.5×10⁵ m/s"],
-    answer: "7.92×10⁵ m/s"
-  },
-  {
-    question: "A 2kg mass is whirled round a horizontal circle at the end of a string 0.5 m long, other end being fixed. Frequency of rotation is 3Hz. The speed at which the mass is moving is?",
-    options: ["8.0 m/s", "9.4 m/s", "10.0 m/s", "11.0 m/s"],
-    answer: "9.4 m/s"
-  },
-  {
-    question: "The breaking tension of the string is?",
-    options: ["300 N", "353.4 N", "400 N", "450 N"],
-    answer: "353.4 N"
-  },
-  {
-    question: "A force of 8 N acts horizontally on a stationary mass of 3kg for 5 secs. What is the kinetic energy gained by the mass?",
-    options: ["200 J", "250 J", "267.33 J", "300 J"],
-    answer: "267.33 J"
-  },
-  {
-    question: "Evaluate α and β in the equation E = k m^α V^β, where E is kinetic energy, m the mass, V the viscosity and k dimensionless constant.",
-    options: ["α=1, β=1", "α=1, β=2", "α=2, β=1", "α=2, β=2"],
-    answer: "α=1, β=2"
-  },
-  {
-    question: "Given that the acceleration of a particle moving in space is a = i + 3t² j + 2t k. Then the velocity of the particle will be?",
-    options: [
-      "v = t i + t² j + t² k",
-      "v = t i + t³ j + t² k",
-      "v = 2t i + 3t² j + t k",
-      "v = t i + 2t³ j + t² k"
-    ],
-    answer: "v = t i + t³ j + t² k"
-  },
-  {
-    question: "A 0.25 kg ball is dropped from rest from a height of 30 m. What is the kinetic energy of the ball when it has fallen 15 m?",
-    options: ["50 J", "75 J", "100 J", "125 J"],
-    answer: "75 J"
-  },
-  {
-    question: "With what velocity does the ball strike the ground?",
-    options: ["15.0 m/s", "17.3 m/s", "20.0 m/s", "22.0 m/s"],
-    answer: "17.3 m/s"
-  },
-  {
-    question: "The conservation law applies to the linear momentum of the system as well as to the momentum of the individual object in the system. True or False",
-    options: ["True", "False", "Partially true", "None of the above"],
-    answer: "True"
-  },
-      {
-    question: "A force of 200N acts at an angle of 160° with respect to the positive x‑direction. What are the components of this force in the x and y directions?",
-    options: [
-      "Fₓ = −150N, Fᵧ = 80N",
-      "Fₓ = −187.94N, Fᵧ = 68.39N",
-      "Fₓ = 120N, Fᵧ = −50N",
-      "Fₓ = 100N, Fᵧ = 100N"
-    ],
-    answer: "Fₓ = −187.94N, Fᵧ = 68.39N"
-  },
-  {
-    question: "Write the types of vector multiplication that obeys commutative law",
-    options: ["Scalar product", "Vector product", "Dot product & Cross product", "None of the above"],
-    answer: "Scalar product"
-  },
-  {
-    question: "Write the types of vector multiplication that obeys distributive law",
-    options: ["Scalar product", "Vector product", "Both scalar & vector product", "Neither"],
-    answer: "Vector product"
-  },
-  {
-    question: "The motion of a particle is described by the equation x vₓ + y vᵧ = a. “a” is a constant. Write down an equation describing the path of the motion.",
-    options: ["x² + y² = a²", "x + y = a", "x² − y² = a²", "xy = a"],
-    answer: "x² + y² = a²"
-  },
-  {
-    question: "Write down an equation for the velocity of the motion",
-    options: [
-      "vₓ = dx/dt, vᵧ = dy/dt",
-      "vₓ = x/t, vᵧ = y/t",
-      "vₓ = ax, vᵧ = ay",
-      "vₓ = d²x/dt², vᵧ = d²y/dt²"
-    ],
-    answer: "vₓ = dx/dt, vᵧ = dy/dt"
-  },
-  {
-    question: "Write down an equation for the acceleration of the motion",
-    options: [
-      "aₓ = d²x/dt², aᵧ = d²y/dt²",
-      "aₓ = vₓ/t, aᵧ = vᵧ/t",
-      "aₓ = x/t², aᵧ = y/t²",
-      "aₓ = 0, aᵧ = 0"
-    ],
-    answer: "aₓ = d²x/dt², aᵧ = d²y/dt²"
-  },
-  {
-    question: "What is the magnitude of the velocity and acceleration of the motion above? N / m²?",
-    options: ["N / m²", "m / s²", "kg·m/s", "m² / s"],
-    answer: "N / m²"
-  },
-  {
-    question: "Two masses of 3kg and 5kg are ejecting with equal kinetic energy. The exhaust velocity of the fuel is 25 m/s. The rocket weighs 5000kg and carries 4000kg of fuel. If the exhaust gases are ejected at 1600 m/s, find the velocity gained by the rocket.",
-    options: ["1200 m/s", "1600 m/s", "2000 m/s", "2500 m/s"],
-    answer: "1600 m/s"
-  },
-  {
-    question: "The pressure of a liquid is the force per unit length acting on the surface perpendicular to one side of a line in the surface.",
-    options: ["Viscosity", "Surface Tension", "Pressure", "Density"],
-    answer: "Surface Tension"
-  },
-  {
-    question: "Give the aspects of experimental physics that needs a consistent and unambiguous description of all the quantities involved.",
-    options: ["Observation", "Measurement", "Analysis", "Theory"],
-    answer: "Measurement"
-  },
-  {
-    question: "The minimum number of physical quantities needed to express a fundamental physical quantity is called?",
-    options: ["Base units", "Fundamental dimensions", "Derived units", "Constants"],
-    answer: "Fundamental dimensions"
-  },
-      {
-    question: "What quantity has the dimension ML⁻¹T⁻²?",
-    options: ["Pressure", "Young Modulus", "Stress", "All of the above"],
-    answer: "All of the above"
-  },
-  {
-    question: "Two vectors are said to be equal if they have the same __________.",
-    options: ["Magnitude", "Direction", "Magnitude and Direction", "Unit"],
-    answer: "Magnitude and Direction"
-  },
-  {
-    question: "Given the vectors A = 2i + 3j + 4k and B = 4i + 6j + 8k. (A x B) = ?",
-    options: ["0", "24i", "12j", "32k"],
-    answer: "0"
-  },
-  {
-    question: "A force of 10N acts horizontally on a body of mass 6kg. The Kinetic energy gained by the mass.",
-    options: ["50J", "83.3J", "100J", "120J"],
-    answer: "83.3J"
-  },
-  {
-    question: "Starting from rest, a race car of mass 800kg accelerates steadily to 30m/s in 20 seconds. The average power developed in watts?",
-    options: ["20,000W", "31,500W", "40,000W", "50,000W"],
-    answer: "31,500W"
-  },
-  {
-    question: "An electron is accelerated uniformly from rest to a velocity of 2.0×10⁷ m/s. If the electron traveled 0.10 m, find its acceleration?",
-    options: ["1.0×10¹⁴ m/s²", "2.0×10¹⁵ m/s²", "3.0×10¹³ m/s²", "4.0×10¹⁶ m/s²"],
-    answer: "2.0×10¹⁵ m/s²"
-  },
-  {
-    question: "A bus moving at 20 m/s begins to slow at the rate of 3 m/s each second. Find how far it goes before stopping.",
-    options: ["50m", "66.67m", "80m", "100m"],
-    answer: "66.67m"
-  },
-  {
-    question: "What force will stop a 40kg child sitting on a 40kg wagon acquired from rest by a force of 75N for 2 seconds?",
-    options: ["15N", "18.75N", "20N", "25N"],
-    answer: "18.75N"
-  },
-  {
-    question: "What is the kinetic energy of a wagon of mass 15kg whose momentum is 30 kg·m/s?",
-    options: ["20J", "30J", "45J", "60J"],
-    answer: "30J"
-  },
-  {
-    question: "What is the kinetic energy of a ball when it has a 45° inclined angle of the incline?",
-    options: ["4.5J", "6.1J", "8.0J", "10J"],
-    answer: "6.1J"
-  },
-  {
-    question: "A 0.5kg ball is dropped from rest from a height of 30m. What is the speed of the ball when it has fallen 15m?",
-    options: ["10 m/s", "12.5 m/s", "17.15 m/s", "20 m/s"],
-    answer: "17.15 m/s"
-  },
-  {
-    question: "Is the vector “a” such that a = 3i + 4j and 2i + aj + 3k are coplanar?",
-    options: ["a = 1", "a = 2", "a = 3", "a = 4"],
-    answer: "a = 2"
-  },
-  {
-    question: "A force F = 3i – 4j + 2k is applied at point P with position vector r = j. Find the moment of the force.",
-    options: ["M = 5 Nm", "M = 10 Nm", "M = 8 Nm", "M = 7 Nm"],
-    answer: "M = 8 Nm"
-  },
-      {
-    question: "For what values of a are A = a i + j + k and B = i - a j - k perpendicular?",
-    options: ["a = 0", "a = 1", "a = -2", "a = 2"],
-    answer: "a = -2"
-  },
-  {
-    question: "A pendulum bob hangs from string and moves with simple harmonic motion. If the pendulum completes exactly 12 cycles in 2.0 min, what is the frequency of the pendulum?",
-    options: ["0.05 Hz", "0.1 Hz", "0.2 Hz", "0.5 Hz"],
-    answer: "0.1 Hz"
-  },
-  {
-    question: "A small rocket weighs 500kg and contains 4000kg fuel. If the exhaust velocity of the fuel is 2km/s, find the maximum velocity gained by the rocket.",
-    options: ["1200 m/s", "1600 m/s", "2000 m/s", "2500 m/s"],
-    answer: "1600 m/s"
-  },
-  {
-    question: "In an elastic 2-body collision, the total Kinetic energy is more after the collision than before. TRUE or FALSE?",
-    options: ["TRUE", "FALSE", "Partially True", "None"],
-    answer: "FALSE"
-  },
-  {
-    question: "Ballistic pendulum is an example of perfectly inelastic collision. TRUE or FALSE?",
-    options: ["TRUE", "FALSE", "Partially True", "None"],
-    answer: "TRUE"
-  },
-  {
-    question: "Find the volume of a parallelepiped whose edges are given by: A= 2i+3j, B= i-2j+2k and C=3i-k",
-    options: ["20 m³", "22 m³", "25 m³", "30 m³"],
-    answer: "25 m³"
-  },
-  {
-    question: "Given that the acceleration of a particle moving in space is a = 4t i + 3t² j + 2t k. Then the velocity of the particle will be?",
-    options: [
-      "2t² i + t³ j + t² k",
-      "4t² i + 6t j + 2 k",
-      "2t² i + t³ j + 2t k",
-      "t⁴ i + t³ j + t² k"
-    ],
-    answer: "2t² i + t³ j + 2t k"
-  },
-  {
-    question: "A mass of 70kg is moving with an angular velocity of 50.27 rad/s round a circle of radius 14.0m. Find the force towards the centre of the circle which must be acting on the mass",
-    options: ["5 kN", "6.1 kN", "7 kN", "8 kN"],
-    answer: "6.1 kN"
-  },
-  {
-    question: "What is the resultant of the forces of 3N and 4N inclined at an angle of 60°?",
-    options: ["5 N", "6 N", "7 N", "8 N"],
-    answer: "6 N"
-  },
-  {
-    question: "A bus moving at a speed of 20m/s begins to slow at the rate of 3m/s² each second. Find how far it goes before stopping",
-    options: ["50 m", "60 m", "66.6 m", "70 m"],
-    answer: "66.6 m"
-  },
-  {
-    question: "An airplane travelling at 100 m/s at an elevation of 200 m drops a box of supplies to skiers stranded in a snowstorm. The magnitude of the velocity of the box as it hits the ground is?",
-    options: ["100 m/s", "108 m/s", "120 m/s", "140 m/s"],
-    answer: "108 m/s"
-  },
-  {
-    question: "A motorist drives 120 km at 100 km/h and 120 km at 120 km/h. what is his average speed in km/h for the trip?",
-    options: ["105 km/h", "108 km/h", "109.6 km/h", "110 km/h"],
-    answer: "109.6 km/h"
-  },
-  {
-    question: "A stone is thrown vertically upwards with an initial speed U. Obtain an expression for the time taken to reach its maximum height",
-    options: ["U/g", "2U/g", "U/2g", "g/U"],
-    answer: "U/g"
-  },
-  {
-    question: "A golf ball is hit at an angle of 30° above horizontal with speed of 44 m/s. How high does it rise?",
-    options: ["20 m", "22.5 m", "24.7 m", "25 m"],
-    answer: "24.7 m"
-  },
-  {
-    question: "The motion of a particle is found to be described by the position vector r = [3t² - 6t] i + [5 - 8t] j. Determine its acceleration.",
-    options: ["[6i - 8j] m/s²", "[5i - 7j] m/s²", "[6i - 7j] m/s²", "[5i - 8j] m/s²"],
-    answer: "[6i - 8j] m/s²"
-  },
-  {
-    question: "A car moves round a circle of radius 25 m. If the coefficient of friction between the tires of the car and the asphalt is 0.8, calculate the maximum speed of the car if it is not to slip.",
-    options: ["12 m/s", "14 m/s", "15 m/s", "16 m/s"],
-    answer: "14 m/s"
-  },
-  {
-    question: "A vector having the initial and terminal point coincident is termed as ______.",
-    options: ["Unit vector", "Zero/null vector", "Position vector", "Displacement vector"],
-    answer: "Zero/null vector"
-  },
-  {
-    question: "If OA = [5 + i] = 5 j, find AB.",
-    options: ["i - 3j", "2i - 7j", "3i + 2j", "4i - 5j"],
-    answer: "2i - 7j"
-  },
-  {
-    question: "The density of lead is 11.3 g/cm³. What is the value in kilograms per cubic meter?",
-    options: ["11.3×10² Kg/m³", "11.3×10³ Kg/m³", "1.13×10³ Kg/m³", "1.13×10⁴ Kg/m³"],
-    answer: "11.3×10³ Kg/m³"
-  },
-  {
-    question: "The scalar product of two vector at right angles to each other is _______.",
-    options: ["1", "-1", "Zero", "Infinity"],
-    answer: "Zero"
-  },
-  {
-    question: "What velocity will a 30 kg child sitting on a 50 kg wagon acquire if pushed from rest by a force of 75 N for 2 m?",
-    options: ["1.5 m/s", "2 m/s", "2.5 m/s", "3 m/s"],
-    answer: "2 m/s"
-  },
-  {
-    question: "The quantitative measure of inertia is _______.",
-    options: ["Mass", "Weight", "Force", "Acceleration"],
-    answer: "Mass"
-  },
-  {
-    question: "The tendency of an object to resist any attempt to change its motion is called the __________ of the object.",
-    options: ["Inertia", "Momentum", "Force", "Energy"],
-    answer: "Inertia"
-  },
-  {
-    question: "Find the direction cosine (l, m, n) of the vector r = 3 i + 2 j + 6 k.",
-    options: ["l = 3/7, m = 2/7, n = 6/7", "l = 3/7, m = 3/7, n = 6/7", "l = 2/7, m = 3/7, n = 6/7", "l = 3/6, m = 2/6, n = 6/6"],
-    answer: "l = 3/7, m = 2/7, n = 6/7"
-  },
-  {
-    question: "The scalar product of two vectors is Zero when __________.",
-    options: ["They are parallel", "They are perpendicular", "They are equal", "They are opposite"],
-    answer: "They are perpendicular"
-  },
-  {
-    question: "Newton first law says that when the net external force on an object is zero, its acceleration is zero. True or False?",
-    options: ["TRUE", "FALSE", "Partially True", "None"],
-    answer: "TRUE"
-  },
-  {
-    question: "__________ is the motion of an object whose acceleration is proportional to its distance from a fixed point and always directed towards that point.",
-    options: ["Linear motion", "Circular motion", "Simple Harmonic motion", "Projectile motion"],
-    answer: "Simple Harmonic motion"
-  },
-      {
-    question: "The velocity of a body in m/s changes with displacement according to the law: v=√9x, where x is in meters. Find the acceleration at a displacement of 60 m?",
-    options: ["12.6 m/s²", "18.0 m/s²", "21.6 m/s²", "24.0 m/s²"],
-    answer: "21.6 m/s²"
-  },
-  {
-    question: "A body starts from rest with uniform acceleration of 15 m/s² along the x-axis. The displacement in the fifth second of the journey is?",
-    options: ["60 m", "67.5 m", "75 m", "80 m"],
-    answer: "67.5 m"
-  },
-  {
-    question: "The unit of luminous intensity is?",
-    options: ["Candela", "Lumen", "Lux", "Watt"],
-    answer: "Candela"
-  },
-  {
-    question: "If A=5i+7j-3k and B=2i-2j-ak are perpendicular vectors, find the value of a.",
-    options: ["-10", "-8", "-6", "-4"],
-    answer: "-8"
-  },
-  {
-    question: "A body is at rest under the action of three forces, two of which are: F₁=4i and F₂=6j. The third force F₃=?",
-    options: ["-8", "-10", "-12", "-14"],
-    answer: "-10"
-  },
-  {
-    question: "A force F=(4i-3j)+2k is applied at the point (1, -1, 2). Find the moment of F about the point (2, -1, -3).",
-    options: ["26 Nm", "26.79 Nm", "28 Nm", "30 Nm"],
-    answer: "26.79 Nm"
-  },
-  {
-    question: "Find the volume of a parallelepiped whose edges are given by: A=2i+3j, B=i-2j+2k, C=3i-k.",
-    options: ["20", "25", "30", "35"],
-    answer: "25"
-  },
-  {
-    question: "A body starts from rest and travels 40 m in the sixth second. Calculate the velocity of the body 1 second after starting.",
-    options: ["14.5 m/s", "15.2 m/s", "16.4 m/s", "17.0 m/s"],
-    answer: "16.4 m/s"
-  },
-  {
-    question: "The velocity of a body v as a function of displacement x is given v²=2x–x². What is the acceleration of the body at a displacement of 3 cm?",
-    options: ["-1.0 m/s²", "-1.4 m/s²", "-1.8 m/s²", "-2.0 m/s²"],
-    answer: "-1.4 m/s²"
-  },
-  {
-    question: "A trunk of mass 300 kg travelling at 5 m/s hits a stationary mass 200 kg. If the collision is perfectly inelastic, what speed does the car move with after collision?",
-    options: ["2 m/s", "3 m/s", "4 m/s", "5 m/s"],
-    answer: "3 m/s"
-  },
-  {
-    question: "In an inelastic 2-body collision, the total kinetic energy is more after the collision than before. True or False?",
-    options: ["True", "False", "Partially True", "None of the above"],
-    answer: "False"
-  },
-  {
-    question: "A piece of fried chicken landing on a plate of spaghetti is an example of what collision?",
-    options: ["Elastic", "Inelastic", "Perfectly Elastic", "Partially Elastic"],
-    answer: "Inelastic"
-  },
-  {
-    question: "A ball on a string swings in a horizontal circle of radius 2.0 m. If the centripetal acceleration is 15 m/s², what is the speed of the ball?",
-    options: ["4.5 m/s", "5.0 m/s", "5.5 m/s", "6.0 m/s"],
-    answer: "5.5 m/s"
-  },
-  {
-    question: "What is the centripetal acceleration of a stone being whirled in a circle at the end of a 1.5 m string on a smooth sheet of ice with a frequency of 1.25 Hz?",
-    options: ["90.0 m/s²", "92.43 m/s²", "95.0 m/s²", "100.0 m/s²"],
-    answer: "92.43 m/s²"
-  },
-  {
-    question: "The planet Mercury moves in an approximately circular path around the Sun at an average distance of 5.8×10¹⁰ m, accelerating at 4.0×10⁻² m/s². What is the period of revolution around the Sun?",
-    options: ["1.0×10¹⁸ s", "1.2×10¹⁸ s", "1.5×10¹⁸ s", "2.0×10¹⁸ s"],
-    answer: "1.2×10¹⁸ s"
-  },
-  {
-    question: "An object devoid of size, orientation, and internal structure such that rational and vibration considerations can be ignored in its motion is called?",
-    options: ["Particle", "Rigid body", "Mass point", "System"],
-    answer: "Particle"
-  },
-  {
-    question: "The vector r and F acting along the same line, regardless of their magnitude and sense of direction are termed?",
-    options: ["Parallel Vectors", "Collinear Vectors", "Orthogonal Vectors", "Unit Vectors"],
-    answer: "Collinear Vectors"
-  },
-  {
-    question: "What is that branch of mechanics that deals with the description of motion without any regards to the forces that cause it?",
-    options: ["Kinematics", "Dynamics", "Statics", "Mechanics"],
-    answer: "Kinematics"
-  },
-  {
-    question: "Two of the main aspects of experimental observations are _________ and __________.",
-    options: ["Measurement and Uncertainty", "Accuracy and Precision", "Observation and Inference", "Hypothesis and Theory"],
-    answer: "Measurement and Uncertainty"
-  },
-  {
-    question: "Any vector that specifies the instance of a certain particle with respect to the origin of a chosen coordinate system is called?",
-    options: ["Position Vector", "Displacement Vector", "Unit Vector", "Force Vector"],
-    answer: "Position Vector"
-  },
-  {
-    question: "Imagine a goat being dragged by a native doctor with a steady forward force F=(160N)i – (40N)j over a displacement of S=(14m)i + (11m)j. How much work did he do?",
-    options: ["1.6 kJ", "1.7 kJ", "1.8 kJ", "2.0 kJ"],
-    answer: "1.8 kJ"
-  },
-  {
-    question: "Given three vectors A=i–2j+2k, B= –2i–3k and C=2i+5k, find A.(B×C).",
-    options: ["-33", "-30", "-25", "-20"],
-    answer: "-33"
-  },
-      {
-    question: "Each of the jet engines in a Boeing 767 airliner develops a forward force of 197,000 N on the airplane. When the airplane is flying at 250 m/s, what horsepower does each engine develop? (take 1 hp = 746 W)",
-    options: ["6.0×10⁴ hp", "6.602×10⁴ hp", "7.0×10⁴ hp", "7.5×10⁴ hp"],
-    answer: "6.602×10⁴ hp"
-  },
-  {
-    question: "A man exerts a steady force of magnitude 210 N on a broken down vehicle with flat tyre through a distance of 18 m, at an angle of 30° to the direction of motion. How much work did he do?",
-    options: ["3.0×10³ J", "3.27×10³ J", "3.5×10³ J", "4.0×10³ J"],
-    answer: "3.27×10³ J"
-  },
-  {
-    question: "The collision of balls on a billiard board game is an example of what kind of collision?",
-    options: ["Elastic", "Inelastic", "Perfectly Elastic", "Partially Inelastic"],
-    answer: "Inelastic"
-  },
-  {
-    question: "The volume of a wallet is 8.50 in³. Convert this value to m³ (take 1 in = 2.54 cm).",
-    options: ["1.20×10⁻⁴ m³", "1.39×10⁻⁴ m³", "1.50×10⁻⁴ m³", "1.60×10⁻⁴ m³"],
-    answer: "1.39×10⁻⁴ m³"
-  },
-  {
-    question: "At what respective values of a, b, c would the unit of force, the Newton, be dimensionally equivalent to MᵃLᵇTᶜ?",
-    options: ["a=1, b=1, c=-2", "a=1, b=2, c=-1", "a=2, b=1, c=-2", "a=1, b=1, c=-1"],
-    answer: "a=1, b=1, c=-2"
-  },
-  {
-    question: "Evaluate α and β in the equation Vc³=αmᵃTᵇ, where V is velocity, T is tension, m is mass per unit length and C is a dimensionless constant.",
-    options: ["α=1/2, β=-3/2", "α=1, β=2", "α=1, β=-1", "α=2, β=-1"],
-    answer: "α=1/2, β=-3/2"
-  },
-  {
-    question: "If the distance travelled by an object in time t is given by the formula d = A·t + B·t², the units of A and B must be?",
-    options: ["A=m/s, B=m/s²", "A=m/s², B=m/s", "A=m, B=s", "A=s, B=m"],
-    answer: "A=m/s, B=m/s²"
-  },
-  {
-    question: "The velocity V of an object depends on time t according to V = A + B·t + C·t³. What are the SI units of A, B and C?",
-    options: ["m/s, m/s², m/s³", "m/s, m/s², m/s⁴", "m/s, m²/s², m/s³", "m/s, m/s³, m/s⁴"],
-    answer: "m/s, m/s², m/s⁴"
-  },
-  {
-    question: "The density of lead is 11.3 g/cm³. What is the value in kilogram per cubic meter?",
-    options: ["11.3×10³ kg/m³", "11.0×10³ kg/m³", "12.0×10³ kg/m³", "10.5×10³ kg/m³"],
-    answer: "11.3×10³ kg/m³"
-  },
-  {
-    question: "Evaluate α and β in the equation E=k·mᵃVᵇ, where E is kinetic energy, m is mass, V is viscosity, k dimensionless constant.",
-    options: ["α=1, β=2", "α=2, β=1", "α=1, β=1", "α=2, β=2"],
-    answer: "α=1, β=2"
-  },
-  {
-    question: "Find the constant ‘s’ such that the vector 2i – 3j + 4k and 2i + sj + 5k are coplanar.",
-    options: ["s=-11/2", "s=-5", "s=-3/2", "s=-7/2"],
-    answer: "s=-11/2"
-  },
-  {
-    question: "Determine the component of the force in the direction of the vector A = –4i + 4j.",
-    options: ["3.0", "3.3", "3.5", "4.0"],
-    answer: "3.3"
-  },
-  {
-    question: "Find the volume of the parallelepiped whose sides are represented by A=i–2j, B=2i–j–3k, C=2i+5k.",
-    options: ["30", "32", "35", "40"],
-    answer: "32"
-  },
-  {
-    question: "The angular velocity of a rotating body about an axis of rotation is given by ω=3i–j–2k and r = –2 + 3i–j. Determine the linear speed.",
-    options: ["12 m/s", "14 m/s", "15 m/s", "16 m/s"],
-    answer: "14 m/s"
-  },
-  {
-    question: "A curve on a road has a radius=200 m and is intended for use by traffic travelling at 60 km/h. At what angle should it be banked?",
-    options: ["5°", "6.5°", "8.0°", "10°"],
-    answer: "8.0°"
-  },
-  {
-    question: "Two vectors are given: A = –2i –5j and B = –5i –2j–3k. Find the magnitude of the vector: A×B.",
-    options: ["30", "31", "32.5", "34"],
-    answer: "32.5"
-  },
-  {
-    question: "The components of vectors A and B are given as follows: Ax=5.1, Ay=–5, Bx=2.6, By=4.3. What is the magnitude of the vector sum A+B?",
-    options: ["9.0", "9.3", "9.63", "10.0"],
-    answer: "9.63"
-  },
-  {
-    question: "A particle moving in space has a position vector r(t) = (1+2t³)i – 8tj + k. What is the magnitude of its velocity and acceleration at t = 5 sec?",
-    options: ["100, 60", "100.82, 60.0", "101, 61", "102, 62"],
-    answer: "100.82, 60.0"
-  },
-  {
-    question: "A cricket ball is thrown vertically upwards with a velocity of 20 m/s. Neglecting air resistance, calculate the maximum height reached.",
-    options: ["20 m", "20.41 m", "21 m", "22 m"],
-    answer: "20.41 m"
-  },
-  {
-    question: "The time taken for the ball to reach the earth.",
-    options: ["4.0 s", "4.08 s", "4.5 s", "5.0 s"],
-    answer: "4.08 s"
-  },
-  {
-    question: "Calculate the mass that must be tied to one end of a 0.7 m long string, if when it is made to revolve round a horizontal circle at a speed of 6.0 m/s, produces a string breaking tension of 51.43 N.",
-    options: ["0.8 kg", "1 kg", "1.2 kg", "1.5 kg"],
-    answer: "1 kg"
-  },
-  {
-    question: "If 4 N, 3 N and 2 N forces are acting at a point on a Cartesian plane at angles 50°, 70° and 90° respectively. Find the direction in which their resultant acts.",
-    options: ["60°", "62.5°", "65.5°", "68°"],
-    answer: "65.5°"
-  },
-      {
-    question: "If the angular displacement of a rigid body is given by θ = 15t² + 20t + 8, calculate the angular acceleration of the body.",
-    options: ["20 rad/s²", "25 rad/s²", "30 rad/s²", "35 rad/s²"],
-    answer: "30 rad/s²"
-  },
-  {
-    question: "The frictional force per unit area of a liquid when it is in a region of unit velocity gradient best defines the ——— of a liquid.",
-    options: ["Surface Tension", "Coefficient of Viscosity", "Density", "Pressure"],
-    answer: "Coefficient of Viscosity"
-  },
-  {
-    question: "A body of mass 5kg is placed on a horizontal plane. If a force of 10N is applied horizontally to the body just about to move it, calculate the coefficient of static friction.",
-    options: ["0.1", "0.2", "0.3", "0.4"],
-    answer: "0.2"
-  },
-  {
-    question: "At what angle must a 10N force act to produce a 2√2 Nm moment if it was placed 0.4m from the fulcrum of a meter-long rod pivoted about its midpoint?",
-    options: ["30°", "45°", "60°", "90°"],
-    answer: "45°"
-  },
-  {
-    question: "Determine the force experienced by a charged particle q=2 C moving in a magnetic field B=3i – 4k if the velocity of the particle is V = 2i + 4j + 6k.",
-    options: ["48i – 36j – 24k", "50i – 35j – 20k", "45i – 30j – 25k", "40i – 35j – 20k"],
-    answer: "48i – 36j – 24k"
-  },
-  {
-    question: "Calculate the centripetal force of an object of mass 25 kg moving round a circle of 2 m radius with a uniform angular velocity of 2 rad/s.",
-    options: ["100 N", "150 N", "200 N", "250 N"],
-    answer: "200 N"
-  },
-  {
-    question: "Write down the expression for Poiseuille's equation for flow rate of a liquid.",
-    options: ["Q = πr²ΔP / 8ηl", "Q = πr³ΔP / 8ηl", "Q = πr⁴ΔP / 8ηl", "Q = πr⁴ΔP / 4ηl"],
-    answer: "Q = πr⁴ΔP / 8ηl"
-  },
-  {
-    question: "—— is the liquid force per unit length acting on a surface perpendicular to one side of a line in the surface.",
-    options: ["Viscosity", "Surface Tension", "Pressure", "Density"],
-    answer: "Surface Tension"
-  },
-  {
-    question: "A body starts from rest and travels 90 m in the fifth second. What is the velocity of the body 10 seconds after starting?",
-    options: ["180 m/s", "190 m/s", "200 m/s", "210 m/s"],
-    answer: "200 m/s"
-  },
-  {
-    question: "A body is at rest under the action of three forces, two of which are F₁=4i and F₂=6j. The third force F₃ is?",
-    options: ["–4i – 6j", "–3i – 5j", "–5i – 6j", "–6i – 4j"],
-    answer: "–4i – 6j"
-  },
-  {
-    question: "A force given by F=4i–3j+2k is applied at the point (1, –2, 1). Find the moment of F about the point (2, –1, –3).",
-    options: ["26.0 Nm", "26.79 Nm", "27.0 Nm", "28.0 Nm"],
-    answer: "26.79 Nm"
-  },
-  {
-    question: "Find the volume of a parallelepiped whose edges are given by A = 2i+3j+k, B = i–2j+2k and C = 3i–2j–k.",
-    options: ["25 m³", "28 m³", "29 m³", "30 m³"],
-    answer: "29 m³"
-  },
-  {
-    question: "A body starts from rest and travels 90 m in the 5th second. Calculate the velocity of the body 10 seconds after starting.",
-    options: ["160 m/s", "164 m/s", "168 m/s", "170 m/s"],
-    answer: "164 m/s"
-  },
-  {
-    question: "The velocity of a body, v, as a function of displacement x is given by v = 2x² + x – 1. What is the acceleration of the body at a displacement of 30 cm?",
-    options: ["1.0 m/s²", "1.14 m/s²", "1.2 m/s²", "1.3 m/s²"],
-    answer: "1.14 m/s²"
-  },
-  {
-    question: "A trunk of mass 3000 kg collides with a stationary car of mass 1200 kg. If the collision is perfectly inelastic, at what speed does the wreck move immediately after the collision?",
-    options: ["5/6 v₀", "5/7 v₀", "6/7 v₀", "7/8 v₀"],
-    answer: "5/7 v₀"
-  },
-  {
-    question: "The scalar product of two parallel vectors is:",
-    options: ["0", "90", "180", "360"],
-    answer: "0"
-  },
-  {
-    question: "How much distance is required to stop a car travelling at 108 km/hr if the driver's reaction time is 0.1 sec?",
-    options: ["2 m", "3 m", "3.5 m", "4 m"],
-    answer: "2 m"
-  },
-  {
-    question: "—— is an aspect of experimental observation.",
-    options: ["Calculation", "Solving", "Correlation", "Finding"],
-    answer: "Correlation"
-  },
-  {
-    question: "The dimension for coefficient of viscosity is:",
-    options: ["ML⁻¹T⁻¹", "ML⁻¹T⁻²", "ML⁻²T⁻¹", "ML⁻²T⁻²"],
-    answer: "ML⁻¹T⁻¹"
-  },
-  {
-    question: "All quantities of physics are:",
-    options: ["Dimensional analysis", "Fundamental quantities", "Physical quantities", "Derived quantities"],
-    answer: "Physical quantities"
-  },
-  {
-    question: "P(3, –2, 1) and Q(1, 0, –4). The displacement QP is given by:",
-    options: ["2i–2j–5k", "3i+2j+5k", "–2i+2j–5k", "2i+2j–5k"],
-    answer: "2i–2j–5k"
-  },
-      {
-    question: "(P – v)(V – b) = RT, the value of a is",
-    options: ["ML⁻¹ T⁻²", "ML⁵ T⁻²", "ML³ T⁻²", "ML⁻⁵ T⁻²"],
-    answer: "ML⁻⁵ T⁻²"
-  },
-  {
-    question: "The shaft of a motor makes 3000 revolutions in 4.5 minutes. Find the angular velocity of the shaft in rad/sec.",
-    options: ["69.8 rad/sec", "60 rad/sec", "40.8 rad/sec", "35.5 rad/sec"],
-    answer: "69.8 rad/sec"
-  },
-  {
-    question: "A vector which is equal in magnitude but opposite in direction to the resultant of a number of vectors is called:",
-    options: ["Equal vector", "Equilibrium vector", "Position vector", "Unit vector"],
-    answer: "Equilibrium vector"
-  },
-  {
-    question: "Determine the value of k if P=(2i + ah + k) and Q=(4i – 2j – 2k) are perpendicular.",
-    options: ["4", "2", "3", "5"],
-    answer: "3"
-  },
-  {
-    question: "In a spring run, the winner must possess",
-    options: ["Velocity", "Speed", "Acceleration", "Strength"],
-    answer: "Acceleration"
-  },
-  {
-    question: "Which of the following are scalars?",
-    options: ["Pressure", "Velocity", "Displacement", "Force"],
-    answer: "Pressure"
-  },
-  {
-    question: "What is the unit of the quantity whose dimension is ML⁻¹ T⁻²?",
-    options: ["kgm⁻²", "kgm⁻¹ s⁻²", "kgm² s⁻¹", "kgm⁻² s⁻²"],
-    answer: "kgm⁻¹ s⁻²"
-  },
-  {
-    question: "A train covers a distance of 560 km in 4 hours. Find the average speed of the train.",
-    options: ["140 km/h", "200 km/h", "100 km/h", "160 km/h"],
-    answer: "140 km/h"
-  },
-  {
-    question: "The velocity of a body in m/s changes with displacement x according to the law V= 6x, where x is in m.",
-    options: ["6 m/s", "21.6 m/s", "45 m/s", "30.5 m/s"],
-    answer: "21.6 m/s"
-  },
-  {
-    question: "A mass of 100g revolves in a horizontal circle of radius 1.0 cm. The breaking tension of the string is 6.5N. Find the maximum speed of the mass.",
-    options: ["35 m/s", "10 m/s", "25 m/s", "40 m/s"],
-    answer: "10 m/s"
-  },
-  {
-    question: "Any motion that repeats itself in equal intervals of time is called",
-    options: ["Random motion", "Circular motion", "Periodic motion", "Rotational motion"],
-    answer: "Periodic motion"
-  },
-  {
-    question: "An object of mass 50g is moving in a circle of radius 10cm with a uniform angular velocity of 2 rad/sec. Calculate the speed of the object.",
-    options: ["0.2 m/s", "0.5 m/s", "0.3 m/s", "0.4 m/s"],
-    answer: "0.2 m/s"
-  },
-  {
-    question: "A mass of 10g is vibrating up and down with simple harmonic motion. Its amplitude is 4cm and the period is 2 sec. Find the velocity and acceleration at the center of oscillation.",
-    options: ["0.15 m/s", "0.19 m/s", "0.12 m/s", "0.13 m/s"],
-    answer: "0.12 m/s"
-  },
-  {
-    question: "The energy possessed by a body by virtue of its position is called",
-    options: ["Potential energy", "Heat energy", "Kinetic energy", "Solar energy"],
-    answer: "Potential energy"
-  },
-  {
-    question: "For every action, there is an opposite and equal reaction. This law is – law.",
-    options: ["Newton first law of gravitation", "Newton third law of motion", "First law of thermodynamics", "Coulomb's law"],
-    answer: "Newton third law of motion"
-  },
-  {
-    question: "A line segment whose length is proportional to its magnitude and an arrow head to indicate its direction represents",
-    options: ["Unit vector", "Equal vector", "Zero vector", "Position vector"],
-    answer: "Position vector"
-  },
-  {
-    question: "Dimensional analysis is used for the following except",
-    options: ["To test the validity of an equation", "To establish formulas", "To provide partial solution to physical problems whose direct solution can be achieved by stated methods", "To find out the unit of certain physical quantities"],
-    answer: "To provide partial solution to physical problems whose direct solution can be achieved by stated methods"
-  },
-  {
-    question: "Which of this is correct?",
-    options: ["Vector do not obey distributive law", "Vector obeys commutative law", "The vector product of identical unit vector is zero", "The vector product of identical unit vector is one"],
-    answer: "Vector obeys commutative law"
-  },
-      {
-    question: "The fact that A × B is not equal to B × A is ___",
-    options: ["Distributive", "Cumulative", "Perpendicular", "Rectangular"],
-    answer: "Cumulative"
-  },
-  {
-    question: "A vector whose magnitude is unity is ?",
-    options: ["Resultant vector", "Coplanar vector", "Unit vector", "Zero vector"],
-    answer: "Unit vector"
-  },
-  {
-    question: "The cgs system of measurement is also known as ?",
-    options: ["Gaussian system", "Metric system", "British unit", "American system"],
-    answer: "Gaussian system"
-  },
-  {
-    question: "The quantity of heat that raises the temperature of a substance by θ°C is given by Q=mcθ where m is the mass of the substance and c is its specific heat capacity. Derive the unit of c.",
-    options: ["Jkg⁻² K⁻¹", "Jkg⁻¹", "Jkg⁻¹ K⁻¹", "Jkg² K⁻¹"],
-    answer: "Jkg⁻¹ K⁻¹"
-  },
-  {
-    question: "Find the volume of a parallelepiped whose sides are represented by A=(i − 2j + 2k), B=(−2i − j + 3k), C=(2i + 5k).",
-    options: ["22", "54", "35", "33"],
-    answer: "33"
-  },
-  {
-    question: "A mass of 10g is vibrating up and down with simple harmonic motion, its amplitude is 4cm and the period is 2 sec. Find its kinetic energy at the center.",
-    options: ["4.5 × 10⁻⁴ J", "8.5 × 10⁻⁵ J", "6.5 × 10⁻³ J", "7.6 × 10⁻⁵ J"],
-    answer: "8.5 × 10⁻⁵ J"
-  }
-    ],
-    
-    "PHY 102": [
-      
-    ],
-
-    "CHM 112": [
-      {
-    question: "Two compounds that are mirror images of each other but are not superimposable on each other are best described as",
-    options: ["Mirror images", "Enantiomers", "Diastereomers", "All of the above", "None of the above"],
-    answer: "Enantiomers"
-  },
-  {
-    question: "In a polarimeter, which component comes immediately after the light source?",
-    options: ["Eye-piece", "Sample tube", "Analyzer", "Polarizer", "None of the above"],
-    answer: "Polarizer"
-  },
-  {
-    question: "Which of the following factors does NOT affect the observed rotation of an optically active compound?",
-    options: ["Nature of the compound", "Concentration", "Length of the polarimeter tube", "Solubility", "None of the above"],
-    answer: "Solubility"
-  },
-  {
-    question: "64g of galactose (C6H12O6) was dissolved in 1dm3 of water and the solution gave an observed rotation of 58.7° in a 14cm polarimeter tube. What is the specific rotation of galactose? (C = 12, H = 1, O = 16)",
-    options: ["6550°", "655°", "65.5°", "6.55°", "None of the above"],
-    answer: "655°"
-  },
-  {
-    question: "Which of the following elements would exhibit the strongest hydrogen bonding?",
-    options: ["Fluorine", "Oxygen", "Nitrogen", "Chlorine", "Sulphur"],
-    answer: "Fluorine"
-  },
-  {
-    question: "A body-centred cubic lattice structure is exhibited by",
-    options: ["Aluminium", "Cobalt", "Zinc", "Iron", "Calcium"],
-    answer: "Iron"
-  },
-  {
-    question: "The unusually high boiling point of water compared to hydrogen sulphide is as a result of",
-    options: ["Molecular mass of water", "Hydrogen bonding", "The position of oxygen in the periodic table", "The low atomic number of hydrogen", "None of the above"],
-    answer: "Hydrogen bonding"
-  },
-  {
-    question: "The two substances that are often reacted together to form soap are",
-    options: ["Oil and soda", "Triglyceride and sodium", "Potassium and oil", "Sodium hydroxide and oil", "Triglyceride and glycerol"],
-    answer: "Sodium hydroxide and oil"
-  },
-  {
-    question: "In a soap molecule, the long tail is",
-    options: ["Charged", "Water-loving", "Hydrophobic", "Soluble in water", "None of the above"],
-    answer: "Hydrophobic"
-  },
-  {
-    question: "The IUPAC name of the compound that is polymerized to yield PVC is",
-    options: ["Ethene", "Chloroethene", "Vinyl chloride", "Styrene", "Ethyne"],
-    answer: "Chloroethene"
-  },
-  {
-    question: "Which of the following insecticides is natural and a respiratory inhibitor?",
-    options: ["Pyrethrin", "Chlordane", "Parathion", "Endrin", "Rotenone"],
-    answer: "Rotenone"
-  },
-  {
-    question: "Which of the following is the Ziegler-Natta catalyst?",
-    options: ["Ethyl lithium", "Ethyl magnesium bromide", "Aluminium sulphate", "Ethyl titanium", "None of the above"],
-    answer: "None of the above"
-  },
-  {
-    question: "Which of the following is NOT an anti-malarial drug?",
-    options: ["Quinine", "Pyrimethamine", "Proguanil", "Halofantrine", "None of the above"],
-    answer: "None of the above"
-  },
-  {
-    question: "One of the following is NOT a major class of dyes.",
-    options: ["Nitrite", "Stilbene", "Sulphur", "Oxazine", "None of the above"],
-    answer: "Nitrite"
-  },
-  {
-    question: "One element that is commonly found in a molecule of detergent but not in soap is",
-    options: ["Sodium", "Oxygen", "Sulphur", "Carbon", "Hydrogen"],
-    answer: "Sulphur"
-  },
-  {
-    question: "The explosive substance trinitrotoluene (TNT) contains _____ atoms of carbon.",
-    options: ["3", "4", "6", "7", "8"],
-    answer: "7"
-  },
-  {
-    question: "Methyl orange is an example of _________ dye.",
-    options: ["Azo", "Xanthine", "Oxazine", "Sulphur", "Nitrogen"],
-    answer: "Azo"
-  },
-  {
-    question: "Which of the following is true about a chiral compound?",
-    options: ["Exists in right and left-handed forms", "Could be dextro- or laevo-rotatory", "Glucose is a common example", "All of the above", "None of the above"],
-    answer: "All of the above"
-  },
-  {
-    question: "Which of these substances is used in the production of soft soap (toilet soap)?",
-    options: ["NaOH", "KOH", "Na", "K", "None of the above"],
-    answer: "KOH"
-  },
-  {
-    question: "How many atoms of the central element are found in one block of a face-centred cubic lattice?",
-    options: ["6", "8", "10", "12", "14"],
-    answer: "14"
-  },
-  {
-    question: "Which of these commercial products is made of polystyrene?",
-    options: ["Shopping bags", "Electrical insulators", "Pipes for toilet systems", "Bread wrappers", "None of the above"],
-    answer: "None of the above"
-  },
-  {
-    question: "Dieldrin is a pesticide that is effective in killing",
-    options: ["Rats", "Lizards", "Snakes", "Mice", "None of the above"],
-    answer: "None of the above"
-  },
-  {
-    question: "When dissolved in water, soap or detergent molecules form clusters known as",
-    options: ["Micels", "Micells", "Miccelles", "Micelles", "Miceles"],
-    answer: "Micelles"
-  },
-  {
-    question: "Which of the following words is not involved in the definition of the term “drug”?",
-    options: ["Tissue", "Chemical", "Function", "Change", "None of the above"],
-    answer: "None of the above"
-  },
-  {
-    question: "Glycerol, a product involved in soap manufacture, has the IUPAC name",
-    options: ["Propan-1,2,3-ol", "1,2,3-propanol", "1,2-propan-3-ol", "1-propan-2,3-ol", "None of the above"],
-    answer: "None of the above"
-  },
-  {
-    question: "Classification of organic compounds is based on their carbon skeleton or …………",
-    options: ["Molecular weight", "Functional group", "Atomic mass", "Atomic orbital", "Molecular orbital"],
-    answer: "Functional group"
-  },
-  {
-    question: "The compounds below are liquids at ordinary temperature and pressure except……….",
-    options: ["Hexane", "Nonane", "Dodecane", "Eicosane", "Heptadecane"],
-    answer: "Eicosane"
-  },
-  {
-    question: "Each member of a homologous series differs from the next by",
-    options: ["–CH2", "CH2-", "–CH2-", "Methylene gp", "C & D"],
-    answer: "C & D"
-  },
-  {
-    question: "The following compounds are alkanes except",
-    options: ["C7H14", "C7H16", "C8H18", "C27H56", "C20H42"],
-    answer: "C7H14"
-  },
-  {
-    question: "Rotation about a double bond in an organic compound is",
-    options: ["Restricted", "Occurs freely", "Evenly distributed", "Has equal distance", "All of the above"],
-    answer: "Restricted"
-  },
-  {
-    question: "How many carbon atoms are there in henpentacontane",
-    options: ["61", "71", "17", "51", "66"],
-    answer: "61"
-  },
-  {
-    question: "What type of hybridization(s) do we have in a molecule of 2,4,4-trimethylheptane",
-    options: ["Sp", "Sp2", "Sp3", "Sp & Sp3", "Sp2 & Sp3"],
-    answer: "Sp3"
-  },
-  {
-    question: "The electronic configuration of carbon in its excited state is ………",
-    options: ["1S22S22Px12Py12Pz1", "1S22S22Px12Py12Pz0", "1S22S12Px12Py12Pz1", "1S12S22Px12Py12Pz1", "1S22S12Px12Py12Pz0"],
-    answer: "1S22S12Px12Py12Pz1"
-  },
-  {
-    question: "A triple bond is formed by ……..",
-    options: ["Two sigma bonds and one pi bond", "Three sigma bonds", "Two pi bonds and one sigma bond", "Three pi bonds", "None of the above"],
-    answer: "Two pi bonds and one sigma bond"
-  },
-  {
-    question: "Pi bonds are characterized by the following except",
-    options: ["Formed by lateral overlap of p orbital", "Permits no free rotation", "Has higher energy than the sigma bond", "At least one pi bond can exist between atoms", "Has cylindrical charge symmetry"],
-    answer: "Has cylindrical charge symmetry"
-  },
-  {
-    question: "The basis for classifying organic compounds into groups is the similarity in ………",
-    options: ["Atomic orbital", "Molecular orbital", "Molecular structure", "Functional groups", "Quantum number"],
-    answer: "Molecular structure"
-  },
-  {
-    question: "The chemical and physical properties of a compound are as a result of its",
-    options: ["Molecular structure", "The valency", "Spin quantum number", "Systematic manner", "Energy level"],
-    answer: "Molecular structure"
-  },
-  {
-    question: "The symmetry properties of atomic orbitals are dictated by",
-    options: ["Energy levels", "Quantum numbers", "S-orbital", "P-orbital", "Dumb bell shape"],
-    answer: "Quantum numbers"
-  },
-  {
-    question: "The function of the magnetic quantum number is that it",
-    options: ["Defines the shell", "Differentiates the subshells", "Gives the orientation of the electron spin", "Describes the orientation of the orbital in space", "Symbolizes electrons with rotation in opposite spin"],
-    answer: "Describes the orientation of the orbital in space"
-  },
-  {
-    question: "When the secondary quantum number is equal to zero, we have",
-    options: ["s-orbital", "p-orbital", "s & p orbitals", "d- orbital", "f-orbital"],
-    answer: "s-orbital"
-  },
-  {
-    question: "The symbols for the four quantum numbers are",
-    options: ["n, L, ML, Ms", "n, l, ml, ms", "N, L, ml, Ms", "N, l, mL, ms", "N, L, ML, ML"],
-    answer: "n, l, ml, ms"
-  },
-  {
-    question: "The three principles used to distribute electrons in atomic orbitals are",
-    options: ["Aufbau, Paul’s exclusion principle and Hund’s rule", "Aufbua, Paulis esclusion principle and Hund’s rule", "Afubau, Pauls exclution principle and Hund’s rule", "Aufbau, Paulis exclusion principle and Hund’s rule", "Afubau, Pauls exclution principle and Hund’s rule"],
-    answer: "Aufbau, Paulis exclusion principle and Hund’s rule"
-  },
-  {
-    question: "The overlap of like phase signs gives a bonding MO which has …….. than the individual AOs",
-    options: ["Greater stability", "Lower energy", "Higher energy", "Lower stability", "A & B"],
-    answer: "A & B"
-  },
-  {
-    question: "The nodal plane in an antibonding molecular orbital is",
-    options: ["Plane of low electron density", "Plane of no electron density", "Plane of higher electron density", "Plane of greater stability", "None of the above"],
-    answer: "Plane of no electron density"
-  },
-  {
-    question: "Constructive interference means",
-    options: ["Combination of same wave signs", "Combination of opposite wave signs", "Combination of crest and trough", "Formation of a larger wave", "A & D"],
-    answer: "A & D"
-  },
-  {
-    question: "The type(s) of hybridization involved in 3-Methyl-3-Phenyloct-4-yne is/are",
-    options: ["sp, sp2 & sp3", "sp2 & sp3", "sp3 & sp", "sp & sp2", "sp2 only"],
-    answer: "sp, sp2 & sp3"
-  },
-  {
-    question: "The following compounds are alkynes except",
-    options: ["C2H2", "C9H16", "C11H20", "C14H28", "C6H10"],
-    answer: "C14H28"
-  },
-  {
-    question: "The compounds below are gases at ordinary temperature and pressure except",
-    options: ["CH4", "C2H6", "C3H8", "C4H10", "C5H12"],
-    answer: "C5H12"
-  },
-  {
-    question: "What type of A.O is involved in the bonding of ethylene molecule",
-    options: ["1s, 2s, 2px", "2s, 2px", "2s, 2px, 2py", "2s, 2px, 2py, 2pz", "2s, 2py"],
-    answer: "2s, 2px"
-  },
-  {
-    question: "The chemical formula for heptacosane is",
-    options: ["CH3(CH3)25CH3", "CH3(CH3)26CH3", "CH3(CH2)25CH3", "CH3(CH2)26CH3", "CH3(CH4)25CH3"],
-    answer: "CH3(CH2)25CH3"
-  },
-    {
-    question: "The following are abbreviations for alkyl groups for carbon atoms 1-4 except",
-    options: ["Me", "Et", "Py", "Pr", "Bu"],
-    answer: "Py"
-  },
-  {
-    question: "The secondary butyl group has……..carbon(s) bonded to the head carbon",
-    options: ["1", "2", "3", "4", "1 or 2"],
-    answer: "2"
-  },
-  {
-    question: "A chemical name typically has …….parts in the IUPAC system of nomenclature",
-    options: ["1", "3", "5", "4", "2"],
-    answer: "4"
-  },
-  {
-    question: "The word IUPAC is pronounced as",
-    options: ["i-u-park", "i-u-pack", "eye-you-pack", "eye-you-park", "eye-you-packe"],
-    answer: "eye-you-pack"
-  },
-  {
-    question: "The function of the suffix in a chemical name identifies",
-    options: ["The location of substituent", "The number of carbon atoms", "The primary functional group", "The number of alkyl groups", "The type of alkyl groups"],
-    answer: "The primary functional group"
-  },
-  {
-    question: "What class of organic compounds does pyridine belong",
-    options: ["Aliphatic", "Aromatic", "Alicyclic", "Heterocyclic", "B & C"],
-    answer: "Heterocyclic"
-  },
-  {
-    question: "The angle at which methane form hybrid molecule is",
-    options: ["120o", "150o", "109o.51", "180o", "190o.5"],
-    answer: "109o.51"
-  },
-  {
-    question: "How many sigma bonds are there in a molecule of undecene",
-    options: ["20", "21", "26", "22", "23"],
-    answer: "22"
-  },
-  {
-    question: "How many pi bond(s) are there in a pyrrole ring",
-    options: ["4", "1", "3", "2", "5"],
-    answer: "2"
-  },
-  {
-    question: "How many carbon atoms are there in a molecule of hectyne",
-    options: ["50", "70", "90", "55", "100"],
-    answer: "100"
-  },
-  {
-    question: "What type(s) of hybridization is involved in a molecule of 3-cyclobutylpentane",
-    options: ["Sp3", "Sp & sp2", "Sp & sp3", "Sp", "Sp2"],
-    answer: "Sp3"
-  },
-  {
-    question: "The isopropyl and isobutyl groups both have an alkyl group at the …….carbon",
-    options: ["1st", "2nd", "1st & 2nd", "Terminal", "B & D"],
-    answer: "2nd"
-  },
-  {
-    question: "The following are example of alicyclic compounds except",
-    options: ["C3H4", "C3H6", "C4H8", "C5H10", "C6H12"],
-    answer: "C3H4"
-  },
-  {
-    question: "Heterocyclic compounds typically contain one of the following elements in addition to the carbons in their ring",
-    options: ["Fe", "B", "H", "S", "F"],
-    answer: "S"
-  },
-  {
-    question: "The electrons in benzene are",
-    options: ["Localized", "Delocalized", "Energized", "Form a pi cloud", "B & D"],
-    answer: "B & D"
-  },
-  {
-    question: "Linear combination of atomic orbitals produce a new orbital called",
-    options: ["pi cloud orbital", "s orbital", "p orbital", "molecular orbital", "antibonding sigma orbital"],
-    answer: "molecular orbital"
-  },
-  {
-    question: "The lateral overlap of 2p orbital with opposite signs gives",
-    options: ["Sigma bonds", "Pi bonds", "Antisigma bonds", "Antipi bonds", "None of the above"],
-    answer: "Antipi bonds"
-  },
-  {
-    question: "The principle involved in the filling of orbitals in order of increasing energy is known as",
-    options: ["Pauls Exclusion Principle", "Afubau’s", "Aufbua", "Aufbau", "Paulis exclusion Principle"],
-    answer: "Aufbau"
-  },
-  {
-    question: "How many pi bond(s) are there in a molecule of 4-methylnon-7-en-1-yne",
-    options: ["4", "1", "3", "2", "None"],
-    answer: "3"
-  },
-  {
-    question: "How many sigma bonds are there in acetylene molecule",
-    options: ["5", "4", "6", "3", "2"],
-    answer: "3"
-  },
-  {
-    question: "The chemical formula for nonadecane is",
-    options: ["CH3(CH3)17CH3", "CH3(CH2)17CH3", "CH3(CH4)17CH3", "CH3(CH2)19CH3", "CH3(CH3)19CH3"],
-    answer: "CH3(CH2)17CH3"
-  },
-  {
-    question: "How many sigma and pi bonds are there in a molecule of 3-isopropylcyclobutyne",
-    options: ["15σ, 2π", "12σ, 2π", "14σ, 2π", "13σ, 2π", "16σ, 2π"],
-    answer: "16σ, 2π"
-  },
-  {
-    question: "Which of the following scientists published the most acceptable and successful periodic table",
-    options: ["Moseley", "Mendeleev", "Lavoisier", "Dobereiner", "Newlands"],
-    answer: "Mendeleev"
-  },
-  {
-    question: "The modern periodic table consists of elements arranged in order of increasing",
-    options: ["Atomic number", "Atomic weight", "Atomic mass", "Atomic symbol", "Atomic density"],
-    answer: "Atomic number"
-  },
-  {
-    question: "The periodic table is divided into groups and periods in the following order",
-    options: ["5 periods and 10 groups", "10 periods and 5 groups", "7 periods and 18 groups", "18 periods and 7 groups", "None of the above"],
-    answer: "7 periods and 18 groups"
-  },
-  {
-    question: "The scientist who made an earlier attempt of placing groups of three elements with similar properties into “triads” was",
-    options: ["Newland", "Johann", "Moseley", "Mendeleev", "Lavoisier"],
-    answer: "Johann"
-  },
-  {
-    question: "The clearest distinction among the elements is their classification as",
-    options: ["Reactive and non reactive", "Groups and periods", "Transition and main group", "Metals and non metal", "Malleable and Ductile"],
-    answer: "Metals and non metal"
-  },
-  {
-    question: "All of the following elements belong to group three (3) except",
-    options: ["Aluminium", "Gallium", "Silicon", "Indium", "Boron"],
-    answer: "Silicon"
-  },
-  {
-    question: "Which of the groups in the periodic table is referred to as the pnicogens",
-    options: ["Group 3", "Group 6", "Group 4", "Group 2", "Group 5"],
-    answer: "Group 5"
-  },
-  {
-    question: "The relative ability of a bonded atom to attract the shared electron is termed",
-    options: ["Ionization energy", "Atomic radii", "Electron affinity", "Electronegativity", "Electron potential"],
-    answer: "Electronegativity"
-  },
-  {
-    question: "The ionization energy of elements in the periodic table generally",
-    options: ["Decreases down a group and increases across a period", "Increases down a group and decreases along a period", "Increases down a group and increases along a period", "Decreases down a group and decreases along a period", "All of the above"],
-    answer: "Decreases down a group and increases across a period"
-  },
-  {
-    question: "All the physical and chemical characteristics of the elements is based ultimately on the",
-    options: ["Atomic number", "Atomic size", "Atomic radii", "Electronic configuration", "Electron affinity"],
-    answer: "Electronic configuration"
-  },
-  {
-    question: "The element Hydrogen can neither be placed in group 1 nor group 7 and this unique behaviour is due to",
-    options: ["Its small size", "High ionization energy", "Closeness to the nucleus", "Low electronegativity", "One proton"],
-    answer: "Its small size"
-  },
-  {
-    question: "In the periodic table, the group with the lowest ionization energy is",
-    options: ["Group 7A", "Group 3A", "Group 1A", "Group 5A", "Group 8A"],
-    answer: "Group 1A"
-  },
-  {
-    question: "The alkali halide used as a dehumidifier in our cooling unit is",
-    options: ["RbBr", "NaBr", "LiBr", "KBr", "CsBr"],
-    answer: "LiBr"
-  },
-  {
-    question: "The group 2A element used in the production of missile parts, bicycle wheels and camera bodies is called",
-    options: ["Calcium", "Beryllium", "Strontium", "Barium", "Magnesium"],
-    answer: "Magnesium"
-  },
-  {
-    question: "The element in the periodic table with the largest temperature range is",
-    options: ["Calcium", "Gallium", "Indium", "Thallium", "Strontium"],
-    answer: "Gallium"
-  },
-  {
-    question: "All of the following are uses of carbon dioxide except",
-    options: ["Refrigerant gas", "Fire extinguishers", "Making beverages", "Fertilizers", "Gaseous fuel"],
-    answer: "Gaseous fuel"
-  },
-  {
-    question: "Phosphorous trichloride(PCl3) is used for the following except as",
-    options: ["Plant growth regulator", "Insecticides", "Flame retardant", "Fuel additives", "Oil"],
-    answer: "Plant growth regulator"
-  },
-  {
-    question: "The second most abundant element in the universe is",
-    options: ["Hydrogen", "Oxygen", "Argon", "Helium", "Carbon"],
-    answer: "Helium"
-  },
-  {
-    question: "The only liquid non metal known is",
-    options: ["Chlorine", "Bromine", "Fluorine", "Iodine", "Astatine"],
-    answer: "Bromine"
-  },
-  {
-    question: "The most reactive of the group 7A elements is",
-    options: ["Fluorine", "Bromine", "Chlorine", "Astatine", "Iodine"],
-    answer: "Fluorine"
-  },
-  {
-    question: "The only liquid metal known is",
-    options: ["Mercury", "Indium", "Titanium", "Scandium", "Chromium"],
-    answer: "Mercury"
-  },
-  {
-    question: "The group 8A elements have great stability as a result of",
-    options: ["Monoatomic nature", "Completely filled shells", "Highest ionization energy", "Highest atomic radii", "None of the above"],
-    answer: "Completely filled shells"
-  },
-  {
-    question: "The element with the lowest melting point known at 25 atmospheric pressure is",
-    options: ["Helium", "Hydrogen", "Argon", "Xenon", "Radon"],
-    answer: "Helium"
-  },
-  {
-    question: "……..is the Hydrogen halide found in the stomach fluid of mammals",
-    options: ["Hydrogen chloride", "Hydrogen fluoride", "Hydrogen bromide", "Hydrogen iodide", "Hydrogen astanide"],
-    answer: "Hydrogen chloride"
-  },
-  {
-    question: "Which of the metal halide is added to table salt to prevent thyroid disease (goiter)",
-    options: ["Calcium iodide", "Potassium iodide", "Sodium iodide", "Magnesium chloride", "Calcium chloride"],
-    answer: "Potassium iodide"
-  },
-  {
-    question: "The energy change accompanying the addition of electrons to gaseous atoms or ions is referred to as",
-    options: ["Ionization energy", "Potential energy", "Electron affinity", "Electronegativity", "Kinetic energy"],
-    answer: "Electron affinity"
-  },
-  {
-    question: "Which of the group 3A elements is used in the production of silicate glasses",
-    options: ["Aluminium", "Indium", "Thallium", "Gallium", "Boron"],
-    answer: "Boron"
-  },
-  {
-    question: "Which of the Nitrogen halides is the most reactive",
-    options: ["Nitrogen fluoride", "Nitrogen chloride", "Nitrogen bromide", "Nitrogen iodide", "Nitrogen astanide"],
-    answer: "Nitrogen chloride"
-  },
-  {
-    question: "Which of the following phosphorus compounds is used in the manufacture of match stick head",
-    options: ["Phosphorus decasulphide", "Phosphorus disulphide", "Phosphorus heptasulphide", "Phosphorus trisulphide", "Phosphorus octasulphide"],
-    answer: "Phosphorus trisulphide"
-  },
-    {
-    question: "The structure of an alkyne with four carbon atoms could be:",
-    options: ["CH3CH2CH2CH3", "CH3-C≡C-CH3", "CH2=CH=CH-CH3", "CH2=CH-CH2-CH3", "CH3-CH2-CH=CH2"],
-    answer: "CH3-C≡C-CH3"
-  },
-  {
-    question: "Which of these is an organic compound:",
-    options: ["CaCO3", "NaHSO4", "CH3(CH2)16CH3", "KCN", "NaHCO3"],
-    answer: "CH3(CH2)16CH3"
-  },
-  {
-    question: "CnHn+2 is the general formula of:",
-    options: ["Alkenes", "Alkynes", "Alcohols", "Alkanes", "none of the above"],
-    answer: "Alkanes"
-  },
-  {
-    question: "Ethylenic bond is also referred to as:",
-    options: ["carbon-carbon single bond", "olefinic bond", "carbon-carbon multiple bond", "carbon-carbon triple bond", "carbon-carbon bond"],
-    answer: "olefinic bond"
-  },
-  {
-    question: "The structural difference between n-propane and n-butane is:",
-    options: ["a methylene group", "an alkyl group", "a methyl group", "an isopropyl group", "a tert-butyl group"],
-    answer: "a methylene group"
-  },
-  {
-    question: "C28H54 is:",
-    options: ["an alkene", "an alkane", "an alkyne", "a saturated hydrocarbon", "an alkyl halide"],
-    answer: "an alkane"
-  },
-  {
-    question: "Which of these compounds are homologues?",
-    options: ["C4H8, C5H3, and C6H10", "C4H12, C5H10, and C6H10", "C4H8, C5H5, and C6H6", "C4H9, C5H9, and C6H9", "C4H10, C5H12, and C6H14"],
-    answer: "C4H10, C5H12, and C6H14"
-  },
-  {
-    question: "A quaternary carbon is a carbon atom",
-    options: ["attached indirectly to another carbon atom", "attached directly to two carbon atoms", "attached directly to four carbon atoms", "attached directly to no carbon atom", "attached indirectly to three carbon atoms"],
-    answer: "attached directly to four carbon atoms"
-  },
-  {
-    question: "CH3-CH-CH3 is:",
-    options: ["an isopropyl group", "an n-propyl group", "a butyl group", "a symmetrical group", "a neopentyl group"],
-    answer: "an isopropyl group"
-  },
-  {
-    question: "n-Decane contains:",
-    options: ["21 hydrogens", "22 hydrogens", "23 hydrogens", "24 hydrogens", "25 hydrogens"],
-    answer: "22 hydrogens"
-  },
-  {
-    question: "The ethylenic bond in CH2═CH2═CH2—CH2—CH3 are called",
-    options: ["conjugated double bonds", "isolated double bonds", "restricted double bonds", "cumulated double bonds", "unsymmetrical double bonds"],
-    answer: "cumulated double bonds"
-  },
-  {
-    question: "Which group of the following list of organic compounds is made up of ONLY hydrocarbons?",
-    options: ["alkanes, alcohols and sulphoxides", "sulphides, sulphoxides and sulphones", "alkenes, aldehydes and ketones", "amines, ethers and esters", "alkynes, alkenes and alkanes"],
-    answer: "alkynes, alkenes and alkanes"
-  },
-  {
-    question: "All organic compounds are carbon-containing, but not all carbon-containing substances are organic. This statement is:",
-    options: ["incorrect", "uncorrect", "not sure", "correct", "not quite sure"],
-    answer: "correct"
-  },
-  {
-    question: "The alkyl group derived from CH3-CH2-CH2-CH2-CH2-CH2-CH3 is:",
-    options: ["hexyl", "butyl", "neopentyl", "pentyl", "heptyl"],
-    answer: "heptyl"
-  },
-  {
-    question: "How many types of bonds are contained in CH2═CH—CH3?",
-    options: ["1", "2", "3", "4", "5"],
-    answer: "3"
-  },
-  {
-    question: "The characteristic chemical reactivity of an organic compound is attributable to its:",
-    options: ["functional group", "methyl group", "hydroxyl group", "amino group", "cyano group"],
-    answer: "functional group"
-  },
-  {
-    question: "Aldehydes and ketones are often referred to collectively as:",
-    options: ["carboxylic compounds", "carbonyl compounds", "hydroxylic compounds", "anhydride compounds", "carbohydrate compounds"],
-    answer: "carbonyl compounds"
-  },
-  {
-    question: "The simplest alkyne has",
-    options: ["4 carbons", "3 carbons", "2 carbons", "5 carbons", "1 carbon"],
-    answer: "2 carbons"
-  },
-  {
-    question: "How many methylene groups are present in CH3—CH2—CH2—CH3",
-    options: ["2", "3", "1", "4", "5"],
-    answer: "2"
-  },
-  {
-    question: "Which of these compounds does not contain a carbonyl group?",
-    options: ["an amide", "an ester", "an amine", "an acid anhydride", "an aldehyde"],
-    answer: "an amine"
-  },
-  {
-    question: "How many hydroxyl groups are present in heptanol?",
-    options: ["2", "7", "5", "3", "1"],
-    answer: "1"
-  },
-  {
-    question: "Ph—O—CH3 is:",
-    options: ["a single acid", "a symmetrical aldehyde", "a mixed alcohol", "an unsymmetrical ether", "an oxygenated amide"],
-    answer: "an unsymmetrical ether"
-  },
-  {
-    question: "The compound CH3CH2COOCH3, is:",
-    options: ["an amine", "a nitrile", "a carboxylic acid", "a thiol", "an ester"],
-    answer: "an ester"
-  },
-  {
-    question: "The compound, CH3CH2NHCH3, is",
-    options: ["a primary amine", "a secondary amine", "a tertiary amine", "a quaternary amine", "a primary amide"],
-    answer: "a secondary amine"
-  },
-  {
-    question: "Which of these compounds is an alcohol (i) CH3COOH; (ii) CH3CONH2; (iii) CH3OH; (iv) CH3CN; (v) CH3COOCCH3",
-    options: ["ii", "iv", "v", "iii", "i"],
-    answer: "iii"
-  },
-  {
-    question: "CH3CH2SO2CH3 is:",
-    options: ["a sulphide", "a sulphonic acid", "a sulphoxide", "a sulphone", "a thiol"],
-    answer: "a sulphone"
-  },
-  {
-    question: "State the number of distinct bonds in CH3SOCH3",
-    options: ["3", "6", "4", "5", "2"],
-    answer: "3"
-  },
-  {
-    question: "In CH3CH2SOCH2CH3, the valency of the element sulphur is:",
-    options: ["4", "1", "2", "3", "5"],
-    answer: "4"
-  },
-  {
-    question: "The compound: CH3N(CH3)2, is:",
-    options: ["an acid halide", "an amine", "a phenol", "a hydrocarbon", "a nitrile"],
-    answer: "an amine"
-  },
-  {
-    question: "—CN is a:",
-    options: ["carbonyl group", "brutal group", "ethyl group", "neighbouring group", "cyano group"],
-    answer: "cyano group"
-  },
-  {
-    question: "Which of the following statement is incorrect?",
-    options: ["every alcohol contains a hydroxyl group", "organic sulphides are also called thioethers", "an acid halide has no carbonyl group", "amines and amides are quite different", "the general formula of alkenes is: CnH2n"],
-    answer: "an acid halide has no carbonyl group"
-  },
-  {
-    question: "Carbon-Carbon triple bond is also referred to as:",
-    options: ["an olefinic bond", "an acetylenic bond", "aethylenic bond", "a rigid bond", "a covalent bond"],
-    answer: "aethylenic bond"
-  },
-  {
-    question: "How many methyl groups are in CH3CH2CH2CH3?",
-    options: ["1", "2", "3", "4", "5"],
-    answer: "2"
-  },
-  {
-    question: "The valencies of the element sulphur in sulphides, sulphoxides and sulphones, respectively are:",
-    options: ["2, 4, 6", "3, 5, 7", "1, 3, 5", "1, 5, 7", "1, 3, 7"],
-    answer: "2, 4, 6"
-  },
-  {
-    question: "Chemistry is the science of:",
-    options: ["molecules and their transformations", "carbon atoms", "pollution and degradation", "physical properties", "once-living organism"],
-    answer: "molecules and their transformations"
-  },
-  {
-    question: "CH3CH2CH2CH3 is:",
-    options: ["sec-Butane", "tert- Butane", "N-Butane", "iso-Butane", "n-Butane"],
-    answer: "n-Butane"
-  },
-  {
-    question: "In CH3CH2X, R=?",
-    options: ["methyl", "propyl", "butyl", "ethyl", "pentyl"],
-    answer: "ethyl"
-  },
-  {
-    question: "I CH3CH2XH2X, X=?",
-    options: ["x-ray", "halogen", "nitrogen", "neon", "helium"],
-    answer: "halogen"
-  },
-  {
-    question: "CH3C(CH3)2—CH2— is:",
-    options: ["tert-butyl", "isobutyl", "neopentyl", "sec-butyl", "isopropyl"],
-    answer: "tert-butyl"
-  },
-  {
-    question: "Carbonyl compounds are",
-    options: ["ethers and esters", "aldehydes and ketones", "amines and amides", "carboxylic acids and acid halides", "sulphides and sulphoxides"],
-    answer: "aldehydes and ketones"
-  },
-  {
-    question: "RR′CO is the general formula of:",
-    options: ["phenols", "alcohols", "ketones", "aldehydes", "cycloalkanes"],
-    answer: "ketones"
-  },
-  {
-    question: "Which of the following is not a carboxylic acid?",
-    options: ["CH3CO2H", "CH3COOH", "HCOOH", "HCHO", "C6H5CO2H"],
-    answer: "HCHO"
-  },
-  {
-    question: "CH3CH2CO.N(CH3)2 is:",
-    options: ["an amide", "an amine", "an ester", "a ketone", "an ether"],
-    answer: "an amide"
-  },
-  {
-    question: "An amine group is",
-    options: ["—COC—", "—COOR", "—COX", "—CONH2", "—NH2"],
-    answer: "—NH2"
-  },
-  {
-    question: "The general formula of alkynes is:",
-    options: ["CnH2n-3", "CnH2n", "CnH2n-2", "CnHn-2", "Cn+1H2n"],
-    answer: "CnH2n-2"
-  },
-  {
-    question: "How many functional groups are in this compound, NCCH2CH2SH",
-    options: ["4", "5", "2", "6", "3"],
-    answer: "2"
-  }
-    ],
-    
-    "GST 111": [
+   "GST 111": [
           {
       question: "In pre-literate African society European writers saw the continent as",
       options: ["Organized", "Civilized", "Developed", "Barbaric"],
@@ -9757,6 +8506,1997 @@ export const allQuestions = {
     answer: "Industrial"
   }
     ],
+    "MTH 101": [],
+
+    "PHY 101": [
+        {
+  question: "The scalar product of two parallel vectors is",
+  options: ["0", "90", "180", "360"],
+  answer: "0"
+  },
+  {
+  question: "How much distance is required to stop a car travelling at 108 km/hr if the driver’s reaction time is 0.1 s?",
+  options: ["3 m", "1.5 m", "2 m", "3.5 m"],
+  answer: "1.5 m"
+  },
+  {
+  question: "_____ is an aspect of experimental observation",
+  options: ["calculation", "solving", "correlation", "finding"],
+  answer: "correlation"
+  },
+  {
+  question: "The dimension for coefficient of viscosity is",
+  options: ["MLT⁻¹", "MLT", "ML⁻¹T⁻¹", "MT⁻¹"],
+  answer: "ML⁻¹T⁻¹"
+  },
+  {
+  question: "All quantities of physics are",
+  options: ["Dimensional analysis", "Fundamental quantities", "Physical quantities", "Derived quantities"],
+  answer: "Physical quantities"
+  },
+  {
+  question: "If P(3, −2, 1) and Q(1, 0, −4), the displacement QP is",
+  options: ["2i − 2j − 5k", "3i + 2j + 5k", "2i − 2j − 5k", "2i − 2j + 5k"],
+  answer: "2i − 2j + 5k"
+  },
+  {
+  question: "In the equation (P + a/V)(V − b) = RT, the dimension of a is",
+  options: ["ML²T⁻¹", "MLT", "ML²T⁻²", "MT⁻¹"],
+  answer: "ML²T⁻²"
+  },
+  {
+  question: "The shaft of a motor makes 3000 revolutions in 4.5 minutes. Find its angular velocity",
+  options: ["69.8 rad/s", "60 rad/s", "40.8 rad/s", "35.5 rad/s"],
+  answer: "69.8 rad/s"
+  },
+  {
+  question: "A vector equal in magnitude but opposite in direction to the resultant of vectors is called",
+  options: ["Equal vector", "Equilibrium vector", "Position vector", "Unit vector"],
+  answer: "Equilibrium vector"
+  },
+  {
+  question: "If P = (2i + aj + k) and Q = (4i − 2j − 2k) are perpendicular, find a",
+  options: ["4", "2", "3", "5"],
+  answer: "3"
+  },
+  {
+  question: "In a sprint race, the winner must possess",
+  options: ["Velocity", "Speed", "Acceleration", "Strength"],
+  answer: "Acceleration"
+  },
+  {
+  question: "Which of the following is a scalar?",
+  options: ["Pressure", "Velocity", "Displacement", "Force"],
+  answer: "Pressure"
+  },
+  {
+  question: "The energy possessed by virtue of position is",
+  options: ["Potential energy", "Heat energy", "Kinetic energy", "Solar energy"],
+  answer: "Potential energy"
+  },
+      {
+    question: "Find the loss of potential energy. A body of mass 15kg originally at rest 5m above the ground falls and penetrates 15cm into the earth.",
+    options: ["712.95 J", "735 J", "700 J", "750 J"],
+    answer: "712.95 J"
+  },
+  {
+    question: "Calculate the average resistance of the earth.",
+    options: ["712.95 J", "720 J", "700 J", "750 J"],
+    answer: "712.95 J"
+  },
+  {
+    question: "A bus moving at a speed of 20m/s begins to slow at the rate of 3m/s each second. Find how far it goes before stopping.",
+    options: ["66.69 m", "60 m", "70 m", "80 m"],
+    answer: "66.69 m"
+  },
+  {
+    question: "A ball that is thrown vertically upward on the moon returns to its starting point in 4 secs. The acceleration due to gravity there is 1.6 m/s² downward. Find the ball's original speed.",
+    options: ["6.4 m/s", "3.2 m/s", "8 m/s", "4 m/s"],
+    answer: "6.4 m/s"
+  },
+  {
+    question: "Using the theory of dimension, determine the dimension of constant ‘a’ in the Van der Waal's equation; { P + a/v² } (v - b) = RT",
+    options: ["ML⁻¹T⁻²", "ML²T⁻²", "ML³T⁻²", "ML⁵T⁻²"],
+    answer: "ML⁵T⁻²"
+  },
+  {
+    question: "The physical quantity whose dimensional formula is ML⁻¹T⁻¹ is ?",
+    options: ["Viscosity", "Density", "Pressure", "Force"],
+    answer: "Viscosity"
+  },
+  {
+    question: "A body starts from rest and travels 90m in the fifth second. The velocity of the body after 10 secs is ?",
+    options: ["200 m/s", "180 m/s", "160 m/s", "220 m/s"],
+    answer: "200 m/s"
+  },
+  {
+    question: "Find the angle θ between the two vectors. The sides of a parallelogram are given by the vectors A= i+2j+3k and B= 4i+5j+6k",
+    options: ["13°", "15°", "10°", "20°"],
+    answer: "13°"
+  },
+  {
+    question: "Find the area of the parallelogram.",
+    options: ["7.349 cm²", "8.000 cm²", "6.500 cm²", "7.000 cm²"],
+    answer: "7.349 cm²"
+  },
+  {
+    question: "A force given by F=4i-3j+2k is applied at the point (1, -1, 2). Find the moment of F about the point (2, -1, -3).",
+    options: ["26.79 Nm", "25.00 Nm", "27.50 Nm", "28.00 Nm"],
+    answer: "26.79 Nm"
+  },
+  {
+    question: "A force of 20N acts on a body for 6s. What is the change in the momentum of the body?",
+    options: ["120 N/s", "100 N/s", "130 N/s", "110 N/s"],
+    answer: "120 N/s"
+  },
+  {
+    question: "What is the kinetic energy of a wagon of mass 15kg whose momentum is 30 kg·m/s?",
+    options: ["30 J", "40 J", "20 J", "50 J"],
+    answer: "30 J"
+  },
+  {
+    question: "Evaluate α and β in the equation E = k mᵅ Vᵝ, where E is the kinetic energy, m the mass, V the velocity and K a dimensionless constant.",
+    options: ["α = 1, β = 2", "α = 2, β = 1", "α = 1, β = 1", "α = 2, β = 2"],
+    answer: "α = 1, β = 2"
+  },
+  {
+    question: "The ______ of a liquid is the force per unit length acting in the surface perpendicular to one side of a line in the surface.",
+    options: ["Surface Tension", "Viscosity", "Density", "Pressure"],
+    answer: "Surface Tension"
+  },
+  {
+    question: "Find the volume of a parallelepiped whose edges are given by: A=2i+3j-k, B=i-2j+2k, and C=3i-2j-k",
+    options: ["29 m³", "30 m³", "28 m³", "27 m³"],
+    answer: "29 m³"
+  },
+  {
+    question: "What is the component of the force F=3i+2k in the direction of the vector A =4i+4j+7k",
+    options: ["5.56 N", "4.50 N", "6.00 N", "5.00 N"],
+    answer: "5.56 N"
+  },
+  {
+    question: "A curve of radius 30 m is to be banked so that a car makes the turn at a speed of 13 m/s without depending on friction. What must be the slope of the curve (the banking angle)?",
+    options: ["θ = 53°", "θ = 45°", "θ = 60°", "θ = 30°"],
+    answer: "θ = 53°"
+  },
+    {
+    question: "A body makes the following successive displacement: 20m, 40° south of west and 5m, straight south. Calculate the resultant displacement.",
+    options: ["24.0 m", "23.5 m", "25.0 m", "22.0 m"],
+    answer: "24.0 m"
+  },
+  {
+    question: "A constant force acts on a 5kg object and reduces its velocity from 7m/s to 3m/s in a time of 5 sec. Find the force.",
+    options: ["6.1 N", "5.0 N", "4.0 N", "7.0 N"],
+    answer: "6.1 N"
+  },
+  {
+    question: "What is the resultant of the forces 3N and 4N inclined at an angle of 60° to each other.",
+    options: ["6.1 N", "5.0 N", "7.0 N", "8.0 N"],
+    answer: "6.1 N"
+  },
+  {
+    question: "Find the values of a in A = ai - 2j + k, obtains an expression for the time taken to reach maximum height.",
+    options: ["a = –2 or 3", "a = 2 or –3", "a = 1 or 4", "a = 0 or 5"],
+    answer: "a = –2 or 3"
+  },
+  {
+    question: "A stone is thrown vertically upwards with an initial speed U. Obtain an expression for the time taken to reach its maximum height.",
+    options: ["T = g/U", "T = U/g", "T = 2U/g", "T = U/2g"],
+    answer: "T = U/g"
+  },
+  {
+    question: "Calculate the absolute pressure at an ocean depth of 100m. Assume the density of water is 1.0 × 10³ kg/m³ and Patm = 1.01 × 10⁵ Pa.",
+    options: ["1.08 × 10⁶ Pa", "1.10 × 10⁶ Pa", "1.05 × 10⁶ Pa", "1.12 × 10⁶ Pa"],
+    answer: "1.08 × 10⁶ Pa"
+  },
+  {
+    question: "The tendency of a force to rotate a body about some axis is measured by a quantity called ______.",
+    options: ["Torque", "Momentum", "Force", "Energy"],
+    answer: "Torque"
+  },
+  {
+    question: "A satellite of mass 800kg is orbiting the moon in a circular path of radius 17600 km. The weight of the satellite is 130 N. Calculate the speed of the satellite.",
+    options: ["53.48 m/s", "50.00 m/s", "55.00 m/s", "60.00 m/s"],
+    answer: "53.48 m/s"
+  },
+  {
+    question: "The mass of the earth is 6.0 × 10²⁴ kg and the radius of its orbit is 1.5 × 10¹¹ m. Find the moment of the earth in its orbit around the sun.",
+    options: ["8.82 × 10⁴⁰ Nm", "9.00 × 10⁴⁰ Nm", "8.50 × 10⁴⁰ Nm", "9.50 × 10⁴⁰ Nm"],
+    answer: "8.82 × 10⁴⁰ Nm"
+  },
+  {
+    question: "An object projected into space from the ground with an initial velocity of 60 m/s takes 10 s to strike the ground. The angle of projection is?",
+    options: ["θ = 55°", "θ = 60°", "θ = 45°", "θ = 30°"],
+    answer: "θ = 55°"
+  },
+  {
+    question: "The maximum height attained by the object is?",
+    options: ["123.24 m", "120.00 m", "125.00 m", "130.00 m"],
+    answer: "123.24 m"
+  },
+  {
+    question: "Three forces of magnitudes 20N, 10N, 5N act on a particle in directions which make 120° with one another. Calculate the magnitude of the resultant force.",
+    options: ["13.24 N", "15.00 N", "12.00 N", "14.00 N"],
+    answer: "13.24 N"
+  },
+  {
+    question: "A particle acted upon by forces 1, 2c and 2i with angles between them being 60°, 30° and 60°. Calculate the magnitude of the resultant force.",
+    options: ["6.24 N", "5.00 N", "7.00 N", "8.00 N"],
+    answer: "6.24 N"
+  },
+  {
+    question: "The direction of the resultant force in the previous question is?",
+    options: ["θ = 88°", "θ = 90°", "θ = 85°", "θ = 80°"],
+    answer: "θ = 88°"
+  },
+  {
+    question: "A motorist drives 120 km at 100 km/h and 120 km at 80 km/h. What is his average speed for the trip?",
+    options: ["90.0 km/h", "88.9 km/h", "85.0 km/h", "92.0 km/h"],
+    answer: "88.9 km/h"
+  },
+  {
+    question: "What is the component of the force F = 3i + 2k in the direction of the vector A = 4i + 4j + 7k?",
+    options: ["5.56 N", "4.50 N", "6.00 N", "5.00 N"],
+    answer: "5.56 N"
+  },
+  {
+    question: "A uniform beam 12m long is loaded with weights of 8kg and 5kg suspended at its ends. At what point must the beam be supported so that it remains horizontal?",
+    options: ["5.25 m", "6.00 m", "5.50 m", "4.80 m"],
+    answer: "5.25 m"
+  },
+  {
+    question: "Which of the following vectors are perpendicular?",
+    options: ["2i–3j and 3i+2j", "i+j and i–j", "3i+4j and 4i–3j", "5i+2j and 2i–5j"],
+    answer: "2i–3j and 3i+2j"
+  },
+  {
+    question: "A 1kg object with velocity 6i–3j m/s collides into two equal fragments. One flies off with velocity 2i–j m/s. The velocity of the other fragment is?",
+    options: ["4i + j m/s", "3i + 2j m/s", "5i m/s", "2i + 3j m/s"],
+    answer: "4i + j m/s"
+  },
+  {
+    question: "A 4kg ball moving at 8 m/s collides with a stationary ball of mass 12kg and stick together. The kinetic energy loss in the collision is?",
+    options: ["96 J", "80 J", "100 J", "90 J"],
+    answer: "96 J"
+  },
+  {
+    question: "What is the resultant of the forces 3N and 4N inclined at 60° to each other?",
+    options: ["6.1 N", "5.0 N", "7.0 N", "8.0 N"],
+    answer: "6.1 N"
+  },
+  {
+    question: "A particle is moving from point A to point B with position vectors 2i–3j and 5i–3j respectively. The work done is?",
+    options: ["45 J", "40 J", "50 J", "35 J"],
+    answer: "45 J"
+  },
+  {
+    question: "The dimension of the coefficient of viscosity of fluid is?",
+    options: ["ML⁻¹T⁻¹", "MLT⁻¹", "ML⁻²T⁻¹", "ML⁻¹T⁻²"],
+    answer: "ML⁻¹T⁻¹"
+  },
+  {
+    question: "The displacement ‘s’ of a particle given by S = 4b – 3c + 2t has dimension [L²T⁻¹]. Find the value of c.",
+    options: ["L", "L²", "T⁻¹", "LT⁻²"],
+    answer: "L"
+  },
+  {
+    question: "Ballistic pendulum is an example of perfectly elastic collision.",
+    options: ["True", "False", "Partially true", "None of the above"],
+    answer: "False"
+  },
+  {
+    question: "The velocity of sound in any medium is given by the equation V = √(E/ρ) where E is the density of the medium.",
+    options: ["True", "False", "Only true for gases", "Only true for solids"],
+    answer: "False"
+  },
+      {
+    question: "The van Der Waal equation for real gases is (p + a/V²)(V - b) = RT. The SI units of 'a' in the equation is?",
+    options: ["kg·m·s⁻²", "kg·m³·s⁻²", "kg·m⁵·s⁻²", "kg·m²·s⁻²"],
+    answer: "kg·m⁵·s⁻²"
+  },
+  {
+    question: "A moving particle in space has position vector r(t) = 2t i + (5t² + 4) k at t = 5s. The magnitude of the velocity of the motion is?",
+    options: ["50 m/s", "75 m/s", "100 m/s", "125 m/s"],
+    answer: "75 m/s"
+  },
+  {
+    question: "The magnitude of the acceleration of the motion is?",
+    options: ["5 m/s²", "10 m/s²", "15 m/s²", "20 m/s²"],
+    answer: "10 m/s²"
+  },
+  {
+    question: "Given that the acceleration of a particle moving in space is a = i + 3t j + 2t k, then the velocity of the particle will be?",
+    options: [
+      "v = t i + t² j + 2t k",
+      "v = t i + 3/2 t² j + t² k",
+      "v = 2t i + 3t² j + t² k",
+      "v = t i + 3t j + 2t² k"
+    ],
+    answer: "v = t i + 3/2 t² j + t² k"
+  },
+  {
+    question: "A moving particle in space has position vector r(t) = (2t²+5)i + (3t-4)j + t³k at t = 5s. The magnitude of the velocity of the motion is?",
+    options: ["60 m/s", "75 m/s", "80 m/s", "90 m/s"],
+    answer: "75 m/s"
+  },
+  {
+    question: "The magnitude of the acceleration of the motion is?",
+    options: ["20 m/s²", "25 m/s²", "30 m/s²", "35 m/s²"],
+    answer: "30 m/s²"
+  },
+  {
+    question: "Given that the acceleration of a particle moving in space is a = i + 3t j + 2t k, then the velocity of the particle will be?",
+    options: [
+      "v = t i + t² j + t² k",
+      "v = t i + 3/2 t² j + t² k",
+      "v = 2t i + 3t j + t² k",
+      "v = t i + 3t² j + 2t k"
+    ],
+    answer: "v = t i + 3/2 t² j + t² k"
+  },
+  {
+    question: "A mass of 10g is vibrating up and down with simple harmonic motion, amplitude 4cm, period 2√2 s. The velocity of the centre of oscillation is?",
+    options: ["0.10 m/s", "0.126 m/s", "0.15 m/s", "0.20 m/s"],
+    answer: "0.126 m/s"
+  },
+  {
+    question: "Its velocity 1cm from the centre is?",
+    options: ["0.10 m/s", "0.11 m/s", "0.12 m/s", "0.13 m/s"],
+    answer: "0.12 m/s"
+  },
+  {
+    question: "For large values of the amplitude of motion, the order of magnitude of r is?",
+    options: ["10", "10²", "10³", "10⁴"],
+    answer: "10²"
+  },
+  {
+    question: "For small values of the amplitude of motion, the order of magnitude of r is?",
+    options: ["10⁻³", "10⁻²", "10⁻¹", "10⁰"],
+    answer: "10⁻²"
+  },
+  {
+    question: "Use dimensional analysis to test the validity of P = ρE²V⁻¹, where ρ = density (ML⁻³), E = Young's modulus (ML⁻¹T⁻²), V = velocity (LT⁻¹).",
+    options: ["Valid", "Invalid", "Uncertain", "Inapplicable"],
+    answer: "Valid"
+  },
+  {
+    question: "The equation F = ρA²V² where F = MLT⁻², ρ = ML⁻³, V = LT⁻¹. Is it valid?",
+    options: ["Valid", "Invalid", "Uncertain", "Inapplicable"],
+    answer: "Invalid"
+  },
+  {
+    question: "The expression a = ρt/m for a moving body is valid given a = LT⁻², ρ = ML⁻³, t = T, m = M.",
+    options: ["Valid", "Invalid", "Uncertain", "Inapplicable"],
+    answer: "Valid"
+  },
+  {
+    question: "A vector whose tail coincides with the origin and arrowhead determines the position of a particle is called?",
+    options: ["Unit Vector", "Position Vector", "Displacement Vector", "Force Vector"],
+    answer: "Position Vector"
+  },
+  {
+    question: "A vector A = 4m–30° and B = 8m–110°. The sum AB = ?",
+    options: ["21–7j", "20–5j", "19–6j", "22–8j"],
+    answer: "21–7j"
+  },
+  {
+    question: "If two vectors OA = 3i+5j and OB = 5i–2j, then AB = ?",
+    options: ["i – 3j", "2i – 7j", "3i + 2j", "4i – 5j"],
+    answer: "2i – 7j"
+  },
+  {
+    question: "The magnitude of AB from question above is?",
+    options: ["5.00", "6.50", "7.28", "8.00"],
+    answer: "7.28"
+  },
+  {
+    question: "Calculate the length of the position vector r = i + j + k.",
+    options: ["1.00", "1.41", "1.73", "2.00"],
+    answer: "1.73"
+  },
+  {
+    question: "Determine the component of the force –3i + 4j + 2k in the direction i + 2j + 3k. Magnitude of resultant forces on particle P, F₁ = 3i + 4j, F₂ = –2i?",
+    options: ["4.00", "5.00", "5.56", "6.00"],
+    answer: "5.56"
+  },
+  {
+    question: "The following forces are equilibrant forces?",
+    options: ["F = i – j", "F = i + j", "F = 2i", "F = j only"],
+    answer: "F = i + j"
+  },
+      {
+    question: "Calculate the centripetal force of an object of mass 50kg which moves round a circle of 30cm diameter with a uniform angular velocity of 2rad/s.",
+    options: ["50 N", "60 N", "70 N", "80 N"],
+    answer: "60 N"
+  },
+  {
+    question: "If scalar product of two vectors is zero, then the two vectors are?",
+    options: ["Parallel", "Perpendicular", "Collinear", "Coplanar"],
+    answer: "Perpendicular"
+  },
+  {
+    question: "A force given by F = 3i + 4j is applied at the point (1, –2). Find the moment of F about the point (2, –1).",
+    options: ["20 Nm", "26.79 Nm", "30 Nm", "35 Nm"],
+    answer: "26.79 Nm"
+  },
+  {
+    question: "What is the kinetic energy of a wagon of mass 125kg whose momentum is 30 kg·m/s?",
+    options: ["2.5 J", "3.6 J", "4.0 J", "5.0 J"],
+    answer: "3.6 J"
+  },
+  {
+    question: "A body starts from rest and travels 90 m in the fifth second. Calculate the acceleration of the body.",
+    options: ["15 m/s²", "20 m/s²", "25 m/s²", "30 m/s²"],
+    answer: "20 m/s²"
+  },
+  {
+    question: "Velocity of a body in m/s changes with displacement according to the law v = 2x². What is the acceleration of the body at a displacement of 2cm?",
+    options: ["6.0×10⁻² m/s²", "6.4×10⁻² m/s²", "7.0×10⁻² m/s²", "8.0×10⁻² m/s²"],
+    answer: "6.4×10⁻² m/s²"
+  },
+  {
+    question: "Write down the result of the following cross multiplication: (i × i) k × i",
+    options: ["j", "–j", "k", "0"],
+    answer: "–j"
+  },
+  {
+    question: "Write down the result of the following scalar multiplication: (i · i) k · k",
+    options: ["0", "1", "–1", "2"],
+    answer: "1"
+  },
+  {
+    question: "A moving particle in space has position vector r = 2t² i + 5t j. What is the velocity at t = 1 sec?",
+    options: ["5.0 m/s", "6.71 m/s", "7.5 m/s", "8.0 m/s"],
+    answer: "6.71 m/s"
+  },
+  {
+    question: "Given that the acceleration of a particle in space is a = V⁻¹ i + t² j + 5 k. What is the velocity of the particle at t = 1?",
+    options: [
+      "v = i + 2j + 5k",
+      "v = i + j + 5k",
+      "v = 2i + j + 5k",
+      "v = i + 3j + 5k"
+    ],
+    answer: "v = i + j + 5k"
+  },
+  {
+    question: "At what velocity was the bomb projected? (to 2 d.p)",
+    options: ["60.00 m/s", "63.69 m/s", "65.00 m/s", "70.00 m/s"],
+    answer: "63.69 m/s"
+  },
+  {
+    question: "What lateral distance were the injured soldiers from the point where the bomb was thrown? (to 2 d.p)",
+    options: ["400.00 m", "411.09 m", "420.00 m", "430.00 m"],
+    answer: "411.09 m"
+  },
+  {
+    question: "Calculate the velocity of the satellite orbiting round the earth if the radius of the earth is 6.4×10⁶ cm and g = 980 cm/s².",
+    options: ["7.5×10⁵ m/s", "7.92×10⁵ m/s", "8.0×10⁵ m/s", "8.5×10⁵ m/s"],
+    answer: "7.92×10⁵ m/s"
+  },
+  {
+    question: "A 2kg mass is whirled round a horizontal circle at the end of a string 0.5 m long, other end being fixed. Frequency of rotation is 3Hz. The speed at which the mass is moving is?",
+    options: ["8.0 m/s", "9.4 m/s", "10.0 m/s", "11.0 m/s"],
+    answer: "9.4 m/s"
+  },
+  {
+    question: "The breaking tension of the string is?",
+    options: ["300 N", "353.4 N", "400 N", "450 N"],
+    answer: "353.4 N"
+  },
+  {
+    question: "A force of 8 N acts horizontally on a stationary mass of 3kg for 5 secs. What is the kinetic energy gained by the mass?",
+    options: ["200 J", "250 J", "267.33 J", "300 J"],
+    answer: "267.33 J"
+  },
+  {
+    question: "Evaluate α and β in the equation E = k m^α V^β, where E is kinetic energy, m the mass, V the viscosity and k dimensionless constant.",
+    options: ["α=1, β=1", "α=1, β=2", "α=2, β=1", "α=2, β=2"],
+    answer: "α=1, β=2"
+  },
+  {
+    question: "Given that the acceleration of a particle moving in space is a = i + 3t² j + 2t k. Then the velocity of the particle will be?",
+    options: [
+      "v = t i + t² j + t² k",
+      "v = t i + t³ j + t² k",
+      "v = 2t i + 3t² j + t k",
+      "v = t i + 2t³ j + t² k"
+    ],
+    answer: "v = t i + t³ j + t² k"
+  },
+  {
+    question: "A 0.25 kg ball is dropped from rest from a height of 30 m. What is the kinetic energy of the ball when it has fallen 15 m?",
+    options: ["50 J", "75 J", "100 J", "125 J"],
+    answer: "75 J"
+  },
+  {
+    question: "With what velocity does the ball strike the ground?",
+    options: ["15.0 m/s", "17.3 m/s", "20.0 m/s", "22.0 m/s"],
+    answer: "17.3 m/s"
+  },
+  {
+    question: "The conservation law applies to the linear momentum of the system as well as to the momentum of the individual object in the system. True or False",
+    options: ["True", "False", "Partially true", "None of the above"],
+    answer: "True"
+  },
+      {
+    question: "A force of 200N acts at an angle of 160° with respect to the positive x‑direction. What are the components of this force in the x and y directions?",
+    options: [
+      "Fₓ = −150N, Fᵧ = 80N",
+      "Fₓ = −187.94N, Fᵧ = 68.39N",
+      "Fₓ = 120N, Fᵧ = −50N",
+      "Fₓ = 100N, Fᵧ = 100N"
+    ],
+    answer: "Fₓ = −187.94N, Fᵧ = 68.39N"
+  },
+  {
+    question: "Write the types of vector multiplication that obeys commutative law",
+    options: ["Scalar product", "Vector product", "Dot product & Cross product", "None of the above"],
+    answer: "Scalar product"
+  },
+  {
+    question: "Write the types of vector multiplication that obeys distributive law",
+    options: ["Scalar product", "Vector product", "Both scalar & vector product", "Neither"],
+    answer: "Vector product"
+  },
+  {
+    question: "The motion of a particle is described by the equation x vₓ + y vᵧ = a. “a” is a constant. Write down an equation describing the path of the motion.",
+    options: ["x² + y² = a²", "x + y = a", "x² − y² = a²", "xy = a"],
+    answer: "x² + y² = a²"
+  },
+  {
+    question: "Write down an equation for the velocity of the motion",
+    options: [
+      "vₓ = dx/dt, vᵧ = dy/dt",
+      "vₓ = x/t, vᵧ = y/t",
+      "vₓ = ax, vᵧ = ay",
+      "vₓ = d²x/dt², vᵧ = d²y/dt²"
+    ],
+    answer: "vₓ = dx/dt, vᵧ = dy/dt"
+  },
+  {
+    question: "Write down an equation for the acceleration of the motion",
+    options: [
+      "aₓ = d²x/dt², aᵧ = d²y/dt²",
+      "aₓ = vₓ/t, aᵧ = vᵧ/t",
+      "aₓ = x/t², aᵧ = y/t²",
+      "aₓ = 0, aᵧ = 0"
+    ],
+    answer: "aₓ = d²x/dt², aᵧ = d²y/dt²"
+  },
+  {
+    question: "What is the magnitude of the velocity and acceleration of the motion above? N / m²?",
+    options: ["N / m²", "m / s²", "kg·m/s", "m² / s"],
+    answer: "N / m²"
+  },
+  {
+    question: "Two masses of 3kg and 5kg are ejecting with equal kinetic energy. The exhaust velocity of the fuel is 25 m/s. The rocket weighs 5000kg and carries 4000kg of fuel. If the exhaust gases are ejected at 1600 m/s, find the velocity gained by the rocket.",
+    options: ["1200 m/s", "1600 m/s", "2000 m/s", "2500 m/s"],
+    answer: "1600 m/s"
+  },
+  {
+    question: "The pressure of a liquid is the force per unit length acting on the surface perpendicular to one side of a line in the surface.",
+    options: ["Viscosity", "Surface Tension", "Pressure", "Density"],
+    answer: "Surface Tension"
+  },
+  {
+    question: "Give the aspects of experimental physics that needs a consistent and unambiguous description of all the quantities involved.",
+    options: ["Observation", "Measurement", "Analysis", "Theory"],
+    answer: "Measurement"
+  },
+  {
+    question: "The minimum number of physical quantities needed to express a fundamental physical quantity is called?",
+    options: ["Base units", "Fundamental dimensions", "Derived units", "Constants"],
+    answer: "Fundamental dimensions"
+  },
+      {
+    question: "What quantity has the dimension ML⁻¹T⁻²?",
+    options: ["Pressure", "Young Modulus", "Stress", "All of the above"],
+    answer: "All of the above"
+  },
+  {
+    question: "Two vectors are said to be equal if they have the same __________.",
+    options: ["Magnitude", "Direction", "Magnitude and Direction", "Unit"],
+    answer: "Magnitude and Direction"
+  },
+  {
+    question: "Given the vectors A = 2i + 3j + 4k and B = 4i + 6j + 8k. (A x B) = ?",
+    options: ["0", "24i", "12j", "32k"],
+    answer: "0"
+  },
+  {
+    question: "A force of 10N acts horizontally on a body of mass 6kg. The Kinetic energy gained by the mass.",
+    options: ["50J", "83.3J", "100J", "120J"],
+    answer: "83.3J"
+  },
+  {
+    question: "Starting from rest, a race car of mass 800kg accelerates steadily to 30m/s in 20 seconds. The average power developed in watts?",
+    options: ["20,000W", "31,500W", "40,000W", "50,000W"],
+    answer: "31,500W"
+  },
+  {
+    question: "An electron is accelerated uniformly from rest to a velocity of 2.0×10⁷ m/s. If the electron traveled 0.10 m, find its acceleration?",
+    options: ["1.0×10¹⁴ m/s²", "2.0×10¹⁵ m/s²", "3.0×10¹³ m/s²", "4.0×10¹⁶ m/s²"],
+    answer: "2.0×10¹⁵ m/s²"
+  },
+  {
+    question: "A bus moving at 20 m/s begins to slow at the rate of 3 m/s each second. Find how far it goes before stopping.",
+    options: ["50m", "66.67m", "80m", "100m"],
+    answer: "66.67m"
+  },
+  {
+    question: "What force will stop a 40kg child sitting on a 40kg wagon acquired from rest by a force of 75N for 2 seconds?",
+    options: ["15N", "18.75N", "20N", "25N"],
+    answer: "18.75N"
+  },
+  {
+    question: "What is the kinetic energy of a wagon of mass 15kg whose momentum is 30 kg·m/s?",
+    options: ["20J", "30J", "45J", "60J"],
+    answer: "30J"
+  },
+  {
+    question: "What is the kinetic energy of a ball when it has a 45° inclined angle of the incline?",
+    options: ["4.5J", "6.1J", "8.0J", "10J"],
+    answer: "6.1J"
+  },
+  {
+    question: "A 0.5kg ball is dropped from rest from a height of 30m. What is the speed of the ball when it has fallen 15m?",
+    options: ["10 m/s", "12.5 m/s", "17.15 m/s", "20 m/s"],
+    answer: "17.15 m/s"
+  },
+  {
+    question: "Is the vector “a” such that a = 3i + 4j and 2i + aj + 3k are coplanar?",
+    options: ["a = 1", "a = 2", "a = 3", "a = 4"],
+    answer: "a = 2"
+  },
+  {
+    question: "A force F = 3i – 4j + 2k is applied at point P with position vector r = j. Find the moment of the force.",
+    options: ["M = 5 Nm", "M = 10 Nm", "M = 8 Nm", "M = 7 Nm"],
+    answer: "M = 8 Nm"
+  },
+      {
+    question: "For what values of a are A = a i + j + k and B = i - a j - k perpendicular?",
+    options: ["a = 0", "a = 1", "a = -2", "a = 2"],
+    answer: "a = -2"
+  },
+  {
+    question: "A pendulum bob hangs from string and moves with simple harmonic motion. If the pendulum completes exactly 12 cycles in 2.0 min, what is the frequency of the pendulum?",
+    options: ["0.05 Hz", "0.1 Hz", "0.2 Hz", "0.5 Hz"],
+    answer: "0.1 Hz"
+  },
+  {
+    question: "A small rocket weighs 500kg and contains 4000kg fuel. If the exhaust velocity of the fuel is 2km/s, find the maximum velocity gained by the rocket.",
+    options: ["1200 m/s", "1600 m/s", "2000 m/s", "2500 m/s"],
+    answer: "1600 m/s"
+  },
+  {
+    question: "In an elastic 2-body collision, the total Kinetic energy is more after the collision than before. TRUE or FALSE?",
+    options: ["TRUE", "FALSE", "Partially True", "None"],
+    answer: "FALSE"
+  },
+  {
+    question: "Ballistic pendulum is an example of perfectly inelastic collision. TRUE or FALSE?",
+    options: ["TRUE", "FALSE", "Partially True", "None"],
+    answer: "TRUE"
+  },
+  {
+    question: "Find the volume of a parallelepiped whose edges are given by: A= 2i+3j, B= i-2j+2k and C=3i-k",
+    options: ["20 m³", "22 m³", "25 m³", "30 m³"],
+    answer: "25 m³"
+  },
+  {
+    question: "Given that the acceleration of a particle moving in space is a = 4t i + 3t² j + 2t k. Then the velocity of the particle will be?",
+    options: [
+      "2t² i + t³ j + t² k",
+      "4t² i + 6t j + 2 k",
+      "2t² i + t³ j + 2t k",
+      "t⁴ i + t³ j + t² k"
+    ],
+    answer: "2t² i + t³ j + 2t k"
+  },
+  {
+    question: "A mass of 70kg is moving with an angular velocity of 50.27 rad/s round a circle of radius 14.0m. Find the force towards the centre of the circle which must be acting on the mass",
+    options: ["5 kN", "6.1 kN", "7 kN", "8 kN"],
+    answer: "6.1 kN"
+  },
+  {
+    question: "What is the resultant of the forces of 3N and 4N inclined at an angle of 60°?",
+    options: ["5 N", "6 N", "7 N", "8 N"],
+    answer: "6 N"
+  },
+  {
+    question: "A bus moving at a speed of 20m/s begins to slow at the rate of 3m/s² each second. Find how far it goes before stopping",
+    options: ["50 m", "60 m", "66.6 m", "70 m"],
+    answer: "66.6 m"
+  },
+  {
+    question: "An airplane travelling at 100 m/s at an elevation of 200 m drops a box of supplies to skiers stranded in a snowstorm. The magnitude of the velocity of the box as it hits the ground is?",
+    options: ["100 m/s", "108 m/s", "120 m/s", "140 m/s"],
+    answer: "108 m/s"
+  },
+  {
+    question: "A motorist drives 120 km at 100 km/h and 120 km at 120 km/h. what is his average speed in km/h for the trip?",
+    options: ["105 km/h", "108 km/h", "109.6 km/h", "110 km/h"],
+    answer: "109.6 km/h"
+  },
+  {
+    question: "A stone is thrown vertically upwards with an initial speed U. Obtain an expression for the time taken to reach its maximum height",
+    options: ["U/g", "2U/g", "U/2g", "g/U"],
+    answer: "U/g"
+  },
+  {
+    question: "A golf ball is hit at an angle of 30° above horizontal with speed of 44 m/s. How high does it rise?",
+    options: ["20 m", "22.5 m", "24.7 m", "25 m"],
+    answer: "24.7 m"
+  },
+  {
+    question: "The motion of a particle is found to be described by the position vector r = [3t² - 6t] i + [5 - 8t] j. Determine its acceleration.",
+    options: ["[6i - 8j] m/s²", "[5i - 7j] m/s²", "[6i - 7j] m/s²", "[5i - 8j] m/s²"],
+    answer: "[6i - 8j] m/s²"
+  },
+  {
+    question: "A car moves round a circle of radius 25 m. If the coefficient of friction between the tires of the car and the asphalt is 0.8, calculate the maximum speed of the car if it is not to slip.",
+    options: ["12 m/s", "14 m/s", "15 m/s", "16 m/s"],
+    answer: "14 m/s"
+  },
+  {
+    question: "A vector having the initial and terminal point coincident is termed as ______.",
+    options: ["Unit vector", "Zero/null vector", "Position vector", "Displacement vector"],
+    answer: "Zero/null vector"
+  },
+  {
+    question: "If OA = [5 + i] = 5 j, find AB.",
+    options: ["i - 3j", "2i - 7j", "3i + 2j", "4i - 5j"],
+    answer: "2i - 7j"
+  },
+  {
+    question: "The density of lead is 11.3 g/cm³. What is the value in kilograms per cubic meter?",
+    options: ["11.3×10² Kg/m³", "11.3×10³ Kg/m³", "1.13×10³ Kg/m³", "1.13×10⁴ Kg/m³"],
+    answer: "11.3×10³ Kg/m³"
+  },
+  {
+    question: "The scalar product of two vector at right angles to each other is _______.",
+    options: ["1", "-1", "Zero", "Infinity"],
+    answer: "Zero"
+  },
+  {
+    question: "What velocity will a 30 kg child sitting on a 50 kg wagon acquire if pushed from rest by a force of 75 N for 2 m?",
+    options: ["1.5 m/s", "2 m/s", "2.5 m/s", "3 m/s"],
+    answer: "2 m/s"
+  },
+  {
+    question: "The quantitative measure of inertia is _______.",
+    options: ["Mass", "Weight", "Force", "Acceleration"],
+    answer: "Mass"
+  },
+  {
+    question: "The tendency of an object to resist any attempt to change its motion is called the __________ of the object.",
+    options: ["Inertia", "Momentum", "Force", "Energy"],
+    answer: "Inertia"
+  },
+  {
+    question: "Find the direction cosine (l, m, n) of the vector r = 3 i + 2 j + 6 k.",
+    options: ["l = 3/7, m = 2/7, n = 6/7", "l = 3/7, m = 3/7, n = 6/7", "l = 2/7, m = 3/7, n = 6/7", "l = 3/6, m = 2/6, n = 6/6"],
+    answer: "l = 3/7, m = 2/7, n = 6/7"
+  },
+  {
+    question: "The scalar product of two vectors is Zero when __________.",
+    options: ["They are parallel", "They are perpendicular", "They are equal", "They are opposite"],
+    answer: "They are perpendicular"
+  },
+  {
+    question: "Newton first law says that when the net external force on an object is zero, its acceleration is zero. True or False?",
+    options: ["TRUE", "FALSE", "Partially True", "None"],
+    answer: "TRUE"
+  },
+  {
+    question: "__________ is the motion of an object whose acceleration is proportional to its distance from a fixed point and always directed towards that point.",
+    options: ["Linear motion", "Circular motion", "Simple Harmonic motion", "Projectile motion"],
+    answer: "Simple Harmonic motion"
+  },
+      {
+    question: "The velocity of a body in m/s changes with displacement according to the law: v=√9x, where x is in meters. Find the acceleration at a displacement of 60 m?",
+    options: ["12.6 m/s²", "18.0 m/s²", "21.6 m/s²", "24.0 m/s²"],
+    answer: "21.6 m/s²"
+  },
+  {
+    question: "A body starts from rest with uniform acceleration of 15 m/s² along the x-axis. The displacement in the fifth second of the journey is?",
+    options: ["60 m", "67.5 m", "75 m", "80 m"],
+    answer: "67.5 m"
+  },
+  {
+    question: "The unit of luminous intensity is?",
+    options: ["Candela", "Lumen", "Lux", "Watt"],
+    answer: "Candela"
+  },
+  {
+    question: "If A=5i+7j-3k and B=2i-2j-ak are perpendicular vectors, find the value of a.",
+    options: ["-10", "-8", "-6", "-4"],
+    answer: "-8"
+  },
+  {
+    question: "A body is at rest under the action of three forces, two of which are: F₁=4i and F₂=6j. The third force F₃=?",
+    options: ["-8", "-10", "-12", "-14"],
+    answer: "-10"
+  },
+  {
+    question: "A force F=(4i-3j)+2k is applied at the point (1, -1, 2). Find the moment of F about the point (2, -1, -3).",
+    options: ["26 Nm", "26.79 Nm", "28 Nm", "30 Nm"],
+    answer: "26.79 Nm"
+  },
+  {
+    question: "Find the volume of a parallelepiped whose edges are given by: A=2i+3j, B=i-2j+2k, C=3i-k.",
+    options: ["20", "25", "30", "35"],
+    answer: "25"
+  },
+  {
+    question: "A body starts from rest and travels 40 m in the sixth second. Calculate the velocity of the body 1 second after starting.",
+    options: ["14.5 m/s", "15.2 m/s", "16.4 m/s", "17.0 m/s"],
+    answer: "16.4 m/s"
+  },
+  {
+    question: "The velocity of a body v as a function of displacement x is given v²=2x–x². What is the acceleration of the body at a displacement of 3 cm?",
+    options: ["-1.0 m/s²", "-1.4 m/s²", "-1.8 m/s²", "-2.0 m/s²"],
+    answer: "-1.4 m/s²"
+  },
+  {
+    question: "A trunk of mass 300 kg travelling at 5 m/s hits a stationary mass 200 kg. If the collision is perfectly inelastic, what speed does the car move with after collision?",
+    options: ["2 m/s", "3 m/s", "4 m/s", "5 m/s"],
+    answer: "3 m/s"
+  },
+  {
+    question: "In an inelastic 2-body collision, the total kinetic energy is more after the collision than before. True or False?",
+    options: ["True", "False", "Partially True", "None of the above"],
+    answer: "False"
+  },
+  {
+    question: "A piece of fried chicken landing on a plate of spaghetti is an example of what collision?",
+    options: ["Elastic", "Inelastic", "Perfectly Elastic", "Partially Elastic"],
+    answer: "Inelastic"
+  },
+  {
+    question: "A ball on a string swings in a horizontal circle of radius 2.0 m. If the centripetal acceleration is 15 m/s², what is the speed of the ball?",
+    options: ["4.5 m/s", "5.0 m/s", "5.5 m/s", "6.0 m/s"],
+    answer: "5.5 m/s"
+  },
+  {
+    question: "What is the centripetal acceleration of a stone being whirled in a circle at the end of a 1.5 m string on a smooth sheet of ice with a frequency of 1.25 Hz?",
+    options: ["90.0 m/s²", "92.43 m/s²", "95.0 m/s²", "100.0 m/s²"],
+    answer: "92.43 m/s²"
+  },
+  {
+    question: "The planet Mercury moves in an approximately circular path around the Sun at an average distance of 5.8×10¹⁰ m, accelerating at 4.0×10⁻² m/s². What is the period of revolution around the Sun?",
+    options: ["1.0×10¹⁸ s", "1.2×10¹⁸ s", "1.5×10¹⁸ s", "2.0×10¹⁸ s"],
+    answer: "1.2×10¹⁸ s"
+  },
+  {
+    question: "An object devoid of size, orientation, and internal structure such that rational and vibration considerations can be ignored in its motion is called?",
+    options: ["Particle", "Rigid body", "Mass point", "System"],
+    answer: "Particle"
+  },
+  {
+    question: "The vector r and F acting along the same line, regardless of their magnitude and sense of direction are termed?",
+    options: ["Parallel Vectors", "Collinear Vectors", "Orthogonal Vectors", "Unit Vectors"],
+    answer: "Collinear Vectors"
+  },
+  {
+    question: "What is that branch of mechanics that deals with the description of motion without any regards to the forces that cause it?",
+    options: ["Kinematics", "Dynamics", "Statics", "Mechanics"],
+    answer: "Kinematics"
+  },
+  {
+    question: "Two of the main aspects of experimental observations are _________ and __________.",
+    options: ["Measurement and Uncertainty", "Accuracy and Precision", "Observation and Inference", "Hypothesis and Theory"],
+    answer: "Measurement and Uncertainty"
+  },
+  {
+    question: "Any vector that specifies the instance of a certain particle with respect to the origin of a chosen coordinate system is called?",
+    options: ["Position Vector", "Displacement Vector", "Unit Vector", "Force Vector"],
+    answer: "Position Vector"
+  },
+  {
+    question: "Imagine a goat being dragged by a native doctor with a steady forward force F=(160N)i – (40N)j over a displacement of S=(14m)i + (11m)j. How much work did he do?",
+    options: ["1.6 kJ", "1.7 kJ", "1.8 kJ", "2.0 kJ"],
+    answer: "1.8 kJ"
+  },
+  {
+    question: "Given three vectors A=i–2j+2k, B= –2i–3k and C=2i+5k, find A.(B×C).",
+    options: ["-33", "-30", "-25", "-20"],
+    answer: "-33"
+  },
+      {
+    question: "Each of the jet engines in a Boeing 767 airliner develops a forward force of 197,000 N on the airplane. When the airplane is flying at 250 m/s, what horsepower does each engine develop? (take 1 hp = 746 W)",
+    options: ["6.0×10⁴ hp", "6.602×10⁴ hp", "7.0×10⁴ hp", "7.5×10⁴ hp"],
+    answer: "6.602×10⁴ hp"
+  },
+  {
+    question: "A man exerts a steady force of magnitude 210 N on a broken down vehicle with flat tyre through a distance of 18 m, at an angle of 30° to the direction of motion. How much work did he do?",
+    options: ["3.0×10³ J", "3.27×10³ J", "3.5×10³ J", "4.0×10³ J"],
+    answer: "3.27×10³ J"
+  },
+  {
+    question: "The collision of balls on a billiard board game is an example of what kind of collision?",
+    options: ["Elastic", "Inelastic", "Perfectly Elastic", "Partially Inelastic"],
+    answer: "Inelastic"
+  },
+  {
+    question: "The volume of a wallet is 8.50 in³. Convert this value to m³ (take 1 in = 2.54 cm).",
+    options: ["1.20×10⁻⁴ m³", "1.39×10⁻⁴ m³", "1.50×10⁻⁴ m³", "1.60×10⁻⁴ m³"],
+    answer: "1.39×10⁻⁴ m³"
+  },
+  {
+    question: "At what respective values of a, b, c would the unit of force, the Newton, be dimensionally equivalent to MᵃLᵇTᶜ?",
+    options: ["a=1, b=1, c=-2", "a=1, b=2, c=-1", "a=2, b=1, c=-2", "a=1, b=1, c=-1"],
+    answer: "a=1, b=1, c=-2"
+  },
+  {
+    question: "Evaluate α and β in the equation Vc³=αmᵃTᵇ, where V is velocity, T is tension, m is mass per unit length and C is a dimensionless constant.",
+    options: ["α=1/2, β=-3/2", "α=1, β=2", "α=1, β=-1", "α=2, β=-1"],
+    answer: "α=1/2, β=-3/2"
+  },
+  {
+    question: "If the distance travelled by an object in time t is given by the formula d = A·t + B·t², the units of A and B must be?",
+    options: ["A=m/s, B=m/s²", "A=m/s², B=m/s", "A=m, B=s", "A=s, B=m"],
+    answer: "A=m/s, B=m/s²"
+  },
+  {
+    question: "The velocity V of an object depends on time t according to V = A + B·t + C·t³. What are the SI units of A, B and C?",
+    options: ["m/s, m/s², m/s³", "m/s, m/s², m/s⁴", "m/s, m²/s², m/s³", "m/s, m/s³, m/s⁴"],
+    answer: "m/s, m/s², m/s⁴"
+  },
+  {
+    question: "The density of lead is 11.3 g/cm³. What is the value in kilogram per cubic meter?",
+    options: ["11.3×10³ kg/m³", "11.0×10³ kg/m³", "12.0×10³ kg/m³", "10.5×10³ kg/m³"],
+    answer: "11.3×10³ kg/m³"
+  },
+  {
+    question: "Evaluate α and β in the equation E=k·mᵃVᵇ, where E is kinetic energy, m is mass, V is viscosity, k dimensionless constant.",
+    options: ["α=1, β=2", "α=2, β=1", "α=1, β=1", "α=2, β=2"],
+    answer: "α=1, β=2"
+  },
+  {
+    question: "Find the constant ‘s’ such that the vector 2i – 3j + 4k and 2i + sj + 5k are coplanar.",
+    options: ["s=-11/2", "s=-5", "s=-3/2", "s=-7/2"],
+    answer: "s=-11/2"
+  },
+  {
+    question: "Determine the component of the force in the direction of the vector A = –4i + 4j.",
+    options: ["3.0", "3.3", "3.5", "4.0"],
+    answer: "3.3"
+  },
+  {
+    question: "Find the volume of the parallelepiped whose sides are represented by A=i–2j, B=2i–j–3k, C=2i+5k.",
+    options: ["30", "32", "35", "40"],
+    answer: "32"
+  },
+  {
+    question: "The angular velocity of a rotating body about an axis of rotation is given by ω=3i–j–2k and r = –2 + 3i–j. Determine the linear speed.",
+    options: ["12 m/s", "14 m/s", "15 m/s", "16 m/s"],
+    answer: "14 m/s"
+  },
+  {
+    question: "A curve on a road has a radius=200 m and is intended for use by traffic travelling at 60 km/h. At what angle should it be banked?",
+    options: ["5°", "6.5°", "8.0°", "10°"],
+    answer: "8.0°"
+  },
+  {
+    question: "Two vectors are given: A = –2i –5j and B = –5i –2j–3k. Find the magnitude of the vector: A×B.",
+    options: ["30", "31", "32.5", "34"],
+    answer: "32.5"
+  },
+  {
+    question: "The components of vectors A and B are given as follows: Ax=5.1, Ay=–5, Bx=2.6, By=4.3. What is the magnitude of the vector sum A+B?",
+    options: ["9.0", "9.3", "9.63", "10.0"],
+    answer: "9.63"
+  },
+  {
+    question: "A particle moving in space has a position vector r(t) = (1+2t³)i – 8tj + k. What is the magnitude of its velocity and acceleration at t = 5 sec?",
+    options: ["100, 60", "100.82, 60.0", "101, 61", "102, 62"],
+    answer: "100.82, 60.0"
+  },
+  {
+    question: "A cricket ball is thrown vertically upwards with a velocity of 20 m/s. Neglecting air resistance, calculate the maximum height reached.",
+    options: ["20 m", "20.41 m", "21 m", "22 m"],
+    answer: "20.41 m"
+  },
+  {
+    question: "The time taken for the ball to reach the earth.",
+    options: ["4.0 s", "4.08 s", "4.5 s", "5.0 s"],
+    answer: "4.08 s"
+  },
+  {
+    question: "Calculate the mass that must be tied to one end of a 0.7 m long string, if when it is made to revolve round a horizontal circle at a speed of 6.0 m/s, produces a string breaking tension of 51.43 N.",
+    options: ["0.8 kg", "1 kg", "1.2 kg", "1.5 kg"],
+    answer: "1 kg"
+  },
+  {
+    question: "If 4 N, 3 N and 2 N forces are acting at a point on a Cartesian plane at angles 50°, 70° and 90° respectively. Find the direction in which their resultant acts.",
+    options: ["60°", "62.5°", "65.5°", "68°"],
+    answer: "65.5°"
+  },
+      {
+    question: "If the angular displacement of a rigid body is given by θ = 15t² + 20t + 8, calculate the angular acceleration of the body.",
+    options: ["20 rad/s²", "25 rad/s²", "30 rad/s²", "35 rad/s²"],
+    answer: "30 rad/s²"
+  },
+  {
+    question: "The frictional force per unit area of a liquid when it is in a region of unit velocity gradient best defines the ——— of a liquid.",
+    options: ["Surface Tension", "Coefficient of Viscosity", "Density", "Pressure"],
+    answer: "Coefficient of Viscosity"
+  },
+  {
+    question: "A body of mass 5kg is placed on a horizontal plane. If a force of 10N is applied horizontally to the body just about to move it, calculate the coefficient of static friction.",
+    options: ["0.1", "0.2", "0.3", "0.4"],
+    answer: "0.2"
+  },
+  {
+    question: "At what angle must a 10N force act to produce a 2√2 Nm moment if it was placed 0.4m from the fulcrum of a meter-long rod pivoted about its midpoint?",
+    options: ["30°", "45°", "60°", "90°"],
+    answer: "45°"
+  },
+  {
+    question: "Determine the force experienced by a charged particle q=2 C moving in a magnetic field B=3i – 4k if the velocity of the particle is V = 2i + 4j + 6k.",
+    options: ["48i – 36j – 24k", "50i – 35j – 20k", "45i – 30j – 25k", "40i – 35j – 20k"],
+    answer: "48i – 36j – 24k"
+  },
+  {
+    question: "Calculate the centripetal force of an object of mass 25 kg moving round a circle of 2 m radius with a uniform angular velocity of 2 rad/s.",
+    options: ["100 N", "150 N", "200 N", "250 N"],
+    answer: "200 N"
+  },
+  {
+    question: "Write down the expression for Poiseuille's equation for flow rate of a liquid.",
+    options: ["Q = πr²ΔP / 8ηl", "Q = πr³ΔP / 8ηl", "Q = πr⁴ΔP / 8ηl", "Q = πr⁴ΔP / 4ηl"],
+    answer: "Q = πr⁴ΔP / 8ηl"
+  },
+  {
+    question: "—— is the liquid force per unit length acting on a surface perpendicular to one side of a line in the surface.",
+    options: ["Viscosity", "Surface Tension", "Pressure", "Density"],
+    answer: "Surface Tension"
+  },
+  {
+    question: "A body starts from rest and travels 90 m in the fifth second. What is the velocity of the body 10 seconds after starting?",
+    options: ["180 m/s", "190 m/s", "200 m/s", "210 m/s"],
+    answer: "200 m/s"
+  },
+  {
+    question: "A body is at rest under the action of three forces, two of which are F₁=4i and F₂=6j. The third force F₃ is?",
+    options: ["–4i – 6j", "–3i – 5j", "–5i – 6j", "–6i – 4j"],
+    answer: "–4i – 6j"
+  },
+  {
+    question: "A force given by F=4i–3j+2k is applied at the point (1, –2, 1). Find the moment of F about the point (2, –1, –3).",
+    options: ["26.0 Nm", "26.79 Nm", "27.0 Nm", "28.0 Nm"],
+    answer: "26.79 Nm"
+  },
+  {
+    question: "Find the volume of a parallelepiped whose edges are given by A = 2i+3j+k, B = i–2j+2k and C = 3i–2j–k.",
+    options: ["25 m³", "28 m³", "29 m³", "30 m³"],
+    answer: "29 m³"
+  },
+  {
+    question: "A body starts from rest and travels 90 m in the 5th second. Calculate the velocity of the body 10 seconds after starting.",
+    options: ["160 m/s", "164 m/s", "168 m/s", "170 m/s"],
+    answer: "164 m/s"
+  },
+  {
+    question: "The velocity of a body, v, as a function of displacement x is given by v = 2x² + x – 1. What is the acceleration of the body at a displacement of 30 cm?",
+    options: ["1.0 m/s²", "1.14 m/s²", "1.2 m/s²", "1.3 m/s²"],
+    answer: "1.14 m/s²"
+  },
+  {
+    question: "A trunk of mass 3000 kg collides with a stationary car of mass 1200 kg. If the collision is perfectly inelastic, at what speed does the wreck move immediately after the collision?",
+    options: ["5/6 v₀", "5/7 v₀", "6/7 v₀", "7/8 v₀"],
+    answer: "5/7 v₀"
+  },
+  {
+    question: "The scalar product of two parallel vectors is:",
+    options: ["0", "90", "180", "360"],
+    answer: "0"
+  },
+  {
+    question: "How much distance is required to stop a car travelling at 108 km/hr if the driver's reaction time is 0.1 sec?",
+    options: ["2 m", "3 m", "3.5 m", "4 m"],
+    answer: "2 m"
+  },
+  {
+    question: "—— is an aspect of experimental observation.",
+    options: ["Calculation", "Solving", "Correlation", "Finding"],
+    answer: "Correlation"
+  },
+  {
+    question: "The dimension for coefficient of viscosity is:",
+    options: ["ML⁻¹T⁻¹", "ML⁻¹T⁻²", "ML⁻²T⁻¹", "ML⁻²T⁻²"],
+    answer: "ML⁻¹T⁻¹"
+  },
+  {
+    question: "All quantities of physics are:",
+    options: ["Dimensional analysis", "Fundamental quantities", "Physical quantities", "Derived quantities"],
+    answer: "Physical quantities"
+  },
+  {
+    question: "P(3, –2, 1) and Q(1, 0, –4). The displacement QP is given by:",
+    options: ["2i–2j–5k", "3i+2j+5k", "–2i+2j–5k", "2i+2j–5k"],
+    answer: "2i–2j–5k"
+  },
+      {
+    question: "(P – v)(V – b) = RT, the value of a is",
+    options: ["ML⁻¹ T⁻²", "ML⁵ T⁻²", "ML³ T⁻²", "ML⁻⁵ T⁻²"],
+    answer: "ML⁻⁵ T⁻²"
+  },
+  {
+    question: "The shaft of a motor makes 3000 revolutions in 4.5 minutes. Find the angular velocity of the shaft in rad/sec.",
+    options: ["69.8 rad/sec", "60 rad/sec", "40.8 rad/sec", "35.5 rad/sec"],
+    answer: "69.8 rad/sec"
+  },
+  {
+    question: "A vector which is equal in magnitude but opposite in direction to the resultant of a number of vectors is called:",
+    options: ["Equal vector", "Equilibrium vector", "Position vector", "Unit vector"],
+    answer: "Equilibrium vector"
+  },
+  {
+    question: "Determine the value of k if P=(2i + ah + k) and Q=(4i – 2j – 2k) are perpendicular.",
+    options: ["4", "2", "3", "5"],
+    answer: "3"
+  },
+  {
+    question: "In a spring run, the winner must possess",
+    options: ["Velocity", "Speed", "Acceleration", "Strength"],
+    answer: "Acceleration"
+  },
+  {
+    question: "Which of the following are scalars?",
+    options: ["Pressure", "Velocity", "Displacement", "Force"],
+    answer: "Pressure"
+  },
+  {
+    question: "What is the unit of the quantity whose dimension is ML⁻¹ T⁻²?",
+    options: ["kgm⁻²", "kgm⁻¹ s⁻²", "kgm² s⁻¹", "kgm⁻² s⁻²"],
+    answer: "kgm⁻¹ s⁻²"
+  },
+  {
+    question: "A train covers a distance of 560 km in 4 hours. Find the average speed of the train.",
+    options: ["140 km/h", "200 km/h", "100 km/h", "160 km/h"],
+    answer: "140 km/h"
+  },
+  {
+    question: "The velocity of a body in m/s changes with displacement x according to the law V= 6x, where x is in m.",
+    options: ["6 m/s", "21.6 m/s", "45 m/s", "30.5 m/s"],
+    answer: "21.6 m/s"
+  },
+  {
+    question: "A mass of 100g revolves in a horizontal circle of radius 1.0 cm. The breaking tension of the string is 6.5N. Find the maximum speed of the mass.",
+    options: ["35 m/s", "10 m/s", "25 m/s", "40 m/s"],
+    answer: "10 m/s"
+  },
+  {
+    question: "Any motion that repeats itself in equal intervals of time is called",
+    options: ["Random motion", "Circular motion", "Periodic motion", "Rotational motion"],
+    answer: "Periodic motion"
+  },
+  {
+    question: "An object of mass 50g is moving in a circle of radius 10cm with a uniform angular velocity of 2 rad/sec. Calculate the speed of the object.",
+    options: ["0.2 m/s", "0.5 m/s", "0.3 m/s", "0.4 m/s"],
+    answer: "0.2 m/s"
+  },
+  {
+    question: "A mass of 10g is vibrating up and down with simple harmonic motion. Its amplitude is 4cm and the period is 2 sec. Find the velocity and acceleration at the center of oscillation.",
+    options: ["0.15 m/s", "0.19 m/s", "0.12 m/s", "0.13 m/s"],
+    answer: "0.12 m/s"
+  },
+  {
+    question: "The energy possessed by a body by virtue of its position is called",
+    options: ["Potential energy", "Heat energy", "Kinetic energy", "Solar energy"],
+    answer: "Potential energy"
+  },
+  {
+    question: "For every action, there is an opposite and equal reaction. This law is – law.",
+    options: ["Newton first law of gravitation", "Newton third law of motion", "First law of thermodynamics", "Coulomb's law"],
+    answer: "Newton third law of motion"
+  },
+  {
+    question: "A line segment whose length is proportional to its magnitude and an arrow head to indicate its direction represents",
+    options: ["Unit vector", "Equal vector", "Zero vector", "Position vector"],
+    answer: "Position vector"
+  },
+  {
+    question: "Dimensional analysis is used for the following except",
+    options: ["To test the validity of an equation", "To establish formulas", "To provide partial solution to physical problems whose direct solution can be achieved by stated methods", "To find out the unit of certain physical quantities"],
+    answer: "To provide partial solution to physical problems whose direct solution can be achieved by stated methods"
+  },
+  {
+    question: "Which of this is correct?",
+    options: ["Vector do not obey distributive law", "Vector obeys commutative law", "The vector product of identical unit vector is zero", "The vector product of identical unit vector is one"],
+    answer: "Vector obeys commutative law"
+  },
+      {
+    question: "The fact that A × B is not equal to B × A is ___",
+    options: ["Distributive", "Cumulative", "Perpendicular", "Rectangular"],
+    answer: "Cumulative"
+  },
+  {
+    question: "A vector whose magnitude is unity is ?",
+    options: ["Resultant vector", "Coplanar vector", "Unit vector", "Zero vector"],
+    answer: "Unit vector"
+  },
+  {
+    question: "The cgs system of measurement is also known as ?",
+    options: ["Gaussian system", "Metric system", "British unit", "American system"],
+    answer: "Gaussian system"
+  },
+  {
+    question: "The quantity of heat that raises the temperature of a substance by θ°C is given by Q=mcθ where m is the mass of the substance and c is its specific heat capacity. Derive the unit of c.",
+    options: ["Jkg⁻² K⁻¹", "Jkg⁻¹", "Jkg⁻¹ K⁻¹", "Jkg² K⁻¹"],
+    answer: "Jkg⁻¹ K⁻¹"
+  },
+  {
+    question: "Find the volume of a parallelepiped whose sides are represented by A=(i − 2j + 2k), B=(−2i − j + 3k), C=(2i + 5k).",
+    options: ["22", "54", "35", "33"],
+    answer: "33"
+  },
+  {
+    question: "A mass of 10g is vibrating up and down with simple harmonic motion, its amplitude is 4cm and the period is 2 sec. Find its kinetic energy at the center.",
+    options: ["4.5 × 10⁻⁴ J", "8.5 × 10⁻⁵ J", "6.5 × 10⁻³ J", "7.6 × 10⁻⁵ J"],
+    answer: "8.5 × 10⁻⁵ J"
+  }
+    ],
+    
+    "PHY 102": [
+      
+    ],
+    "PSY 111": [],
+     "ENT 201": [
+      {
+  question: "Who is the manager of factors of production in a venture?",
+  options: ["Production manager", "CEO", "Intrapreneur", "Entrepreneur", "All of the above"],
+  answer: "Entrepreneur"
+},
+{
+  question: "African women are meticulous intrapreneurs than white women",
+  options: ["True", "False", "Uncertain", "Ambiguous", "None of the above"],
+  answer: "False"
+},
+{
+  question: "The financing method involving an interest-bearing instrument is _____________?",
+  options: ["Loan", "Personal financing", "Short-term financing", "Debt financing", "All of the above"],
+  answer: "Debt financing"
+},
+{
+  question: "What types of innovation refers to the ability to use new ideas from outside the company_____?",
+  options: ["Radical Innovation", "Creative Innovation", "Technical Innovation", "Adoptive Innovation", "All of the above"],
+  answer: "Adoptive Innovation"
+},
+{
+  question: "Which type of financing gives investors ownership position in a business venture __________",
+  options: ["Commercial Loan", "Inventory Loans", "Equity financing", "Account receivable loans", "All the above"],
+  answer: "Equity financing"
+},
+{
+  question: "Which category of innovation is practiced in Nigeria?",
+  options: ["Product Innovation", "Revolutionary Innovation", "Process Innovation", "Evolutionary Innovation", "Cultural Innovation"],
+  answer: "Revolutionary Innovation"
+},
+{
+  question: "Venture Capital is not new in Nigeria",
+  options: ["True", "False", "Uncertain", "Indifference", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "Debt Capital is widely used for external funding",
+  options: ["True", "False", "Uncertain", "Indifference", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "Religion plays a positive role in entrepreneurship development in Nigeria.",
+  options: ["True", "False", "Uncertain", "Indifference", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "The macro view of social entrepreneurship refers to internal factors",
+  options: ["True", "False", "Uncertain", "Indifference", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "What school of thought showcases political displacement as a major factor___________?",
+  options: ["Business School of thought", "Economic School of thought", "Displacement", "Financial", "All the above"],
+  answer: "Displacement"
+},
+{
+  question: "__________ are things held in high esteem by society?",
+  options: ["Money", "Integrity", "Value", "Power", "Trick"],
+  answer: "Value"
+},
+{
+  question: "The biggest problems facing Nigerian enterprises and citizens alike is ________?",
+  options: ["Tribalism", "Corruption", "Lack of national value system", "Indiscipline", "Blocking"],
+  answer: "Lack of national value system"
+},
+{
+  question: "Ethics refers to the basic rules for conducting any activity in an acceptable manner.",
+  options: ["True", "False", "True/False", "Ambiguous", "All the above"],
+  answer: "True"
+},
+{
+  question: "Non Governmental organizations are not obligated to provide consulting services to social Entrepreneurs",
+  options: ["True", "False", "Ambiguous", "Indifference", "Uncertain"],
+  answer: "False"
+},
+{
+  question: "Internal Funding opportunities does not include family and friends assistance",
+  options: ["True", "False", "Uncertain", "Ambiguous", "Indifference"],
+  answer: "False"
+},
+{
+  question: "The process of entrepreneurship begins with __________?",
+  options: ["Creativity", "New ideas", "Exercising 1.7 million brain cells", "Seeking funds", "Taking loan"],
+  answer: "New ideas"
+},
+{
+  question: "The vital element of innovation that identifies product designs is called___________?",
+  options: ["Visual design", "Modification", "Analytical planning", "None of the above", "A and B"],
+  answer: "Analytical planning"
+},
+{
+  question: "Ordinary Innovation is not derived from market analysis",
+  options: ["True", "False", "Ambiguous", "Indifference", "Uncertain"],
+  answer: "False"
+},
+{
+  question: "Which of the following is an element of business opportunity___________?",
+  options: ["Music", "A need", "Sports", "Marketing", "All of the above"],
+  answer: "A need"
+},
+{
+  question: "Capital goods falls under what class of technology __________?",
+  options: ["Space technology", "Nuclear technology", "Hard technology", "Communication technology", "All the above"],
+  answer: "Hard technology"
+},
+{
+  question: "Richard Cantillion defined capitalism as a “creative destruction”",
+  options: ["True", "False", "Uncertain", "Ambiguous", "Indifference"],
+  answer: "False"
+},
+{
+  question: "The number of small and medium Enterprises currently in Africa is _________?",
+  options: ["120 million", "75 million", "80 million", "65 million", "30 million"],
+  answer: "65 million"
+},
+{
+  question: "Technology is purely an application of knowledge generated by scientists or scientific activities.",
+  options: ["True", "False", "Ambiguous", "Uncertain", "Indifference"],
+  answer: "False"
+},
+{
+  question: "Which class of entrepreneurs have demonstrated innovative power in the creation of new technological products ___________?",
+  options: ["Ordinary entrepreneurs", "Social entrepreneurs", "Industry creator entrepreneur", "All the above", "None of the above"],
+  answer: "Industry creator entrepreneur"
+},
+{
+  question: "Who was the original inventor of automotive engine in the world _____?",
+  options: ["Mathias Beckley", "Henry Forbe", "Jerald Macmillan", "Henry Ford", "None of the above"],
+  answer: "Henry Ford"
+},
+{
+  question: "Which Corporation invented Computer technology__________?",
+  options: ["Snigger Corporation", "Microsoft corporation", "Apple corporation", "IBM corporation", "All the above"],
+  answer: "IBM corporation"
+},
+{
+  question: "The twin brothers who invented Pistol gun are called _______?",
+  options: ["John and Clyde", "Bill and Strong", "Jerry and Jones", "Smith and Western", "Billy and Clyde"],
+  answer: "Smith and Western"
+},
+{
+  question: "The great entrepreneur/economist called Joseph Schumpeter is credited the father of Entrepreneurship.",
+  options: ["True", "False", "Uncertain", "Indifference", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "An entrepreneur is also a sole proprietor of his business venture?",
+  options: ["True", "False", "Ambiguous", "Indifference", "Uncertain"],
+  answer: "False"
+},
+{
+  question: "Corporate Nigeria is the largest marketing agent for foreign corporations.",
+  options: ["True", "False", "Uncertain", "Ambiguous", "Indifference"],
+  answer: "True"
+},
+{
+  question: "What is the name of the original inventor of airplane in America ________?",
+  options: ["Jeff Donnell", "Richard Clinton", "John Rockefeller", "Douglas McDonnell", "John Bull"],
+  answer: "Douglas McDonnell"
+},
+{
+  question: "An inventor is typically an innovator",
+  options: ["True", "False", "Ambiguous", "Uncertain", "Indifference"],
+  answer: "False"
+},
+{
+  question: "Which type of innovation is represented by the fundamental re-conceptualization of a Business venture ________?",
+  options: ["Industry innovation", "Technological innovation", "Breakthrough Innovation", "Radical innovation", "All the above"],
+  answer: "Radical innovation"
+},
+{
+  question: "Entrepreneurs are not obligated to pass through the illumination and verification stages of creativity on their ideas.",
+  options: ["True", "False", "Ambiguous", "Uncertain", "Indifference"],
+  answer: "True"
+},
+{
+  question: "Which school of thought deals with an entrepreneur’s life style _________?",
+  options: ["Life style school of thought", "Financial School of thought", "Social School of thought", "Uncertain", "Indifference"],
+  answer: "Life style school of thought"
+},
+{
+  question: "Sudden changes in government policy is a major source of business opportunities.",
+  options: ["True", "False", "Ambiguous", "Uncertain", "Indifference"],
+  answer: "True"
+},
+{
+  question: "Copyright as a part of intellectual property law is not a proprietary right.",
+  options: ["True", "False", "Uncertain", "Ambiguous", "Indifference"],
+  answer: "True"
+},
+{
+  question: "Cinematograph film is not protected by copyright law.",
+  options: ["True", "False", "Ambiguous", "Indifference", "Uncertain"],
+  answer: "False"
+},
+{
+  question: "A trade mark is a mark that serves to distinguish goods or services in the course of trade.",
+  options: ["True", "False", "Falsehood", "Uncertain", "Reliable"],
+  answer: "True"
+},
+{
+  question: "An invention is not protected by Patent Law.",
+  options: ["True", "False", "Falsehood", "Uncertain", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "An industrial design is any combination of lines of colours or both",
+  options: ["True", "False", "Reliable", "Uncertain", "Indifference"],
+  answer: "True"
+},
+{
+  question: "Which transportation technology was invented by Nigerian ancestors before the coming colonial masters ______?",
+  options: ["Bicycle", "Motor cycles", "Cars", "Canoe", "None of the above"],
+  answer: "Canoe"
+},
+{
+  question: "Is culture a major barrier to entrepreneurial practice in Nigeria _______?",
+  options: ["True", "False", "Uncertain", "Indifference", "Falsehood"],
+  answer: "True"
+},
+{
+  question: "To become a successful entrepreneur, one must come from a rich family.",
+  options: ["True", "False", "Uncertain", "Reliable", "Falsehood"],
+  answer: "False"
+},
+{
+  question: "The role of politics in entrepreneurial development in Nigeria is",
+  options: ["Positive", "Negative", "Good", "Bad", "Encouraging"],
+  answer: "Negative"
+},
+{
+  question: "Technological development and entrepreneurial opportunities are needed for youth empowerment.",
+  options: ["True", "False", "Uncertain", "Fantastic", "Great"],
+  answer: "True"
+},
+{
+  question: "Technology transfer is not a complex and time consuming process",
+  options: ["True", "False", "Great", "Reliable", "Uncertain"],
+  answer: "True"
+},
+{
+  question: "________ is a negative breeder of poverty and low self-esteem in Nigeria?",
+  options: ["Tribalism", "Laziness", "Inferiority complex", "Emotional instability", "Drunkenness"],
+  answer: "Inferiority complex"
+},
+{
+  question: "Peer group is a positive influence in entrepreneurial development",
+  options: ["True", "False", "Great", "Uncertain", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "Which agency of the government is responsible for registering and regulating business in Nigeria?",
+  options: ["Cooperative Societies", "Corporate Commission", "Companies registration agency", "Corporate Affairs Commission", "Ministry of Trade and Industry"],
+  answer: "Corporate Affairs Commission"
+},
+{
+  question: "Intellectual property dispute falls under which legal jurisdiction _____________?",
+  options: ["Criminal Law", "Maritime Law", "Civil Law", "Common Law", "Common Law and Civil Law"],
+  answer: "Common Law"
+},
+{
+  question: "Trademarks exclusively involves intellectual input",
+  options: ["True", "False", "False hood", "Not really", "None of the above"],
+  answer: "True"
+},
+{
+  question: "How many categories of works are eligible for copyright __________________?",
+  options: ["10", "7", "6", "12", "15"],
+  answer: "6"
+},
+{
+  question: "Corporate Nigeria is not a marketing agent for foreign corporations",
+  options: ["True", "False", "Falsehood", "Unrelated", "All the above"],
+  answer: "False"
+},
+{
+  question: "The innovative process which refers to the ability to use new ideas from outside an organization is___________?",
+  options: ["Creative innovation", "Process innovation", "Product innovation", "Adoptive innovation", "All the above"],
+  answer: "Adoptive innovation"
+},
+{
+  question: "Which type of financing offers an investor ownership position in the venture?",
+  options: ["Debt financing", "Commercial Loan financing", "Equity financing", "Venture Capitalist financing", "None of the above"],
+  answer: "Equity financing"
+},
+{
+  question: "After an entrepreneur is granted a 20 million naira loan to fund his venture, does he have the right to use part of the money to do burial or go to Dubai with his girlfriend?",
+  options: ["Yes", "No", "Yes/No", "May be", "It depends"],
+  answer: "No"
+},
+{
+  question: "__________ is credited with the entrepreneurial definition of capitalism as a creative destruction?",
+  options: ["Johnpaul", "Edward Hayes", "John Rockifeler", "Joseph Schumpeter", "None of the above"],
+  answer: "Joseph Schumpeter"
+},
+{
+  question: "Marketing techniques involves what class of technology?",
+  options: ["Computer technology", "Machinery technology", "Blue print technology", "Soft technology", "None of the above"],
+  answer: "Soft technology"
+},
+{
+  question: "How many business opportunities have been identified in Nigeria?",
+  options: ["58", "61", "100", "150", "180"],
+  answer: "100"
+},
+{
+  question: "The act of modifying a product to enhance marketability is called __________?",
+  options: ["Invention", "Modification", "Innovation", "Replication", "All the above"],
+  answer: "Innovation"
+},
+{
+  question: "Unregistered Trademarks may be protected under the common law action of _____________?",
+  options: ["Statutory Law", "Constitutional Law", "Trade Law", "Passing off", "None of the above"],
+  answer: "Passing off"
+},
+{
+  question: "The risks of entrepreneurship can be classified into how many categories?",
+  options: ["6", "2", "4", "3", "7"],
+  answer: "3"
+},
+{
+  question: "Technology is a major factor in _________________ development?",
+  options: ["Entrepreneurship development", "National development", "Human development", "Economic development", "None of the above"],
+  answer: "Economic development"
+},
+{
+  question: "______________ is behind the success of entrepreneurship?",
+  options: ["Capitalism", "Phitocrats", "The people", "Institutional support", "State Governor"],
+  answer: "Institutional support"
+},
+{
+  question: "_____________ is a marketing agent of foreign products in Nigeria?",
+  options: ["Sales persons", "Market Women", "Super markets", "Corporate Nigeria", "Vendors"],
+  answer: "Corporate Nigeria"
+},
+{
+  question: "The element of Innovation process that identifies product design is called ___________?",
+  options: ["Internal design", "External design", "Strategic planning", "Analytical planning", "All the above"],
+  answer: "Analytical planning"
+},
+{
+  question: "Communication in business is built upon what?",
+  options: ["Trust", "Partnership", "Honesty", "Respect", "All the above"],
+  answer: "Honesty"
+},
+{
+  question: "The difference between an entrepreneur and a business man is _______________?",
+  options: ["Capitalism", "Sole proprietorship", "Innovation", "All the above", "None of the above"],
+  answer: "Innovation"
+},
+{
+  question: "___________ is the manager of the factors of production?",
+  options: ["Intrapreneur", "Capitalist", "Manager", "Entrepreneur", "Engineer"],
+  answer: "Entrepreneur"
+},
+{
+  question: "A dirty environment normally creates _______________?",
+  options: ["Sickness", "Frustration", "Death", "Poverty", "Wealth"],
+  answer: "Frustration"
+},
+{
+  question: "Technological development is not dependent on _______________?",
+  options: ["Funding", "Investors", "Industrial design", "Scientific Progress", "All the above"],
+  answer: "Scientific Progress"
+},
+{
+  question: "When an entrepreneur goes through the Illumination and verification stages of Creativity, they become _______?",
+  options: ["Innovators", "Industrialists", "Change manager", "Inventors", "All the above"],
+  answer: "Inventors"
+},
+{
+  question: "What type of loan can an entrepreneur obtain for long term financing on a 3-10 years term?",
+  options: ["Personal Loan", "Character loan", "Equipment loan", "All the above", "None of the above"],
+  answer: "Equipment loan"
+},
+{
+  question: "Companies add new products to the product line inorder to ______________?",
+  options: ["More money", "Increase Sale Volume", "Customer Satisfaction", "Job creation", "None of the above"],
+  answer: "Increase Sale Volume"
+},
+{
+  question: "What role does politics play in entrepreneurship development?",
+  options: ["Good", "Negative", "Positive", "Great", "All the above"],
+  answer: "Negative"
+},
+{
+  question: "What role does education play in entrepreneurship development?",
+  options: ["Vital", "Leadership", "Negative", "Positivity", "All the above"],
+  answer: "Vital"
+},
+{
+  question: "The epileptic power supply is inconsequential to entrepreneurs",
+  options: ["True", "False", "True/False", "Maybe", "None of the above"],
+  answer: "False"
+},
+{
+  question: "Who is responsible for the creation of the unconducive business environment in Nigeria?",
+  options: ["Federal government", "State government", "Politicians", "The people", "Poverty"],
+  answer: "State government"
+},
+{
+  question: "Capital mobilization is not a big issue for an entrepreneur",
+  options: ["True", "False", "Falsehood", "All the above", "None of the above"],
+  answer: "False"
+},
+{
+  question: "Richard Cantillion was born in which Country?",
+  options: ["Australia", "Britain", "Ireland", "France", "Poland"],
+  answer: "Ireland"
+},
+{
+  question: "The original indigenes of America are __________________?",
+  options: ["British", "Irish", "Red Indians", "French", "Chinese"],
+  answer: "Red Indians"
+},
+{
+  question: "Which economic theory transformed America into an industrialized nation?",
+  options: ["Capitalism", "Intrapreneurship", "Entrepreneurship", "All the above", "None of the above"],
+  answer: "Entrepreneurship"
+},
+{
+  question: "Henry Ford was born in which country?",
+  options: ["Australia", "Austria", "America", "Britain", "Germany"],
+  answer: "America"
+},
+{
+  question: "Who is the founder and CEO of Microsoft Computer System?",
+  options: ["Henry Ford", "Theodore Roosevelt", "James Scot", "Bill Gates", "None of the above"],
+  answer: "Bill Gates"
+},
+{
+  question: "America became a super power nation because of its commitment to ______________?",
+  options: ["Capitalism", "Entrepreneurship", "Intrapreneurship", "Democracy", "Technology"],
+  answer: "Technology"
+},
+{
+  question: "The country that manufactures the Passat car system is __________?",
+  options: ["Britain", "America", "Japan", "Germany", "China"],
+  answer: "Germany"
+},
+{
+  question: "In America, 23 million small and medium enterprises employs more than __________ percentage of the private workforce?",
+  options: ["30%", "35%", "40%", "45%", "50%"],
+  answer: "50%"
+},
+{
+  question: "In Asia, __________ percentage of the jobs are created by small medium enterprise",
+  options: ["65%", "70%", "75%", "80%", "85%"],
+  answer: "70%"
+},
+{
+  question: "Why is Nigeria the largest consumer nation of foreign goods ____________?",
+  options: ["Capitalism", "Military dictatorship", "Corruption", "Failure to develop entrepreneurship mindset", "All the above"],
+  answer: "Failure to develop entrepreneurship mindset"
+},
+{
+  question: "The Federal government is capable of employing the high pyramid of unemployed youths in Nigeria.",
+  options: ["True", "False", "May be", "Falsehood", "True/False"],
+  answer: "False"
+},
+{
+  question: "Prior to 2006, did the Federal government show any interest in entrepreneurship development in Nigeria?",
+  options: ["Yes", "No", "Yes/No", "Certainty", "None of the above"],
+  answer: "No"
+},
+{
+  question: "What is the name of the Nigeria President who mandated entrepreneurship Studies as a compulsory course in the Nigerian University System?",
+  options: ["Yakubu Gowan", "Ibrahim Babagida", "Mohamadu Buhari", "Olusegun Obasanjo", "Nnamdi Azikiwe"],
+  answer: "Olusegun Obasanjo"
+},
+{
+  question: "The country that manufactures the Volvo car product is ______________________?",
+  options: ["America", "France", "Sweden", "Austria", "Germany"],
+  answer: "Sweden"
+},
+{
+  question: "The contact between Nigerians and British entrepreneurs during the colonial era was ________?",
+  options: ["Cordial", "Encouraging", "Enterprising", "Detrimental", "All the above"],
+  answer: "Detrimental"
+},
+{
+  question: "What kind of influence does peer group have on Ethics?",
+  options: ["Positive", "Negative", "Unity among youths", "All the above", "None of the above"],
+  answer: "Negative"
+},
+{
+  question: "Nigerian Youth’ indiscriminate mutilation of foreign Jeans wear is a sign of _________",
+  options: ["Irresponsibility", "Lack of entrepreneurial mindset", "Rascality", "Criminality", "All the above"],
+  answer: "All the above"
+},
+{
+  question: "____________ refers to the quality of being honest and upright in character",
+  options: ["Ethics", "Value", "Integrity", "Religious", "All the above"],
+  answer: "Integrity"
+},
+{
+  question: "To vandalize or destroy infrastructures in tertiary institutions is contrary to the civilized tenets of entrepreneurship",
+  options: ["True", "False", "True/False", "Falsehood", "All the above"],
+  answer: "True"
+},
+{
+  question: "The ability to perceive an entrepreneurial trend is the gate way to ________________?",
+  options: ["Discover business", "Failure", "Success", "Fame", "Employment"],
+  answer: "Success"
+},
+{
+  question: "Sudden changes in government policy is a major source of ________________________?",
+  options: ["Recession", "Unemployment", "Investor’s Lapses", "Business opportunity", "All the above"],
+  answer: "Business opportunity"
+},
+{
+  question: "Copyright work in national governments and international bodies lapses",
+  options: ["After 50 years of the tenure of the government", "After the tenure of a sitting president", "After 60 years from the initiate date", "70 years after the end of the year the work was first published", "All the above"],
+  answer: "70 years after the end of the year the work was first published"
+},
+{
+  question: "What role does tribal culture play in entrepreneurship development?",
+  options: ["Positive", "Negative", "Supportive", "Ample", "Amble"],
+  answer: "Negative"
+},
+{
+  question: "What kind of direction does a strategic plan provides in business?",
+  options: ["Plutocratic", "Authoritarian", "Long-range", "Short-range", "None of the above"],
+  answer: "Long-range"
+},
+{
+  question: "Communication in business must be built on _____________?",
+  options: ["Experience", "Dishonesty", "Craftiness", "Honesty", "All the above"],
+  answer: "Honesty"
+},
+{
+  question: "Which social institution in Nigeria does not encourage entrepreneurship development?",
+  options: ["Corporation", "Trade association", "Sole proprietorship", "Religion", "All the above"],
+  answer: "Religion"
+},
+{
+  question: "Owner and authorship:",
+  options: ["Are the same", "Are intertwine", "Are not the same", "May relate together", "All the above"],
+  answer: "Are not the same"
+},
+{
+  question: "The entrepreneur plays what kind of role in the national economy?",
+  options: ["Crafty", "Goal oriented", "Honest", "Strategic", "All the above"],
+  answer: "Strategic"
+},
+{
+  question: "For a business to be successful, it must have good _________?",
+  options: ["Foundation", "Good CEO", "Zero corruption", "Patronage", "None of the above"],
+  answer: "Patronage"
+},
+{
+  question: "________________ refers to the basic rules for conducting any activity in an acceptable manner?",
+  options: ["Socialization", "Integrity", "Ethics", "Culture", "Religion"],
+  answer: "Ethics"
+},
+{
+  question: "How many brain cells is a social entrepreneur expected to expand in his life time?",
+  options: ["2.5 million", "1 million", "3 million", "3.5 million", "1.7 million"],
+  answer: "1.7 million"
+},
+{
+  question: "__________ are things held in high esteem by society?",
+  options: ["Good name", "Education", "Family", "Value", "Money"],
+  answer: "Value"
+},
+{
+  question: "The father of entrepreneurship is _______________________?",
+  options: ["Richarde Cantillion", "Richard Cantillion", "Richard Cantilion", "Richard Cantion", "Richaldo Cantillion"],
+  answer: "Richard Cantillion"
+},
+{
+  question: "Capital goods falls under what class of technology?",
+  options: ["Hard technology", "Soft technology", "Machinery", "Automotive technology", "All the above"],
+  answer: "Hard technology"
+},
+{
+  question: "The Business external environment is classified into _______________ and ______________ environments?",
+  options: ["Micro and Macro", "Task and Macro", "Task and external", "Micro and internal", "All the above"],
+  answer: "Task and Macro"
+},
+{
+  question: "Technological innovation occurs more frequently than which type of innovation?",
+  options: ["Creative innovation", "Radical innovation", "Industrial innovation", "Break through innovation", "None of the above"],
+  answer: "Break through innovation"
+},
+{
+  question: "Which type of innovation is represented by the fundamental re-conceptualization of a business?",
+  options: ["Disruptive", "Process", "Incremental", "Radical", "None of the above"],
+  answer: "Radical"
+},
+{
+  question: "Administrative innovation involve organizational structure",
+  options: ["True", "False", "Uncertain", "True/False", "Uncertain"],
+  answer: "True"
+},
+{
+  question: "The element of the innovation process that provides value to customers is called ___________?",
+  options: ["Innovation", "Creativity", "Commercial application", "Business policy", "None of the above"],
+  answer: "Commercial application"
+},
+ {
+  question: "The Psychological Propensities for male and female entrepreneurs are similar",
+  options: ["True", "False", "Falsehood", "May be", "Uncertain"],
+  answer: "True"
+},
+{
+  question: "The ability of an entrepreneur to innovate is thought to relate to innate traits such as ________ and __________?",
+  options: ["Creativity and risk taking", "Craftiness and Creativity", "Introversion and risk taking", "Extroversion and risk taking", "All the above"],
+  answer: "Extroversion and risk taking"
+},
+{
+  question: "________________ are catalysts for economic change?",
+  options: ["Sole proprietors", "Partnerships", "Entrepreneurs", "Intrapreneurs", "All the above"],
+  answer: "Entrepreneurs"
+},
+{
+  question: "The person who Innovates products to enhance marketability in a corporation is called ______?",
+  options: ["A Capitalist", "An entrepreneur", "An Intrapreneur", "A Sales person", "All the above"],
+  answer: "An Intrapreneur"
+},
+{
+  question: "Joseph Schumpeter was born in which country in 1883?",
+  options: ["USA", "Britain", "France", "Japan", "Austria"],
+  answer: "Austria"
+},
+{
+  question: "Cyrus McCormick invented ________________ in 1831?",
+  options: ["Car", "Locomotive engine", "Tractor", "Jet", "Mechanical reaper"],
+  answer: "Mechanical reaper"
+},
+{
+  question: "Corporate cultures and tribal cultures are intertwine",
+  options: ["True", "False", "True/False", "Ambiguous", "None of the above"],
+  answer: "False"
+},
+{
+  question: "Sustaining an entrepreneurial culture depends on who you employ",
+  options: ["True", "Uncertain", "False", "Certain", "Disagree"],
+  answer: "True"
+},
+{
+  question: "The relationship between technology and entrepreneurship is ____________________?",
+  options: ["Ambiguous", "Scientific", "Historical", "Germaine", "All the above"],
+  answer: "Historical"
+},
+{
+  question: "Patents are granted for:",
+  options: ["Protection", "Innovation", "Trade mark", "Invention", "All the above"],
+  answer: "Invention"
+},
+{
+  question: "It is widely known that entrepreneurs are _________________________",
+  options: ["Friendly", "Erratic", "Religious", "Pragmatic", "Unusual"],
+  answer: "Unusual"
+},
+{
+  question: "Nigerians that existed in ____________ were more entrepreneurial than modern Nigerians?",
+  options: ["9000 BC", "1800s", "17th century", "15 century", "All the above"],
+  answer: "9000 BC"
+},
+{
+  question: "Innovation is synonymous with _________________?",
+  options: ["Product design", "Market value", "Risk taking", "Job creation", "Product process"],
+  answer: "Risk taking"
+},
+{
+  question: "The problem with new venture creation process is obtaining",
+  options: ["Family support", "Mismanagement", "Financing", "Equity", "None of the above"],
+  answer: "Financing"
+},
+{
+  question: "The tripartite relationship between technology, entrepreneurship and ______________ does not exist in Nigeria?",
+  options: ["Money", "Corruption free system", "Honesty", "Corporation", "Small and medium enterprise"],
+  answer: "Corruption free system"
+},
+{
+  question: "The search for seed and growth capital falls under which school of thought?",
+  options: ["Creative School of thought", "Development School of thought", "School of high light", "Financial School of thought", "All the above"],
+  answer: "Financial School of thought"
+},
+{
+  question: "Career risk is a major risk to an entrepreneur",
+  options: ["True", "Falsehood", "False", "Ambiguous", "All the above"],
+  answer: "True"
+},
+{
+  question: "__________ is the first-step in the journey to starting a business?",
+  options: ["Funds", "Building", "Family support", "Idea", "None of the above"],
+  answer: "Idea"
+},
+{
+  question: "Globalization of business operations is now possible due to:",
+  options: ["Communication", "Computer", "Post offices", "Internal cooperation", "All the above"],
+  answer: "Computer"
+},
+{
+  question: "The creation of new products is called __________?",
+  options: ["Innovation", "Invention", "Inversion", "All the above", "None of the above"],
+  answer: "Invention"
+},
+{
+  question: "________________ is a source of external funding that is contributed by partners?",
+  options: ["Equity", "Commercial loans", "Venture capital", "Family and friends funding", "All the above"],
+  answer: "Venture capital"
+},
+{
+  question: "In Africa, most people consider technological development as the practical application of science",
+  options: ["True", "False", "Falsehood", "May be", "None of the above"],
+  answer: "True"
+},
+{
+  question: "The Nigerian economy is propelled by Corporate input.",
+  options: ["True", "True/False", "False", "May be", "None of the above"],
+  answer: "False"
+},
+{
+  question: "Bill Gates invented computer technology.",
+  options: ["False", "True/False", "True", "Uncertain", "Ambiguous"],
+  answer: "False"
+},
+{
+  question: "How many brain cells are there in the human brain?",
+  options: ["12 million", "16 million", "17 billion", "18 billion", "20 billion"],
+  answer: "18 billion"
+},
+{
+  question: "________ is defined as the technique for converting inputs to outputs in achieving a specific task?",
+  options: ["Production", "Industrial design", "Technology", "All the above", "None of the above"],
+  answer: "Technology"
+},
+{
+  question: "Technology transfer is a complex process.",
+  options: ["True", "False", "Falsehood", "Uncertain", "Ambiguous"],
+  answer: "True"
+},
+{
+  question: "Agriculture accounts for more than _____________ percentage of non-oil exports?",
+  options: ["50%", "70%", "80%", "85%", "95%"],
+  answer: "70%"
+},
+{
+  question: "_____________ is a social behavior that breeds poverty?",
+  options: ["Laziness", "Broken homes", "Inferiority complex", "Corruption", "Lack of training"],
+  answer: "Inferiority complex"
+},
+{
+  question: "Which type of innovation is derived from market analysis?",
+  options: ["Radical innovation", "Breakthrough", "Technological innovation", "Ordinary innovation", "None of the above"],
+  answer: "Ordinary innovation"
+}
+     ],
    "ENT 211": [
   {
     question: "Executive summary of a business plan contains the following",
@@ -10759,8 +11499,900 @@ export const allQuestions = {
     options: ["Buy and sell.", "to develop and assist the undergraduates.", "to go to school.", "to sell.", "None"],
     answer: "to develop and assist the undergraduates."
   }
-     ],
-    
-   
+     ], 
+   "GST 222":[
+    {
+  question: "OMPADEC means:",
+  options: ["Oil Mineral Producing Areas Development Committee", "Oil Mineral Producing Areas Development Commission", "Oil Mineral Production Areas Development Commission", "Oil Mineral Production Areas Development Committee"],
+  answer: "Oil Mineral Producing Areas Development Commission"
+},
+{
+  question: "NDDB means:",
+  options: ["Niger Delta Decision Board", "Niger Delta Departmental Board", "Niger Delta Development Board", "Niger Delta Developmental Board"],
+  answer: "Niger Delta Development Board"
+},
+{
+  question: "One of the peace building efforts of the Federal Government of Nigeria is..",
+  options: ["Acceptance of a state religion", "Refusal to accept a state religion", "Recognition of a state religion", "Practice of a state religion"],
+  answer: "Refusal to accept a state religion"
+},
+{
+  question: "EAC as a peace building regional force was established by the following countries:",
+  options: ["Kenya, Guinea and Uganda", "Kenya, Tanzania and Sierra Leone", "Kenya, Uganda and Rwanda", "Kenya, Tanzania and Uganda"],
+  answer: "Kenya, Tanzania and Uganda"
+},
+{
+  question: "EAC means:",
+  options: ["East African Commission", "East African Committee", "East African Community", "East African Conference"],
+  answer: "East African Community"
+},
+{
+  question: "IGAD means:",
+  options: ["Intergovernmental Authority on Drought and Development", "Intergovernmental Authority on Development", "Intergovernmental Authority on Development and Drought", "Intergovernmental Authority on Development and Decisions"],
+  answer: "Intergovernmental Authority on Drought and Development"
+},
+{
+  question: "SADC means:",
+  options: ["Southern African Development Commission", "Southern African Development Conference", "Southern African Development Congress", "Southern African Development Community"],
+  answer: "Southern African Development Community"
+},
+{
+  question: "MRU means:",
+  options: ["Manor River Union", "Mano River Union", "Minor River Union", "Major River Union"],
+  answer: "Mano River Union"
+},
+{
+  question: "Conflict management involves the act of managing conflicts either through.",
+  options: ["Diplomacy or arbitration", "Intervention or reconciliation", "All the above", "None of the above"],
+  answer: "All the above"
+},
+{
+  question: "Nigeria has never taken part in any peace keeping operations anywhere in the world since independence:",
+  options: ["True", "False", "I am not sure", "True/False"],
+  answer: "False"
+},
+{
+  question: "A fractured Society means:",
+  options: ["Society with broken bones", "Society factionalized by conflict/war", "Society fractured by bones", "Society with fracture"],
+  answer: "Society factionalized by conflict/war"
+},
+{
+  question: "Peace building is about the provision of overall political framework for the objectives of diplomatic activities, humanitarian assistance, military force and civilian components to be not only co-ordinated, but also harmonized.",
+  options: ["Strongly agree", "Strongly disagree", "Undecided", "False"],
+  answer: "Strongly agree"
+},
+{
+  question: "In the words of Orobator, peace building does not include:",
+  options: ["Peace making", "Peace keeping", "Violent conflict", "Peace enforcement"],
+  answer: "Violent conflict"
+},
+{
+  question: "According to the American Arbitration Association, mediators can be described in... different ways:",
+  options: ["Nineteen", "Nine", "Eight", "Seven"],
+  answer: "Nine"
+},
+{
+  question: "As contained in the GST 222 study guide, there are three types of mediators namely:",
+  options: ["Society Netguard Mediators, Authority Mediators, Dependent Mediators", "Social Network Mediators, Executive Mediators, Independent Mediators", "Society Network Mediators, Authoritative Mediators, Independent Mediators", "Social Network Mediators, Authoritative Mediators, Independent Mediators"],
+  answer: "Social Network Mediators, Authoritative Mediators, Independent Mediators"
+},
+{
+  question: "Who is a mediator in conflict?",
+  options: ["A person who has coercive power over the parties and outcome", "A person who does not have or exercise coercive power over the parties and outcome", "A person who exercises coercive power over the parties and outcome", "A person who has absolute power over the parties and outcome."],
+  answer: "A person who does not have or exercise coercive power over the parties and outcome"
+},
+{
+  question: "Beer and Stief define mediation as any process for resolving disputes in which another person helps the parties negotiate a",
+  options: ["seatlements", "Saettlement", "Settlement", "Sittlement"],
+  answer: "Settlement"
+},
+{
+  question: "WANEP Means:",
+  options: ["West Africa Network for Peacebuilding", "West Africa Network for Progressbuilding", "West Africa Network for Processbuilding", "West Africa Nations for Peacebuilding"],
+  answer: "West Africa Network for Peacebuilding"
+},
+{
+  question: "WIPNET means:",
+  options: ["Women in processbuilding network", "Women in progressbuilding network", "Women in peacebuilding Nigeria", "Women in peacebuilding network"],
+  answer: "Women in peacebuilding network"
+},
+{
+  question: "The conflict between the Chairman of the BOT of a ruling party in Nigeria and the Governor of Abia State was finally resolved through:",
+  options: ["International Institutional Approach", "Non-Governmental Institutional Approach", "Traditional Institutional Approach", "National Institutional Approach"],
+  answer: "Traditional Institutional Approach"
+},
+{
+  question: "Mediation is a voluntary intervention by a third party which is..",
+  options: ["Formal and Binding", "Informal and Non-binding", "Formal and Non-binding", "Informal and Binding"],
+  answer: "Informal and Non-binding"
+},
+{
+  question: "According to Ojiji, the..is the decision making authority in adjudication:",
+  options: ["Mediator", "Judge", "Arbitrator", "Convener"],
+  answer: "Judge"
+},
+{
+  question: "Peace can be built through any of the following techniques:",
+  options: ["Mediation, Arbitration, Conflict, Adjudication", "Mediation, Arbitration, Commission, adjudication", "Mediation, Arbitration, Conciliation, adjudication", "Mediation, Arbitration, Congress, Adjudication"],
+  answer: "Mediation, Arbitration, Conciliation, adjudication"
+},
+{
+  question: "NDDC means:",
+  options: ["Niger Delta Development Commission", "Niger Delta Development Community", "Niger Delta Development Committee", "Niger Delta Development Conference."],
+  answer: "Niger Delta Development Commission"
+},
+{
+  question: "PTF means:",
+  options: ["Police Trustee Fund", "Petroleum Trustee Fund", "Police Trust Fund", "Petroleum Trust Fund"],
+  answer: "Petroleum Trust Fund"
+},
+{
+  question: "The pursuit of incompatible interest or goals by different groups is termed .....",
+  options: ["Conflict", "Violence", "War", "Peace"],
+  answer: "Conflict"
+},
+{
+  question: "Burton 1990 opines that “conflicts is like sex”. This statement implies ..........",
+  options: ["Conflict has both creative and destructive manifestations", "Societal conflicts are dangerous", "Conflict always yield negative results", "Without violent conflict, a society cannot enjoy peace"],
+  answer: "Societal conflicts are dangerous"
+},
+{
+  question: "Conflict management means -----",
+  options: ["Abatement", "Resolution", "Prevention", "All of the above."],
+  answer: "All of the above."
+},
+{
+  question: "Peace building is about the provision of overall political framework for the objectives of diplomatic activities, humanitarian assistance, military force and civilian components to be notonly co-ordinated, but also harmonized.",
+  options: ["Strongly agree", "Strongly disagree", "Undecided", "False"],
+  answer: "Strongly agree"
+},
+{
+  question: "YEAA means",
+  options: ["Youths earnestly ask for abacha", "Youths earnestly ask for abiola", "Youths earnestly ask for abubakar", "None of the above"],
+  answer: "Youths earnestly ask for abacha"
+},
+{
+  question: "The maitasine riots which rocked yola in 1984 was caused by",
+  options: ["Southern youths who wanted to seize power from the north", "Religious bigotry and fundamentalism", "The desireto introduce sharia into southern nigeria", "None of the above"],
+  answer: "Religious bigotry and fundamentalism"
+},
+{
+  question: "In the words of orobator, peace building does not include:",
+  options: ["Peace making", "Peace keeping", "Violent conflict", "Peace enforcement"],
+  answer: "Violent conflict"
+},
+{
+  question: "According to the american arbitration association, mediators can be described in different ways:",
+  options: ["Nineteen", "Nine", "Eight", "Seven"],
+  answer: "Nine"
+},
+{
+  question: "In medical term crisis represents ----",
+  options: ["A stage in the etiology of illness", "Behavior in strategic management", "Diagnosis", "Treatment"],
+  answer: "A stage in the etiology of illness"
+},
+{
+  question: "As contained in the gst 222 study guide, there are three types of mediators namely:",
+  options: ["Society netguard mediators, authority mediators, dependent mediators", "Social network mediators, executive mediators, independent mediators", "Society network mediators, authoritative mediators, independent mediators", "Social network mediators, authoritative mediators, independent mediators"],
+  answer: "Social network mediators, authoritative mediators, independent mediators"
+},
+{
+  question: "------ is one of the tasks of the middle range leaders in the john lederach theory of conflict resolution",
+  options: ["Provision of problem-solving workshop training", "High level negotiations and mediations", "Prejudice reduction", "Grassroots training"],
+  answer: "Provision of problem-solving workshop training"
+},
+{
+  question: "------- is not humanitarian aid to conflict ravaged population",
+  options: ["Bickering", "Giving of food", "Provision of shelter", "Medical service"],
+  answer: "Bickering"
+},
+{
+  question: "------- is an activity of ngos which focuses on early warning in conflict management",
+  options: ["Provision of humanitarian aid", "Advocacy", "Empowerment", "First aid medical service"],
+  answer: "Advocacy"
+},
+{
+  question: "Conflict arising from riots and demonstrations are called ..........",
+  options: ["Simple conflict", "Direct conflict", "Physical conflict", "None of the above"],
+  answer: "Direct conflict"
+},
+{
+  question: "The conflict resolution theory divides conflict into a time-line with three main stages.",
+  options: ["John lederach", "Thomas ohlson and mimmi soderberg", "Kalypso nicolaidis", "Ohlson nicolaidis"],
+  answer: "Kalypso nicolaidis"
+},
+{
+  question: "-------- is not one of the sudden ways government can help manage religious conflicts",
+  options: ["Setting up of committee", "Imposition of curfew", "Deployment of law enforcement", "None of the above"],
+  answer: "Deployment of law enforcement"
+},
+{
+  question: "The name one bears could be a source of conflict",
+  options: ["Agree", "Disagree", "Not quite", "Impossible."],
+  answer: "Agree"
+},
+{
+  question: "The first recorded crisis and its management was between ------",
+  options: ["Ife and modakeke", "Lucifer and god", "Capitalism and communism", "Russia and usa."],
+  answer: "Lucifer and god"
+},
+{
+  question: "-------- is a conflict management technique which entails shared decision making by representatives of the affected parties",
+  options: ["Peace education", "Policy dialogue", "Advocacy", "Provision of humanitarian aid"],
+  answer: "Policy dialogue"
+},
+{
+  question: "......... Is an example of actor involved in the john lederach’s third level of conflict resolution",
+  options: ["military", "intellectual", "governors", "community developers"],
+  answer: "military"
+},
+{
+  question: "The conflict resolution strategies of conciliation, mediation and arbitration have a common pattern of involving",
+  options: ["Partisan third party", "Neutral third party", "Bias third party", "None"],
+  answer: "Neutral third party"
+},
+{
+  question: "-------- communication as conflict management technique is intended to -----",
+  options: ["Reduce suspicion", "Promotion of fraud", "Attenuate peace", "Trade blames"],
+  answer: "Reduce suspicion"
+},
+{
+  question: "------ is a deliberate effort to arrest the minds and equip the parties in conflict with new cultural skills, values and objective inclinations other than the objectives of the conflict",
+  options: ["Militancy", "Resistance", "Peace education", "Altercation"],
+  answer: "Peace education"
+},
+{
+  question: "Government is uniquely empowered to manage conflict because it can ___ in the society",
+  options: ["Allocate resources", "Foster disunity", "Perpetuate injustice", "Encourage war"],
+  answer: "Allocate resources"
+},
+{
+  question: "In the john lederach theory of conflict resolution is a middle range actor in conflict resolution task",
+  options: ["Political leader", "Military", "Humanitarian leader", "Community developer"],
+  answer: "Community developer"
+},
+{
+  question: "------ conflict management involves a developmental and transformation process that entails changes in both the disputants expressed interest and their interpretation of conflict",
+  options: ["Ethnic", "Political", "Intergovernmental", "Patron-client"],
+  answer: "Ethnic"
+},
+{
+  question: "The communicates separately with parties in conflict and seeks to persuade them to work towards peace building",
+  options: ["Arbitrator", "Conciliator", "Adjudicator", "Espionage"],
+  answer: "Conciliator"
+},
+{
+  question: "------- has been one of the key sponsors of major peace operations in africa",
+  options: ["ASCON", "AU", "WHO", "FIFA"],
+  answer: "ASCON"
+},
+{
+  question: "------- is the third phase of the thomas ohlson and mimmi soderberg theory of conflict resolution",
+  options: ["Consolidation", "Implementation", "Dialogue", "None"],
+  answer: "Consolidation"
+},
+{
+  question: "To be effective in managing conflict, government needs a combination of ------",
+  options: ["Legitimacy and coercion", "Bribes and vices", "Legitimacy and constitution", "Frustration and aggression"],
+  answer: "Legitimacy and coercion"
+},
+{
+  question: "Conflicts which can easily be resolved using various means of conflict resolution are known as -",
+  options: ["Tractable conflicts", "Intractable conflict", "Conflict trap", "Conflict transformation"],
+  answer: "Tractable conflicts"
+},
+{
+  question: "Early prevention diplomacy is required at the stage of conflict.",
+  options: ["Latent", "Escalation", "Post-conflict", "Late"],
+  answer: "Latent"
+},
+{
+  question: "NDDC means:",
+  options: ["Niger delta development commission", "Niger delta development community", "Niger delta development committee", "Niger delta development conference."],
+  answer: "Niger delta development commission"
+},
+{
+  question: "PTF means:",
+  options: ["Police trustee fund", "Petroleum trustee fund", "Police trust fund", "Petroleum trust fund"],
+  answer: "Petroleum trust fund"
+},
+{
+  question: "------- is a process whereby actions that are taken will bring a final end to a religious problem",
+  options: ["Sudden approach", "Mean approach", "Gradual reconciliation approach", "None"],
+  answer: "Mean approach"
+},
+{
+  question: "OMPADEC means:",
+  options: ["Oil mineral producing areas development committee", "Oil mineral producing areas development commission", "Oil mineral production areas development commission", "Oil mineral production areas development committee"],
+  answer: "Oil mineral producing areas development commission"
+},
+{
+  question: "The recent crises in jos, plateau state is between",
+  options: ["indigenes and settlers", "Christians and moslems", "a and b above", "none of the above"],
+  answer: "Christians and moslems"
+},
+{
+  question: "NDDB means:",
+  options: ["Niger delta decision board", "Niger delta departmental board", "Niger delta development board", "Niger delta developmental board"],
+  answer: "Niger delta development board"
+},
+{
+  question: "One of the peace building efforts of the federal government of nigeria is…..",
+  options: ["Acceptance of a state religion", "Refusal to accept a state religion", "Recognition of a state religion", "Practice of a state religion"],
+  answer: "Refusal to accept a state religion"
+},
+{
+  question: "Eac as a peace building regional force was established by the following countries:",
+  options: ["Kenya, guinea and uganda", "Kenya, tanzania and sierra leone", "Kenya, uganda and rwanda", "Kenya, tanzania and uganda"],
+  answer: "Kenya, tanzania and uganda"
+},
+{
+  question: "Eac means:",
+  options: ["East african commission", "East african committee", "East african community", "East african conference"],
+  answer: "East african community"
+},
+{
+  question: "IGAD means",
+  options: ["Intergovernmental authority on drought and development", "Intergovernmental authority on development", "Intergovernmental authority on development and drought", "Intergovernmental authority on development and decisions"],
+  answer: "Intergovernmental authority on drought and development"
+},
+{
+  question: "SADC means:",
+  options: ["Southern african development commission", "Southern african development conference", "Southern african development congress", "Southern african development community"],
+  answer: "Southern african development community"
+},
+{
+  question: "------ is not one of the basic strategies for maximizing inter-group cooperation",
+  options: ["Joint task force", "Joint group meeting", "Overlapping group membership", "Espionage"],
+  answer: "Espionage"
+},
+{
+  question: "The subjects of peace education are delivered through the following ways except ---",
+  options: ["Insurgency", "Workshop", "Seminar", "Rallies"],
+  answer: "Insurgency"
+},
+{
+  question: "MRU means:",
+  options: ["Manor river union", "Mano river union", "Minor river union", "Major river union"],
+  answer: "Mano river union"
+},
+{
+  question: "Conflict management involves the act of managing conflicts either through….",
+  options: ["Diplomacy or arbitration", "Intervention or reconciliation", "All the above", "None of the above"],
+  answer: "All the above"
+},
+{
+  question: "The 1980 tiv/jukun violence was precipitated by",
+  options: ["The struggle for land", "The Struggle for traditional rulership", "the struggle for political authority", "All of the above"],
+  answer: "All of the above"
+},
+{
+  question: ".......... Was the leader of the maitasine riots in kano.",
+  options: ["Abubakar gunmi", "Muhamadu marwa", "Aminu shinkafi", "Saliu mohammed"],
+  answer: "Abubakar gunmi"
+},
+{
+  question: "Nigeria has never taken part in any peace keeping operations anywhere in the world since independence:",
+  options: ["True", "False", "I am not sure", "True/false"],
+  answer: "False"
+},
+{
+  question: "A fractured society means:",
+  options: ["Society with broken bones", "Society factionalized by conflict/war", "Society fractured by bones", "Society with fracture"],
+  answer: "Society factionalized by conflict/war"
+},
+{
+  question: "Who is a mediator in conflict?",
+  options: ["A person who has coercive power over the parties and outcome", "A person who does not have or exercise coercive power over the parties and outcome", "A person who exercises coercive power over the parties and outcome", "A person who has absolute power over the parties and outcome."],
+  answer: "A person who does not have or exercise coercive power over the parties and outcome"
+},
+{
+  question: "Beer and stief define mediation as any process for resolving disputes in which another person helps the parties negotiate a……",
+  options: ["Seatlements", "Saettlement", "Settlement", "Sittlement"],
+  answer: "Settlement"
+},
+{
+  question: "WANEP means:",
+  options: ["West africa network for peacebuilding", "West africa network for progressbuilding", "West africa network for processbuilding", "West africa nations for peacebuilding"],
+  answer: "West africa network for peacebuilding"
+},
+{
+  question: "The colour of a man’s skin is of a major consequence in relation to peaceful existence.",
+  options: ["Not sure", "Yes", "No", "Maybe."],
+  answer: "Yes"
+},
+{
+  question: "WIPNET means:",
+  options: ["Women in processbuilding network", "Women in progressbuilding network", "Women in peacebuilding nigeria", "Women in peacebuilding network"],
+  answer: "Women in peacebuilding network"
+},
+{
+  question: "The conflict between the chairman of the bot of a ruling party in nigeria and the governor of abia state was finally resolved through:",
+  options: ["International institutional approach", "Non-governmental institutional approach", "Traditional institutional approach", "National institutional approach"],
+  answer: "Traditional institutional approach"
+},
+{
+  question: "Mediation is a voluntary intervention by a third party which is.….",
+  options: ["Formal and binding", "Informal and non-binding", "Formal and non-binding", "Informal and binding"],
+  answer: "Informal and non-binding"
+},
+{
+  question: "According to ojiji, the…..is the decision making authority in adjudication:",
+  options: ["Mediator", "Judge", "Arbitrator", "Convener"],
+  answer: "Judge"
+},
+{
+  question: "The boko haram crises took place in",
+  options: ["northern nigeria", "eastern nigeria", "Southern nigeria", "western nigeria"],
+  answer: "northern nigeria"
+},
+{
+  question: "Conflict management involves the act of managing conflicts either through",
+  options: ["diplomacy or arbitration", "intervention or reconciliation", "all the above", "none of the above"],
+  answer: "all the above"
+},
+{
+  question: "A fractured society means ___",
+  options: ["society with broken", "society factionalized by conflict/war", "society fractured by bones", "society with fracture"],
+  answer: "society factionalized by conflict/war"
+},
+{
+  question: "Peace building is about the provision of overall political framework for the objectives of diplomatic activities, humanitarian assistance, military force and civilian components to be not only co-ordinated, but also harmonized:",
+  options: ["strongly agree", "strongly disagree", "undecided", "False"],
+  answer: "strongly agree"
+},
+{
+  question: "------- is a west african sub-regional organization that championed peace-keeping operations in the liberian and sierra leonean conflicts",
+  options: ["ECOMOG", "UN", "EU", "AU"],
+  answer: "ECOMOG"
+},
+{
+  question: "The notion of conflict transformation is shaped by the works of -------",
+  options: ["John lederach", "Adams smith", "Professor wole soyinka", "Professor eghosa osaghae"],
+  answer: "John lederach"
+},
+{
+  question: "------- denotes the preservation of peace especially with the deployment of a military mission to keep former warring factions from resuming fighting",
+  options: ["Peace-keeping", "Adjudication", "Arbitration", "Gerrymandering"],
+  answer: "Peace-keeping"
+},
+{
+  question: "The clash of civilization thesis is traceable to ------",
+  options: ["Aminu", "Mohammed", "Mazrui", "Obama"],
+  answer: "Mazrui"
+},
+{
+  question: "MRU means",
+  options: ["manor river union", "mano river union", "minor river union", "major river union"],
+  answer: "mano river union"
+},
+{
+  question: "The situation of a country like nigeria fighting corruption in all sectors of the economy while some of those at the helm of affairs who are also corrupt are claiming to be involved in sanitizing the country can best be described as -----",
+  options: ["Very peaceful", "Progressive", "Disharmonious", "Fantastic atmosphere."],
+  answer: "Disharmonious"
+},
+{
+  question: "When some states owe up to five months salaries and workers take to the street because of the inability to satisfy needs- a situation best suited to ------",
+  options: ["Biological theories", "Psychological theories", "Frustration-aggression theory", "Realist theories."],
+  answer: "Frustration-aggression theory"
+},
+{
+  question: "Former president obasanjo ordered the shooting of opc members on sight in",
+  options: ["January 1999", "April 1999", "July 1999", "November 1999"],
+  answer: "January 1999"
+},
+{
+  question: ".......... Approaches were used in the resolution of warri crises.",
+  options: ["five", "four", "three", "two"],
+  answer: "three"
+},
+{
+  question: "The recent killings of three blacks in the usa in a week represents the significance of the colour of a man’s skin over the colour of his eyes.",
+  options: ["No", "Yes", "Not sure", "Confused."],
+  answer: "Yes"
+},
+{
+  question: "Through sudden approach, government can help to manage conflict by",
+  options: ["imposition of curfew", "setting up investigative committee", "litigation", "conflict analysis"],
+  answer: "imposition of curfew"
+},
+{
+  question: "The idea of conflict transformation has been largely shaped by the works of",
+  options: ["Wole Soyinka", "john ledarach", "kalipso nicolaidis", "eghosa osaghae"],
+  answer: "john ledarach"
+},
+{
+  question: "Terrorism, some say, is part of a reprisal consequence of economic slavery and exploitation of the core region over the peripheries.",
+  options: ["Natural", "Inhuman", "Nemesis", "Payback."],
+  answer: "Natural"
+},
+{
+  question: "GST222 which is peace and conflict management studies is about",
+  options: ["War", "Strategies to win friends", "Peaceful co-existence", "Exploitation."],
+  answer: "Peaceful co-existence"
+},
+{
+  question: "The inability to satisfy needs is best suited to",
+  options: ["Biological theories", "Frustration-aggression theory", "Psychological theories", "Realist theories."],
+  answer: "Frustration-aggression theory"
+},
+{
+  question: "------- is a non-governmental organization involved in conflict management",
+  options: ["Military", "Police", "Court", "Civil society"],
+  answer: "Civil society"
+},
+{
+  question: "Nigeria has never taken part in any peace-keeping operations anywhere in the world since independence",
+  options: ["true", "false", "i am not sure", "true/false"],
+  answer: "false"
+},
+{
+  question: "Peace can be built through any of the following techniques:",
+  options: ["Mediation, arbitration, conflict, adjudication", "Mediation, arbitration, commission, adjudication", "Mediation, arbitration, conciliation, adjudication", "Mediation, arbitration, congress, adjudication"],
+  answer: "Mediation, arbitration, conciliation, adjudication"
+},
+{
+  question: "Violence in warri is traceable to the activities of",
+  options: ["the colonial masters", "ijaw Militants", "urhobo militants", "none of the above"],
+  answer: "ijaw Militants"
+},
+{
+  question: "The recent violence in jos, plateau state started on",
+  options: ["Sunday January 10th", "Sunday January 17th", "Sunday January 24th", "none of the above"],
+  answer: "Sunday January 24th"
+},
+{
+  question: "Peaceful co-existence can only be achieved when the colour of the man skin is not no more significance",
+  options: ["Not sure", "Agree", "Incorrect", "Disagree."],
+  answer: "Agree"
+},
+{
+  question: "To avoid violence among the various ethnic nationalities in nigeria, there must be",
+  options: ["an End to the structural imbalance in the polity", "concerted effort on the part of government to reduce unemployment of youths", "improved standard of living of the people", "all of the above"],
+  answer: "all of the above"
+},
+{
+  question: "Obedience is usually given to the source of treat for fear of disadvantage than the source of love",
+  options: ["Disagree", "Agree", "Confusing", "Probably."],
+  answer: "Agree"
+},
+{
+  question: "Can it be assumed that the apartheid experience in africa contributed to xenophbia?",
+  options: ["Cannot", "It can", "Probably", "Confusing"],
+  answer: "It can"
+},
+{
+  question: "When two or more individuals quarrel is referred to as ------",
+  options: ["Structural conflict", "Symmetric conflict", "Group conflict", "Interpersonal conflict"],
+  answer: "Interpersonal conflict"
+},
+{
+  question: "Conflict arising from culture, where enemy images are built from birth and inculcated into children, that certain ethnic groups are our enemy(ies) and so we do not interact or marry from them are best associated with ----",
+  options: ["Psycho-cultural differences", "Structural conflict theory", "Biological theories", "Realist theories."],
+  answer: "Psycho-cultural differences"
+},
+{
+  question: "Realism has its leading exponent as -------",
+  options: ["Hans mathew", "Hans mogenthan", "Hans jacobs", "Hans ikelegbe"],
+  answer: "Hans mogenthan"
+},
+{
+  question: "There is no linkage between conflict, crisis, violence peace and war.",
+  options: ["Not sure", "Slight", "No", "Yes"],
+  answer: "No"
+},
+{
+  question: "One of these scholars belongs to marxist dialectical schools",
+  options: ["Marx friegels", "Friedrich engels", "Aristotle", "Engels friegels"],
+  answer: "Friedrich engels"
+},
+{
+  question: "The social environment of your development could be a major source of your incompatible life style with others?",
+  options: ["Maybe", "Disagree", "Agree", "Not sure."],
+  answer: "Agree"
+},
+{
+  question: "The concept of integrated conflict management system is propounded by",
+  options: ["John bolt", "T.a. Akpotor", "T.a. Imobighe", "T.a. Igbodo."],
+  answer: "T.a. Imobighe"
+},
+{
+  question: "Is not a strategy for maximization of inter-group cooperation",
+  options: ["bickering", "joint groups meting", "job exchange across groups", "multiple group membership"],
+  answer: "bickering"
+},
+{
+  question: "Is the only institution that can enforce its decision on participants through the use of coercive force",
+  options: ["government", "non-governmental organizations", "humanitarian organization", "none of the above"],
+  answer: "government"
+},
+{
+  question: "The tribe you come from can lead to a situation of disharmony",
+  options: ["Disagree", "Not quite", "Agree", "Relative."],
+  answer: "Agree"
+},
+{
+  question: "Is an example of conflict among minority groups in nigeria",
+  options: ["Ijaw-hausa feud", "Hausa-yoruba", "Ijaw-itsekiri crisis", "Igbo-hausa fracas"],
+  answer: "Ijaw-itsekiri crisis"
+},
+{
+  question: "Theory of conflict resolution track the major stages of conflict resolution",
+  options: ["kalipso nicolaidis", "john lederach", "johan galtung", "thomas ohlson and mimmi solderberg"],
+  answer: "thomas ohlson and mimmi solderberg"
+},
+{
+  question: "Is the use of military mission to attempt to keep former warring forces from resuming fighting",
+  options: ["peace keeping", "peace education", "empowerment", "deradicalization"],
+  answer: "peace keeping"
+},
+{
+  question: "A damage or injury caused by an abusive use of physical force connotes ------",
+  options: ["Abatement", "Arbitration", "Violence", "Negotiation."],
+  answer: "Violence"
+},
+{
+  question: "As a result of what does conflict usually arise?",
+  options: ["Love", "The pursuit of incompatible goals", "Good relationship", "Good governance."],
+  answer: "The pursuit of incompatible goals"
+},
+{
+  question: "In the case of an autocratic government where no official institution of mechanism of managing or resolving conflict is provided, such type of conflict is called ..........",
+  options: ["Two facets conflict", "Violence conflict", "Suppressed conflict", "All of the above"],
+  answer: "Suppressed conflict"
+},
+{
+  question: "The killing of the northern elites in january 15th 1966 coup is a disagreement over .........",
+  options: ["Moral values", "Material values", "Scarcity values", "All of the above"],
+  answer: "All of the above"
+},
+{
+  question: "When conflict is constructive it means",
+  options: ["positive negative impact", "positive relevant Impact", "exploitive impact", "none of the above"],
+  answer: "positive relevant Impact"
+},
+{
+  question: "When does functionally managed conflict brings about a ‘win-win’ rather than ‘win-lose’ outcome?",
+  options: ["if the parties are able to evolve some confidence building and problem solving measures to guide the strain and stresses in furtive relation.", "if the parties involved normalizes the situation", "if the management of the conflict creates more tension", "none of the above"],
+  answer: "if the parties are able to evolve some confidence building and problem solving measures to guide the strain and stresses in furtive relation."
+},
+{
+  question: "Which of the following is not a political conflict?",
+  options: ["patron-client", "inter-party", "interfaith", "inter-governmental"],
+  answer: "interfaith"
+},
+{
+  question: "Is defined as the preservation of peace especially with help of military troops",
+  options: ["mediation", "conflict transformation", "peacekeeping", "negation"],
+  answer: "peacekeeping"
+},
+{
+  question: "Is not a medium for delivering the content of peace education",
+  options: ["rallies", "workshop", "classroom", "harmony"],
+  answer: "classroom"
+},
+{
+  question: "Provision of problem-solving workshop training is one of the tasks of which level in john lederach theory?",
+  options: ["Top level leaders", "Middle range leaders", "Grassroots leaders", "International actors"],
+  answer: "Middle range leaders"
+},
+{
+  question: "Is a west african sub-regional organization that championed peace-keeping operations in the liberian and sierra leonean conflicts",
+  options: ["ECOMOG", "UN", "EU", "AU"],
+  answer: "ECOMOG"
+},
+{
+  question: "The notion of conflict transformation is shaped by the works of",
+  options: ["John lederach", "Adam smith", "Wole soyinka", "Eghosa osaghae"],
+  answer: "John lederach"
+},
+{
+  question: "Denotes the preservation of peace especially with the deployment of a military mission to keep former warring factions from resuming fighting",
+  options: ["Peace-keeping", "Adjudication", "Arbitration", "Negotiation"],
+  answer: "Peace-keeping"
+},
+{
+  question: "Has been one of the key sponsors of major peace operations in africa",
+  options: ["ASCON", "AU", "WHO", "FIFA"],
+  answer: "ASCON"
+},
+{
+  question: "Is the third phase of the thomas ohlson and mimmi soderberg theory of conflict resolution",
+  options: ["Consolidation", "Implementation", "Dialogue", "Escalation"],
+  answer: "Consolidation"
+},
+{
+  question: "To be effective in managing conflict, government needs a combination of",
+  options: ["Legitimacy and coercion", "Bribes and vices", "Legitimacy and constitution", "Frustration and aggression"],
+  answer: "Legitimacy and coercion"
+},
+{
+  question: "Conflicts which can easily be resolved using various means of conflict resolution are known as",
+  options: ["Tractable conflicts", "Intractable conflict", "Conflict trap", "Conflict transformation"],
+  answer: "Tractable conflicts"
+},
+{
+  question: "Early prevention diplomacy is required at the stage of conflict",
+  options: ["Latent", "Escalation", "Post-conflict", "Late"],
+  answer: "Latent"
+},
+{
+  question: "Is not one of the basic strategies for maximizing inter-group cooperation",
+  options: ["Joint task force", "Joint group meeting", "Overlapping group membership", "Espionage"],
+  answer: "Espionage"
+},
+{
+  question: "The subjects of peace education are delivered through the following ways except",
+  options: ["Insurgency", "Workshop", "Seminar", "Rallies"],
+  answer: "Insurgency"
+},
+{
+  question: "Is a process whereby actions that are taken will bring a final end to a religious problem",
+  options: ["Sudden approach", "Mean approach", "Gradual reconciliation approach", "None"],
+  answer: "Mean approach"
+},
+{
+  question: "The clash of civilization thesis is traceable to",
+  options: ["Aminu", "Mohammed", "Mazrui", "Obama"],
+  answer: "Mazrui"
+},
+{
+  question: "The colour of a man’s skin is of a major consequence in relation to peaceful existence",
+  options: ["Not sure", "Yes", "No", "Maybe"],
+  answer: "Yes"
+},
+{
+  question: "The first recorded crisis and its management was between",
+  options: ["Ife and modakeke", "Lucifer and god", "Capitalism and communism", "Russia and usa"],
+  answer: "Lucifer and god"
+},
+{
+  question: "A damage or injury caused by an abusive use of physical force connotes",
+  options: ["Abatement", "Arbitration", "Violence", "Negotiation"],
+  answer: "Violence"
+},
+{
+  question: "Conflict management means",
+  options: ["Abatement", "Resolution", "Prevention", "All of the above"],
+  answer: "All of the above"
+},
+{
+  question: "The concept of integrated conflict management system is propounded by",
+  options: ["John bolt", "T.a. Akpotor", "T.a. Imobighe", "T.a. Igbodo."],
+  answer: "T.a. Imobighe"
+},
+{
+  question: "The tribe you come from can lead to a situation of disharmony",
+  options: ["Disagree", "Not quite", "Agree", "Relative."],
+  answer: "Agree"
+},
+{
+  question: "The name one bears could be a source of conflict",
+  options: ["Agree", "Disagree", "Not quite", "Impossible."],
+  answer: "Agree"
+},
+{
+  question: "The social environment of your development could be a major source of your incompatible life style with others?",
+  options: ["Maybe", "Disagree", "Agree", "Not sure."],
+  answer: "Agree"
+},
+{
+  question: "Realism has its leading exponent as",
+  options: ["Hans mathew", "Hans mogenthan", "Hans jacobs", "Hans ikelegbe"],
+  answer: "Hans mogenthan"
+},
+{
+  question: "One of these scholars belongs to marxist dialectical schools",
+  options: ["Marx friegels", "Friedrich engels", "Aristotle", "Engels friegels"],
+  answer: "Friedrich engels"
+},
+{
+  question: "There is no linkage between conflict, crisis, violence peace and war",
+  options: ["Not sure", "Slight", "No", "Yes"],
+  answer: "No"
+},
+{
+  question: "When two or more individuals quarrel is referred to as",
+  options: ["Structural conflict", "Symmetric conflict", "Group conflict", "Interpersonal conflict"],
+  answer: "Interpersonal conflict"
+},
+{
+  question: "Conflict arising from culture where enemy images are built from birth and inculcated into children are best associated with",
+  options: ["Psycho-cultural differences", "Structural conflict theory", "Biological theories", "Realist theories."],
+  answer: "Psycho-cultural differences"
+},
+{
+  question: "As a result of what does conflict usually arise?",
+  options: ["Love", "The pursuit of incompatible goals", "Good relationship", "Good governance."],
+  answer: "The pursuit of incompatible goals"
+},
+{
+  question: "A damage or injury caused by an abusive use of physical force connotes",
+  options: ["Abatement", "Arbitration", "Violence", "Negotiation"],
+  answer: "Violence"
+},
+{
+  question: "In medical term crisis represents",
+  options: ["A stage in the etiology of illness", "Behaviour in strategic management", "Diagnosis", "Treatment"],
+  answer: "A stage in the etiology of illness"
+},
+{
+  question: "Conflict management means",
+  options: ["Abatement", "Resolution", "Prevention", "All of the above"],
+  answer: "All of the above"
+},
+   ],
+   "POS 216":[
 
-};
+      { question: "Local authorities imposes rates because….", options: ["Government want the rich to become richer", "The people are expected to finance political parties", "It is the obligation of the citizen to pay such rates", "Of the need to provide essential amenities for the citizens"], answer: "It is the obligation of the citizen to pay such rates" },
+      { question: "The geographical unit into which a country is divided for the purpose of elections is called….", options: ["Constituencies", "Local government", "States", "Polling areas"], answer: "Constituencies" },
+      { question: "The main duty of the Civil Service Commission under the Nigerian Republican Constitution was", options: ["The retirement and settlement of pensions for federal civil servants", "Recruitment, discipline and promotion of civil servants", "Appointment of judges", "Determining policies of each government"], answer: "Recruitment, discipline and promotion of civil servants" },
+      { question: "One of the features of local government reforms of 1976 in Nigeria is the", options: ["Reduction of financial aids to local government", "Establishment of local government police", "Introduction of full-time chairmen and supervisory councilors", "Re-introduction of divisional councils"], answer: "Introduction of full-time chairmen and supervisory councilors" },
+      { question: "The principle of sharing the wealth of a nation among the different levels of government is called….", options: ["Delegated legislation", "Revenue allocation", "Bicameralism", "Taxation"], answer: "Revenue allocation" },
+      { question: "Local government can raise revenue through", options: ["Excise duties", "Property rates", "Company taxes", "Income taxes"], answer: "Property rates" },
+      { question: "The 1976 local government reforms in Nigeria ensured that local governments …..", options: ["Are of the same size", "Operate the same annual budget", "Are now independent of the federal government", "Have the same function and compositions"], answer: "Have the same function and compositions" },
+      { question: "For purpose of local government election, local government areas are generally divided into….", options: ["Wards", "Zones", "Constituencies", "Regions"], answer: "Wards" },
+      { question: "Local government laws are known as…..", options: ["Order", "Acts", "Decree", "Bye-laws"], answer: "Bye-laws" },
+      { question: "The constitutional function of local government is…..", options: ["Control of prison services", "Collection of duties on goods", "Provision of market stalls and motor parks", "Provision of vigilante for streets"], answer: "Provision of market stalls and motor parks" },
+      { question: "Another important function of local government is to …..", options: ["Collect taxes from companies", "Make bye-laws", "Mint currency", "Defend the nation"], answer: "Make bye-laws" },
+      { question: "A local government administration promotes…", options: ["Responsive government", "Responsible government", "Consensus", "Democracy at the grass-root"], answer: "Democracy at the grass-root" },
+      { question: "The local government in Britain derives its power from ….", options: ["Centre government", "Country government", "Units government", "State government"], answer: "Centre government" },
+      { question: "Nigeria local government derives its power from …..", options: ["President", "National government", "State government", "Governor"], answer: "State government" },
+      { question: "All the following are functions of the local government except…..", options: ["Sanitation inspection", "Provision of public convenience", "Registration of birth, death and marriages", "Mint of currencies"], answer: "Mint of currencies" },
+     { question: "The following are list which the local government shares with other levels of government except…..", options: ["Agriculture", "Health", "Public library", "Imports"], answer: "Imports" },
+      { question: "The committee structure of local government occurred in Nigeria local government system", options: ["Republican", "Independence", "Before independence", "Post independence 1970"], answer: "Before independence" },
+      { question: "A unified local government system was adopted in Nigeria under the ………", options: ["Murtala/Obasanjo’s regime", "Shehu Shagari’s regime", "Tafawa Balewa’s regime", "Mohammadu Buhari’s regime"], answer: "Murtala/Obasanjo’s regime" },
+      { question: "The local government reforms were carried out by the federal ministry government in…..", options: ["1966", "1970", "1976", "1979"], answer: "1976" },
+      { question: "Local governments are generally empowered by law to collect……", options: ["Taxes", "Fines", "Rates", "Homage"], answer: "Rates" },
+      { question: "An electoral district for a local government election is a …..", options: ["Senatorial district", "Ward", "Polling", "Booth"], answer: "Ward" },
+      { question: "Which of the following is a function performed until recently by local governments in Nigeria?", options: ["Imposition and collection of company tax", "Administration of museums", "Registration of births", "Collection of import duties"], answer: "Registration of births" },
+      { question: "The total number of local governments in Nigeria is……", options: ["480", "623", "830", "774"], answer: "774" },
+      { question: "The 1976 local government reform in Nigeria gave birth to….", options: ["One-tier local government system", "Two-tier local government system", "Three-tier local government system", "Four-tier local government system"], answer: "Three-tier local government system" },
+      { question: "The following are sources of revenue to local government except …..", options: ["Court fines and fees", "Grants", "Duties on exportation of local gods", "Fees from markets and motor parks"], answer: "Duties on exportation of local gods" },
+      { question: "Local government is described as grass-root government because ….", options: ["It is the nearest government to the people", "Its headquarters is located in the village", "All the leaders are from the villages", "All the local people participate in it"], answer: "It is the nearest government to the people" },
+      { question: "The local government system whereby the entire administrative responsibility is concentrated in a single official is known as……", options: ["Committee structure", "Council manager structure", "The sole administrators system", "The executive committee structure"], answer: "Council manager structure" },
+      { question: "The definition of local government is incomplete without mentioning …..", options: ["That it has its own governing body", "Is in constraint conflict with other levels of government", "That it must collect taxes and rates", "That it has a structure for maintaining infrastructure"], answer: "That it has its own governing body" },
+      { question: "The following are the reasons for local government except….", options: ["To bring government to the grass root", "To enhance development at the local level", "To defend the territorial integrity of the system", "To make those at the local level to imbibe the virtues of democracy"], answer: "To defend the territorial integrity of the system" },
+      { question: "The following were part of the recommendations of the 1975/76 local government reforms except……", options: ["That the country should adopt the simple tier local government system", "Each state government was to set up a committee to examine finance and functional relationship", "Specific recognition was to be given to traditional rulers", "Local government should be collecting money and taxes on behalf of the state"], answer: "Local government should be collecting money and taxes on behalf of the state" },
+      { question: "For local government in Nigeria to achieve its relevance…… is important", options: ["Creation", "Funding", "Public control", "Election"], answer: "Funding" },
+      { question: "Local government is seen to be a representative of the public sector at….", options: ["The state level", "Community level", "National level", "Local level"], answer: "Local level" },
+      { question: "All the following are equated as perspectives of development, except…", options: ["Promotion of life and human dignity", "Reduction of poverty", "A social change which brings about improvement in the socio, political and economic life of the people", "Civilization as a way of life"], answer: "Civilization as a way of life" },
+      { question: "Federalism connotes", options: ["Fusion of powers of the state", "Decentralisation of the powers of a state", "Centralization of the powers of a state", "Resource control of the state"], answer: "Decentralisation of the powers of a state" },
+      { question: "All are reasons for the adoption of a federal structure in Nigeria, except…", options: ["Homogenity", "Heterogenity", "Cultural congruence", "Historical background"], answer: "Homogenity" },
+      { question: "One of the following is said to be a major source of income to local governments", options: ["Forestry royalty", "Income taxes collection", "Grants", "Issuance of certificate of occupancy on lands"], answer: "Grants" },
+      { question: "In the 1950’s, it was observed that, the democratization of the council was different in which region", options: ["Northern region", "Eastern region", "Western region", "Mid-western region"], answer: "Northern region" },
+      { question: "The constitution in Nigeria that first recognized the local government as a partner in the national development process was….", options: ["1989", "1972", "1979", "1983"], answer: "1979" },
+      { question: "In the framework of a local government, the population is expected to be between ….", options: ["100,000/350,000", "150,000/260,000", "15,000/800,000", "500,000/900,000"], answer: "15,000/800,000" },
+      { question: "All are functions of the local government legislative arm except…..", options: ["Debating and approval annual budget of the council", "Examine and debate the monthly statement of income", "Vetting and monitoring the implementation of project", "Appointing secretary and supervisory councilors"], answer: "Appointing secretary and supervisory councilors" },
+      { question: "In the federal structure in Nigeria, the local government is in the…..", options: ["Residual list", "Concurrent list", "Exclusive list", "Both exclusive and concurrent lists"], answer: "Residual list" },
+      { question: "How many local government areas are in Edo State", options: ["25", "33", "18", "15"], answer: "18" },
+      { question: "Edo State is comprised of ….. wards", options: ["202", "192", "163", "184"], answer: "192" },
+      { question: "The hierarchical structure of local governments places the local government in ….", options: ["Top of the chart", "Middle chart", "Bottom of the chart", "Medium chart"], answer: "Bottom of the chart" },
+      { question: "The local government is viewed as an indispensable level of government because ….", options: ["It gives job to those at the local level", "It is the closest government to the grass-root", "It is the local government that provide for welfare", "Local government is more liked by the people"], answer: "It is the closest government to the grass-root" },
+      { question: "One of the reasons why there are government at every level is to ……", options: ["Provide social service", "Provide welfare", "Provide employment", "Provide business"], answer: "Provide social service" },
+      { question: "Before the advent of modern local government in Nigeria…. Has already developed a well organized fiscal system of local administration", options: ["Mid-western region", "Northern region", "Western region", "Eastern region"], answer: "Northern region" },
+      { question: "The traditional rulers before colonial rule perform major administrative function at the local level, this involves the following except…..", options: ["Preside over all traditional", "Maintenance of law and order", "Printing and minting of currency", "Establishment of markets"], answer: "Printing and minting of currency" },
+      { question: "The following are approaches to the study of local government except", options: ["Democratic approach", "Service delivery approach", "Municipal approach", "Development approach"], answer: "Municipal approach" },
+      { question: "All the following except one has been adduced as the rational for the existence of local government", options: ["Local people have superior capacity to understand their own affairs", "People in the local communities presumably known their locality and understand its needs better than other afar.", "Local governments have a better and closer adaptation of public service to local needs than centre government officials.", "Local government is more empowered to provide manpower for the adequate security of the nation than others."], answer: "Local government is more empowered to provide manpower for the adequate security of the nation than others." },
+      { question: "The following are typology of local government except….", options: ["Modern", "Special district", "Municipality", "Township"], answer: "Modern" },
+      { question: "The countries model of local government is found in other states of the United State but in Alaska this unit is called….", options: ["Boroughs", "Parishes", "Township", "Municipal"], answer: "Boroughs" },
+      { question: "The functions of licensing of vehicles rest on", options: ["Centre government", "State government", "Local government", "State/local government"], answer: "State government" },
+      { question: "All the following are functions of the local government, except…", options: ["Control and regulation of laundries and car wash", "Control and regulation of restaurants", "Control of vehicles and regulation of traffic", "Control and regulation of outdoor advertising and hawking"], answer: "Control of vehicles and regulation of traffic" },
+      { question: "Local government can also be involved in the following developmental activities, except", options: ["Rural electrification", "Water extension scheme", "Commercial ventures", "International policy"], answer: "International policy" },
+      { question: "…… is regarded as a means for external sources of revenue for local government, except", options: ["Statutory allocation from federation accounts", "Rates on radio, television etc", "Foreign aids and grants", "Loans from financial institutions"], answer: "Rates on radio, television etc" },
+      { question: "The following is what constitutes the recurrent expenditure of local government except", options: ["Personnel cost", "Purchase of vehicles cost", "Overhead cost", "Consolidated revenue cost"], answer: "Purchase of vehicles cost" },
+      { question: "Capital expenditure in local government council in Nigeria includes all the following, except…..", options: ["Construction of office block", "Purchase of furniture", "Consolidated revenue fund", "Construction of lock up stores"], answer: "Consolidated revenue fund" },
+      { question: "All the following are the duties of the internal auditor in the local government except…", options: ["To effect evaluation on financial spending", "Verification function", "100 percent prepayment auditing", "To examine the financial statements and express his opinion"], answer: "Verification function" },
+      { question: "A federal grant to state/local government aimed at expending supply of selected public service is called…..", options: ["Conditional grants", "Block grant", "General purpose grant", "Economic surplus grant"], answer: "Conditional grants" },
+      { question: "Local government autonomy has been hampered because of all the following except…..", options: ["There is no common law right of local self government", "Local government are creations of the state", "Local government are infinitesimal in term of size", "Localities may exercise only those functions and powers expressly granted"], answer: "Local government are infinitesimal in term of size" },
+      { question: "The following are regarded as ethics of local government, except…..", options: ["How can local government generate more revenue", "Should local government be viewed from moral perspective?", "Should local government functionary be resident outside the locality?", "Should people in the locality determine their own affairs?"], answer: "How can local government generate more revenue" },
+      { question: "At the local government level, the director in charge of finance is referred to as ……", options: ["Financial secretary", "Treasurer", "Accountant", "Principal finance director"], answer: "Treasurer" },
+      { question: "At the local government level…. represents the position of the ministers/commissioners", options: ["Councilors", "Supervisory councilors", "Major", "Vice-chairmen"], answer: "Supervisory councilors" },
+      { question: "All the following are basic elements of local government except", options: ["All local government can impose taxes and insure expenditure", "Local governments ate sub-divisions of a state", "Local government are made up of elected/selected persons", "Local governments embark on white elephant projects"], answer: "Local governments embark on white elephant projects" },
+      { question: "The following are reasons for the establishment of the local government in Nigeria, except…", options: ["To be used as a means for boundary demarcation", "To get the citizens involved in the management of their own", "To ensure that resources are effectively mobilized", "To meet the need of the citizens as quickly as possible"], answer: "To be used as a means for boundary demarcation" },
+      { question: "Those elected in the local government that act in its legislative arm is….", options: ["Councilors", "Supervisory councilors", "General congress", "Executive council"], answer: "Councilors" },
+      { question: "The chief administrative officer of the local government is…..", options: ["Vice Chairman", "Chairman", "Ex-official member", "Secretary"], answer: "Secretary" },
+      { question: "All the following are factors that limits the performance of local government except…", options: ["Inability for local government to generate own revenue", "Non-effective demarcation of boundaries", "Lack of qualified manpower", "Lack of skill to undertake programme or performance evaluation"], answer: "Non-effective demarcation of boundaries" },
+      { question: "The federation revenue allocation to local government is of what percentage?", options: ["45 percent", "35 percent", "20 percent", "27 percent"], answer: "20 percent" },
+        ]
+      };

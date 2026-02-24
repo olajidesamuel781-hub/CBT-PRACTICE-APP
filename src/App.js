@@ -14,8 +14,11 @@ export default function App() {
 
   const subjects = useMemo(() => Object.keys(allQuestions), []);
 
-  // EDIT THESE TO MATCH YOUR SUBJECT NAMES
-  const premiumSubjects = useMemo(() => ["GST 111", "GST 112", "ENT 211"], []);
+  // ✅ EDIT PREMIUM SUBJECTS HERE (must match your subject names)
+  const premiumSubjects = useMemo(
+    () => ["GST 102", "MTH 101", "GST 111", "GST 112", "ENT 201", "ENT 211", "GST 222", "POS 216",],
+    []
+  );
 
   useEffect(() => {
     let mounted = true;
@@ -92,7 +95,7 @@ export default function App() {
     }
   };
 
-  // Called after Paystack success + backend verification
+  // Called after payment verification succeeds
   const onPremiumSuccess = async (reference) => {
     if (!session?.user?.id) return;
 
@@ -102,7 +105,7 @@ export default function App() {
       const userId = session.user.id;
       const email = session.user.email || "test@email.com";
 
-      // Save payment record (optional but recommended)
+      // Save payment record (optional)
       await supabase.from("payments").insert([
         {
           user_id: userId,
@@ -122,18 +125,21 @@ export default function App() {
       setIsPremium(true);
     } catch (e) {
       console.error("Premium update error:", e);
-      alert("Payment succeeded but premium update failed. Check console.");
+      alert("Payment verified but premium update failed. Check console.");
     } finally {
       setPremiumLoading(false);
     }
   };
 
   const startSubject = (picked) => {
-    if (premiumSubjects.includes(picked) && !isPremium) {
-      alert(`Unlock Premium to practice: ${picked}`);
+    const clean = String(picked || "").trim();
+
+    if (premiumSubjects.includes(clean) && !isPremium) {
+      alert(`Unlock Premium to practice: ${clean}`);
       return;
     }
-    setSubject(picked);
+
+    setSubject(clean);
   };
 
   if (!session) return <Landing />;

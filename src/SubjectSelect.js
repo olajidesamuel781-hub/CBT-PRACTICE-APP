@@ -1,5 +1,4 @@
 // SubjectSelect.js
-
 import { useMemo, useState } from "react";
 import { PaystackButton } from "react-paystack";
 import "./Landing.css";
@@ -21,22 +20,36 @@ export default function SubjectSelect({
 
   const publicKey = process.env.REACT_APP_PAYSTACK_PUBLIC_KEY || "";
 
-  // Make one reference per click/payment attempt
-  const reference = useMemo(() => `${Date.now()}_${Math.random().toString(16).slice(2)}`, []);
+  // ✅ Normalize premium list once
+  const premiumList = useMemo(() => {
+    return (premiumSubjects || []).map((x) => String(x).trim());
+  }, [premiumSubjects]);
+
+  // ✅ Normalize subjects list once (this fixes hidden spaces)
+  const cleanSubjects = useMemo(() => {
+    return (subjects || []).map((x) => String(x).trim());
+  }, [subjects]);
+
+  const reference = useMemo(
+    () => `${Date.now()}_${Math.random().toString(16).slice(2)}`,
+    []
+  );
 
   const paystackConfig = {
     reference,
     email: studentEmail || "test@email.com",
     publicKey,
-    amount: 1000 * 100, // kobo
+    amount: 1000 * 100,
   };
 
-  const selectedLocked = premiumSubjects?.includes(subject) && !isPremium;
+  const selectedLocked = premiumList.includes(String(subject).trim()) && !isPremium;
 
   const pickSubject = (s) => {
-    setSubject(s);
-    const locked = premiumSubjects?.includes(s) && !isPremium;
-    setNotice(locked ? `Unlock Premium to practice: ${s}` : "");
+    const clean = String(s).trim();
+    setSubject(clean);
+
+    const locked = premiumList.includes(clean) && !isPremium;
+    setNotice(locked ? `Unlock Premium to practice: ${clean}` : "");
   };
 
   const verifyPayment = async (ref) => {
@@ -55,8 +68,7 @@ export default function SubjectSelect({
         return;
       }
 
-      // Verified on server ✅
-      await onPremiumSuccess();
+      await onPremiumSuccess(ref);
       alert("Premium unlocked ✅");
     } catch (e) {
       console.error(e);
@@ -77,7 +89,11 @@ export default function SubjectSelect({
           Logged in as: <b>{studentEmail || "Student"}</b>
         </p>
 
-        <button className="logout-btn" onClick={onLogout} disabled={premiumLoading || verifying}>
+        <button
+          className="logout-btn"
+          onClick={onLogout}
+          disabled={premiumLoading || verifying}
+        >
           Logout
         </button>
 
@@ -92,10 +108,7 @@ export default function SubjectSelect({
             {...paystackConfig}
             text="Unlock Premium ₦1000 / month"
             className="primary-btn"
-            onSuccess={(res) => {
-              // res.reference is what we verify
-              verifyPayment(res?.reference || reference);
-            }}
+            onSuccess={(res) => verifyPayment(res?.reference || reference)}
             onClose={() => {}}
           />
         )}
@@ -103,12 +116,13 @@ export default function SubjectSelect({
         <h3 style={{ textAlign: "center", marginTop: "16px" }}>Select Subject</h3>
 
         <div className="subject-grid-modern">
-          {subjects.map((s) => {
-            const locked = premiumSubjects?.includes(s) && !isPremium;
+          {cleanSubjects.map((s) => {
+            const locked = premiumList.includes(s) && !isPremium;
+
             return (
               <div
                 key={s}
-                className={`subject-item ${subject === s ? "active-subject" : ""}`}
+                className={`subject-item ${String(subject).trim() === s ? "active-subject" : ""}`}
                 onClick={() => pickSubject(s)}
                 style={{ opacity: locked ? 0.6 : 1 }}
               >
@@ -127,7 +141,7 @@ export default function SubjectSelect({
         <button
           className="primary-btn"
           disabled={!subject || selectedLocked || premiumLoading || verifying}
-          onClick={() => onStart(subject)}
+          onClick={() => onStart(String(subject).trim())}
           style={{ marginTop: "14px" }}
         >
           Start Exam
