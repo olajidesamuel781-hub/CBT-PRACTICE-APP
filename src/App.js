@@ -80,6 +80,7 @@ export default function App() {
 
   const logout = async () => {
     try {
+      setPremiumLoading(true);
       await supabase.auth.signOut();
     } catch (e) {
       console.error("Logout error:", e);
@@ -91,14 +92,27 @@ export default function App() {
     }
   };
 
-  const onPremiumSuccess = async () => {
+  // Called after Paystack success + backend verification
+  const onPremiumSuccess = async (reference) => {
     if (!session?.user?.id) return;
 
     setPremiumLoading(true);
 
     try {
       const userId = session.user.id;
+      const email = session.user.email || "test@email.com";
 
+      // Save payment record (optional but recommended)
+      await supabase.from("payments").insert([
+        {
+          user_id: userId,
+          email,
+          reference: reference || `${Date.now()}`,
+          status: "paid",
+        },
+      ]);
+
+      // Update premium flag
       const { error } = await supabase
         .from("profiles")
         .upsert({ id: userId, is_premium: true }, { onConflict: "id" });
