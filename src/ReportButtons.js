@@ -10,7 +10,7 @@ export default function ReportButtons() {
         <div className="report-menu">
           <a
             className="report-item report-email"
-            href="mailto:olajidesamuel781@gmail.com?subject=CBT%20App%20Issue&body=Hello%20PrincePsalm,%20I%20want%20to%20report%20an%20issue:%20"
+            href="mailto:princepsalm30@gmail.com?subject=CBT%20App%20Issue&body=Hello%20PrincePsalm,%20I%20want%20to%20report%20an%20issue:%20"
           >
             📩 Report
           </a>
