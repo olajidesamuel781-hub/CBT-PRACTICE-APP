@@ -1,5 +1,431 @@
 export const allQuestions = {
-    "BIO 101":[],
+    "BIO 101":[
+          {
+      question: "The reproductive part of a plant is",
+      options: ["Node", "Internode", "Flower", "Bud"],
+      answer: "Flower"
+    },
+    {
+      question: "The pistil consists of ____",
+      options: ["Ovary, style, stigma", "Petal, ovary, filament", "Stigma, anther, filament", "Sepal, style, ovule"],
+      answer: "Ovary, style, stigma"
+    },
+    {
+      question: "Which of these is used to represent ribosomes of prokaryotes and eukaryotes?",
+      options: ["40s and 50s", "60s and 80s", "70s and 80s", "50s and 70s"],
+      answer: "70s and 80s"
+    },
+    {
+      question: "Which of these is a single membrane organelle?",
+      options: ["Cytoplast", "Ribosomes", "Nucleus", "Endoplasmic reticulum"],
+      answer: "Endoplasmic reticulum"
+    },
+    {
+      question: "Who is the father of genetics?",
+      options: ["Gregor Mendel", "Charles Darwin", "Watson & Crick", "Robert Hooke"],
+      answer: "Gregor Mendel"
+    },
+    {
+      question: "Humans have how many chromosomes?",
+      options: ["23 pairs", "46 pairs", "22 pairs", "50 pairs"],
+      answer: "23 pairs"
+    },
+    {
+      question: "An asexual reproduction in yeast is known as",
+      options: ["Binary fission", "Fragmentation", "Budding", "Sporulation"],
+      answer: "Budding"
+    },
+    {
+      question: "What part of the cell contains a thin layer of a pectate structure that contains Magnesium and Calcium?",
+      options: ["Plasma membrane", "Cell wall", "Nucleus", "Cytoplasm"],
+      answer: "Cell wall"
+    },
+    {
+      question: "What is the function of cilia in a cell?",
+      options: ["Energy production", "Cell movement and fluid transport", "Protein synthesis", "DNA storage"],
+      answer: "Cell movement and fluid transport"
+    },
+    {
+      question: "Tonoplasts are located in which cell organelle?",
+      options: ["Cytoplasm", "Plastids", "Central vacuole", "Plasma membrane"],
+      answer: "Central vacuole"
+    },
+    {
+      question: "The female reproductive part of a flower is",
+      options: ["Stamen", "Pistil", "Sepal", "Ovule"],
+      answer: "Pistil"
+    },
+    {
+      question: "The site of ATP synthesis in mitochondria is",
+      options: ["Cristae", "Matrix", "Ribosome", "Cytoplasm"],
+      answer: "Cristae"
+    },
+    {
+      question: "The transfer of pollen from the anther to the stigma through carriers such as insects, wind, etc., is called",
+      options: ["Pollens", "Pollination", "Self-pollination", "Cross-pollination"],
+      answer: "Pollination"
+    },
+    {
+      question: "Who first coined the word chromosomes?",
+      options: ["Robert Brown", "Waldeyer", "Schwann", "Watson & Crick"],
+      answer: "Waldeyer"
+    },
+    {
+      question: "What is another name for lysosomes?",
+      options: ["Suicidal bag", "Detoxifying agents", "Energy powerhouse", "Protein factory"],
+      answer: "Suicidal bag"
+    },
+    {
+      question: "What is the core structure of cilia and flagella?",
+      options: ["Microtubules", "Microfilaments", "Ribosomes", "Centrioles"],
+      answer: "Microtubules"
+    },
+    {
+      question: "What is a ripened ovary called?",
+      options: ["Ovule", "Fruit", "Seed", "Endosperm"],
+      answer: "Fruit"
+    },
+    {
+      question: "Where is the tonoplast located?",
+      options: ["Nucleus", "Mitochondria", "Central vacuole", "Cytoplasm"],
+      answer: "Central vacuole"
+    },
+    {
+      question: "Which flower part produces seeds?",
+      options: ["Petal", "Ovary", "Stamen", "Sepal"],
+      answer: "Ovary"
+    },
+    {
+      question: "Mitotic cell division occurs in",
+      options: ["Somatic cell", "Non-somatic cell", "Gamete cell", "Sex cell"],
+      answer: "Somatic cell"
+    },
+    {
+      question: "In adequate supply of water, algae reproduce via ____",
+      options: ["Spore formation", "Budding", "Binary fission"],
+      answer: "Binary fission"
+    },
+    {
+      question: "_____ is the removal of toxic materials of metabolism from the body of an organism.",
+      options: ["Egestion", "Excretion", "Respiration", "Photosynthesis"],
+      answer: "Excretion"
+    },
+    {
+      question: "The human body has _____ chromosomes",
+      options: ["78 pairs", "46 pairs", "23 pairs", "43 pairs"],
+      answer: "23 pairs"
+    },
+    {
+      question: "Who first described a cell?",
+      options: ["Robert Hooke", "Theodore Schwann", "Matthias Schleiden", "Antonie van Leeuwenhoek"],
+      answer: "Robert Hooke"
+    },
+    {
+      question: "What is the functional unit of heredity?",
+      options: ["Chromosome", "Genes", "DNA", "RNA"],
+      answer: "Genes"
+    },
+    {
+      question: "What is the difference between chromoplast and leucoplast?",
+      options: ["Chromoplast stores starch, leucoplast stores pigment", "Chromoplast has color pigments, leucoplast is colorless", "Chromoplast is found in roots, leucoplast is in leaves", "Chromoplast carries DNA, leucoplast stores protein"],
+      answer: "Chromoplast has color pigments, leucoplast is colorless"
+    },
+    {
+      question: "A ripened ovary is called __________.",
+      options: ["Ovule", "Fruit", "Seed", "Pollen"],
+      answer: "Fruit"
+    },
+    {
+      question: "There are _____ chromosomes in humans.",
+      options: ["46 pairs", "23 pairs", "50 pairs", "78 pairs"],
+      answer: "23 pairs"
+    },
+    {
+      question: "Which of these is a parasite?",
+      options: ["Roundworm", "Tapeworm", "Mosquito", "Fluke"],
+      answer: "Tapeworm"
+    },
+    {
+      question: "When was the cell theory formulated?",
+      options: ["1665", "1838", "1855", "1901"],
+      answer: "1838"
+    },
+    {
+      question: "What is the difference between chloroplast and leucoplast?",
+      options: ["Chloroplast is colorless, leucoplast is green", "Chloroplast stores pigments, leucoplast stores starch", "Chloroplast is found in roots, leucoplast is in leaves", "Chloroplast contains DNA, leucoplast does not"],
+      answer: "Chloroplast stores pigments, leucoplast stores starch"
+    },
+    {
+      question: "Which animals give birth to their young ones alive?",
+      options: ["Amphibians", "Reptiles", "Mammals", "Birds"],
+      answer: "Mammals"
+    },
+    {
+      question: "The transfer of pollen to flowers through wind or insects is called?",
+      options: ["Pollination", "Germination", "Fertilization", "Propagation"],
+      answer: "Pollination"
+    },
+    {
+      question: "Which classification is based on grouping animals based on their natural affinities?",
+      options: ["Binomial nomenclature", "Natural classification", "Artificial classification", "Phylogenetic classification"],
+      answer: "Natural classification"
+    },
+    {
+      question: "What is the function of vacuole in plants?",
+      options: ["Photosynthesis", "Storage and structural support", "Respiration", "Protein synthesis"],
+      answer: "Storage and structural support"
+    },
+    {
+      question: "Yeast reproduces asexually by?",
+      options: ["Binary fission", "Fragmentation"],
+      answer: "Binary fission"
+    },
+    {
+      question: "What is common between prokaryotic and eukaryotic cells?",
+      options: ["Chromosomes", "Lysosomes", "Mitochondria", "Golgi apparatus"],
+      answer: "Chromosomes"
+    },
+    {
+      question: "Who is the father of the cell?",
+      options: ["Robert Hooke", "Theodor Schwann", "Matthias Schleiden", "Rudolf Virchow"],
+      answer: "Robert Hooke"
+    },
+    {
+      question: "What organelle in plants stores water, color pigments, and waste?",
+      options: ["Mitochondria", "Chloroplast", "Vacuole", "Ribosome"],
+      answer: "Vacuole"
+    },
+    {
+      question: "The process by which food is broken down in a living cell is called?",
+      options: ["Photosynthesis", "Respiration", "Digestion", "Assimilation"],
+      answer: "Respiration"
+    },
+    {
+      question: "Excretion, irritability, and reproduction take place in?",
+      options: ["Plants and animals", "Animals only", "Plants only", "Microorganisms only"],
+      answer: "Plants and animals"
+    },
+    {
+      question: "What are the parts of the pistil?",
+      options: ["Anther-Ovary-Stigma", "Style-Ovary-Stigma", "Petal-Style-Stigma", "Ovule-Style-Anther"],
+      answer: "Style-Ovary-Stigma"
+    },
+    {
+      question: "_____ is the removal of toxic materials and waste products of metabolism.",
+      options: ["Egestion", "Excretion", "Secretion", "Digestion"],
+      answer: "Excretion"
+    },
+    {
+      question: "_____ is the transfer of pollen grains from the anther to the stigma of a flower through insects, etc.",
+      options: ["Pollination", "Cross-pollination", "Self-pollination", "Asexual reproduction"],
+      answer: "Pollination"
+    },
+    {
+      question: "The female reproductive part of the plant is",
+      options: ["Anther", "Stigma", "Pistil", "Stamen"],
+      answer: "Pistil"
+    },
+    {
+      question: "The asexual reproduction of algae is",
+      options: ["Fragmentation", "Binary fission", "Spore formation", "Vegetative propagation"],
+      answer: "Spore formation"
+    },
+    {
+      question: "Which primary pigment is responsible for photosynthesis?",
+      options: ["Xanthophyll", "Carotene", "Chlorophyll", "Anthocyanin"],
+      answer: "Chlorophyll"
+    },
+    {
+      question: "Which organelle is responsible for detoxifying chemicals?",
+      options: ["Mitochondria", "Golgi apparatus", "Peroxisome", "Lysosome"],
+      answer: "Peroxisome"
+    },
+    {
+      question: "_____ is the process by which food is broken down for energy?",
+      options: ["Photosynthesis", "Respiration", "Excretion", "Circulation"],
+      answer: "Respiration"
+    },
+    {
+      question: "_____ is the branch of biology that deals with classifying, naming, and organizing living things.",
+      options: ["Morphology", "Taxonomy", "Ecology", "Genetics"],
+      answer: "Taxonomy"
+    },
+    {
+      question: "If a plant with an unknown genotype is crossed with a homozygous short plant and the phenotype result is 1:1, what is the unknown genotype?",
+      options: ["TT", "Tt", "tt", "TT or Tt"],
+      answer: "Tt"
+    },
+    {
+      question: "The protein found in the Endoplasmic Reticulum is",
+      options: ["Actin", "Tubulin", "Ribophorin", "Collagen"],
+      answer: "Ribophorin"
+    },
+    {
+      question: "Behavioral traits are due to",
+      options: ["Environmental factors", "Genetic factors", "None of the above", "Both Genetic and Environmental factors"],
+      answer: "Both Genetic and Environmental factors"
+    },
+    {
+      question: "All these are acellular organisms except",
+      options: ["Euglena", "Bacteria", "Spirogyra", "Amoeba"],
+      answer: "Spirogyra"
+    },
+    {
+      question: "The part of the cell that consists of thin pectic substances of calcium and magnesium is",
+      options: ["Middle lamella", "Cell wall", "Plasmodesmata", "Tonoplast"],
+      answer: "Middle lamella"
+    },
+    {
+      question: "The challenge of recalling information on 1.5 million animal species has to do with",
+      options: ["Taxonomy", "Ecology", "Biochemistry", "Evolution"],
+      answer: "Taxonomy"
+    },
+    {
+      question: "The part of mitochondria that contains enzymes for ATP synthesis is",
+      options: ["Thylakoid", "Inner membrane", "Cristae", "Matrix"],
+      answer: "Cristae"
+    },
+    {
+      question: "Animals are not known to be diverse in",
+      options: ["Mode of nutrition", "Reproduction", "Size", "Photosynthesis"],
+      answer: "Photosynthesis"
+    },
+    {
+      question: "The structural core of cilia and pseudopodia is",
+      options: ["Axoneme", "Actin", "Myosin", "Tubulin"],
+      answer: "Axoneme"
+    },
+    {
+      question: "_____ is the formation of a new plant from parts of a plant",
+      options: ["Budding", "Vegetative Propagation", "Binary Fission", "Grafting"],
+      answer: "Vegetative Propagation"
+    },
+    {
+      question: "What is the reproductive formation of algae?",
+      options: ["Budding", "Fragmentation", "Binary Fission", "Spore Formation"],
+      answer: "Spore Formation"
+    },
+    {
+      question: "Who coined the word Chromosome?",
+      options: ["Mendel", "Darwin", "Flemming", "Strauburg"],
+      answer: "Flemming"
+    },
+    {
+      question: "The most inclusive and exclusive groups in taxonomy are",
+      options: ["Kingdom and Species", "Class and Phylum", "Order and Genus", "Family and Division"],
+      answer: "Kingdom and Species"
+    },
+    {
+      question: "Which of these is a non-membrane bound organelle?",
+      options: ["Cytoplasm", "Ribosome", "Lysosome", "Golgi Apparatus"],
+      answer: "Ribosome"
+    },
+    {
+      question: "The function of Ribosome is",
+      options: ["Stores Lipid", "Protein Synthesis", "Energy Production", "Transport of Materials"],
+      answer: "Protein Synthesis"
+    },
+    {
+      question: "The three types of plastids are",
+      options: ["Chloroplast, Chromoplast, and Leucoplast", "Mitochondria, Chloroplast, and Vacuole", "Ribosome, Golgi, and Lysosome", "Peroxisome, Endosome, and Centriole"],
+      answer: "Chloroplast, Chromoplast, and Leucoplast"
+    },
+    {
+      question: "The role of crossing over is",
+      options: ["Mutation repair", "New combination of offspring", "DNA replication", "Energy production"],
+      answer: "New combination of offspring"
+    },
+    {
+      question: "The cell organelle containing heterogeneous material is",
+      options: ["Vacuole", "Cytoplasm", "Lysosome", "Nucleus"],
+      answer: "Vacuole"
+    },
+    {
+      question: "Which of these are non-membranous?",
+      options: ["Vacuole", "Lysosome", "Cytoskeleton", "Glyoxysome"],
+      answer: "Cytoskeleton"
+    },
+    {
+      question: "Which of the following is unicellular?",
+      options: ["Euglena", "Bacteria", "Spirogyra", "Amoeba"],
+      answer: "Amoeba"
+    },
+    {
+      question: "Which of the following are parasitic?",
+      options: ["Mosquito", "Fluke", "Tapeworm", "Roundworm"],
+      answer: "Tapeworm"
+    },
+    {
+      question: "Behavioral traits are influenced by",
+      options: ["Environmental factors", "Genetic factors", "Both Genetic and Environmental factors", "None of the above"],
+      answer: "Both Genetic and Environmental factors"
+    },
+    {
+      question: "The model form of the plasma membrane is",
+      options: ["Lipid bilayer model", "Unit membrane model", "Fluid mosaic model", "Sandwich model"],
+      answer: "Fluid mosaic model"
+    },
+    {
+      question: "The most exclusive taxon is",
+      options: ["Kingdom", "Genus", "Family", "Species"],
+      answer: "Species"
+    },
+    {
+      question: "_____ first coined the word chromosome.",
+      options: ["Waldeyer", "Mendel", "Flemming", "Darwin"],
+      answer: "Waldeyer"
+    },
+    {
+      question: "The cell organelle responsible for transporting materials is",
+      options: ["Ribosome", "Golgi Apparatus", "Endoplasmic Reticulum", "Lysosome"],
+      answer: "Endoplasmic Reticulum"
+    },
+    {
+      question: "The most exclusive taxonomic rank is",
+      options: ["Phylum", "Class", "Species", "Order"],
+      answer: "Species"
+    },
+    {
+      question: "The most inclusive taxonomic rank is",
+      options: ["Genus", "Phylum", "Order", "Class"],
+      answer: "Phylum"
+    },
+    {
+      question: "Which of the following is an example of a viviparous animal?",
+      options: ["Gorilla", "Snake", "Horse", "Lizard"],
+      answer: "Horse"
+    },
+    {
+      question: "The reproductive part of a plant is",
+      options: ["Flower", "Bud", "Spore", "Leaf"],
+      answer: "Flower"
+    },
+    {
+      question: "The activities of the cell are controlled by",
+      options: ["Nucleus", "Cytoplasm", "Mitochondria", "Golgi Apparatus"],
+      answer: "Nucleus"
+    },
+    {
+      question: "The cell theory was published in what year?",
+      options: ["1839", "1978", "1836", "1858"],
+      answer: "1839"
+    },
+    {
+      question: "Which part of the cell consists of calcium and magnesium pectate?",
+      options: ["Vesicle", "Nucleus", "Middle lamella", "Cytoplasm"],
+      answer: "Middle lamella"
+    },
+    {
+      question: "Who is the father of genetics?",
+      options: ["Charles Darwin", "Gregor Mendel", "Robert Hooke", "Watson & Crick"],
+      answer: "Gregor Mendel"
+    },
+    {
+      question: "What is the function of the Golgi apparatus?",
+      options: ["Energy production", "Protein synthesis", "Packaging and secretion of proteins", "Storage of genetic material"],
+      answer: "Packaging and secretion of proteins"
+    },
+    ],
   "CHM 101": [
         {
     question: "The Brønsted–Lowry concept of acid and bases failed to explain __________.",
