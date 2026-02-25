@@ -3,6 +3,7 @@ import "./Landing.css";
 import aaulogo from "./assets/image (2).png";
 import googleLogo from "./assets/google.png";
 import { supabase } from "./supabaseClient";
+import ReportButtons from "./ReportButtons";
 
 export default function Landing() {
   const [mode, setMode] = useState("signin"); // signin | signup
@@ -43,7 +44,8 @@ export default function Landing() {
     <div className="auth-page">
       <img src={aaulogo} alt="Ambrose Alli University Logo" className="auth-logo" />
       <h1 className="auth-title">CBT PRACTICE APP</h1>
-      <p className="auth-subtitle">AMBROSE ALLI UNIVERSITY & EXAM PRACTICE SYSTEM</p>
+      <p className="auth-subtitle"> Psalm CBT Practice App for AAU Students</p>
+      <p className="powered-by">@powered by PrincePsalm.</p>
 
       <div className="auth-card">
         <div className="auth-field">
@@ -126,6 +128,7 @@ export default function Landing() {
           </p>
         )}
       </div>
+      <ReportButtons />
     </div>
   );
 }

@@ -82,7 +82,8 @@ export default function SubjectSelect({
     <div className="auth-page">
       <img src={aaulogo} alt="Ambrose Alli University Logo" className="auth-logo" />
       <h1 className="auth-title">CBT PRACTICE APP</h1>
-      <p className="auth-subtitle">AMBROSE ALLI UNIVERSITY & EXAM PRACTICE SYSTEM</p>
+      <p className="auth-subtitle"> Psalm CBT Practice App for AAU Students</p>
+      <p className="powered-by">@powered by PrincePsalm.</p>
 
       <div className="auth-card">
         <p style={{ marginBottom: "12px", textAlign: "center" }}>

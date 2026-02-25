@@ -19,12 +19,21 @@
 .auth-title {
   margin: 8px 0 4px;
   letter-spacing: 1px;
+  color: rgb(218, 152, 11);
 }
 
 .auth-subtitle {
-  margin: 0 0 20px;
-  font-size: 13px;
+  margin: 0 0 10px;
+  font-size: 20px;
   opacity: 0.8;
+}
+.powered-by{
+  text-align: center;
+  font-size: 14px;
+  opacity: 0.5;
+   font-style: italic;
+  margin-bottom: 23px;
+  color: rgb(234, 37, 37);
 }
 
 .auth-card {

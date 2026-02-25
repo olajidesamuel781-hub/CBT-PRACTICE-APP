@@ -5,8 +5,17 @@ import Landing from "./Landing";
 import SubjectSelect from "./SubjectSelect";
 import { allQuestions } from "./questions";
 import { supabase } from "./supabaseClient";
+import ReportButtons from "./ReportButtons";
 
 export default function App() {
+
+ useEffect(() => {
+  // document.addEventListener("contextmenu", (e) => e.preventDefault());
+  document.addEventListener("copy", (e) => e.preventDefault());
+  document.addEventListener("cut", (e) => e.preventDefault());
+  document.addEventListener("paste", (e) => e.preventDefault());
+}, []);
+
   const [session, setSession] = useState(null);
   const [subject, setSubject] = useState("");
   const [isPremium, setIsPremium] = useState(false);
@@ -147,18 +156,22 @@ export default function App() {
   const studentEmail = session.user.email || "test@email.com";
 
   if (!subject) {
-    return (
-      <SubjectSelect
-        subjects={subjects}
-        onStart={startSubject}
-        onLogout={logout}
-        studentEmail={studentEmail}
-        isPremium={isPremium}
-        premiumLoading={premiumLoading}
-        onPremiumSuccess={onPremiumSuccess}
-        premiumSubjects={premiumSubjects}
-      />
-    );
+   return (
+  <>
+    <SubjectSelect
+      subjects={subjects}
+      onStart={startSubject}
+      onLogout={logout}
+      studentEmail={studentEmail}
+      isPremium={isPremium}
+      premiumLoading={premiumLoading}
+      onPremiumSuccess={onPremiumSuccess}
+      premiumSubjects={premiumSubjects}
+    />
+
+    <ReportButtons />
+   </>
+  );
   }
 
   return (
