@@ -3,6 +3,7 @@ import { useMemo, useState } from "react";
 import { PaystackButton } from "react-paystack";
 import "./Landing.css";
 import aaulogo from "./assets/image (2).png";
+import ReportButtons from "./ReportButtons";
 
 export default function SubjectSelect({
   subjects,
@@ -114,6 +115,7 @@ export default function SubjectSelect({
           />
         )}
 
+         <ReportButtons userEmail={studentEmail} />
         <h3 style={{ textAlign: "center", marginTop: "16px" }}>Select Subject</h3>
 
         <div className="subject-grid-modern">

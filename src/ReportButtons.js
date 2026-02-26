@@ -1,39 +1,53 @@
 import { useState } from "react";
 import "./ReportButtons.css";
+import ReportModal from "./ReportModal";
 
-export default function ReportButtons() {
-  const [open, setOpen] = useState(false);
+export default function ReportButtons({ userEmail }) {
+  const [menuOpen, setMenuOpen] = useState(false);
+  const [modalOpen, setModalOpen] = useState(false);
 
   return (
-    <div className="report-fab">
-      {open && (
-        <div className="report-menu">
-          <a
-            className="report-item report-email"
-            href="mailto:princepsalm30@gmail.com?subject=CBT%20App%20Issue&body=Hello%20PrincePsalm,%20I%20want%20to%20report%20an%20issue:%20"
-          >
-            📩 Report
-          </a>
+    <>
+      {/* top-left 3 dots */}
+      <div className="report-fab top-left">
+        {menuOpen && (
+          <div className="report-menu">
+            <button
+              className="report-item report-email"
+              onClick={() => {
+                setMenuOpen(false);
+                setModalOpen(true);
+              }}
+            >
+              ✉️ Report
+            </button>
 
-          <a
-            className="report-item report-wa"
-            href="https://wa.me/2349126352640"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            💬 WhatsApp
-          </a>
-        </div>
-      )}
+            <a
+              className="report-item report-whatsapp"
+              href="https://wa.me/2349126352640"
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={() => setMenuOpen(false)}
+            >
+              💬 WhatsApp
+            </a>
+          </div>
+        )}
 
-      <button
-        type="button"
-        className="report-toggle"
-        onClick={() => setOpen((v) => !v)}
-        aria-label="Open report menu"
-      >
-        ⋮
-      </button>
-    </div>
+        <button
+          type="button"
+          className="report-toggle"
+          onClick={() => setMenuOpen((v) => !v)}
+        >
+          ⋯
+        </button>
+      </div>
+
+      <ReportModal
+        open={modalOpen}
+        onClose={() => setModalOpen(false)}
+        userEmail={userEmail}
+      />
+    </>
   );
 }

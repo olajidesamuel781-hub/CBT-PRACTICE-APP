@@ -1,47 +1,37 @@
 .report-fab{
   position: fixed;
-  top: 14px;
-  left: 14px;
   z-index: 9999;
-
-  /* KEY: don't block the whole app */
-  pointer-events: none;
 }
 
-.report-toggle,
-.report-menu,
-.report-item{
-  pointer-events: auto;
+.report-fab.top-left{
+  top: 16px;
+  left: 16px;
 }
 
 .report-toggle{
   width: 44px;
   height: 44px;
-  border: none;
-  border-radius: 12px;
-  cursor: pointer;
-  background: rgba(30, 40, 60, 0.95);
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.15);
+  background: rgba(17,26,43,0.9);
   color: #fff;
-  font-size: 22px;
+  font-size: 24px;
+  cursor: pointer;
 }
 
 .report-menu{
-  margin-top: 10px;
   display: flex;
   flex-direction: column;
   gap: 10px;
+  margin-bottom: 10px;
 }
 
 .report-item{
   text-decoration: none;
-  padding: 10px 12px;
-  border-radius: 12px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(17,26,43,0.9);
   color: #fff;
-  font-size: 14px;
-  font-weight: 600;
-  box-shadow: 0 6px 18px rgba(0,0,0,0.25);
-  width: fit-content;
+  cursor: pointer;
 }
-
-.report-item.report-email{ background: #007bff; }
-.report-item.report-whatsapp{ background: #25D366; }
