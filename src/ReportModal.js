@@ -25,7 +25,7 @@ export default function ReportModal({ open, onClose, userEmail }) {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          fromEmail: userEmail || "unknown",
+          fromEmail: userEmail || "princepsalm30@gmail.com",
           subject,
           message,
         }),
