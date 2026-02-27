@@ -10170,7 +10170,711 @@ export const allQuestions = {
     "PHY 102": [
       
     ],
-    "PSY 111": [],
+    "PSY 111": [
+
+  {
+    question:
+      "Psychologists define ______ as the process by which experience or practice results in relatively permanent change in behavior or potential behavior.",
+    options: ["Learning", "Motivation", "Perception", "Emotion"],
+    correctAnswer: "Learning",
+  },
+  {
+    question:
+      "A ______ is a group of people who are born at a similar point in history and share similar experiences.",
+    options: ["Cohort", "Population", "Culture", "Family"],
+    correctAnswer: "Cohort",
+  },
+  {
+    question:
+      "Neurons release chemicals known as ______ into the synapses to communicate with other neurons.",
+    options: ["Neurotransmitters", "Hormones", "Enzymes", "Antibodies"],
+    correctAnswer: "Neurotransmitters",
+  },
+  {
+    question:
+      "______ are the building blocks of the body’s communication system.",
+    options: ["Neurons", "Bones", "Muscles", "Glands"],
+    correctAnswer: "Neurons",
+  },
+  {
+    question: "The human nervous system is composed of two parts: ______.",
+    options: [
+      "Central nervous system and peripheral nervous system",
+      "Brainstem and cerebellum",
+      "Autonomic and somatic nervous system",
+      "Spinal cord and nerves",
+    ],
+    correctAnswer: "Central nervous system and peripheral nervous system",
+  },
+  {
+    question: "The peripheral nervous system is divided into two parts: ______.",
+    options: [
+      "Autonomic and somatic nervous system",
+      "Central and peripheral nervous system",
+      "Sympathetic and parasympathetic nervous system",
+      "Brain and spinal cord",
+    ],
+    correctAnswer: "Autonomic and somatic nervous system",
+  },
+  {
+    question: "The central nervous system is composed of the ______.",
+    options: [
+      "Spinal cord and brain",
+      "Neurons and synapses",
+      "Autonomic and somatic system",
+      "Glands and hormones",
+    ],
+    correctAnswer: "Spinal cord and brain",
+  },
+  {
+    question: "A key function of the cerebellum is ______.",
+    options: [
+      "Movement, balance, and posture",
+      "Speech and language",
+      "Breathing and heart rate",
+      "Hunger and thirst",
+    ],
+    correctAnswer: "Movement, balance, and posture",
+  },
+  {
+    question: "A function of the brainstem is ______.",
+    options: [
+      "Breathing, heart rate, and blood pressure",
+      "Problem solving and reasoning",
+      "Memory storage",
+      "Taste and smell",
+    ],
+    correctAnswer: "Breathing, heart rate, and blood pressure",
+  },
+  {
+    question: "The hypothalamus helps regulate ______.",
+    options: [
+      "Body temperature, emotions, hunger, thirst, and circadian rhythms",
+      "Vision, hearing, and smell",
+      "Speech and writing",
+      "Reflex actions only",
+    ],
+    correctAnswer:
+      "Body temperature, emotions, hunger, thirst, and circadian rhythms",
+  },
+  {
+    question:
+      "Psychology is the study of ______ and the factors that influence it.",
+    options: ["Human behavior", "Only the brain", "Only feelings", "Only society"],
+    correctAnswer: "Human behavior",
+  },
+  {
+    question: "Psychology is a young ______ and ______ science.",
+    options: [
+      "Biological and cognitive",
+      "Mechanical and chemical",
+      "Physical and agricultural",
+      "Political and religious",
+    ],
+    correctAnswer: "Biological and cognitive",
+  },
+  {
+    question: "Man is a complex dynamic ______ organism.",
+    options: [
+      "Bio-socio-cognitive",
+      "Bio-chemical",
+      "Techno-economic",
+      "Geo-political",
+    ],
+    correctAnswer: "Bio-socio-cognitive",
+  },
+  {
+    question:
+      "Psychology became a scientific discipline in the year ______ at the University of ______ by ______.",
+    options: [
+      "1879 at Leipzig by Wilhelm Wundt",
+      "1905 at Harvard by Skinner",
+      "1800 at Oxford by Freud",
+      "1950 at Yale by Pavlov",
+    ],
+    correctAnswer: "1879 at Leipzig by Wilhelm Wundt",
+  },
+  {
+    question: "Development is an ongoing ______ process.",
+    options: ["Lifelong", "Temporary", "Short-term", "Seasonal"],
+    correctAnswer: "Lifelong",
+  },
+  {
+    question:
+      "Memory can be defined as the storage of ______ for retrieval and future use.",
+    options: ["Learned information", "Only emotions", "Only reflexes", "DNA"],
+    correctAnswer: "Learned information",
+  },
+  {
+    question:
+      "Two processes required to get information from sensory memory to short-term memory are ______ and ______.",
+    options: [
+      "Pattern recognition and attention",
+      "Imagination and dreaming",
+      "Punishment and reinforcement",
+      "Motivation and fear",
+    ],
+    correctAnswer: "Pattern recognition and attention",
+  },
+  {
+    question: "______ refers to skills that humans possess.",
+    options: ["Procedural memory", "Episodic memory", "Semantic memory", "Iconic memory"],
+    correctAnswer: "Procedural memory",
+  },
+  {
+    question:
+      "In classical conditioning, ______ is the initial learning of the stimulus–response linking.",
+    options: ["Acquisition", "Extinction", "Generalization", "Punishment"],
+    correctAnswer: "Acquisition",
+  },
+  {
+    question:
+      "In operant conditioning, the removal of an unpleasant stimulus (such as pain) is called ______.",
+    options: ["Negative reinforcement", "Positive reinforcement", "Positive punishment", "Extinction"],
+    correctAnswer: "Negative reinforcement",
+  },
+  {
+    question: "There are two kinds of punishment: ______ and ______.",
+    options: [
+      "Positive and negative",
+      "Fixed and variable",
+      "Primary and secondary",
+      "Direct and indirect",
+    ],
+    correctAnswer: "Positive and negative",
+  },
+  {
+    question: "The dendrites, cell body, and axon are the three basic parts of a ______.",
+    options: ["Neuron", "Hormone", "Gland", "Reflex"],
+    correctAnswer: "Neuron",
+  },
+  {
+    question: "The ______ theory explains the theory of homeostasis.",
+    options: ["Divine theory", "Gestalt theory", "Psychoanalytic theory", "Trait theory"],
+    correctAnswer: "Divine theory",
+  },
+  {
+    question:
+      "A leader is someone that has ______ over the behavior of other members.",
+    options: ["More influence", "Less influence", "No influence", "Only physical strength"],
+    correctAnswer: "More influence",
+  },
+  {
+    question:
+      "In the study of learning, psychologists follow two main theoretical approaches: ______ and ______.",
+    options: [
+      "Behavioral and cognitive approach",
+      "Biological and spiritual approach",
+      "Humanistic and mechanical approach",
+      "Medical and economic approach",
+    ],
+    correctAnswer: "Behavioral and cognitive approach",
+  },
+  
+  {
+    question:
+      "______ is a branch of psychology that analyzes how neurotransmitters influence our behaviors, thoughts, and feelings.",
+    options: ["Biopsychology", "Social psychology", "Industrial psychology", "Educational psychology"],
+    correctAnswer: "Biopsychology",
+  },
+  {
+    question: "______ is a construct that cannot be observed directly.",
+    options: ["Motivation", "Emotion", "Behavior", "Reflex"],
+    correctAnswer: "Motivation",
+  },
+  {
+    question: "The primary form of communication in the CNS is ______.",
+    options: ["Neurons", "Hormones", "Glands", "Muscles"],
+    correctAnswer: "Neurons",
+  },
+  {
+    question: "The ______ nervous system controls the fight-or-flight response.",
+    options: ["Sympathetic", "Parasympathetic", "Somatic", "Central"],
+    correctAnswer: "Sympathetic",
+  },
+  {
+    question:
+      "The ______ nervous system works to bring the body back to its normal state.",
+    options: ["Parasympathetic", "Sympathetic", "Somatic", "Peripheral"],
+    correctAnswer: "Parasympathetic",
+  },
+  {
+    question:
+      "Edward Thorndike developed the psychology of learning called ______.",
+    options: ["Connectionism", "Behaviorism", "Psychoanalysis", "Humanism"],
+    correctAnswer: "Connectionism",
+  },
+  {
+    question:
+      "The right and left parts of the cerebral cortex are connected by a thick band of nerve fibers called the ______.",
+    options: ["Corpus callosum", "Thalamus", "Hypothalamus", "Medulla"],
+    correctAnswer: "Corpus callosum",
+  },
+  {
+    question:
+      "A behavior consistently triggered by a particular stimulus and beyond voluntary control is called a ______.",
+    options: ["Fixed action pattern", "Reflex arc", "Conditioned response", "Habit"],
+    correctAnswer: "Fixed action pattern",
+  },
+  {
+    question:
+      "The method of casting out evil spirits by drilling a hole in the skull is called ______.",
+    options: ["Trephination", "Hypnosis", "Exorcism", "Surgery"],
+    correctAnswer: "Trephination",
+  },
+  {
+    question:
+      "______ involves intense, persistent anxiety about being negatively evaluated by others.",
+    options: ["Social phobia", "Agoraphobia", "Depression", "Paranoia"],
+    correctAnswer: "Social phobia",
+  },
+  {
+    question:
+      "______ is the systematic interaction between a therapist and a client to influence thoughts, feelings, and behavior.",
+    options: ["Psychotherapy", "Counseling", "Coaching", "Guidance"],
+    correctAnswer: "Psychotherapy",
+  },
+  {
+    question:
+      "Psychological tests can be classified into two broad categories: ______ and ______.",
+    options: [
+      "Structured and unstructured",
+      "Formal and informal",
+      "Objective and subjective",
+      "Reliable and valid",
+    ],
+    correctAnswer: "Structured and unstructured",
+  },
+  {
+    question:
+      "Two types of associative learning are ______ and ______.",
+    options: [
+      "Classical conditioning and operant conditioning",
+      "Habituation and sensitization",
+      "Observation and modeling",
+      "Reinforcement and punishment",
+    ],
+    correctAnswer: "Classical conditioning and operant conditioning",
+  },
+  {
+    question:
+      "Modern psychology is said to begin with the work of ______.",
+    options: ["Charles Darwin", "Sigmund Freud", "B.F. Skinner", "Ivan Pavlov"],
+    correctAnswer: "Charles Darwin",
+  },
+  {
+    question:
+      "______ grew out of the rejection of the functionalist system.",
+    options: ["Behaviorism", "Humanism", "Gestalt psychology", "Structuralism"],
+    correctAnswer: "Behaviorism",
+  },
+  {
+    question:
+      "______ was the first American psychologist to advocate the behavioral approach.",
+    options: ["J.B. Watson", "William James", "Carl Rogers", "Edward Titchener"],
+    correctAnswer: "J.B. Watson",
+  },
+  {
+    question:
+      "______ is recognized by many as the founder of scientific psychology.",
+    options: ["Wilhelm Wundt", "Sigmund Freud", "Ivan Pavlov", "John Dewey"],
+    correctAnswer: "Wilhelm Wundt",
+  },
+  {
+    question:
+      "The three key processes in memory are ______, ______, and ______.",
+    options: [
+      "Encoding, storage, and retrieval",
+      "Learning, thinking, and recalling",
+      "Sensing, perceiving, and acting",
+      "Motivation, emotion, and behavior",
+    ],
+    correctAnswer: "Encoding, storage, and retrieval",
+  },
+  {
+    question:
+      "Another name for classical conditioning is ______.",
+    options: ["Respondent conditioning", "Operant conditioning", "Instrumental learning", "Trial learning"],
+    correctAnswer: "Respondent conditioning",
+  },
+  {
+    question:
+      "Sensory organs include the ______.",
+    options: ["Ear, eye, nose, and skin", "Brain and spinal cord", "Heart and lungs", "Bones and muscles"],
+    correctAnswer: "Ear, eye, nose, and skin",
+  },
+  {
+    question:
+      "______ is the phenomenon that explains why people learn new behaviors more quickly if they are similar to those already learned.",
+    options: ["Positive transfer", "Extinction", "Habituation", "Punishment"],
+    correctAnswer: "Positive transfer",
+  },
+  {
+    question:
+      "In memory studies, deliberate conscious recollection of past experiences is called ______.",
+    options: ["Explicit memory", "Implicit memory", "Procedural memory", "Iconic memory"],
+    correctAnswer: "Explicit memory",
+  },
+  {
+    question:
+      "In the lifespan perspective, development involves ______, maintenance, and regulation.",
+    options: ["Growth", "Decay", "Extinction", "Punishment"],
+    correctAnswer: "Growth",
+  },
+  {
+    question:
+      "Distortions or excesses of normal functions are known as ______.",
+    options: ["Positive symptoms", "Negative symptoms", "Delusions", "Hallucinations"],
+    correctAnswer: "Positive symptoms",
+  },
+  {
+    question:
+      "______ deals with abnormal behavior.",
+    options: ["Psychopathology", "Sociology", "Anthropology", "Philosophy"],
+    correctAnswer: "Psychopathology",
+  },
+  
+  {
+    question: "______ is a German word meaning 'whole.'",
+    options: ["Gestalt", "Psyche", "Logos", "Ego"],
+    correctAnswer: "Gestalt",
+  },
+  {
+    question:
+      "______ is the process of seeing from another person’s perspective and understanding what he or she is experiencing.",
+    options: ["Empathy", "Sympathy", "Projection", "Perception"],
+    correctAnswer: "Empathy",
+  },
+  {
+    question:
+      "Memory and ______ are closely related and often describe roughly the same process.",
+    options: ["Learning", "Emotion", "Perception", "Motivation"],
+    correctAnswer: "Learning",
+  },
+  {
+    question:
+      "There are two types of rehearsal: ______ and ______.",
+    options: [
+      "Maintenance and elaborative rehearsal",
+      "Primary and secondary rehearsal",
+      "Short and long rehearsal",
+      "Direct and indirect rehearsal",
+    ],
+    correctAnswer: "Maintenance and elaborative rehearsal",
+  },
+  {
+    question:
+      "Behavior that deviates from social expectations is considered ______.",
+    options: ["Abnormal", "Normal", "Healthy", "Functional"],
+    correctAnswer: "Abnormal",
+  },
+  {
+    question:
+      "The combination of live modeling with gradual practice is called ______.",
+    options: ["Participant modeling", "Classical conditioning", "Habituation", "Extinction"],
+    correctAnswer: "Participant modeling",
+  },
+  {
+    question:
+      "The word schizophrenia was coined by Eugen Bleuler meaning ______.",
+    options: ["Split psyche or mind", "Multiple personalities", "Madness", "Brain damage"],
+    correctAnswer: "Split psyche or mind",
+  },
+  {
+    question:
+      "Two commonly accepted classifications of mental illness are ______.",
+    options: [
+      "Diagnostic and Statistical Manual (DSM) and International Classification of Disease (ICD)",
+      "Freudian and Jungian",
+      "Positive and negative",
+      "Clinical and non-clinical",
+    ],
+    correctAnswer:
+      "Diagnostic and Statistical Manual (DSM) and International Classification of Disease (ICD)",
+  },
+  {
+    question: "______ is anything perceptible to the senses.",
+    options: ["Stimulus", "Response", "Emotion", "Memory"],
+    correctAnswer: "Stimulus",
+  },
+  {
+    question:
+      "Development consists of ______ dimensions.",
+    options: [
+      "Biological, social, emotional, and cognitive",
+      "Physical and mental only",
+      "Genetic and environmental",
+      "Cultural and political",
+    ],
+    correctAnswer:
+      "Biological, social, emotional, and cognitive",
+  },
+  {
+    question:
+      "Two aspects of acquisition are ______ and ______.",
+    options: [
+      "Timing and productivity",
+      "Growth and decay",
+      "Reward and punishment",
+      "Stimulus and response",
+    ],
+    correctAnswer: "Timing and productivity",
+  },
+  {
+    question:
+      "A major purpose of diagnosis is to make ______.",
+    options: ["Prediction", "Punishment", "Fear", "Assumption"],
+    correctAnswer: "Prediction",
+  },
+  {
+    question: "Negative punishment is also called ______.",
+    options: ["Omission", "Extinction", "Reinforcement", "Habituation"],
+    correctAnswer: "Omission",
+  },
+  {
+    question: "Our attitudes may be ______ and ______.",
+    options: ["Positive and negative", "Short and long", "Strong and weak", "Fixed and flexible"],
+    correctAnswer: "Positive and negative",
+  },
+  {
+    question: "______ is not complete or absolute.",
+    options: ["Memory", "Learning", "Emotion", "Perception"],
+    correctAnswer: "Memory",
+  },
+  {
+    question:
+      "______ is grouping separate bits of information into meaningful units that are easier to remember.",
+    options: ["Chunking", "Encoding", "Storage", "Retrieval"],
+    correctAnswer: "Chunking",
+  },
+  {
+    question:
+      "______ means forgetting due to memories fading over time.",
+    options: ["Decay", "Repression", "Interference", "Amnesia"],
+    correctAnswer: "Decay",
+  },
+  {
+    question:
+      "The ______ serves as both a sensory system and a security system.",
+    options: ["Immune system", "Nervous system", "Endocrine system", "Digestive system"],
+    correctAnswer: "Immune system",
+  },
+  {
+    question:
+      "The role of biology in emotion can be seen in mechanisms of the ______ and ______.",
+    options: [
+      "Central nervous system and autonomic nervous system",
+      "Brain and bones",
+      "Heart and lungs",
+      "Skin and muscles",
+    ],
+    correctAnswer:
+      "Central nervous system and autonomic nervous system",
+  },
+  {
+    question:
+      "The DSM-IV organizes phobias into three categories: ______.",
+    options: [
+      "Agoraphobia, specific phobia, and social phobia",
+      "Simple, complex, and extreme",
+      "Mild, moderate, and severe",
+      "Direct, indirect, and general",
+    ],
+    correctAnswer: "Agoraphobia, specific phobia, and social phobia",
+  },
+  {
+    question:
+      "Any situation that threatens the well-being of an organism produces a state called ______.",
+    options: ["Anxiety", "Fearlessness", "Excitement", "Motivation"],
+    correctAnswer: "Anxiety",
+  },
+  {
+    question:
+      "When social phobia involves virtually all social situations in a person’s life, it is referred to as ______.",
+    options: ["Generalized", "Specific", "Mild", "Situational"],
+    correctAnswer: "Generalized",
+  },
+  {
+    question:
+      "Anxiety has three indicators: ______.",
+    options: [
+      "Behavioral, cognitive, and physiological",
+      "Mental, emotional, and spiritual",
+      "Short, medium, and long",
+      "Physical only",
+    ],
+    correctAnswer: "Behavioral, cognitive, and physiological",
+  },
+  {
+    question:
+      "The fear of experiencing another panic attack leads to ______.",
+    options: ["Agoraphobia", "Depression", "Mania", "Phobia"],
+    correctAnswer: "Agoraphobia",
+  },
+  {
+    question:
+      "______ is when a person worries about anything and everything.",
+    options: ["Generalized anxiety disorder", "Depression", "Panic disorder", "Phobia"],
+    correctAnswer: "Generalized anxiety disorder",
+  },
+  
+  {
+    question: "______ plays a central role in most mood disorders.",
+    options: ["Depression", "Anxiety", "Memory", "Perception"],
+    correctAnswer: "Depression",
+  },
+  {
+    question:
+      "______ carry information from the sensory receptor cells throughout the body to the brain.",
+    options: ["Sensory neurons", "Motor neurons", "Interneurons", "Glial cells"],
+    correctAnswer: "Sensory neurons",
+  },
+  {
+    question:
+      "______ are responsible for communicating information between different neurons in the body.",
+    options: ["Interneurons", "Sensory neurons", "Motor neurons", "Hormones"],
+    correctAnswer: "Interneurons",
+  },
+  {
+    question: "The connection between two nerve cells is known as a ______.",
+    options: ["Synapse", "Axon", "Dendrite", "Neuron"],
+    correctAnswer: "Synapse",
+  },
+  {
+    question:
+      "______ is seen as the reaction to change in our relationship with the world.",
+    options: ["Emotion", "Memory", "Learning", "Motivation"],
+    correctAnswer: "Emotion",
+  },
+  {
+    question:
+      "Forms of learning range from ______ to ______ depending on the number of stimuli involved.",
+    options: ["Simple to complex", "Fast to slow", "Short to long", "Weak to strong"],
+    correctAnswer: "Simple to complex",
+  },
+  {
+    question: "______ is a process of learning associations.",
+    options: ["Conditioning", "Perception", "Motivation", "Sensation"],
+    correctAnswer: "Conditioning",
+  },
+  {
+    question:
+      "There are three methods of coping with anxiety: ______.",
+    options: [
+      "Direct and defensive methods",
+      "Positive and negative methods",
+      "Emotional and cognitive methods",
+      "Biological and social methods",
+    ],
+    correctAnswer: "Direct and defensive methods",
+  },
+  {
+    question:
+      "______ and ______ are absolutely vital to life and functioning.",
+    options: [
+      "Brain and spinal cord",
+      "Heart and lungs",
+      "Bones and muscles",
+      "Eyes and ears",
+    ],
+    correctAnswer: "Brain and spinal cord",
+  },
+  {
+    question: "The hypothalamus is located at the ______.",
+    options: ["Base of the brain", "Top of the skull", "Spinal cord", "Cerebellum"],
+    correctAnswer: "Base of the brain",
+  },
+  {
+    question:
+      "The thalamus receives sensory information and relates this information to the ______.",
+    options: ["Cerebral cortex", "Spinal cord", "Hypothalamus", "Medulla"],
+    correctAnswer: "Cerebral cortex",
+  },
+  {
+    question:
+      "Episodic and semantic memory are classified as types of ______ memory.",
+    options: ["Long-term", "Short-term", "Sensory", "Working"],
+    correctAnswer: "Long-term",
+  },
+  {
+    question:
+      "One effective form of effortful processing is turning information into ______.",
+    options: ["Mental imagery", "Noise", "Emotion", "Repetition only"],
+    correctAnswer: "Mental imagery",
+  },
+  {
+    question:
+      "There are two types of negative reinforcement: ______ and ______.",
+    options: ["Escape and avoidance", "Positive and negative", "Direct and indirect", "Primary and secondary"],
+    correctAnswer: "Escape and avoidance",
+  },
+  {
+    question:
+      "There are two general categories of reinforcement: ______ and ______.",
+    options: ["Positive and negative reinforcement", "Primary and secondary", "Direct and indirect", "Major and minor"],
+    correctAnswer: "Positive and negative reinforcement",
+  },
+  {
+    question:
+      "______ is the tendency to become familiar with a stimulus after repeated exposure to it.",
+    options: ["Habituation", "Extinction", "Punishment", "Generalization"],
+    correctAnswer: "Habituation",
+  },
+  {
+    question:
+      "______ are associated with emotions and pain perception.",
+    options: ["Endorphins", "Dopamine", "Serotonin", "Adrenaline"],
+    correctAnswer: "Endorphins",
+  },
+  {
+    question:
+      "The body releases ______ in response to fear or trauma.",
+    options: ["Endorphins", "Glucose", "Oxygen", "Melatonin"],
+    correctAnswer: "Endorphins",
+  },
+  {
+    question:
+      "______ is associated with thought and pleasure feelings.",
+    options: ["Dopamine", "Serotonin", "Cortisol", "Adrenaline"],
+    correctAnswer: "Dopamine",
+  },
+  {
+    question:
+      "Parkinson’s disease is associated with deficits in ______.",
+    options: ["Dopamine", "Endorphins", "Adrenaline", "Glucose"],
+    correctAnswer: "Dopamine",
+  },
+  {
+    question:
+      "Learning that occurs by watching other people is called ______.",
+    options: ["Learning by observation", "Classical conditioning", "Habituation", "Extinction"],
+    correctAnswer: "Learning by observation",
+  },
+  {
+    question:
+      "______ is one of the best-known forms of cognitive therapy.",
+    options: ["Rational emotive therapy", "Psychoanalysis", "Behavior therapy", "Hypnotherapy"],
+    correctAnswer: "Rational emotive therapy",
+  },
+  {
+    question:
+      "______ refers to sexual love beyond the usual.",
+    options: ["Paraphilia", "Phobia", "Depression", "Mania"],
+    correctAnswer: "Paraphilia",
+  },
+  {
+    question:
+      "______ refers to sexual activity with a child who has not reached puberty.",
+    options: ["Pedophilia", "Paranoia", "Schizophrenia", "Neurosis"],
+    correctAnswer: "Pedophilia",
+  },
+  {
+    question:
+      "______ is the mental representation of information as a sequence of sounds.",
+    options: ["Acoustic encoding", "Visual encoding", "Semantic encoding", "Chunking"],
+    correctAnswer: "Acoustic encoding",
+  },
+    ],
      "ENT 201": [
       {
   question: "Who is the manager of factors of production in a venture?",
