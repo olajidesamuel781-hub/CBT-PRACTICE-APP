@@ -25,7 +25,7 @@ export default function App() {
 
   // ✅ EDIT PREMIUM SUBJECTS HERE (must match your subject names)
   const premiumSubjects = useMemo(
-    () => ["GST 102", "MTH 101", "GST 111", "GST 112", "ENT 201", "ENT 211", "GST 222", "POS 216",],
+    () => ["GST 102", "MTH 101", "GST 111", "GST 112", "ENT 201", "ENT 211", "GST 222", "POS 216", "PHY 102", "ELS 103",],
     []
   );
 

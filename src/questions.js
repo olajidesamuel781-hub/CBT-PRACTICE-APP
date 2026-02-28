@@ -2947,7 +2947,945 @@ export const allQuestions = {
     answer: "small scale integration"
   }
     ],
-    
+    "ELS 103": [
+             {
+    question: "Which of the following is an example of a conjunction?",
+    options: ["James", "Michael", "Unless", "Paul"],
+    correctAnswer: "Unless",
+  },
+  {
+    question: "Which of the following is NOT among the 8 parts of speech?",
+    options: ["Interjection", "Phrases", "Nouns", "Pronouns"],
+    correctAnswer: "Phrases",
+  },
+  {
+    question: "I saw Michael's note, what about ______?",
+    options: ["Success'", "Success's", "Success", "Success's's"],
+    correctAnswer: "Success'",
+  },
+  {
+    question: "______ pen has been found.",
+    options: ["Michael's", "Mikesss", "Michaels's", "Michaelses"],
+    correctAnswer: "Michael's",
+  },
+  {
+    question: "Pick out the adverb.",
+    options: ["Madly", "Bad", "Festus", "John"],
+    correctAnswer: "Madly",
+  },
+  {
+    question: "Identify the singular verb.",
+    options: ["Were", "Has", "To", "Welcome"],
+    correctAnswer: "Has",
+  },
+  {
+    question: "Identify the plural verb.",
+    options: ["Were", "Was", "Punishes", "Greets"],
+    correctAnswer: "Were",
+  },
+  {
+    question: "______ is an action word.",
+    options: ["Pronoun", "Noun", "Verb", "Michael"],
+    correctAnswer: "Verb",
+  },
+  {
+    question: "Which of the following is a lexical verb?",
+    options: ["Walk", "Will", "Chelsea", "Ought"],
+    correctAnswer: "Walk",
+  },
+  {
+    question: "Which of the following is an auxiliary verb?",
+    options: ["Must", "Dance", "Eat", "Thomas"],
+    correctAnswer: "Must",
+  },
+  {
+    question: "______ is a naming word.",
+    options: ["Pronoun", "Verb", "Noun", "Adverb"],
+    correctAnswer: "Noun",
+  },
+  {
+    question: "Which gender refers to things without life?",
+    options: ["Common", "Masculine", "Feminine", "Neuter"],
+    correctAnswer: "Neuter",
+  },
+  {
+    question: "Which of the following is feminine gender?",
+    options: ["Queen", "Phone", "Daddy", "Actor"],
+    correctAnswer: "Queen",
+  },
+  {
+    question: "Which of the following is a countable noun?",
+    options: ["Bottle", "Advice", "Information", "Water"],
+    correctAnswer: "Bottle",
+  },
+  {
+    question: "Which noun should NOT be pluralized?",
+    options: ["Boy", "Man", "School", "Equipment"],
+    correctAnswer: "Equipment",
+  },
+  {
+    question: "Pick out the irregular verb.",
+    options: ["Talked", "Walked", "Broadcast", "Danced"],
+    correctAnswer: "Broadcast",
+  },
+  {
+    question: "The ammunition recovered from the criminals ______ dangerous.",
+    options: ["Are", "Is", "Were", "Am"],
+    correctAnswer: "Is",
+  },
+  {
+    question: "All these are masculine except ______.",
+    options: ["Boy", "Bachelor", "Spinster", "Dog"],
+    correctAnswer: "Spinster",
+  },
+  {
+    question: "Which is the correct plural form?",
+    options: ["Mangos", "Mangoes", "Mangoess", "Thangoes"],
+    correctAnswer: "Mangoes",
+  },
+  {
+    question: "Choose the correct plural of brother-in-law.",
+    options: ["Brother-in-laws", "Brothers-in-law", "Brothers-in-laws", "Brother-in-lawses"],
+    correctAnswer: "Brothers-in-law",
+  },
+  {
+    question: "The artist has ______ a song.",
+    options: ["Sung", "Sing", "Sang", "Singeth"],
+    correctAnswer: "Sung",
+  },
+  {
+    question: "______ is used for a class of person.",
+    options: ["Proper noun", "Common noun", "Abstract noun", "Concrete noun"],
+    correctAnswer: "Common noun",
+  },
+  {
+    question: "Which of the following is an abstract noun?",
+    options: ["Pen", "Pain", "Helen", "Table"],
+    correctAnswer: "Pain",
+  },
+  {
+    question: "The two boys love ______.",
+    options: ["The other", "One another", "Themselves", "Each other"],
+    correctAnswer: "Each other",
+  },
+  {
+    question: "I have ______ mangoes left.",
+    options: ["Few", "Much", "Little", "A little"],
+    correctAnswer: "Few",
+  },
+  {
+    question: "The principal alongside the women ______ invited.",
+    options: ["Is", "Are", "Were", "Am"],
+    correctAnswer: "Is",
+  },
+  {
+    question: "Which is NOT a personal pronoun?",
+    options: ["Which", "I", "You", "They"],
+    correctAnswer: "Which",
+  },
+  {
+    question: "The baby ______.",
+    options: ["Cries", "Cry", "Criss", "Cryed"],
+    correctAnswer: "Cries",
+  },
+  {
+    question: "Which represents 3rd person singular pronoun?",
+    options: ["They", "You", "We", "She"],
+    correctAnswer: "She",
+  },
+  {
+    question: "A preposition must always be followed by a ______.",
+    options: ["Verb", "Noun or pronoun", "Adjective", "Adverb"],
+    correctAnswer: "Noun or pronoun",
+  },
+  {
+    question: "Reflexive pronouns refer to ______.",
+    options: ["Possession", "Self", "Questions", "Location"],
+    correctAnswer: "Self",
+  },
+  {
+    question: "Which of the following is an indefinite article?",
+    options: ["The", "A", "That", "Those"],
+    correctAnswer: "A",
+  },
+  {
+    question: "A sentence is active when the subject is the ______.",
+    options: ["Receiver", "Object", "Performer", "Predicate"],
+    correctAnswer: "Performer",
+  },
+  {
+    question: "Which verb is transitive?",
+    options: ["Laugh", "Sleep", "Kill", "Cry"],
+    correctAnswer: "Kill",
+  },
+  {
+    question: "Subjunctive mood expresses ______.",
+    options: ["Facts", "Reality", "Wishes or unreal situations", "Commands"],
+    correctAnswer: "Wishes or unreal situations",
+  },
+  {
+    question: "Words ending in -OUS are usually ______.",
+    options: ["Nouns", "Verbs", "Adjectives", "Adverbs"],
+    correctAnswer: "Adjectives",
+  },
+  {
+    question: "When an adjective comes before a noun, it is called ______ adjective.",
+    options: ["Predicative", "Attributive", "Comparative", "Superlative"],
+    correctAnswer: "Attributive",
+  },
+  {
+    question: "The comparative form is used when comparing ______ persons.",
+    options: ["One", "Two", "Three", "Four"],
+    correctAnswer: "Two",
+  },
+  {
+    question: "Wealthy in the sentence is an example of a ______.",
+    options: ["Adverb", "Adjective", "Verb", "Conjunction"],
+    correctAnswer: "Adjective",
+  },
+  {
+    question: "Several in the sentence indicates ______.",
+    options: ["Ownership", "Quantity", "Location", "Action"],
+    correctAnswer: "Quantity",
+  },
+  {
+    question: "Neither the man nor the players ______ arrived.",
+    options: ["Has", "Have", "Is", "Am"],
+    correctAnswer: "Have",
+  },
+  {
+    question: "A flock of sheep. Flock is a ______ noun.",
+    options: ["Abstract", "Collective", "Common", "Proper"],
+    correctAnswer: "Collective",
+  },
+    {
+    question: "A reflexive pronoun can also perform an ______ function.",
+    options: ["Interrogative", "Emphatic", "Relative", "Possessive"],
+    correctAnswer: "Emphatic",
+  },
+  {
+    question: "Which of the following is a relative pronoun?",
+    options: ["Who", "Mine", "Them", "Us"],
+    correctAnswer: "Who",
+  },
+  {
+    question: "Which of the following is a demonstrative pronoun?",
+    options: ["Those", "Him", "Whom", "Mine"],
+    correctAnswer: "Those",
+  },
+  {
+    question: "It is high time we ______ going.",
+    options: ["are", "were", "was", "be"],
+    correctAnswer: "were",
+  },
+  {
+    question: "Which of the following is a content word?",
+    options: ["And", "But", "Run", "The"],
+    correctAnswer: "Run",
+  },
+  {
+    question: "Which of the following is a structural (closed class) word?",
+    options: ["Table", "Quickly", "Because", "Teacher"],
+    correctAnswer: "Because",
+  },
+  {
+    question: "In the sentence 'The ball was kicked by Okon', the sentence is in the ______ voice.",
+    options: ["Active", "Passive", "Present", "Future"],
+    correctAnswer: "Passive",
+  },
+  {
+    question: "Which of the following is an intransitive verb?",
+    options: ["Kill", "Laugh", "Write", "Build"],
+    correctAnswer: "Laugh",
+  },
+    ],
+    "ELS 113": [
+            {
+    question: "A phrase is made up of two or more words that does ______ sense to the hearer.",
+    options: ["Make a complete", "Not make a complete", "Complete", "Not a complete"],
+    correctAnswer: "Not make a complete",
+  },
+  {
+    question: "The new manager congratulated Mrs David ______ the successful delivery of a baby boy.",
+    options: ["at", "for", "on", "in"],
+    correctAnswer: "on",
+  },
+  {
+    question: "It all depended on what he wanted. The underlined illustrates example of a ______.",
+    options: ["clause", "sentence", "word", "gerund"],
+    correctAnswer: "clause",
+  },
+  {
+    question: "Several stolen cars recovered in the operation. The underlined exemplifies ______ verb.",
+    options: ["Finite", "Present", "Past", "Non finite"],
+    correctAnswer: "Non finite",
+  },
+  {
+    question: "One of the following is not a type of phrase.",
+    options: ["adjectival", "adverbial", "verbal", "conjunctional"],
+    correctAnswer: "conjunctional",
+  },
+  {
+    question: "______ is an example of present perfect tense.",
+    options: ["Birds fly", "She sang well", "Mary sings well", "She has just sung"],
+    correctAnswer: "She has just sung",
+  },
+  {
+    question: "Most English lecturers detest wrong ______ of words.",
+    options: ["Pronunciation", "Pronouncement", "Pronounciation", "Pronounsation"],
+    correctAnswer: "Pronunciation",
+  },
+  {
+    question: "______ is not an example of end punctuation.",
+    options: ["Quotation mark", "Question mark", "Comma", "Exclamation mark"],
+    correctAnswer: "Comma",
+  },
+  {
+    question: "A noun phrase is a group of words often ending with a ______.",
+    options: ["pronoun", "verb", "noun", "adjective"],
+    correctAnswer: "noun",
+  },
+  {
+    question: "Considering the size of ELS113 course, it was ______ into two classes.",
+    options: ["Spitted", "Split", "Splited", "Splits"],
+    correctAnswer: "Split",
+  },
+  {
+    question: "The newly ______ couple began to attend marriage seminars.",
+    options: ["Wedded", "Welded", "Wed", "Wedding"],
+    correctAnswer: "Wed",
+  },
+  {
+    question: "Grandpa advised two of his ______ not to listen to third party.",
+    options: ["Sons-in-law", "Sons-inlaws", "Son-inlaws", "Son–inlaws"],
+    correctAnswer: "Sons-in-law",
+  },
+  {
+    question: "One of the following is used to make contracted form of the verb.",
+    options: ["full stop", "comma", "apostrophe", "apostrophy"],
+    correctAnswer: "apostrophe",
+  },
+  {
+    question: "Very few students have satisfactory ______ these days.",
+    options: ["accommodation", "accomodation", "acommodation", "accommdasion"],
+    correctAnswer: "accommodation",
+  },
+  {
+    question: "It’s my pleasure and ______ to welcome my special guest of honour.",
+    options: ["Privelege", "Privilege", "Priviledge", "Previlege"],
+    correctAnswer: "Privilege",
+  },
+  {
+    question: "James needs reminding that not all that glitters is gold. The underlined illustrates a ______.",
+    options: ["Present participle", "Gerund", "Infinitive", "Present continuous"],
+    correctAnswer: "Present participle",
+  },
+  {
+    question: "I do not want ______ from such friend as Jimoh.",
+    options: ["More advices", "More adrises", "More advice", "More advices"],
+    correctAnswer: "More advice",
+  },
+  {
+    question: "In the sentence ‘We have cut down the mango tree OUTSIDE THE COMPOUND’, the phrase functions as a ______.",
+    options: ["Complement of adjective", "Post modifier", "Complement of verb", "Adjunct"],
+    correctAnswer: "Post modifier",
+  },
+  {
+    question: "Journalists always collect and publish ______.",
+    options: ["informations", "an information", "some informations", "information"],
+    correctAnswer: "information",
+  },
+  {
+    question: "I have received the answer scripts of Peter and John. What about ______?",
+    options: ["Maris own", "Maris’s", "Maris’", "Maris’s script"],
+    correctAnswer: "Maris’",
+  },
+  {
+    question: "Four persons accused of currency ______ are being held by the security agents.",
+    options: ["Traficking", "Traviking", "Trafficking", "Traffiking"],
+    correctAnswer: "Trafficking",
+  },
+  {
+    question: "I don’t suppose you enjoyed the journey, ______ you?",
+    options: ["don’t", "did", "didn’t", "have"],
+    correctAnswer: "did",
+  },
+  {
+    question: "I’m sorry I can’t give you any of the oranges; I have ______ left.",
+    options: ["Few", "Little", "Only a little", "A few"],
+    correctAnswer: "Few",
+  },
+  {
+    question: "My wife and I met ______ on a ship going to Liberia.",
+    options: ["ourselves", "one another", "each other", "each order"],
+    correctAnswer: "each other",
+  },
+  {
+    question: "______ yet about ASUU strike?",
+    options: ["Is there any news", "Are there any news", "Is there some news", "Is their some news"],
+    correctAnswer: "Is there any news",
+  },
+  {
+    question: "I can quickly recite the National Anthem ______ now.",
+    options: ["Off head", "Off by heart", "At hand", "Off hand"],
+    correctAnswer: "Off by heart",
+  },
+  {
+    question: "The Nigerian Labour congress is on warning strike. Which word is wrongly capitalized?",
+    options: ["warning", "congress", "Nigeria", "strike"],
+    correctAnswer: "congress",
+  },
+  {
+    question: "He did not attend the final burial ______.",
+    options: ["rite", "rights", "rites", "right"],
+    correctAnswer: "rites",
+  },
+  {
+    question: "The office was compelled to ______ the suspect’s car.",
+    options: ["seize", "cease", "sieze", "sease"],
+    correctAnswer: "seize",
+  },
+  {
+    question: "A number of suspects were paraded ______ the victim of the robbery.",
+    options: ["in front of", "before", "for", "to"],
+    correctAnswer: "before",
+  },
+  {
+    question: "We heard him ______ a new song.",
+    options: ["sing", "sings", "sang", "singing"],
+    correctAnswer: "sing",
+  },
+  {
+    question: "The only set of loud speakers available ______ to be connected according to the instruction.",
+    options: ["is", "are", "were", "have"],
+    correctAnswer: "is",
+  },
+  {
+    question: "He decided to wait for the bus because he had ______.",
+    options: ["too many luggage", "many luggage", "a lot of luggage", "plenty luggage"],
+    correctAnswer: "a lot of luggage",
+  },
+  {
+    question: "When he had arranged the furniture he ______ the picture on the wall.",
+    options: ["hanged", "hung", "hang", "hunged"],
+    correctAnswer: "hung",
+  },
+  {
+    question: "I forgot to bring a pen with me. Would you please ______ me yours?",
+    options: ["borrow", "loan", "provide", "lend"],
+    correctAnswer: "lend",
+  },
+  {
+    question: "If you are going to the market, may I ______ please?",
+    options: ["follow you", "accompany you", "come with you", "come as your second"],
+    correctAnswer: "come with you",
+  },
+  {
+    question: "Wale said that two of his chickens ______ eggs yesterday morning.",
+    options: ["layed", "lied", "laid", "lain"],
+    correctAnswer: "laid",
+  },
+  {
+    question: "The ceremony was rounded ______ very late.",
+    options: ["up", "off", "of", "out"],
+    correctAnswer: "off",
+  },
+  {
+    question: "My ______ brother intends to get married in December.",
+    options: ["senior", "elder", "older", "oldest"],
+    correctAnswer: "elder",
+  },
+  {
+    question: "The recent graduation ceremony of Ambrose Alli University was attended by men from all ______ of life.",
+    options: ["works", "areas", "walks", "parts"],
+    correctAnswer: "walks",
+  },
+  {
+    question: "The ______ Affairs officer is expecting all of us in the New Lecture Hall.",
+    options: ["student", "student’s", "students", "students’"],
+    correctAnswer: "students’",
+  },
+  {
+    question: "Many a candidate ______ to realize the difference between written and spoken English.",
+    options: ["fails", "fail", "have failed", "is failing"],
+    correctAnswer: "fails",
+  },
+  {
+    question: "All ______ well with Peter.",
+    options: ["are not", "have not been", "were not", "is not"],
+    correctAnswer: "is not",
+  },
+  {
+    question: "One of the ladies who sell in the premises ______ been asked to withdraw.",
+    options: ["have", "were", "has", "is"],
+    correctAnswer: "has",
+  },
+  {
+    question: "A sentence is a group of words that end with the following punctuation markers except ______.",
+    options: ["full stop", "semi colon", "exclamation mark", "question mark"],
+    correctAnswer: "semi colon",
+  },
+  {
+    question: "A declarative sentence is used to make a ______.",
+    options: ["statement", "question", "complain", "request"],
+    correctAnswer: "statement",
+  },
+  {
+    question: "An interrogative sentence is used to make a ______.",
+    options: ["request", "factual statement", "wish", "question"],
+    correctAnswer: "question",
+  },
+  {
+    question: "An infinitive phrase is a verb form often started with ______.",
+    options: ["To", "In", "On", "Of"],
+    correctAnswer: "To",
+  },
+  {
+    question: "An imperative and declarative sentence must be followed by a ______.",
+    options: ["semi colon", "comma", "full stop", "question mark"],
+    correctAnswer: "full stop",
+  },
+  {
+    question: "An exclamatory sentence is used to express ______.",
+    options: ["wish", "feeling", "command", "intent"],
+    correctAnswer: "feeling",
+  },
+  {
+    question: "Structurally, a sentence has two parts which are ______.",
+    options: ["subject and predicate", "predicate and question", "subject and object", "predicate and direct object"],
+    correctAnswer: "subject and predicate",
+  },
+  {
+    question: "Structurally, the types of sentence include the following except ______.",
+    options: ["compound complex sentence", "complex sentence", "compound sentence", "compound simple sentence"],
+    correctAnswer: "compound simple sentence",
+  },
+  {
+    question: "A gerundive phrase is a verb form often ending with ______.",
+    options: ["-ed", "-ied", "-t", "-ing"],
+    correctAnswer: "-ing",
+  },
+  {
+    question: "“Jide presents well, but his tenses are bad” is an example of a ______.",
+    options: ["simple sentence", "complex sentence", "compound sentence", "compound complex sentence"],
+    correctAnswer: "compound sentence",
+  },
+  {
+    question: "The following except one are the basic elements of sentence.",
+    options: ["adjunct", "disjunct", "object", "verb"],
+    correctAnswer: "disjunct",
+  },
+  {
+    question: "The subject of a sentence is the person or thing that carries out the ______ performed.",
+    options: ["receives", "decide", "follow", "action"],
+    correctAnswer: "action",
+  },
+  {
+    question: "Identify the sentence pattern: John slapped Mary.",
+    options: ["S V O", "S V", "S V O D", "S V O L"],
+    correctAnswer: "S V O",
+  },
+  {
+    question: "Identify the sentence pattern: Give him a bag.",
+    options: ["V O O", "S V O C O", "S V O A", "S V O O D"],
+    correctAnswer: "V O O",
+  },
+  {
+    question: "Identify the sentence pattern: The chairmen declared the meeting closed.",
+    options: ["S V O O", "S V C", "S V O C", "S V O A"],
+    correctAnswer: "S V O C",
+  },
+  {
+    question: "Identify the sentence pattern: She cried loudly.",
+    options: ["A S V", "A S V C", "S V O", "S V A"],
+    correctAnswer: "S V A",
+  },
+  {
+    question: "Identify the sentence pattern: Truly Samson is a poet.",
+    options: ["S V O C A", "A S V C", "S V O", "S V O O"],
+    correctAnswer: "A S V C",
+  },
+  {
+    question: "An adjunct functions like an adverb; it therefore modifies the ______.",
+    options: ["verb", "adverb", "adjective", "noun"],
+    correctAnswer: "verb",
+  },
+  {
+    question: "The girl that my brother introduced to us last week is pretty ______ ill-mannered.",
+    options: ["and", "but also", "as well as", "but"],
+    correctAnswer: "but",
+  },
+  {
+    question: "African extended family system gives security to ______ members.",
+    options: ["his", "her", "its", "their"],
+    correctAnswer: "its",
+  },
+  {
+    question: "Sentences perform the following functions except ______.",
+    options: ["Declarative", "Interrogative", "complex", "Exclamatory"],
+    correctAnswer: "complex",
+  },
+  {
+    question: "Insects can become ______ to insecticides.",
+    options: ["immunized", "resistant", "resistance", "immobilized"],
+    correctAnswer: "resistant",
+  },
+  {
+    question: "A clause is a group of words that contains both a subject and a ______.",
+    options: ["object", "predicate", "complement", "finite verb"],
+    correctAnswer: "finite verb",
+  },
+  {
+    question: "Little did Tunde realize that his frequent reports were working ______ my advantage.",
+    options: ["in", "to", "for", "against"],
+    correctAnswer: "to",
+  },
+  {
+    question: "The board has been having ______ series of meetings lately.",
+    options: ["some", "a", "a lot", "many"],
+    correctAnswer: "a",
+  },
+  {
+    question: "Sheriff has always been shy to speak ______.",
+    options: ["in public", "publicly", "in the public", "with the public"],
+    correctAnswer: "in public",
+  },
+  {
+    question: "______ his uncle helped him or not, he would still not be able to do it.",
+    options: ["although", "if", "whether", "since"],
+    correctAnswer: "whether",
+  },
+  {
+    question: "Either the chief of the village or the leaders of the farmers ______ to be held responsible.",
+    options: ["were", "are", "is", "have"],
+    correctAnswer: "are",
+  },
+  {
+    question: "My best subject is ______.",
+    options: ["Government", "english", "economics", "history"],
+    correctAnswer: "Government",
+  },
+  {
+    question: "Mary and John travelled to ______ last week.",
+    options: ["Benin", "lagos", "auchi", "ekpoma"],
+    correctAnswer: "Benin",
+  },
+  {
+    question: "Only observers from the ______ are allowed into the conference room.",
+    options: ["Ministry of Works", "Ministry of work", "MINISTRY Of WORK", "Ministry WORKS"],
+    correctAnswer: "Ministry of Works",
+  },
+  {
+    question: "A panel set up to probe the organization’s activities ______ yet to sit.",
+    options: ["are", "is", "will", "would"],
+    correctAnswer: "is",
+  },
+  {
+    question: "The Manager became angry and shouted, “Sit down!” The missing punctuation mark is ______.",
+    options: [".", "?", "!", ","],
+    correctAnswer: "!",
+  },
+  {
+    question: "When you’ve finished using the phone, please hang ______.",
+    options: ["down", "up", "off", "on"],
+    correctAnswer: "up",
+  },
+  {
+    question: "The man rose to an important position as a result of ______ hard work.",
+    options: ["sheer", "cheer", "share", "shear"],
+    correctAnswer: "sheer",
+  },
+  {
+    question: "The attitude of my students to ______ baffles me.",
+    options: ["maintainance", "maintenance", "mentainance", "mentenance"],
+    correctAnswer: "maintenance",
+  },
+  {
+    question: "We need some ______ in the office.",
+    options: ["stationary", "statonery", "stationery", "stationerry"],
+    correctAnswer: "stationery",
+  },
+  {
+    question: "My name is Doctor Mark is an example of a ______ sentence.",
+    options: ["imperative", "declarative", "exclamatory", "interrogatory"],
+    correctAnswer: "declarative",
+  },
+  {
+    question: "Baba and ______ participated in the tournament.",
+    options: ["him", "his", "he", "he’s"],
+    correctAnswer: "he",
+  },
+  {
+    question: "The University has a large collection of sporting ______.",
+    options: ["equipment", "equipments", "costumes", "aids"],
+    correctAnswer: "equipment",
+  },
+  {
+    question: "He keeps his ______ clean always.",
+    options: ["surroundings", "surrounding", "premise", "environments"],
+    correctAnswer: "surroundings",
+  },
+  {
+    question: "The police are looking for ______.",
+    options: ["two big car black", "two car big black", "two big black cars", "two black big car"],
+    correctAnswer: "two big black cars",
+  },
+  {
+    question: "The ______ of the participating states Nigeria will hold a pre-conference next month.",
+    options: ["Auditor–Generals", "Auditor General", "Auditors General", "Auditors Generals"],
+    correctAnswer: "Auditors General",
+  },
+  {
+    question: "Stella is a student of the ______.",
+    options: ["Faculty of law", "Faculty Of Law", "Faculty of Law", "Dept. of english"],
+    correctAnswer: "Faculty of Law",
+  },
+  {
+    question: "The abbreviation for Doctor of Philosophy is ______.",
+    options: ["Ph.D.", "PH.D.", "Ph.D", "PHd"],
+    correctAnswer: "Ph.D.",
+  },
+  {
+    question: "The price of everything seems to have ______ up in the last few months.",
+    options: ["climbed", "shot", "risen", "flared"],
+    correctAnswer: "shot",
+  },
+  {
+    question: "They took the road NEAR THE MARKET. The expression in capital letters exemplifies a ______.",
+    options: ["adjective phrase", "noun clause", "noun phrase", "adverbial phrase"],
+    correctAnswer: "adverbial phrase",
+  },
+  {
+    question: "______ is the essential element present in a clause but absent in a phrase.",
+    options: ["infinitive verb", "noun", "finite verb", "present participle"],
+    correctAnswer: "finite verb",
+  },
+  {
+    question: "______ often functions as the subject of a verb in a sentence.",
+    options: ["a verb", "an adjective", "a noun", "conjunction"],
+    correctAnswer: "a noun",
+  },
+  {
+    question: "What part of a sentence describes a noun or pronoun?",
+    options: ["preposition", "adverb", "adjective", "noun"],
+    correctAnswer: "adjective",
+  },
+  {
+    question: "DIGGING THE GROUND, the dog found a snake. The capitalized expression is a ______.",
+    options: ["Adverbial phrase", "Participial phrase", "Noun clause", "Prepositional phrase"],
+    correctAnswer: "Participial phrase",
+  },
+  {
+    question: "Another name for dependent clause is ______ clause.",
+    options: ["main", "static", "complex", "subordinate"],
+    correctAnswer: "subordinate",
+  },
+  {
+    question: "When I met Amadi yesterday, it was the first time I ______ him for six months.",
+    options: ["had seen", "saw", "have been", "seeing"],
+    correctAnswer: "had seen",
+  },
+  {
+    question: "Many unrelated issues were touched upon in the ______ of the discussion.",
+    options: ["cause", "course", "coarse", "curse"],
+    correctAnswer: "course",
+  },
+  {
+    question: "The new singlet factory is built on the ______ of Aba township.",
+    options: ["outstretch", "outskirts", "outskates", "outskirt"],
+    correctAnswer: "outskirts",
+  },
+  {
+    question: "The soldiers were sufficiently equipped with ______.",
+    options: ["Arms and ammunition", "Arms and ammunitions", "Arm and ammunitions", "Arm and ammunition"],
+    correctAnswer: "Arms and ammunition",
+  },
+  {
+    question: "My younger brother is going to the stream with ______ boys.",
+    options: ["two other little", "other little two", "two little other", "other two little"],
+    correctAnswer: "two other little",
+  },
+  {
+    question: "Okoro intends to wear his ______ dress to the zoo this afternoon.",
+    options: ["white cotton new", "white new cotton", "new white cotton", "cotton white new"],
+    correctAnswer: "new white cotton",
+  },
+  {
+    question: "The contractors were short ______ cash even before the project was completed.",
+    options: ["in", "for", "with", "of"],
+    correctAnswer: "of",
+  },
+  {
+    question: "The judge acquitted the accused ______ all the eight counts.",
+    options: ["of", "on", "from", "upon"],
+    correctAnswer: "of",
+  },
+  {
+    question: "You had better ______ what the doctor recommended this morning.",
+    options: ["done", "do", "did", "be doing"],
+    correctAnswer: "do",
+  },
+  {
+    question: "______ is always superior to any other in town.",
+    options: ["their’s", "theirs", "there", "their"],
+    correctAnswer: "theirs",
+  },
+  {
+    question: "I looked for you all over the campus but I could not ______ you.",
+    options: ["find", "see", "meet", "catch"],
+    correctAnswer: "find",
+  },
+  {
+    question: "The manager was angry with Dauda for ______ seeds of discord among the workers.",
+    options: ["planting", "sewing", "cultivating", "sowing"],
+    correctAnswer: "sowing",
+  },
+  {
+    question: "The government has provided new ______ for the local government elections.",
+    options: ["guard lines", "guide lines", "guardlines", "guidelines"],
+    correctAnswer: "guidelines",
+  },
+  {
+    question: "The H.O.D invited John and ______.",
+    options: ["myself", "me", "I", "himself"],
+    correctAnswer: "me",
+  },
+  {
+    question: "He was not a very ______ student when I first met him.",
+    options: ["mature", "matures", "matured", "maturing"],
+    correctAnswer: "mature",
+  },
+  {
+    question: "Our manager has instructed that ______ of customers must be barred from our bank.",
+    options: ["those type", "that type", "that types", "this types"],
+    correctAnswer: "that type",
+  },
+  {
+    question: "He regarded the betrayal of his friend as a stab ______ the back.",
+    options: ["on", "at", "in", "from"],
+    correctAnswer: "in",
+  },
+  {
+    question: "Akpan has developed ______ for my friend.",
+    options: ["a likeness", "a liking", "alike", "some likes"],
+    correctAnswer: "a liking",
+  },
+  {
+    question: "“The tourists have plenty of money to spend.” The underlined functions as a ______.",
+    options: ["verb-noun", "verb-compound", "verb-adjective", "verb-complex"],
+    correctAnswer: "verb-adjective",
+  },
+  {
+    question: "The present participle form of a non-finite verb functions as a ______.",
+    options: ["verb-adjective", "verb-noun", "verb-adverb", "verb-complex"],
+    correctAnswer: "verb-adjective",
+  },
+  {
+    question: "“After my journey” is an example of a ______ phrase.",
+    options: ["participial", "infinitive", "gerundive", "prepositional"],
+    correctAnswer: "prepositional",
+  },
+  {
+    question: "“Books that have illustrations sell well at Christmas.” The underlined exemplifies a ______.",
+    options: ["independent clause", "dependent clause", "main clause", "complex clause"],
+    correctAnswer: "dependent clause",
+  },
+  {
+    question: "“Where are the students?” The missing punctuation mark is called ______.",
+    options: ["apostrophe", "dash", "hyphen", "question mark"],
+    correctAnswer: "question mark",
+  },
+  {
+    question: "This section of the test will ______ questions on set passage.",
+    options: ["consist", "comprise", "contain", "comprise of"],
+    correctAnswer: "contain",
+  },
+  {
+    question: "After Jerry had made the bed, he ______ on it.",
+    options: ["layed", "laid", "lied", "lay"],
+    correctAnswer: "lay",
+  },
+  {
+    question: "Knowledge of figures of speech as well as idioms ______ tested in this section.",
+    options: ["is", "have been", "are", "were"],
+    correctAnswer: "is",
+  },
+  {
+    question: "The buildings damaged by the rainstorm ______ schools, hospitals and private houses.",
+    options: ["included", "include", "were included", "was including"],
+    correctAnswer: "included",
+  },
+  {
+    question: "The lecturer said that we ______ be able to finish the exam at the weekend.",
+    options: ["must", "can", "shall", "should"],
+    correctAnswer: "should",
+  },
+  {
+    question: "If you want a successful marriage, you ______ pray for it.",
+    options: ["have better", "better", "had better", "would better"],
+    correctAnswer: "had better",
+  },
+  {
+    question: "I could have agreed with your action if I ______ not ______ you promise to increase salaries.",
+    options: ["have/heard", "had/heard", "were/hearing", "was/hearing"],
+    correctAnswer: "had/heard",
+  },
+  {
+    question: "We are not surprised he was elected; every one of his constituents ______ that he is unreliable.",
+    options: ["know", "knows", "will know", "do know"],
+    correctAnswer: "knows",
+  },
+  {
+    question: "The pastor said, “Lay ______ your hearts to God.”",
+    options: ["bier", "bear", "bare", "bar"],
+    correctAnswer: "bare",
+  },
+  {
+    question: "Now, I am used ______ bread without butter.",
+    options: ["to eat", "in eating", "for eating", "to eating"],
+    correctAnswer: "to eating",
+  },
+  {
+    question: "______ all probability, the train will arrive today.",
+    options: ["In", "Under", "For", "By"],
+    correctAnswer: "In",
+  },
+  {
+    question: "The answers to the questions were discussed ______ the students.",
+    options: ["between", "by", "for", "to"],
+    correctAnswer: "by",
+  },
+  {
+    question: "I can always depend ______ my father for survival.",
+    options: ["on", "in", "upon", "by"],
+    correctAnswer: "on",
+  },
+  {
+    question: "The company representative in Nigeria is a ______.",
+    options: ["smart little Japanese", "little smart Japanese", "smart Japanese", "little Japanese smart"],
+    correctAnswer: "smart Japanese",
+  },
+  {
+    question: "Let’s have a cup of coffee, ______?",
+    options: ["shall we", "will we", "should we", "could we"],
+    correctAnswer: "shall we",
+  },
+  {
+    question: "No matter to whom I ______, nobody in the crowd had a clue.",
+    options: ["discussed", "asked", "turned", "contacted"],
+    correctAnswer: "turned",
+  },
+  {
+    question: "Olu, Tunde and Mathew’s ______ make people believe they belong to the same school of thought.",
+    options: ["philosophy", "philosophys", "philosophies", "philosophy’s"],
+    correctAnswer: "philosophies",
+  },
+  {
+    question: "Identify the pattern in the sentence: She smiles broadly.",
+    options: ["S V A", "S V O", "S O V", "S V O C A"],
+    correctAnswer: "S V A",
+  },
+    ],
   "GST 101": [
     {
       question: "__________ is a piece of language used for a specific purpose",
