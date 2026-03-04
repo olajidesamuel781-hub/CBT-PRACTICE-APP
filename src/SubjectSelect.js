@@ -15,7 +15,8 @@ export default function SubjectSelect({
   premiumLoading,
   onPremiumSuccess,
   premiumSubjects,
-  startTrial
+  startTrial,
+  onViewResults
 }) {
 
   const [subject, setSubject] = useState("");
@@ -249,7 +250,13 @@ export default function SubjectSelect({
         >
           Start Exam
         </button>
-
+                        <button
+            className="primary-btn"
+            onClick={onViewResults}
+            style={{ marginTop: "10px" }}
+            >
+            View My Results
+            </button>
       </div>
 
     </div>

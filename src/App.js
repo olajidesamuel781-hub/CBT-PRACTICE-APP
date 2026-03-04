@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from "react";
 import Quiz from "./Quiz";
 import Landing from "./Landing";
 import SubjectSelect from "./SubjectSelect";
+import Results from "./Results";
 import { allQuestions } from "./questions";
 import { supabase } from "./supabaseClient";
 import ReportButtons from "./ReportButtons";
@@ -16,6 +17,7 @@ document.addEventListener("paste", (e) => e.preventDefault());
 
 const [session, setSession] = useState(null);
 const [subject, setSubject] = useState("");
+const [page, setPage] = useState("subjects"); // NEW
 const [isPremium, setIsPremium] = useState(false);
 const [premiumLoading, setPremiumLoading] = useState(false);
 
@@ -38,7 +40,9 @@ const premiumSubjects = useMemo(
 );
 
 
+
 // AUTH SESSION
+
 useEffect(() => {
 
 let mounted = true;
@@ -55,6 +59,7 @@ const { data: authListener } = supabase.auth.onAuthStateChange(
 (_event, newSession) => {
 setSession(newSession);
 setSubject("");
+setPage("subjects");
 }
 );
 
@@ -66,7 +71,9 @@ authListener.subscription.unsubscribe();
 }, []);
 
 
+
 // CHECK PREMIUM STATUS
+
 useEffect(() => {
 
 const run = async () => {
@@ -126,7 +133,9 @@ run();
 }, [session]);
 
 
+
 // LOGOUT
+
 const logout = async () => {
 
 await supabase.auth.signOut();
@@ -134,13 +143,16 @@ await supabase.auth.signOut();
 setSession(null);
 setSubject("");
 setIsPremium(false);
+setPage("subjects");
 
 window.location.reload();
 
 };
 
 
+
 // FREE TRIAL
+
 const startTrial = async () => {
 
 if (!session?.user?.id) return;
@@ -164,7 +176,9 @@ alert("Your 1-day free trial has started!");
 };
 
 
+
 // PAYMENT SUCCESS
+
 const onPremiumSuccess = async (reference, plan = "weekly") => {
 
 if (!session?.user?.id) return;
@@ -188,7 +202,9 @@ setIsPremium(true);
 };
 
 
+
 // START SUBJECT
+
 const startSubject = async (picked) => {
 
 const clean = String(picked || "").trim();
@@ -201,6 +217,7 @@ return;
 setSubject(clean);
 
 // SAVE ANALYTICS
+
 await supabase.from("student_activity").insert({
 user_email: session.user.email,
 subject: clean,
@@ -211,10 +228,29 @@ total_questions: allQuestions[clean]?.length || 0
 };
 
 
+
 if (!session) return <Landing />;
 
 const studentEmail = session.user.email || "test@email.com";
 
+
+
+// SHOW RESULTS PAGE
+
+if (page === "results") {
+
+return (
+<Results
+studentEmail={studentEmail}
+onBack={() => setPage("subjects")}
+/>
+);
+
+}
+
+
+
+// SUBJECT PAGE
 
 if (!subject) {
 
@@ -232,6 +268,7 @@ premiumLoading={premiumLoading}
 onPremiumSuccess={onPremiumSuccess}
 premiumSubjects={premiumSubjects}
 startTrial={startTrial}
+onViewResults={() => setPage("results")} // NEW
 />
 
 <ReportButtons />
@@ -242,6 +279,9 @@ startTrial={startTrial}
 
 }
 
+
+
+// QUIZ PAGE
 
 return (
 

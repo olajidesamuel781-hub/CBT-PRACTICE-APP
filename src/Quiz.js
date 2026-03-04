@@ -14,7 +14,7 @@ const [current, setCurrent] = useState(0);
 const [answers, setAnswers] = useState([]);
 const [finished, setFinished] = useState(false);
 const [timeLeft, setTimeLeft] = useState(0);
-
+const [showNav, setShowNav] = useState(false);
 const shuffleArray = (array) => [...array].sort(() => Math.random() - 0.5);
 
 
@@ -332,7 +332,53 @@ Back to Subjects
 ) : (
 
 <>
+<button
+onClick={() => setShowNav(!showNav)}
+style={{
+marginBottom: "12px",
+padding: "8px 12px",
+background: "#444",
+color: "white",
+border: "none",
+borderRadius: "6px",
+cursor: "pointer"
+}}
+>
+☰ Question Navigator
+</button>
 
+{showNav && (
+<div
+style={{
+display: "grid",
+gridTemplateColumns: "repeat(5, 1fr)",
+gap: "8px",
+marginBottom: "15px"
+}}
+>
+{questions.map((_, index) => (
+<button
+key={index}
+onClick={() => setCurrent(index)}
+style={{
+padding: "10px",
+background:
+current === index
+? "#facc15"
+: answers[index] !== null
+? "#22c55e"
+: "#333",
+color: "white",
+border: "none",
+borderRadius: "6px",
+cursor: "pointer"
+}}
+>
+{index + 1}
+</button>
+))}
+</div>
+)}
 <h3>
 Q{current + 1}: {questions[current].question}
 </h3>
