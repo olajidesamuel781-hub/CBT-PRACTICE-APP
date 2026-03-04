@@ -3886,4223 +3886,6 @@ export const allQuestions = {
     correctAnswer: "S V A",
   },
     ],
-    "FIN 212":[
-        {
-    "question": "A computer is an electro-mechanical __________.",
-    "options": ["Tool", "Device", "Facility", "Machine"],
-    "correctAnswer": "Device"
-  },
-  {
-    "question": "A computer performs a wide range of tasks, from simple calculations to complex simulations.",
-    "options": ["True", "False", "Partially true", "None of the above"],
-    "correctAnswer": "True"
-  },
-  {
-    "question": "__________ is operated under the control of instructions stored in its own memory.",
-    "options": ["Computer", "Smart device", "Machine", "Calculator"],
-    "correctAnswer": "Computer"
-  },
-  {
-    "question": "__________ is described as an electro-mechanical tool that processes and transmits data.",
-    "options": ["Computer", "Binary number", "Smart device", "Router"],
-    "correctAnswer": "Computer"
-  },
-  {
-    "question": "Smart devices use ______ to transmit data and information.",
-    "options": ["Arabic numbers", "Roman figures", "Binary code", "Decimal code"],
-    "correctAnswer": "Binary code"
-  },
-  {
-    "question": "An example of binary code is ______.",
-    "options": ["10s and 20s", "2s and 5s", "0s and 1s", "1s and 9s"],
-    "correctAnswer": "0s and 1s"
-  },
-  {
-    "question": "One of these authors gave an alternative definition of a computer.",
-    "options": ["Abraham Lincoln", "Peter Drucker", "Socrates", "Vermaat"],
-    "correctAnswer": "Vermaat"
-  },
-  {
-    "question": "Versatility functionality in computer means ______.",
-    "options": ["Single purpose", "Dual purpose", "Numerous purposes", "No purpose"],
-    "correctAnswer": "Numerous purposes"
-  },
-  {
-    "question": "Diligence functionality in computer means ______.",
-    "options": ["Gets tired easily", "Weak easily", "Does not get tired", "Needs rest often"],
-    "correctAnswer": "Does not get tired"
-  },
-  {
-    "question": "Accuracy functionality in computer means ______.",
-    "options": ["Minimum or error free", "More errors", "Moderate errors", "Random errors"],
-    "correctAnswer": "Minimum or error free"
-  },
-  {
-    "question": "Binary-based processing means ______.",
-    "options": ["Digital logic", "Program", "Software", "Hardware"],
-    "correctAnswer": "Digital logic"
-  },
-  {
-    "question": "Binary-based processing is an attribute of ______.",
-    "options": ["Computer", "Electrical device", "Mechanical device", "Smart device"],
-    "correctAnswer": "Computer"
-  },
-  {
-    "question": "The visible and tangible parts of the computer are called ______.",
-    "options": ["Software", "Hardware", "Program", "Firmware"],
-    "correctAnswer": "Hardware"
-  },
-  {
-    "question": "The visible and intangible parts of the computer are called ______.",
-    "options": ["Software", "Hardware", "Keyboard", "Monitor"],
-    "correctAnswer": "Software"
-  },
-  {
-    "question": "An input device is used to ______.",
-    "options": [
-      "Put data and instructions into the computer",
-      "Bring out information from the computer",
-      "Delete instructions from the computer",
-      "Store data permanently"
-    ],
-    "correctAnswer": "Put data and instructions into the computer"
-  },
-  {
-    "question": "An output device is used to ______.",
-    "options": [
-      "Put data and instructions into the computer",
-      "Bring out information from the computer",
-      "Delete instructions from the computer",
-      "Input commands into memory"
-    ],
-    "correctAnswer": "Bring out information from the computer"
-  },
-  {
-    "question": "An example of an output device is ______.",
-    "options": ["Monitor", "Printer", "Speaker", "All of the above"],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "An example of an input device is ______.",
-    "options": ["Monitor", "Mouse", "Printer", "Speaker"],
-    "correctAnswer": "Mouse"
-  },
-  {
-    "question": "A device that can function as both input and output is ______.",
-    "options": ["Monitor", "Touchscreen", "Keyboard", "Mouse"],
-    "correctAnswer": "Touchscreen"
-  },
-  {
-    "question": "Joystick is an example of a ______ device.",
-    "options": ["Input device", "Output device", "Input and output device", "Storage device"],
-    "correctAnswer": "Input device"
-  },
-    {
-    "question": "Light pen is an example of ______.",
-    "options": ["Output device", "Input device", "Storage device", "Processing device"],
-    "correctAnswer": "Input device"
-  },
-  {
-    "question": "Monitor can serve as both input and output device.",
-    "options": ["True", "False", "Partially true", "None of the above"],
-    "correctAnswer": "False"
-  },
-  {
-    "question": "Which device can function as both input and output device?",
-    "options": ["Flash drive", "Memory card", "Touchscreen monitor", "Keyboard"],
-    "correctAnswer": "Touchscreen monitor"
-  },
-  {
-    "question": "External devices attached to the computer are called ______.",
-    "options": ["Peripherals", "Smart devices", "Network cables", "Adapters"],
-    "correctAnswer": "Peripherals"
-  },
-  {
-    "question": "Which of the following is system software?",
-    "options": ["MS Word", "MS Excel", "Windows", "PowerPoint"],
-    "correctAnswer": "Windows"
-  },
-  {
-    "question": "The acronym CRT stands for ______.",
-    "options": ["Cathode Ray Tube", "Commission Rate Turnover", "City Ray Tube", "Control Response Terminal"],
-    "correctAnswer": "Cathode Ray Tube"
-  },
-  {
-    "question": "CRT is a type of ______.",
-    "options": ["Printer", "Mouse", "Monitor", "Scanner"],
-    "correctAnswer": "Monitor"
-  },
-  {
-    "question": "A standard keyboard generally has 101 keys.",
-    "options": ["True", "False", "Sometimes", "Not sure"],
-    "correctAnswer": "True"
-  },
-  {
-    "question": "System software is used to ______.",
-    "options": [
-      "Manage and control hardware components",
-      "Create documents only",
-      "Design graphics",
-      "Play music"
-    ],
-    "correctAnswer": "Manage and control hardware components"
-  },
-  {
-    "question": "Utilities, Windows and Firmware are examples of ______.",
-    "options": ["Linux", "Application software", "System software", "Programming language"],
-    "correctAnswer": "System software"
-  },
-  {
-    "question": "MS Excel, Media Player and Firefox are examples of ______.",
-    "options": ["Application software", "System software", "Operating system", "Firmware"],
-    "correctAnswer": "Application software"
-  },
-  {
-    "question": "Programming software is used to ______.",
-    "options": [
-      "Test programs",
-      "Write programs",
-      "Maintain programs",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "IDEs stands for ______.",
-    "options": [
-      "International Development Environment",
-      "Integrated Development Environments",
-      "Internal Digital Environment",
-      "Integrated Data Engine"
-    ],
-    "correctAnswer": "Integrated Development Environments"
-  },
-  {
-    "question": "Which device sends data into the computer?",
-    "options": ["Output device", "External device", "Input device", "Monitor"],
-    "correctAnswer": "Input device"
-  },
-  {
-    "question": "Which of the following is an input device?",
-    "options": ["Keyboard", "Mouse", "Joystick", "All of the above"],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "To take data out of the computer, we need a ______.",
-    "options": ["Input device", "Output device", "Application software", "Compiler"],
-    "correctAnswer": "Output device"
-  },
-  {
-    "question": "KB stands for ______.",
-    "options": ["Megabyte", "Kilobyte", "King Byte", "Kernel Bit"],
-    "correctAnswer": "Kilobyte"
-  },
-  {
-    "question": "One kilobyte is equal to ______ bytes.",
-    "options": ["1000", "1024", "1012", "2048"],
-    "correctAnswer": "1024"
-  },
-  {
-    "question": "How many megabytes make one gigabyte?",
-    "options": ["1024", "1000", "512", "2048"],
-    "correctAnswer": "1024"
-  },
-  {
-    "question": "A number from 0 to 255 represents ______.",
-    "options": ["1 byte", "2 bytes", "4 bytes", "8 bytes"],
-    "correctAnswer": "1 byte"
-  },
-    {
-    "question": "About one page of text is approximately equal to ______.",
-    "options": ["4 KB", "4 MB", "1 GB", "500 Bytes"],
-    "correctAnswer": "4 KB"
-  },
-  {
-    "question": "A three-minute song size is approximately equal to ______.",
-    "options": ["3 MB", "3 GB", "4 KB", "500 KB"],
-    "correctAnswer": "3 MB"
-  },
-  {
-    "question": "90 bytes is enough to store a typical line of text from a book.",
-    "options": ["True", "False", "Sometimes", "Not sure"],
-    "correctAnswer": "True"
-  },
-  {
-    "question": "CPU stands for ______.",
-    "options": [
-      "Central Processing Unit",
-      "Central Program Unit",
-      "Control Processing Unit",
-      "Central Power Unit"
-    ],
-    "correctAnswer": "Central Processing Unit"
-  },
-  {
-    "question": "File management involves ______.",
-    "options": [
-      "Creating files",
-      "Naming files",
-      "Storing files",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "CPU speed cycle is measured in ______.",
-    "options": ["MB", "GB", "Hz", "Bytes"],
-    "correctAnswer": "Hz"
-  },
-  {
-    "question": "Hz stands for ______.",
-    "options": ["Hertz", "Heat zone", "Hard zone", "High zero"],
-    "correctAnswer": "Hertz"
-  },
-  {
-    "question": "A folder is like a ______ in a cabinet while a file is a ______ stored in that drawer.",
-    "options": [
-      "Drawer and paper document",
-      "Paper and drawer",
-      "Cabinet and book",
-      "Shelf and folder"
-    ],
-    "correctAnswer": "Drawer and paper document"
-  },
-  {
-    "question": "Computers are classified mainly by ______ and ______.",
-    "options": [
-      "Money and size",
-      "Power and price",
-      "Size and power",
-      "Colour and brand"
-    ],
-    "correctAnswer": "Size and power"
-  },
-  {
-    "question": "A powerful multi-user computer capable of supporting other computers is a ______.",
-    "options": [
-      "Mainframe computer",
-      "Mini computer",
-      "Personal computer",
-      "Laptop"
-    ],
-    "correctAnswer": "Mainframe computer"
-  },
-  {
-    "question": "An extremely fast computer that performs millions of instructions per second is a ______.",
-    "options": [
-      "Microcomputer",
-      "Workstation",
-      "Supercomputer",
-      "Personal computer"
-    ],
-    "correctAnswer": "Supercomputer"
-  },
-  {
-    "question": "Facts and figures which relay something specific are called ______.",
-    "options": ["Data", "Information", "Knowledge", "Wisdom"],
-    "correctAnswer": "Data"
-  },
-  {
-    "question": "Unstructured facts and figures are called ______.",
-    "options": ["Information", "Byte", "Data", "Knowledge"],
-    "correctAnswer": "Data"
-  },
-  {
-    "question": "Contextualized and processed data is called ______.",
-    "options": ["Information", "Raw facts", "Bulk data", "Knowledge"],
-    "correctAnswer": "Information"
-  },
-  {
-    "question": "Which of the following paints a bigger picture?",
-    "options": ["Data", "Information", "Raw data", "Figures"],
-    "correctAnswer": "Information"
-  },
-  {
-    "question": "________ is linked to doing and implies know-how and understanding.",
-    "options": ["Data", "Information", "Knowledge", "Wisdom"],
-    "correctAnswer": "Knowledge"
-  },
-  {
-    "question": "The content of the human mind can be classified into ______ categories.",
-    "options": ["2", "3", "4", "5"],
-    "correctAnswer": "4"
-  },
-  {
-    "question": "The application of data and information that answers 'how' questions is ______.",
-    "options": ["Knowledge", "Wisdom", "Data", "Information"],
-    "correctAnswer": "Knowledge"
-  },
-  {
-    "question": "________ is used to evaluate understanding.",
-    "options": ["Wisdom", "Knowledge", "Data", "Information"],
-    "correctAnswer": "Wisdom"
-  },
-  {
-    "question": "A small piece of software that piggybacks on real programs is called a ______.",
-    "options": ["System software", "Application package", "Desktop publishing", "Virus"],
-    "correctAnswer": "Virus"
-  },
-    {
-    "question": "Which of the following is a type of computer virus?",
-    "options": ["Trojan horse", "Worm", "Spyware", "All of the above"],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "Anti-virus software is used to ______.",
-    "options": ["Allow viruses", "Prevent viruses", "Remove viruses", "Prevent and remove viruses"],
-    "correctAnswer": "Prevent and remove viruses"
-  },
-  {
-    "question": "An example of anti-virus software is ______.",
-    "options": ["Avast", "Kaspersky", "Norton", "All of the above"],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "The act of collecting information or data from the internet is called ______.",
-    "options": ["Downloading", "Uploading", "Surfing", "Browsing"],
-    "correctAnswer": "Downloading"
-  },
-  {
-    "question": "The act of putting information or data on the internet is called ______.",
-    "options": ["Downloading", "Uploading", "Surfing", "Browsing"],
-    "correctAnswer": "Uploading"
-  },
-  {
-    "question": "A small piece of software that uses computer networks and security holes to replicate itself is called a ______.",
-    "options": ["Trojan horse", "Worm", "MS Word", "Firewall"],
-    "correctAnswer": "Worm"
-  },
-  {
-    "question": "The buying and selling of goods and services is associated with ______.",
-    "options": ["Relationship", "Skills", "Business", "Services"],
-    "correctAnswer": "Business"
-  },
-  {
-    "question": "Data and information vary from ______ to ______.",
-    "options": [
-      "People to people",
-      "Cars to people",
-      "Organization to organization",
-      "Country to continent"
-    ],
-    "correctAnswer": "Organization to organization"
-  },
-  {
-    "question": "Today, computers are inevitable in business transactions.",
-    "options": ["True", "False", "Not sure", "Partially true"],
-    "correctAnswer": "True"
-  },
-  {
-    "question": "Finacle is software used in ______.",
-    "options": ["Schools", "Hospitals", "Banks", "Libraries"],
-    "correctAnswer": "Banks"
-  },
-  {
-    "question": "The use of computers and internet technologies to provide medical care at a distance is called ______.",
-    "options": ["Flexcube", "Telemedicine", "Surfing", "E-commerce"],
-    "correctAnswer": "Telemedicine"
-  },
-  {
-    "question": "A small, single-user computer based on a microprocessor is called a ______.",
-    "options": ["Supercomputer", "Mainframe computer", "Personal computer", "Mini computer"],
-    "correctAnswer": "Personal computer"
-  },
-  {
-    "question": "Problems or challenges in an organization are part of life.",
-    "options": ["True", "False", "Not really", "None of the above"],
-    "correctAnswer": "True"
-  },
-  {
-    "question": "The first step in solving a problem using a computer is ______.",
-    "options": [
-      "Problem analysis and identification",
-      "Data cleansing",
-      "Data filtering",
-      "Solution evaluation"
-    ],
-    "correctAnswer": "Problem analysis and identification"
-  },
-  {
-    "question": "The last step in solving a problem using a computer is ______.",
-    "options": [
-      "Problem analysis",
-      "Data cleansing",
-      "Data filtering",
-      "Solution evaluation"
-    ],
-    "correctAnswer": "Solution evaluation"
-  },
-  {
-    "question": "The best software to compute compound interest investment is ______.",
-    "options": ["MS Word", "MS PowerPoint", "CorelDraw", "MS Excel"],
-    "correctAnswer": "MS Excel"
-  },
-  {
-    "question": "Software that allows users to create, edit, format, and store text documents is ______.",
-    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
-    "correctAnswer": "MS Word"
-  },
-  {
-    "question": "A core component of Microsoft Office widely used for calculations and data analysis is ______.",
-    "options": ["MS Access", "MS Excel", "MS PowerPoint", "MS Word"],
-    "correctAnswer": "MS Excel"
-  },
-  {
-    "question": "Document creation and editing is a key feature of ______.",
-    "options": ["MS PowerPoint", "MS Excel", "MS Word", "MS Outlook"],
-    "correctAnswer": "MS Word"
-  },
-  {
-    "question": "Opening MS Word as an application package is called ______.",
-    "options": ["Exit", "Launch", "Login", "Install"],
-    "correctAnswer": "Launch"
-  },
-    {
-    "question": "Items on the MS Word environment are called ______.",
-    "options": ["Default things", "Default items", "Default features", "Icons"],
-    "correctAnswer": "Icons"
-  },
-  {
-    "question": "The title bar helps to ______.",
-    "options": [
-      "Display software name",
-      "Show software status",
-      "Move document up and down",
-      "Move document left to right"
-    ],
-    "correctAnswer": "Display software name"
-  },
-  {
-    "question": "________ treats data in rows and columns with the use of cells.",
-    "options": ["Cell", "Rows", "Columns", "Table"],
-    "correctAnswer": "Table"
-  },
-  {
-    "question": "Pictorial representation of information using X and Y axis is called ______.",
-    "options": ["Chart", "Table", "Diagram", "Cell"],
-    "correctAnswer": "Chart"
-  },
-  {
-    "question": "Schematic representation of the flow of information is called ______.",
-    "options": ["Table", "Diagram", "Chart", "Cell"],
-    "correctAnswer": "Diagram"
-  },
-  {
-    "question": "The New command is used to ______.",
-    "options": [
-      "Create a fresh document",
-      "Open an existing document",
-      "Delete a document",
-      "Save a document"
-    ],
-    "correctAnswer": "Create a fresh document"
-  },
-  {
-    "question": "The process of changing the appearance of text is called ______.",
-    "options": ["Enhancing", "Formatting", "Editing", "Styling"],
-    "correctAnswer": "Formatting"
-  },
-  {
-    "question": "Which command changes text colour?",
-    "options": ["Font size", "Font style", "Font colour", "Font effect"],
-    "correctAnswer": "Font colour"
-  },
-  {
-    "question": "Text size can be increased or decreased using the ______ command.",
-    "options": ["Font size", "Font colour", "Font style", "Font effect"],
-    "correctAnswer": "Font size"
-  },
-  {
-    "question": "The acronym BIU stands for ______.",
-    "options": [
-      "Bold, Italic and Underline",
-      "Italic, Underline and Bold",
-      "Bold, Underline and Italic",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "The keyboard shortcut to save a document is ______.",
-    "options": ["Ctrl + A", "Ctrl + L", "Ctrl + S", "Ctrl + N"],
-    "correctAnswer": "Ctrl + S"
-  },
-  {
-    "question": "The intersection of rows and columns forms a ______.",
-    "options": ["Cell", "Row", "Column", "Table"],
-    "correctAnswer": "Cell"
-  },
-  {
-    "question": "Adding two or more cells together into one is called ______.",
-    "options": ["Split cell", "Delete cell", "Merge cell", "Copy cell"],
-    "correctAnswer": "Merge cell"
-  },
-  {
-    "question": "The Insert tab contains commands to insert tables and pictures into a document.",
-    "options": ["True", "False", "Not sure", "Partially true"],
-    "correctAnswer": "True"
-  },
-  {
-    "question": "To remove unwanted rows and columns, use the ______ command.",
-    "options": [
-      "Add rows and columns",
-      "Delete rows and columns",
-      "Split rows and columns",
-      "Merge rows and columns"
-    ],
-    "correctAnswer": "Delete rows and columns"
-  },
-  {
-    "question": "The keyboard shortcut to open a file is ______.",
-    "options": ["Ctrl + O", "Ctrl + K", "Ctrl + L", "Ctrl + U"],
-    "correctAnswer": "Ctrl + O"
-  },
-  {
-    "question": "________ is an electronic ledger used to store and analyze data in tabular format.",
-    "options": ["Word", "PowerPoint", "CorelDraw", "Excel"],
-    "correctAnswer": "Excel"
-  },
-  {
-    "question": "Excel is distinguished by its ability to perform ______.",
-    "options": [
-      "Calculations",
-      "Create charts",
-      "Create graphs",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "Why does Excel matter for productivity?",
-    "options": [
-      "It organizes data for fast decision making",
-      "It reduces manual errors",
-      "It improves accuracy and planning",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "To launch MS Excel means to ______.",
-    "options": ["Exit Excel", "Close Excel", "Open Excel", "Install Excel"],
-    "correctAnswer": "Open Excel"
-  },
-    {
-    "question": "The Name Box in MS Excel displays the ______.",
-    "options": ["Cell colour", "Cell status", "Cell address", "Cell border"],
-    "correctAnswer": "Cell address"
-  },
-  {
-    "question": "An active cell in Excel is characterized by a ______.",
-    "options": ["Thick border", "Light border", "Red line", "Dotted border"],
-    "correctAnswer": "Thick border"
-  },
-  {
-    "question": "A collection of worksheets is called a ______.",
-    "options": ["Workbook", "Data sheet", "Work paper", "Spreadsheet"],
-    "correctAnswer": "Workbook"
-  },
-  {
-    "question": "By default, a new Excel workbook contains ______ worksheet(s).",
-    "options": ["1", "2", "3", "4"],
-    "correctAnswer": "1"
-  },
-  {
-    "question": "Each box where you enter data in Excel is called a ______.",
-    "options": ["Cell", "Column", "Row", "Block"],
-    "correctAnswer": "Cell"
-  },
-  {
-    "question": "Vertical lines in Excel are called ______.",
-    "options": ["Cells", "Columns", "Rows", "Ranges"],
-    "correctAnswer": "Columns"
-  },
-  {
-    "question": "Horizontal lines in Excel are called ______.",
-    "options": ["Cells", "Columns", "Rows", "Ranges"],
-    "correctAnswer": "Rows"
-  },
-  {
-    "question": "The combination of a column letter and row number is called the ______.",
-    "options": ["Cell name", "Column name", "Row name", "Sheet name"],
-    "correctAnswer": "Cell name"
-  },
-  {
-    "question": "The entire Excel file is called a ______.",
-    "options": ["Workbook", "Worksheet", "Column", "Row"],
-    "correctAnswer": "Workbook"
-  },
-  {
-    "question": "The main interface in Excel containing tabs and groups of commands is called the ______.",
-    "options": ["Rows", "Columns", "Ribbon", "Formula bar"],
-    "correctAnswer": "Ribbon"
-  },
-  {
-    "question": "The Ribbon is divided into various ______.",
-    "options": ["Groups", "Cells", "Columns", "Sheets"],
-    "correctAnswer": "Groups"
-  },
-  {
-    "question": "The ______ tab provides access to the Function Library and formula auditing tools.",
-    "options": ["Formulas tab", "Name box", "Home tab", "Insert tab"],
-    "correctAnswer": "Formulas tab"
-  },
-  {
-    "question": "A predefined built-in formula that performs a specific task is called a ______.",
-    "options": ["Formula", "Function", "Cell address", "Argument"],
-    "correctAnswer": "Function"
-  },
-  {
-    "question": "A combination of operators, values, and cell references that evaluates to a value is called a ______.",
-    "options": ["Formula", "Function", "Cell address", "Range"],
-    "correctAnswer": "Formula"
-  },
-  {
-    "question": "Cells arranged in sequence vertically or horizontally are called a ______.",
-    "options": ["Block of cells", "Range of cells", "Group of cells", "Table"],
-    "correctAnswer": "Range of cells"
-  },
-  {
-    "question": "Combining two or more cells into one cell is called ______.",
-    "options": ["Merge cells", "Add cells", "Group cells", "Split cells"],
-    "correctAnswer": "Merge cells"
-  },
-  {
-    "question": "Showing only rows that meet certain criteria in Excel is called ______.",
-    "options": ["Sorting", "Filter", "Merge", "Grouping"],
-    "correctAnswer": "Filter"
-  },
-  {
-    "question": "Arranging data alphabetically or numerically is called ______.",
-    "options": ["Blocking", "Sorting", "Filtering", "Merging"],
-    "correctAnswer": "Sorting"
-  },
-  {
-    "question": "A single spreadsheet within a workbook is called a ______.",
-    "options": ["Worksheet", "Workbook", "Cell", "Range"],
-    "correctAnswer": "Worksheet"
-  },
-  {
-    "question": "The ______ tab contains commands for formatting, alignment, styles, and editing.",
-    "options": ["Home tab", "Insert tab", "View tab", "Data tab"],
-    "correctAnswer": "Home tab"
-  },
-    {
-    "question": "Sorting and filtering commands are found in which tab in Excel?",
-    "options": ["Home tab", "Data tab", "View tab", "Insert tab"],
-    "correctAnswer": "Data tab"
-  },
-  {
-    "question": "A powerful presentation software developed by Microsoft is called ______.",
-    "options": ["MS Word", "MS Excel", "MS Access", "MS PowerPoint"],
-    "correctAnswer": "MS PowerPoint"
-  },
-  {
-    "question": "The file extension for Microsoft PowerPoint is ______.",
-    "options": [".doc", ".xls", ".ppt", ".exe"],
-    "correctAnswer": ".ppt"
-  },
-  {
-    "question": "Slide presentations shown visually to an audience can be created using ______.",
-    "options": ["MS Word", "MS PowerPoint", "MS Access", "MS Excel"],
-    "correctAnswer": "MS PowerPoint"
-  },
-  {
-    "question": "Multimedia integration allows inclusion of ______ in presentations.",
-    "options": ["Images", "Video", "Audio", "All of the above"],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "Users can add transitions between ______ in PowerPoint.",
-    "options": ["Slides", "Paragraphs", "Cells", "Worksheets"],
-    "correctAnswer": "Slides"
-  },
-  {
-    "question": "The keyboard shortcut to start a slideshow in PowerPoint is ______.",
-    "options": ["F1", "F5", "Ctrl + S", "Ctrl + P"],
-    "correctAnswer": "F5"
-  },
-  {
-    "question": "The default view for creating and editing slides in PowerPoint is called ______.",
-    "options": ["Slide Show view", "Normal view", "Reading view", "Outline view"],
-    "correctAnswer": "Normal view"
-  },
-  {
-    "question": "A design template in PowerPoint is used to ______.",
-    "options": [
-      "Apply a consistent style to slides",
-      "Insert pictures only",
-      "Delete slides automatically",
-      "Add formulas"
-    ],
-    "correctAnswer": "Apply a consistent style to slides"
-  },
-  {
-    "question": "Which tab in PowerPoint is used to insert pictures and shapes?",
-    "options": ["Home tab", "Design tab", "Insert tab", "View tab"],
-    "correctAnswer": "Insert tab"
-  },
-  {
-    "question": "Animations in PowerPoint are used to ______.",
-    "options": [
-      "Add movement effects to objects",
-      "Delete slides",
-      "Change background colour only",
-      "Print slides"
-    ],
-    "correctAnswer": "Add movement effects to objects"
-  },
-  {
-    "question": "The Slide Sorter view is used to ______.",
-    "options": [
-      "Rearrange slides",
-      "Insert tables",
-      "Edit text formatting",
-      "Start slideshow"
-    ],
-    "correctAnswer": "Rearrange slides"
-  },
-  {
-    "question": "A placeholder in PowerPoint is used to ______.",
-    "options": [
-      "Hold text or content",
-      "Delete slides",
-      "Change font automatically",
-      "Lock slides"
-    ],
-    "correctAnswer": "Hold text or content"
-  },
-  {
-    "question": "The Notes section in PowerPoint is used to ______.",
-    "options": [
-      "Add speaker notes",
-      "Insert animations",
-      "Change slide colour",
-      "Print handouts only"
-    ],
-    "correctAnswer": "Add speaker notes"
-  },
-  {
-    "question": "Which of the following is used to print slides?",
-    "options": ["File tab", "Insert tab", "Design tab", "Animations tab"],
-    "correctAnswer": "File tab"
-  },
-  {
-    "question": "A slide layout determines ______.",
-    "options": [
-      "The arrangement of content on a slide",
-      "The background music",
-      "The printer settings",
-      "The file extension"
-    ],
-    "correctAnswer": "The arrangement of content on a slide"
-  },
-  {
-    "question": "MS Access is mainly used for ______.",
-    "options": [
-      "Word processing",
-      "Data storage and database management",
-      "Presentation creation",
-      "Image editing"
-    ],
-    "correctAnswer": "Data storage and database management"
-  },
-  {
-    "question": "A database is a collection of ______.",
-    "options": [
-      "Related data",
-      "Pictures only",
-      "Charts only",
-      "Slides"
-    ],
-    "correctAnswer": "Related data"
-  },
-  {
-    "question": "Which key is used to insert a new slide in PowerPoint?",
-    "options": ["Ctrl + N", "Ctrl + M", "Ctrl + S", "Ctrl + P"],
-    "correctAnswer": "Ctrl + M"
-  },
-  {
-    "question": "The Design tab in PowerPoint is mainly used to ______.",
-    "options": [
-      "Apply themes and backgrounds",
-      "Insert charts",
-      "Add formulas",
-      "Delete slides"
-    ],
-    "correctAnswer": "Apply themes and backgrounds"
-  },
-    ],
-    "FIN 216":[
-        {
-    "question": "Which of the following is a basic requirement of a valid insurance contract?",
-    "options": ["Gambling interest", "Insurable interest", "Speculation", "Profit motive"],
-    "correctAnswer": "Insurable interest"
-  },
-  {
-    "question": "Insurable interest must exist at the time of loss in which type of insurance?",
-    "options": ["Life insurance", "Fire insurance", "Endowment insurance", "Pension insurance"],
-    "correctAnswer": "Fire insurance"
-  },
-  {
-    "question": "The principle that requires both parties to disclose all material facts is known as:",
-    "options": ["Indemnity", "Subrogation", "Utmost good faith", "Contribution"],
-    "correctAnswer": "Utmost good faith"
-  },
-  {
-    "question": "Which of the following shows acceptance in an insurance contract?",
-    "options": ["Proposal form", "Premium payment", "Insurance policy issuance", "Claim form"],
-    "correctAnswer": "Insurance policy issuance"
-  },
-  {
-    "question": "The consideration paid by the insured to the insurer is called:",
-    "options": ["Claim", "Bonus", "Premium", "Dividend"],
-    "correctAnswer": "Premium"
-  },
-  {
-    "question": "Which of the following is NOT a requirement of a valid insurance contract?",
-    "options": ["Legal purpose", "Insurable interest", "Agreement", "Wagering intention"],
-    "correctAnswer": "Wagering intention"
-  },
-  {
-    "question": "The capacity to enter into an insurance contract means that:",
-    "options": [
-      "The contract must be written",
-      "Parties must be of legal age and sound mind",
-      "The premium must be paid yearly",
-      "The policy must be renewed"
-    ],
-    "correctAnswer": "Parties must be of legal age and sound mind"
-  },
-  {
-    "question": "An insurance contract becomes binding when there is:",
-    "options": ["Offer only", "Acceptance only", "Offer and acceptance", "Claim settlement"],
-    "correctAnswer": "Offer and acceptance"
-  },
-  {
-    "question": "Which document serves as evidence of an insurance contract?",
-    "options": ["Proposal form", "Cover note", "Insurance policy", "Receipt"],
-    "correctAnswer": "Insurance policy"
-  },
-  {
-    "question": "The requirement that the insurance contract must not be illegal is known as:",
-    "options": ["Legal consideration", "Legal capacity", "Legal purpose", "Insurable interest"],
-    "correctAnswer": "Legal purpose"
-  },
-  {
-    "question": "Insurable interest means that the insured:",
-    "options": [
-      "Expects to make profit from loss",
-      "Has no relationship with the subject matter",
-      "Will suffer financial loss if the insured event occurs",
-      "Is an insurance company"
-    ],
-    "correctAnswer": "Will suffer financial loss if the insured event occurs"
-  },
-  {
-    "question": "Which of the following is NOT a requirement of an insurance contract?",
-    "options": ["Offer and acceptance", "Consideration", "Insurable interest", "Gambling intention"],
-    "correctAnswer": "Gambling intention"
-  },
-  {
-    "question": "In insurance, consideration refers to:",
-    "options": ["Policy document", "Premium paid by the insured", "Claim settlement", "Risk covered"],
-    "correctAnswer": "Premium paid by the insured"
-  },
-  {
-    "question": "The agreement between the insurer and the insured becomes valid when there is:",
-    "options": ["Payment of claim", "Loss occurrence", "Offer and acceptance", "Policy cancellation"],
-    "correctAnswer": "Offer and acceptance"
-  },
-  {
-    "question": "Which principle ensures that the insured is restored to the original financial position before the loss?",
-    "options": ["Utmost good faith", "Indemnity", "Insurable interest", "Subrogation"],
-    "correctAnswer": "Indemnity"
-  },
-  {
-    "question": "Utmost good faith in insurance contracts requires:",
-    "options": ["Partial disclosure", "Disclosure by insurer only", "Full disclosure by both parties", "No disclosure at all"],
-    "correctAnswer": "Full disclosure by both parties"
-  },
-  {
-    "question": "An insurance contract without insurable interest is considered:",
-    "options": ["Legal", "Enforceable", "Void", "Profitable"],
-    "correctAnswer": "Void"
-  },
-  {
-    "question": "Which of the following parties pays the premium?",
-    "options": ["Insurer", "Agent", "Insured", "Broker"],
-    "correctAnswer": "Insured"
-  },
-  {
-    "question": "The insurance company is also known as the:",
-    "options": ["Insured", "Assured", "Insurer", "Beneficiary"],
-    "correctAnswer": "Insurer"
-  },
-  {
-    "question": "Which of the following best describes an insurance contract?",
-    "options": ["Social agreement", "Gambling contract", "Legal contract", "Verbal promise"],
-    "correctAnswer": "Legal contract"
-  },
-    {
-    "question": "What is insurable interest?",
-    "options": [
-      "Interest in buying insurance",
-      "Legal right to insure",
-      "Financial relationship that may cause loss",
-      "Agreement between insurer and insured"
-    ],
-    "correctAnswer": "Financial relationship that may cause loss"
-  },
-  {
-    "question": "Insurable interest must exist in which type of insurance at the time of loss?",
-    "options": ["Life insurance", "Fire insurance", "Marine insurance", "All types of insurance"],
-    "correctAnswer": "Fire insurance"
-  },
-  {
-    "question": "Who has insurable interest in his own life?",
-    "options": ["Employer", "Creditor", "The individual himself", "Insurance company"],
-    "correctAnswer": "The individual himself"
-  },
-  {
-    "question": "Which of the following has insurable interest in a mortgaged property?",
-    "options": [
-      "Only the mortgagor",
-      "Only the mortgagee",
-      "Both mortgagor and mortgagee",
-      "The insurer"
-    ],
-    "correctAnswer": "Both mortgagor and mortgagee"
-  },
-  {
-    "question": "Insurable interest helps to prevent which of the following?",
-    "options": ["Fraud", "Gambling", "Fire", "Accidents"],
-    "correctAnswer": "Gambling"
-  },
-  {
-    "question": "A creditor has insurable interest in the life of a debtor to the extent of:",
-    "options": ["Debtor’s income", "Amount of debt", "Debtor’s age", "Policy value"],
-    "correctAnswer": "Amount of debt"
-  },
-  {
-    "question": "Which insurance contract does NOT require insurable interest at the time of loss?",
-    "options": ["Fire insurance", "Marine insurance", "Life insurance", "Property insurance"],
-    "correctAnswer": "Life insurance"
-  },
-  {
-    "question": "In marine insurance, insurable interest must exist:",
-    "options": [
-      "Only at the time of contract",
-      "Only at the time of loss",
-      "At both times",
-      "At any time"
-    ],
-    "correctAnswer": "Only at the time of loss"
-  },
-  {
-    "question": "A person can insure his house because he has:",
-    "options": ["Emotional interest", "Legal interest", "Speculative interest", "No interest"],
-    "correctAnswer": "Legal interest"
-  },
-  {
-    "question": "Insurable interest is essential for a contract of insurance to be:",
-    "options": ["Profitable", "Legal", "Long-term", "Transferable"],
-    "correctAnswer": "Legal"
-  },
-  {
-    "question": "Which of the following has NO insurable interest?",
-    "options": [
-      "Husband in wife’s life",
-      "Employer in employee’s life",
-      "Stranger in another person’s life",
-      "Creditor in debtor’s life"
-    ],
-    "correctAnswer": "Stranger in another person’s life"
-  },
-  {
-    "question": "The main purpose of insurable interest is to:",
-    "options": [
-      "Increase premium",
-      "Reduce claim amount",
-      "Ensure compensation for loss",
-      "Encourage betting"
-    ],
-    "correctAnswer": "Ensure compensation for loss"
-  },
-  {
-    "question": "Insurable interest in fire insurance must exist:",
-    "options": [
-      "At proposal stage only",
-      "At the time of policy issue",
-      "At the time of loss",
-      "After loss"
-    ],
-    "correctAnswer": "At the time of loss"
-  },
-  {
-    "question": "Which law supports the principle of insurable interest?",
-    "options": [
-      "Law of contract",
-      "Law of agency",
-      "Law of tort",
-      "Law of negligence"
-    ],
-    "correctAnswer": "Law of contract"
-  },
-  {
-    "question": "A tenant has insurable interest in:",
-    "options": [
-      "Landlord’s life",
-      "Rented property",
-      "Neighbor’s house",
-      "Public buildings"
-    ],
-    "correctAnswer": "Rented property"
-  },
-  {
-    "question": "Parents have insurable interest in the life of their:",
-    "options": ["Friends", "Relatives", "Children", "Employees"],
-    "correctAnswer": "Children"
-  },
-  {
-    "question": "Without insurable interest, an insurance contract becomes:",
-    "options": ["Profitable", "Valid", "Illegal", "Binding"],
-    "correctAnswer": "Illegal"
-  },
-  {
-    "question": "Insurable interest arises from:",
-    "options": [
-      "Chance",
-      "Contract",
-      "Legal or financial relationship",
-      "Insurance premium"
-    ],
-    "correctAnswer": "Legal or financial relationship"
-  },
-  {
-    "question": "Which of the following best describes insurable interest?",
-    "options": [
-      "Hope of profit",
-      "Possibility of gain",
-      "Risk of financial loss",
-      "Expectation of bonus"
-    ],
-    "correctAnswer": "Risk of financial loss"
-  },
-  {
-    "question": "What is contract renewal?",
-    "options": [
-      "Ending a contract before expiry",
-      "Extending a contract after its expiration",
-      "Cancelling a contract permanently",
-      "Transferring a contract to another party"
-    ],
-    "correctAnswer": "Extending a contract after its expiration"
-  },
-    {
-    "question": "Which document is usually reviewed before renewing a contract?",
-    "options": [
-      "Purchase receipt",
-      "Original contract agreement",
-      "Memorandum of understanding",
-      "Letter of recommendation"
-    ],
-    "correctAnswer": "Original contract agreement"
-  },
-  {
-    "question": "Who is responsible for initiating a contract renewal?",
-    "options": [
-      "Only the government",
-      "Any party to the contract",
-      "A third party",
-      "The court"
-    ],
-    "correctAnswer": "Any party to the contract"
-  },
-  {
-    "question": "When should a contract renewal process ideally begin?",
-    "options": [
-      "After the contract has expired",
-      "On the signing day",
-      "Before the contract expires",
-      "During a dispute"
-    ],
-    "correctAnswer": "Before the contract expires"
-  },
-  {
-    "question": "Which factor is most important when deciding to renew a contract?",
-    "options": [
-      "Personal relationship",
-      "Past performance of parties",
-      "Contract paper quality",
-      "Contract title"
-    ],
-    "correctAnswer": "Past performance of parties"
-  },
-  {
-    "question": "What happens if both parties agree to renew a contract?",
-    "options": [
-      "The contract becomes void",
-      "A new or revised contract is signed",
-      "The contract automatically ends",
-      "The court must approve it"
-    ],
-    "correctAnswer": "A new or revised contract is signed"
-  },
-  {
-    "question": "Which of the following may change during contract renewal?",
-    "options": [
-      "Contract terms and conditions",
-      "Names of witnesses only",
-      "Contract history",
-      "Contract existence"
-    ],
-    "correctAnswer": "Contract terms and conditions"
-  },
-  {
-    "question": "What is the effect of renewing a contract?",
-    "options": [
-      "It terminates obligations",
-      "It continues contractual obligations",
-      "It cancels all previous terms",
-      "It transfers ownership"
-    ],
-    "correctAnswer": "It continues contractual obligations"
-  },
-  {
-    "question": "Failure to renew a contract before expiration may result in:",
-    "options": [
-      "Automatic renewal in all cases",
-      "Legal uncertainty or termination",
-      "Immediate court action",
-      "Criminal liability"
-    ],
-    "correctAnswer": "Legal uncertainty or termination"
-  },
-  {
-    "question": "Which clause in a contract provides guidance on renewal?",
-    "options": [
-      "Arbitration clause",
-      "Renewal clause",
-      "Confidentiality clause",
-      "Consideration clause"
-    ],
-    "correctAnswer": "Renewal clause"
-  },
-  {
-    "question": "Indemnity in insurance means:",
-    "options": [
-      "Making profit from loss",
-      "Full replacement with a new item",
-      "Compensation equal to the loss suffered",
-      "Payment of the sum insured in all cases"
-    ],
-    "correctAnswer": "Compensation equal to the loss suffered"
-  },
-  {
-    "question": "The main objective of indemnity is to:",
-    "options": [
-      "Enrich the insured",
-      "Restore the insured to the original financial position",
-      "Punish the insured",
-      "Increase insurance premiums"
-    ],
-    "correctAnswer": "Restore the insured to the original financial position"
-  },
-  {
-    "question": "Which of the following insurance policies is NOT a contract of indemnity?",
-    "options": [
-      "Fire insurance",
-      "Marine insurance",
-      "Motor insurance",
-      "Life insurance"
-    ],
-    "correctAnswer": "Life insurance"
-  },
-  {
-    "question": "Under the principle of indemnity, the insured can receive:",
-    "options": [
-      "More than the loss",
-      "Less than the loss only",
-      "Exactly the amount of the loss",
-      "Any amount agreed"
-    ],
-    "correctAnswer": "Exactly the amount of the loss"
-  },
-  {
-    "question": "The maximum compensation payable under indemnity is:",
-    "options": [
-      "Market value",
-      "Replacement cost",
-      "Sum insured only",
-      "Actual loss or sum insured, whichever is lower"
-    ],
-    "correctAnswer": "Actual loss or sum insured, whichever is lower"
-  },
-  {
-    "question": "Which of the following methods is used to apply indemnity?",
-    "options": [
-      "Donation",
-      "Gambling",
-      "Cash payment",
-      "Investment"
-    ],
-    "correctAnswer": "Cash payment"
-  },
-  {
-    "question": "Indemnity prevents the insured from:",
-    "options": [
-      "Paying premiums",
-      "Claiming losses",
-      "Making profit from insurance",
-      "Insuring property"
-    ],
-    "correctAnswer": "Making profit from insurance"
-  },
-  {
-    "question": "Reinstatement as a method of indemnity means:",
-    "options": [
-      "Paying cash only",
-      "Repairing or replacing damaged property",
-      "Cancelling the policy",
-      "Increasing the sum insured"
-    ],
-    "correctAnswer": "Repairing or replacing damaged property"
-  },
-  {
-    "question": "Which principle supports indemnity by allowing insurers to recover from third parties?",
-    "options": [
-      "Contribution",
-      "Insurable interest",
-      "Subrogation",
-      "Utmost good faith"
-    ],
-    "correctAnswer": "Subrogation"
-  },
-  {
-    "question": "Indemnity is best described as:",
-    "options": [
-      "A benefit policy",
-      "A savings contract",
-      "A compensation contract",
-      "A speculative agreement"
-    ],
-    "correctAnswer": "A compensation contract"
-  },
-  {
-    "question": "An insurance underwriter is a person who:",
-    "options": [
-      "Sells insurance policies",
-      "Assesses and accepts insurance risks",
-      "Pays insurance claims",
-      "Collects insurance premiums"
-    ],
-    "correctAnswer": "Assesses and accepts insurance risks"
-  },
-    {
-    "question": "The main duty of an insurance underwriter is to:",
-    "options": [
-      "Advertise insurance products",
-      "Evaluate risk and determine policy terms",
-      "Settle claims",
-      "Manage insurance agents"
-    ],
-    "correctAnswer": "Evaluate risk and determine policy terms"
-  },
-  {
-    "question": "Which of the following factors is MOST considered by an underwriter?",
-    "options": [
-      "Profit margin only",
-      "Nature and level of risk",
-      "Office location",
-      "Agent’s commission"
-    ],
-    "correctAnswer": "Nature and level of risk"
-  },
-  {
-    "question": "An underwriter decides all EXCEPT:",
-    "options": [
-      "Whether to accept a risk",
-      "The premium to be charged",
-      "Policy conditions",
-      "Payment of claims"
-    ],
-    "correctAnswer": "Payment of claims"
-  },
-  {
-    "question": "Underwriting helps insurance companies to:",
-    "options": [
-      "Avoid all risks",
-      "Select suitable risks",
-      "Eliminate claims",
-      "Stop policy sales"
-    ],
-    "correctAnswer": "Select suitable risks"
-  },
-  {
-    "question": "Which document provides information used by underwriters to assess risk?",
-    "options": [
-      "Policy document",
-      "Proposal form",
-      "Cover note",
-      "Certificate of insurance"
-    ],
-    "correctAnswer": "Proposal form"
-  },
-  {
-    "question": "An underwriter uses which principle most in risk assessment?",
-    "options": [
-      "Contribution",
-      "Indemnity",
-      "Insurable interest",
-      "Utmost good faith"
-    ],
-    "correctAnswer": "Utmost good faith"
-  },
-  {
-    "question": "The process of underwriting mainly occurs:",
-    "options": [
-      "After loss occurs",
-      "Before issuing the policy",
-      "During claim settlement",
-      "After policy expiry"
-    ],
-    "correctAnswer": "Before issuing the policy"
-  },
-  {
-    "question": "Which class of insurance involves extensive underwriting due to higher risk?",
-    "options": [
-      "Life insurance",
-      "Fire insurance",
-      "Motor insurance",
-      "Marine insurance"
-    ],
-    "correctAnswer": "Life insurance"
-  },
-  {
-    "question": "Underwriting decisions are intended to protect the insurer from:",
-    "options": [
-      "Competition",
-      "Fraud",
-      "Excessive or unacceptable risk",
-      "Government regulations"
-    ],
-    "correctAnswer": "Excessive or unacceptable risk"
-  },
-  {
-    "question": "What does “contract award” mean?",
-    "options": [
-      "Signing of the contract",
-      "Selection of the successful bidder",
-      "Advertisement of the tender",
-      "Completion of the project"
-    ],
-    "correctAnswer": "Selection of the successful bidder"
-  },
-  {
-    "question": "A contract is usually awarded to the bidder who:",
-    "options": [
-      "Submits the earliest bid",
-      "Has the highest price",
-      "Meets requirements and offers the best value",
-      "Is most popular"
-    ],
-    "correctAnswer": "Meets requirements and offers the best value"
-  },
-  {
-    "question": "Which document officially communicates a contract award?",
-    "options": [
-      "Invitation to tender",
-      "Bid submission form",
-      "Letter of award",
-      "Bill of quantities"
-    ],
-    "correctAnswer": "Letter of award"
-  },
-  {
-    "question": "Before awarding a contract, the client must ensure that the bidder:",
-    "options": [
-      "Is a government official",
-      "Has adequate financial and technical capacity",
-      "Is the lowest bidder only",
-      "Is already working on another project"
-    ],
-    "correctAnswer": "Has adequate financial and technical capacity"
-  },
-  {
-    "question": "In public procurement, contract award must follow:",
-    "options": [
-      "Personal discretion",
-      "Informal agreements",
-      "Due process and transparency",
-      "Negotiation after completion"
-    ],
-    "correctAnswer": "Due process and transparency"
-  },
-  {
-    "question": "Which factor is least considered during contract award?",
-    "options": [
-      "Bidder’s experience",
-      "Compliance with specifications",
-      "Bidder’s personal relationship",
-      "Cost effectiveness"
-    ],
-    "correctAnswer": "Bidder’s personal relationship"
-  },
-  {
-    "question": "A contract award becomes legally binding when:",
-    "options": [
-      "The tender is advertised",
-      "The bidder submits a proposal",
-      "Both parties sign the contract",
-      "The project begins"
-    ],
-    "correctAnswer": "Both parties sign the contract"
-  },
-  {
-    "question": "What happens after a contract is awarded?",
-    "options": [
-      "Tender advertisement",
-      "Contract execution begins",
-      "Bid evaluation starts",
-      "Prequalification is done"
-    ],
-    "correctAnswer": "Contract execution begins"
-  },
-  {
-    "question": "Which of the following can lead to cancellation of a contract award?",
-    "options": [
-      "Proper documentation",
-      "Compliance with rules",
-      "Fraud or misrepresentation",
-      "Timely performance"
-    ],
-    "correctAnswer": "Fraud or misrepresentation"
-  },
-  {
-    "question": "The main objective of awarding a contract is to:",
-    "options": [
-      "Favor a bidder",
-      "Delay project execution",
-      "Achieve value for money",
-      "Avoid competition"
-    ],
-    "correctAnswer": "Achieve value for money"
-  },
-  {
-    "question": "What is the main purpose of negotiation in a contract?",
-    "options": [
-      "To finalize a contract without changes",
-      "To reach a mutually acceptable agreement",
-      "To avoid signing any contract",
-      "To increase the legal formalities"
-    ],
-    "correctAnswer": "To reach a mutually acceptable agreement"
-  },
-    {
-    "question": "Which of the following is a key characteristic of a negotiated contract?",
-    "options": [
-      "Standard terms with no flexibility",
-      "Terms are discussed and modified before agreement",
-      "It is always drafted by a government agency",
-      "It cannot be legally enforced"
-    ],
-    "correctAnswer": "Terms are discussed and modified before agreement"
-  },
-  {
-    "question": "During contract negotiation, what is an important factor to consider?",
-    "options": [
-      "The personal preferences of third parties not involved",
-      "The interests and obligations of all parties",
-      "Avoiding communication until the contract is signed",
-      "Ignoring legal requirements"
-    ],
-    "correctAnswer": "The interests and obligations of all parties"
-  },
-  {
-    "question": "Which of the following can result from poor negotiation in a contract?",
-    "options": [
-      "Increased clarity and mutual understanding",
-      "Potential disputes and misunderstandings",
-      "A stronger business relationship",
-      "Automatic contract approval by law"
-    ],
-    "correctAnswer": "Potential disputes and misunderstandings"
-  },
-  {
-    "question": "What is the difference between a standard contract and a negotiated contract?",
-    "options": [
-      "A standard contract allows modification of terms; a negotiated contract does not",
-      "A negotiated contract involves discussion and agreement on terms; a standard contract usually does not",
-      "A standard contract is always verbal; a negotiated contract is always written",
-      "There is no difference"
-    ],
-    "correctAnswer": "A negotiated contract involves discussion and agreement on terms; a standard contract usually does not"
-  },
-  {
-    "question": "What is a contract without negotiation?",
-    "options": [
-      "A contract where terms are freely discussed and modified",
-      "A contract where the terms are set by one party and the other must accept them as is",
-      "A contract that is illegal",
-      "A contract that requires signatures from multiple parties"
-    ],
-    "correctAnswer": "A contract where the terms are set by one party and the other must accept them as is"
-  },
-  {
-    "question": "Which of the following is an example of a contract without negotiation?",
-    "options": [
-      "Employment offer with a fixed salary and benefits",
-      "Purchase of a house where the buyer can propose changes",
-      "Partnership agreement between two business owners",
-      "Joint venture contract that requires mutual agreement"
-    ],
-    "correctAnswer": "Employment offer with a fixed salary and benefits"
-  },
-  {
-    "question": "What is another term often used for contracts without negotiation?",
-    "options": [
-      "Adhesion contract",
-      "Bilateral contract",
-      "Voidable contract",
-      "Contingent contract"
-    ],
-    "correctAnswer": "Adhesion contract"
-  },
-  {
-    "question": "Which of the following is a potential risk for the party accepting a contract without negotiation?",
-    "options": [
-      "Increased bargaining power",
-      "Being bound by unfair or one-sided terms",
-      "Ability to change terms anytime",
-      "Unlimited legal protections"
-    ],
-    "correctAnswer": "Being bound by unfair or one-sided terms"
-  },
-  {
-    "question": "How can the party accepting a contract without negotiation protect themselves?",
-    "options": [
-      "By refusing to read the contract",
-      "By carefully reviewing terms and seeking legal advice before signing",
-      "By assuming all terms are standard and fair",
-      "By negotiating after signing"
-    ],
-    "correctAnswer": "By carefully reviewing terms and seeking legal advice before signing"
-  },
-  {
-    "question": "The principle of indemnity in insurance primarily ensures that:",
-    "options": [
-      "The insured makes a profit from a loss",
-      "The insured is restored to the financial position they were in before the loss",
-      "The insurer pays double the loss amount",
-      "The insured can claim for future potential losses"
-    ],
-    "correctAnswer": "The insured is restored to the financial position they were in before the loss"
-  },
-  {
-    "question": "Which of the following is a key feature of the principle of indemnity?",
-    "options": [
-      "Insurance is meant to provide compensation, not profit",
-      "Insurance guarantees profit for the insured",
-      "Only life insurance follows this principle",
-      "It allows the insured to overstate losses"
-    ],
-    "correctAnswer": "Insurance is meant to provide compensation, not profit"
-  },
-  {
-    "question": "In which type of insurance is the principle of indemnity strictly applied?",
-    "options": [
-      "Life insurance",
-      "Health insurance",
-      "Property insurance",
-      "Personal accident insurance"
-    ],
-    "correctAnswer": "Property insurance"
-  },
-  {
-    "question": "If the insured suffers a loss of ₦500,000 but has an insurance policy for ₦700,000, according to the principle of indemnity, the insurer will pay:",
-    "options": [
-      "₦700,000",
-      "₦500,000",
-      "₦1,200,000",
-      "₦0"
-    ],
-    "correctAnswer": "₦500,000"
-  },
-  {
-    "question": "The purpose of the principle of indemnity is to:",
-    "options": [
-      "Encourage the insured to take unnecessary risks",
-      "Prevent the insured from profiting from a loss",
-      "Ensure the insurer makes a profit",
-      "Guarantee a fixed payment regardless of loss"
-    ],
-    "correctAnswer": "Prevent the insured from profiting from a loss"
-  },
-  {
-    "question": "What is the primary objective of risk management?",
-    "options": [
-      "To eliminate all risks",
-      "To minimize the impact of risks on objectives",
-      "To increase company profits regardless of risks",
-      "To transfer all risks to another party"
-    ],
-    "correctAnswer": "To minimize the impact of risks on objectives"
-  },
-  {
-    "question": "Which of the following is NOT a step in the risk management process?",
-    "options": [
-      "Risk identification",
-      "Risk assessment",
-      "Risk control",
-      "Risk denial"
-    ],
-    "correctAnswer": "Risk denial"
-  },
-  {
-    "question": "Which type of risk cannot be eliminated through diversification?",
-    "options": [
-      "Systematic risk",
-      "Unsystematic risk",
-      "Operational risk",
-      "Compliance risk"
-    ],
-    "correctAnswer": "Systematic risk"
-  },
-  {
-    "question": "Risk transfer is best exemplified by:",
-    "options": [
-      "Implementing safety measures in the workplace",
-      "Purchasing insurance",
-      "Training employees",
-      "Avoiding risky projects"
-    ],
-    "correctAnswer": "Purchasing insurance"
-  },
-  {
-    "question": "What does “risk appetite” refer to?",
-    "options": [
-      "The amount of risk an organization is willing to accept",
-      "The total number of risks in an organization",
-      "The strategy to avoid risk entirely",
-      "The likelihood of a risk occurring"
-    ],
-    "correctAnswer": "The amount of risk an organization is willing to accept"
-  },
-  {
-    "question": "Which of the following is an example of operational risk?",
-    "options": [
-      "A new competitor entering the market",
-      "A fire destroying company property",
-      "Employee fraud or human error",
-      "Changes in government regulations"
-    ],
-    "correctAnswer": "Employee fraud or human error"
-  },
-    {
-    "question": "What is the difference between qualitative and quantitative risk assessment?",
-    "options": [
-      "Qualitative uses numbers; quantitative uses descriptions",
-      "Qualitative uses descriptions; quantitative uses numbers",
-      "Qualitative avoids risks; quantitative eliminates risks",
-      "There is no difference"
-    ],
-    "correctAnswer": "Qualitative uses descriptions; quantitative uses numbers"
-  },
-  {
-    "question": "Which risk response strategy involves ceasing an activity entirely?",
-    "options": [
-      "Risk reduction",
-      "Risk retention",
-      "Risk avoidance",
-      "Risk transfer"
-    ],
-    "correctAnswer": "Risk avoidance"
-  },
-  {
-    "question": "Which of the following is a risk control measure?",
-    "options": [
-      "Buying insurance",
-      "Implementing fire alarms",
-      "Accepting financial loss",
-      "Ignoring low-probability risks"
-    ],
-    "correctAnswer": "Implementing fire alarms"
-  },
-  {
-    "question": "Residual risk refers to:",
-    "options": [
-      "The risk that has been completely eliminated",
-      "The risk remaining after controls have been applied",
-      "The total risk before any controls",
-      "A type of financial risk only"
-    ],
-    "correctAnswer": "The risk remaining after controls have been applied"
-  },
-  {
-    "question": "What is the primary purpose of a risk assessment?",
-    "options": [
-      "To eliminate all risks completely",
-      "To identify hazards and evaluate the likelihood and impact of risks",
-      "To create a financial report",
-      "To assign blame for past accidents"
-    ],
-    "correctAnswer": "To identify hazards and evaluate the likelihood and impact of risks"
-  },
-  {
-    "question": "Which of the following is NOT a step in the risk assessment process?",
-    "options": [
-      "Hazard identification",
-      "Risk analysis",
-      "Risk evaluation",
-      "Ignoring low-probability risks"
-    ],
-    "correctAnswer": "Ignoring low-probability risks"
-  },
-  {
-    "question": "In risk assessment, \"likelihood\" refers to:",
-    "options": [
-      "The severity of the impact if the risk occurs",
-      "The chance that a particular risk will happen",
-      "The cost of implementing safety measures",
-      "The number of people affected"
-    ],
-    "correctAnswer": "The chance that a particular risk will happen"
-  },
-  {
-    "question": "Which risk control method involves completely removing the hazard?",
-    "options": [
-      "Risk transfer",
-      "Risk elimination",
-      "Risk reduction",
-      "Risk acceptance"
-    ],
-    "correctAnswer": "Risk elimination"
-  },
-  {
-    "question": "A risk assessment should be reviewed and updated:",
-    "options": [
-      "Only after an accident occurs",
-      "Annually, or whenever there are significant changes in the workplace",
-      "Once when the company is founded",
-      "Only if requested by management"
-    ],
-    "correctAnswer": "Annually, or whenever there are significant changes in the workplace"
-  },
-  {
-    "question": "What is the main goal of risk avoidance?",
-    "options": [
-      "To reduce the impact of a risk if it occurs",
-      "To transfer the risk to another party",
-      "To completely eliminate the possibility of a risk occurring",
-      "To accept the risk as it is"
-    ],
-    "correctAnswer": "To completely eliminate the possibility of a risk occurring"
-  },
-  {
-    "question": "Which of the following is an example of risk avoidance?",
-    "options": [
-      "Buying insurance for a valuable asset",
-      "Choosing not to invest in a highly volatile stock",
-      "Implementing safety measures in the workplace",
-      "Preparing a disaster recovery plan"
-    ],
-    "correctAnswer": "Choosing not to invest in a highly volatile stock"
-  },
-  {
-    "question": "Risk avoidance is most effective when:",
-    "options": [
-      "The cost of avoiding the risk is less than the potential loss",
-      "The risk has already occurred",
-      "The organization wants to transfer the risk",
-      "The risk is minor and has little impact"
-    ],
-    "correctAnswer": "The cost of avoiding the risk is less than the potential loss"
-  },
-  {
-    "question": "Which strategy is an alternative to risk avoidance?",
-    "options": [
-      "Risk transfer",
-      "Risk elimination",
-      "Risk denial",
-      "Risk acceptance"
-    ],
-    "correctAnswer": "Risk acceptance"
-  },
-  {
-    "question": "Risk avoidance is NOT suitable when:",
-    "options": [
-      "The risk can be completely prevented",
-      "Avoiding the risk leads to missing major business opportunities",
-      "The potential loss is too high",
-      "The risk is legal and regulatory in nature"
-    ],
-    "correctAnswer": "Avoiding the risk leads to missing major business opportunities"
-  },
-  {
-    "question": "What is the primary purpose of project management?",
-    "options": [
-      "To complete tasks without planning",
-      "To achieve project objectives within scope, time, and cost constraints",
-      "To hire more employees for a project",
-      "To avoid responsibility for project outcomes"
-    ],
-    "correctAnswer": "To achieve project objectives within scope, time, and cost constraints"
-  },
-  {
-    "question": "Which of the following is NOT a phase of project management?",
-    "options": [
-      "Initiation",
-      "Planning",
-      "Execution",
-      "Termination without closure"
-    ],
-    "correctAnswer": "Termination without closure"
-  },
-  {
-    "question": "In project management, the “triple constraint” refers to:",
-    "options": [
-      "Cost, quality, and communication",
-      "Scope, time, and cost",
-      "Risk, resources, and quality",
-      "Budget, schedule, and stakeholder satisfaction"
-    ],
-    "correctAnswer": "Scope, time, and cost"
-  },
-  {
-    "question": "A Gantt chart is used to:",
-    "options": [
-      "Identify project risks",
-      "Show project tasks and their timelines",
-      "Measure employee performance",
-      "Manage project budgets"
-    ],
-    "correctAnswer": "Show project tasks and their timelines"
-  },
-  {
-    "question": "Who is primarily responsible for the success of a project?",
-    "options": [
-      "Project team members only",
-      "Project manager",
-      "Stakeholders only",
-      "Clients"
-    ],
-    "correctAnswer": "Project manager"
-  },
-  {
-    "question": "What is a “stakeholder” in project management?",
-    "options": [
-      "Only the project manager",
-      "Anyone affected by or interested in the project",
-      "The employees working on the project",
-      "Only external clients"
-    ],
-    "correctAnswer": "Anyone affected by or interested in the project"
-  },
-    {
-    "question": "Risk management in project management involves:",
-    "options": [
-      "Ignoring minor risks",
-      "Identifying, analyzing, and responding to potential project risks",
-      "Eliminating all risks completely",
-      "Delaying project decisions"
-    ],
-    "correctAnswer": "Identifying, analyzing, and responding to potential project risks"
-  },
-  {
-    "question": "The project life cycle typically begins with:",
-    "options": [
-      "Planning",
-      "Initiation",
-      "Execution",
-      "Monitoring and control"
-    ],
-    "correctAnswer": "Initiation"
-  },
-  {
-    "question": "Which technique is used to analyze the sequence of tasks in a project?",
-    "options": [
-      "SWOT analysis",
-      "Critical Path Method (CPM)",
-      "PESTLE analysis",
-      "Fishbone diagram"
-    ],
-    "correctAnswer": "Critical Path Method (CPM)"
-  },
-  {
-    "question": "“Scope creep” refers to:",
-    "options": [
-      "Reducing project requirements to save time",
-      "Uncontrolled changes or additions to the project scope",
-      "Increasing the project budget intentionally",
-      "Delaying project tasks to the last minute"
-    ],
-    "correctAnswer": "Uncontrolled changes or additions to the project scope"
-  },
-  {
-    "question": "The Insurance Act primarily governs the operations of:",
-    "options": [
-      "Banks",
-      "Insurance companies",
-      "Educational institutions",
-      "Real estate firms"
-    ],
-    "correctAnswer": "Insurance companies"
-  },
-  {
-    "question": "Which of the following is the main objective of insurance law?",
-    "options": [
-      "To restrict business competition",
-      "To protect policyholders and regulate insurers",
-      "To increase government revenue",
-      "To provide loans"
-    ],
-    "correctAnswer": "To protect policyholders and regulate insurers"
-  },
-  {
-    "question": "The principle of utmost good faith is also known as:",
-    "options": [
-      "Uberrimae fidei",
-      "Caveat emptor",
-      "Stare decisis",
-      "Nemo dat quod non habet"
-    ],
-    "correctAnswer": "Uberrimae fidei"
-  },
-  {
-    "question": "Which statutory body usually regulates insurance companies in most countries?",
-    "options": [
-      "Central Bank",
-      "Ministry of Finance",
-      "Insurance Regulatory Authority",
-      "Chamber of Commerce"
-    ],
-    "correctAnswer": "Insurance Regulatory Authority"
-  },
-  {
-    "question": "According to insurance statutes, what is the minimum information a proposer must disclose?",
-    "options": [
-      "Financial history of relatives",
-      "Any material facts affecting risk",
-      "Names of friends",
-      "Hobbies"
-    ],
-    "correctAnswer": "Any material facts affecting risk"
-  },
-  {
-    "question": "In case of breach of insurance statutes, who can take action?",
-    "options": [
-      "Only the insured",
-      "Only the insurer",
-      "Regulatory authorities",
-      "Competitors"
-    ],
-    "correctAnswer": "Regulatory authorities"
-  },
-  {
-    "question": "Which law requires insurance contracts to be written and signed?",
-    "options": [
-      "Insurance Act",
-      "Contract Act",
-      "Companies Act",
-      "Penal Code"
-    ],
-    "correctAnswer": "Insurance Act"
-  },
-  {
-    "question": "Which of the following is NOT a function of insurance statutes?",
-    "options": [
-      "Licensing insurers",
-      "Protecting public interest",
-      "Regulating premiums",
-      "Providing loans to policyholders"
-    ],
-    "correctAnswer": "Providing loans to policyholders"
-  },
-  {
-    "question": "Which statute governs the settlement of claims in insurance?",
-    "options": [
-      "Banking Act",
-      "Insurance Act",
-      "Civil Procedure Act",
-      "Evidence Act"
-    ],
-    "correctAnswer": "Insurance Act"
-  },
-  {
-    "question": "“Proximate cause” is a concept mainly regulated under:",
-    "options": [
-      "Criminal law",
-      "Insurance law",
-      "Tax law",
-      "Company law"
-    ],
-    "correctAnswer": "Insurance law"
-  },
-  {
-    "question": "Insurance statutes require insurers to maintain:",
-    "options": [
-      "Minimum paid-up capital",
-      "Unlimited liability",
-      "Loan accounts",
-      "Shareholder agreements"
-    ],
-    "correctAnswer": "Minimum paid-up capital"
-  },
-  {
-    "question": "What is the penalty for non-compliance with insurance statutes?",
-    "options": [
-      "Imprisonment",
-      "Fine",
-      "License suspension",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "Which statute regulates compulsory insurance like motor third-party insurance?",
-    "options": [
-      "Insurance Act",
-      "Road Traffic Act",
-      "Penal Code",
-      "Civil Procedure Act"
-    ],
-    "correctAnswer": "Road Traffic Act"
-  },
-  {
-    "question": "The law requires insurers to submit reports to:",
-    "options": [
-      "Ministry of Education",
-      "Insurance Regulatory Authority",
-      "Police Department",
-      "Central Statistics Office"
-    ],
-    "correctAnswer": "Insurance Regulatory Authority"
-  },
-  {
-    "question": "Insurance statutes define the duties of:",
-    "options": [
-      "Policy holders only",
-      "Insurers only",
-      "Both insurers and policyholders",
-      "Brokers only"
-    ],
-    "correctAnswer": "Both insurers and policyholders"
-  },
-  {
-    "question": "Which of the following is covered under insurance law statutes?",
-    "options": [
-      "Licensing",
-      "Contract validity",
-      "Claim settlement",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-    {
-    "question": "Misrepresentation in insurance contracts can lead to:",
-    "options": [
-      "Policy cancellation",
-      "Criminal charges",
-      "Civil liability",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "Who is responsible for ensuring compliance with insurance statutes?",
-    "options": [
-      "Policy holders",
-      "Insurers",
-      "Regulatory authority",
-      "All of the above"
-    ],
-    "correctAnswer": "Regulatory authority"
-  },
-  {
-    "question": "The Insurance Act usually protects:",
-    "options": [
-      "Only insurers",
-      "Only the government",
-      "Policy holders and the public",
-      "Only brokers"
-    ],
-    "correctAnswer": "Policy holders and the public"
-  },
-  {
-    "question": "Which principle is embedded in most insurance statutes to ensure fairness?",
-    "options": [
-      "Principle of indemnity",
-      "Principle of autonomy",
-      "Principle of negligence",
-      "Principle of equity"
-    ],
-    "correctAnswer": "Principle of indemnity"
-  },
-  {
-    "question": "Which of the following is an essential element for a valid insurance contract?",
-    "options": [
-      "Offer and acceptance",
-      "Consideration",
-      "Legal capacity of parties",
-      "All of the above"
-    ],
-    "correctAnswer": "All of the above"
-  },
-  {
-    "question": "What is the term used for the amount paid by the insured to the insurer as part of an insurance contract?",
-    "options": [
-      "Premium",
-      "Indemnity",
-      "Risk",
-      "Proposal"
-    ],
-    "correctAnswer": "Premium"
-  },
-  {
-    "question": "Which principle ensures that both parties disclose all material facts in an insurance contract?",
-    "options": [
-      "Principle of Indemnity",
-      "Principle of Utmost Good Faith (Uberrimae Fidei)",
-      "Principle of Subrogation",
-      "Principle of Proximate Cause"
-    ],
-    "correctAnswer": "Principle of Utmost Good Faith (Uberrimae Fidei)"
-  },
-  {
-    "question": "For an insurance contract to be valid, the purpose of the contract must be:",
-    "options": [
-      "Illegal",
-      "Uncertain",
-      "Lawful",
-      "Ambiguous"
-    ],
-    "correctAnswer": "Lawful"
-  },
-  {
-    "question": "Which of the following is NOT an essential element of a valid insurance contract?",
-    "options": [
-      "Offer and acceptance",
-      "Consideration",
-      "Written form only",
-      "Legal capacity of parties"
-    ],
-    "correctAnswer": "Written form only"
-  },
-  {
-    "question": "The principle of indemnity in insurance means:",
-    "options": [
-      "The insurer guarantees profit to the insured",
-      "The insurer compensates the insured for the actual loss suffered",
-      "The insured can claim more than the loss",
-      "The contract can be terminated anytime"
-    ],
-    "correctAnswer": "The insurer compensates the insured for the actual loss suffered"
-  },
-    ],
-    "FIN 219":[
-        {
-    "question": "The earliest form of money used in trade before coins and paper was known as:",
-    "options": [
-      "Token money",
-      "Commodity money",
-      "Fiat money",
-      "Bank money"
-    ],
-    "correctAnswer": "Commodity money"
-  },
-  {
-    "question": "Which of the following is NOT a characteristic of money?",
-    "options": [
-      "Durability",
-      "Portability",
-      "High production cost",
-      "Divisibility"
-    ],
-    "correctAnswer": "High production cost"
-  },
-  {
-    "question": "Money first evolved mainly due to problems associated with:",
-    "options": [
-      "Inflation",
-      "Barter system",
-      "Credit creation",
-      "Banking failures"
-    ],
-    "correctAnswer": "Barter system"
-  },
-  {
-    "question": "The type of money that has value because the government declares it legal tender is:",
-    "options": [
-      "Commodity money",
-      "Fiat money",
-      "Metallic money",
-      "Representative money"
-    ],
-    "correctAnswer": "Fiat money"
-  },
-  {
-    "question": "One major limitation of the barter system was:",
-    "options": [
-      "Lack of divisibility",
-      "Excess supply of commodities",
-      "Presence of banks",
-      "Too much money in circulation"
-    ],
-    "correctAnswer": "Lack of divisibility"
-  },
-  {
-    "question": "Which of the following is NOT a function of money?",
-    "options": [
-      "Medium of exchange",
-      "Store of value",
-      "Unit of account",
-      "Production of goods"
-    ],
-    "correctAnswer": "Production of goods"
-  },
-  {
-    "question": "Money helps in comparing the value of goods through its role as:",
-    "options": [
-      "Medium of exchange",
-      "Store of value",
-      "Unit of account",
-      "Standard of deferred payment"
-    ],
-    "correctAnswer": "Unit of account"
-  },
-  {
-    "question": "The function of money that makes future transactions possible is:",
-    "options": [
-      "Medium of exchange",
-      "Standard of deferred payment",
-      "Store of value",
-      "Measure of value"
-    ],
-    "correctAnswer": "Standard of deferred payment"
-  },
-  {
-    "question": "Which of the following is a good example of representative money?",
-    "options": [
-      "Gold coins",
-      "Paper notes backed by gold",
-      "Cryptocurrency",
-      "Cowrie shells"
-    ],
-    "correctAnswer": "Paper notes backed by gold"
-  },
-  {
-    "question": "Which characteristic of money ensures that it can be used over long periods without damage?",
-    "options": [
-      "Portability",
-      "Durability",
-      "Acceptability",
-      "Divisibility"
-    ],
-    "correctAnswer": "Durability"
-  },
-  {
-    "question": "Acceptability as a characteristic of money means that:",
-    "options": [
-      "It must be easy to carry",
-      "Everyone must agree to use it",
-      "It must be made of metal",
-      "It must be divisible"
-    ],
-    "correctAnswer": "Everyone must agree to use it"
-  },
-  {
-    "question": "The introduction of coins and paper money marked the era of:",
-    "options": [
-      "Commodity money",
-      "Metallic and fiat money",
-      "Digital money",
-      "Virtual money"
-    ],
-    "correctAnswer": "Metallic and fiat money"
-  },
-  {
-    "question": "Which of the following is an example of fiat money?",
-    "options": [
-      "Gold bar",
-      "₦1000 note",
-      "Silver coin",
-      "Cowrie shells"
-    ],
-    "correctAnswer": "₦1000 note"
-  },
-  {
-    "question": "A function of money that protects wealth for future use is:",
-    "options": [
-      "Store of value",
-      "Medium of exchange",
-      "Legal tender",
-      "Divisibility"
-    ],
-    "correctAnswer": "Store of value"
-  },
-  {
-    "question": "Divisibility as a characteristic of money means it:",
-    "options": [
-      "Can be broken into small units",
-      "Must be light in weight",
-      "Must be acceptable by law",
-      "Has intrinsic value"
-    ],
-    "correctAnswer": "Can be broken into small units"
-  },
-  {
-    "question": "The earliest form of paper money originated from:",
-    "options": [
-      "England",
-      "China",
-      "Egypt",
-      "Nigeria"
-    ],
-    "correctAnswer": "China"
-  },
-  {
-    "question": "Which type of money has both intrinsic and face value?",
-    "options": [
-      "Fiat money",
-      "Representative money",
-      "Commodity money",
-      "Bank deposits"
-    ],
-    "correctAnswer": "Commodity money"
-  },
-  {
-    "question": "The use of money primarily solves the problem of:",
-    "options": [
-      "Scarcity",
-      "Double coincidence of wants",
-      "Unemployment",
-      "Inflation"
-    ],
-    "correctAnswer": "Double coincidence of wants"
-  },
-  {
-    "question": "A good store of value must:",
-    "options": [
-      "Be easily spoilt",
-      "Retain value over time",
-      "Lose value quickly",
-      "Be difficult to carry"
-    ],
-    "correctAnswer": "Retain value over time"
-  },
-  {
-    "question": "The evolution of money from barter to digital money shows:",
-    "options": [
-      "Decrease in trade",
-      "Advancement in economic systems",
-      "Rise in commodity prices",
-      "Decline in population"
-    ],
-    "correctAnswer": "Advancement in economic systems"
-  },
-    {
-    "question": "The first modern bank to operate in Nigeria was:",
-    "options": [
-      "Union Bank",
-      "Bank of British West Africa",
-      "First City Monument Bank",
-      "African Continental Bank"
-    ],
-    "correctAnswer": "Bank of British West Africa"
-  },
-  {
-    "question": "Early expatriate banks in Nigeria were mainly established to serve:",
-    "options": [
-      "Farmers and traders",
-      "The colonial government and European firms",
-      "Nigerian small businesses",
-      "Students and artisans"
-    ],
-    "correctAnswer": "The colonial government and European firms"
-  },
-  {
-    "question": "Which of the following was NOT an early expatriate bank in Nigeria?",
-    "options": [
-      "Barclays Bank",
-      "Bank of British West Africa",
-      "United Bank of Africa",
-      "Dominion Colonial Bank"
-    ],
-    "correctAnswer": "United Bank of Africa"
-  },
-  {
-    "question": "One major reason for early indigenous bank failures in Nigeria was:",
-    "options": [
-      "Excess funding",
-      "Poor management practices",
-      "Too much government involvement",
-      "High literacy rate"
-    ],
-    "correctAnswer": "Poor management practices"
-  },
-  {
-    "question": "The mass bank failures of the 1930s in Nigeria were mainly due to:",
-    "options": [
-      "Strong supervision by the CBN",
-      "Lack of adequate capital",
-      "High profit levels",
-      "Excess foreign exchange"
-    ],
-    "correctAnswer": "Lack of adequate capital"
-  },
-  {
-    "question": "Which indigenous bank was one of the earliest successful banks in Nigeria?",
-    "options": [
-      "Agbomagbe Bank",
-      "African Continental Bank",
-      "Wema Bank",
-      "First Bank"
-    ],
-    "correctAnswer": "African Continental Bank"
-  },
-  {
-    "question": "Poor record keeping in early Nigerian banks contributed to:",
-    "options": [
-      "High profitability",
-      "Bank failures",
-      "Improved banking operations",
-      "Government bailouts"
-    ],
-    "correctAnswer": "Bank failures"
-  },
-  {
-    "question": "The Banking Ordinance of 1952 was enacted to:",
-    "options": [
-      "Encourage bank failures",
-      "Regulate and supervise banking activities",
-      "Increase foreign banks",
-      "Remove expatriate banks"
-    ],
-    "correctAnswer": "Regulate and supervise banking activities"
-  },
-  {
-    "question": "A major feature of banking in the post-independence era was:",
-    "options": [
-      "Reduction in number of banks",
-      "Emergence of more indigenous banks",
-      "Full control by expatriates",
-      "Absence of regulations"
-    ],
-    "correctAnswer": "Emergence of more indigenous banks"
-  },
-  {
-    "question": "The indigenization policy of the 1970s led to:",
-    "options": [
-      "Expulsion of all foreign banks",
-      "Increased Nigerian ownership in banks",
-      "Collapse of the banking sector",
-      "Decrease in local participation"
-    ],
-    "correctAnswer": "Increased Nigerian ownership in banks"
-  },
-  {
-    "question": "The 1952 Banking Ordinance improved the Nigerian banking system by:",
-    "options": [
-      "Eliminating minimum capital requirements",
-      "Ensuring proper licensing of banks",
-      "Closing all weak banks",
-      "Increasing foreign exchange"
-    ],
-    "correctAnswer": "Ensuring proper licensing of banks"
-  },
-  {
-    "question": "A common challenge faced by early indigenous banks was:",
-    "options": [
-      "Strong regulatory support",
-      "Lack of skilled manpower",
-      "Excess deposits",
-      "Advanced technology"
-    ],
-    "correctAnswer": "Lack of skilled manpower"
-  },
-  {
-    "question": "Post-independence banking was characterized by:",
-    "options": [
-      "Decline in bank branches",
-      "Rapid expansion of banking services",
-      "Closure of all expatriate banks",
-      "Reduction in financial activities"
-    ],
-    "correctAnswer": "Rapid expansion of banking services"
-  },
-  {
-    "question": "Which of the following was NOT a reason for mass bank failure before 1952?",
-    "options": [
-      "Poor management",
-      "Low capital base",
-      "Lack of regulation",
-      "Adequate supervision"
-    ],
-    "correctAnswer": "Adequate supervision"
-  },
-  {
-    "question": "Expatriate banks mainly supported:",
-    "options": [
-      "Local farmers",
-      "Western education",
-      "International trade and colonial interests",
-      "Small-scale businesses"
-    ],
-    "correctAnswer": "International trade and colonial interests"
-  },
-  {
-    "question": "The establishment of more Nigerian-owned banks after independence was driven by:",
-    "options": [
-      "Nationalism and economic growth goals",
-      "Fear of foreign investors",
-      "Decline in trade",
-      "Shortage of skilled bankers"
-    ],
-    "correctAnswer": "Nationalism and economic growth goals"
-  },
-  {
-    "question": "Banking in Nigeria became more stable after 1952 due to:",
-    "options": [
-      "Better regulation and supervision",
-      "Withdrawal of expatriate banks",
-      "Increased corruption",
-      "Decline in the number of customers"
-    ],
-    "correctAnswer": "Better regulation and supervision"
-  },
-  {
-    "question": "The primary aim of organized banking is:",
-    "options": [
-      "Profit maximization only",
-      "Safe custody of funds and financial intermediation",
-      "Currency printing",
-      "Importation of foreign goods"
-    ],
-    "correctAnswer": "Safe custody of funds and financial intermediation"
-  },
-  {
-    "question": "In the early days, indigenous banks failed partly because they:",
-    "options": [
-      "Had too many branches",
-      "Granted unsecured loans to friends",
-      "Maintained strict loan policies",
-      "Received strong government support"
-    ],
-    "correctAnswer": "Granted unsecured loans to friends"
-  },
-  {
-    "question": "After independence, the Nigerian government encouraged organized banking through:",
-    "options": [
-      "Banking deregulation",
-      "Licensing new banks and increasing local ownership",
-      "Closing existing banks",
-      "Banning foreign investors"
-    ],
-    "correctAnswer": "Licensing new banks and increasing local ownership"
-  },
-    {
-    "question": "The West African Currency Board (WACB) was established in:",
-    "options": [
-      "1945",
-      "1912",
-      "1958",
-      "1960"
-    ],
-    "correctAnswer": "1912"
-  },
-  {
-    "question": "The main role of the West African Currency Board was to:",
-    "options": [
-      "Supervise commercial banks",
-      "Issue currency backed by sterling",
-      "Control inflation",
-      "Offer loans to farmers"
-    ],
-    "correctAnswer": "Issue currency backed by sterling"
-  },
-  {
-    "question": "Which country was NOT part of the four original members of the West African Currency Board?",
-    "options": [
-      "Nigeria",
-      "Ghana",
-      "Sierra Leone",
-      "Kenya"
-    ],
-    "correctAnswer": "Kenya"
-  },
-  {
-    "question": "A major limitation of the WACB was its inability to:",
-    "options": [
-      "Support economic development",
-      "Maintain currency convertibility",
-      "Issue banknotes",
-      "Operate in West Africa"
-    ],
-    "correctAnswer": "Support economic development"
-  },
-  {
-    "question": "The Central Bank of Nigeria was established in:",
-    "options": [
-      "1952",
-      "1958",
-      "1963",
-      "1972"
-    ],
-    "correctAnswer": "1958"
-  },
-  {
-    "question": "The CBN began full operations in:",
-    "options": [
-      "1954",
-      "1958",
-      "1959",
-      "1960"
-    ],
-    "correctAnswer": "1959"
-  },
-  {
-    "question": "One important objective of the Central Bank of Nigeria is:",
-    "options": [
-      "Providing consumer loans",
-      "Promoting monetary stability",
-      "Managing private companies",
-      "Offering insurance services"
-    ],
-    "correctAnswer": "Promoting monetary stability"
-  },
-  {
-    "question": "The CBN serves as the banker to:",
-    "options": [
-      "Commercial banks only",
-      "Merchant banks only",
-      "The government",
-      "Private individuals"
-    ],
-    "correctAnswer": "The government"
-  },
-  {
-    "question": "Which of the following is a key regulatory function of the CBN?",
-    "options": [
-      "Building roads",
-      "Supervising financial institutions",
-      "Printing passports",
-      "Collecting company taxes"
-    ],
-    "correctAnswer": "Supervising financial institutions"
-  },
-  {
-    "question": "The CBN issues legal tender currency in Nigeria. This is part of its:",
-    "options": [
-      "Commercial function",
-      "Development function",
-      "Monetary function",
-      "Advisory function"
-    ],
-    "correctAnswer": "Monetary function"
-  },
-  {
-    "question": "The body responsible for formulating monetary policy in Nigeria is the:",
-    "options": [
-      "Monetary Policy Committee (MPC)",
-      "Ministry of Finance",
-      "Nigerian Stock Exchange",
-      "Bankers’ Committee"
-    ],
-    "correctAnswer": "Monetary Policy Committee (MPC)"
-  },
-  {
-    "question": "The CBN uses the monetary policy rate (MPR) to:",
-    "options": [
-      "Increase government revenue",
-      "Control inflation and credit",
-      "Issue treasury bills",
-      "Determine exchange rate"
-    ],
-    "correctAnswer": "Control inflation and credit"
-  },
-  {
-    "question": "One of the reasons for replacing the WACB with the CBN was to:",
-    "options": [
-      "Reduce bank branches",
-      "Promote economic development",
-      "Stop international trade",
-      "Abolish currency coins"
-    ],
-    "correctAnswer": "Promote economic development"
-  },
-  {
-    "question": "The CBN controls the supply of money through:",
-    "options": [
-      "Fiscal policy",
-      "Monetary policy instruments",
-      "Taxation",
-      "Government borrowing"
-    ],
-    "correctAnswer": "Monetary policy instruments"
-  },
-  {
-    "question": "As the lender of last resort, the CBN:",
-    "options": [
-      "Takes deposits from the public",
-      "Sends loans to failing banks",
-      "Guarantees salaries of workers",
-      "Sells consumer goods"
-    ],
-    "correctAnswer": "Sends loans to failing banks"
-  },
-  {
-    "question": "Open Market Operations (OMO) involve:",
-    "options": [
-      "Buying and selling government securities",
-      "Setting tax rates",
-      "Giving loans to farmers",
-      "Importing foreign currency"
-    ],
-    "correctAnswer": "Buying and selling government securities"
-  },
-  {
-    "question": "The CBN maintains external reserves in order to:",
-    "options": [
-      "Support currency stability",
-      "Create job opportunities",
-      "Fund political campaigns",
-      "Increase import tariffs"
-    ],
-    "correctAnswer": "Support currency stability"
-  },
-  {
-    "question": "Which of the following is NOT a function of the CBN?",
-    "options": [
-      "Ensuring monetary stability",
-      "Supervising the financial system",
-      "Printing currency",
-      "Providing overdrafts to individuals"
-    ],
-    "correctAnswer": "Providing overdrafts to individuals"
-  },
-  {
-    "question": "The CBN promotes economic development by:",
-    "options": [
-      "Establishing roads",
-      "Offering special credit schemes",
-      "Building schools",
-      "Managing private companies"
-    ],
-    "correctAnswer": "Offering special credit schemes"
-  },
-  {
-    "question": "The West African Currency Board was replaced mainly because it:",
-    "options": [
-      "Encouraged local development",
-      "Was rigid and did not support African economies",
-      "Printed too much money",
-      "Funded African banks"
-    ],
-    "correctAnswer": "Was rigid and did not support African economies"
-  },
-    {
-    "question": "The primary function of a commercial bank is to:",
-    "options": [
-      "Issue currency",
-      "Accept deposits",
-      "Regulate monetary policy",
-      "Print money"
-    ],
-    "correctAnswer": "Accept deposits"
-  },
-  {
-    "question": "The process of creating money through lending is known as:",
-    "options": [
-      "Credit creation",
-      "Currency distribution",
-      "Loan diversification",
-      "Deposit recycling"
-    ],
-    "correctAnswer": "Credit creation"
-  },
-  {
-    "question": "Which of the following is a primary function of commercial banks?",
-    "options": [
-      "Advising government",
-      "Accepting deposits from customers",
-      "Monitoring stock exchange",
-      "Issuing treasury bills"
-    ],
-    "correctAnswer": "Accepting deposits from customers"
-  },
-  {
-    "question": "When a commercial bank grants loans to customers, it performs its:",
-    "options": [
-      "Agency function",
-      "Primary function",
-      "Supervisory function",
-      "Regulatory function"
-    ],
-    "correctAnswer": "Primary function"
-  },
-  {
-    "question": "Commercial banks help customers transfer funds through:",
-    "options": [
-      "Drafts, transfers, and cheques",
-      "Printing of currency",
-      "Tax collection",
-      "Insurance policies"
-    ],
-    "correctAnswer": "Drafts, transfers, and cheques"
-  },
-  {
-    "question": "The agency function of commercial banks includes:",
-    "options": [
-      "Issuing money",
-      "Collecting standing orders and dividends",
-      "Granting loans",
-      "Supervising other banks"
-    ],
-    "correctAnswer": "Collecting standing orders and dividends"
-  },
-  {
-    "question": "One of the ways commercial banks encourage savings is through:",
-    "options": [
-      "Price control",
-      "Savings and fixed deposit accounts",
-      "Exchange rate fixing",
-      "Inflation targeting"
-    ],
-    "correctAnswer": "Savings and fixed deposit accounts"
-  },
-  {
-    "question": "Which of the following is NOT a function of commercial banks?",
-    "options": [
-      "Accepting deposits",
-      "Granting loans",
-      "Building roads",
-      "Offering financial advice"
-    ],
-    "correctAnswer": "Building roads"
-  },
-  {
-    "question": "Commercial banks support business activities by:",
-    "options": [
-      "Giving birth certificates",
-      "Offering overdrafts and loans",
-      "Printing national currency",
-      "Conducting elections"
-    ],
-    "correctAnswer": "Offering overdrafts and loans"
-  },
-  {
-    "question": "When commercial banks hold customers’ valuables for safety, they perform their:",
-    "options": [
-      "Safe custody function",
-      "Lending function",
-      "Advisory function",
-      "Clearing function"
-    ],
-    "correctAnswer": "Safe custody function"
-  },
-  {
-    "question": "The ability of a bank to pay its depositors on demand is known as:",
-    "options": [
-      "Stability",
-      "Liquidity",
-      "Profitability",
-      "Security"
-    ],
-    "correctAnswer": "Liquidity"
-  },
-  {
-    "question": "Which type of account allows customers to withdraw money frequently?",
-    "options": [
-      "Current account",
-      "Fixed deposit account",
-      "Joint account",
-      "Dormant account"
-    ],
-    "correctAnswer": "Current account"
-  },
-  {
-    "question": "A bank that pays interest on savings is performing its:",
-    "options": [
-      "Development function",
-      "Advisory function",
-      "Deposit-taking function",
-      "Clearing function"
-    ],
-    "correctAnswer": "Deposit-taking function"
-  },
-  {
-    "question": "Which of the following is an example of a loan facility offered by commercial banks?",
-    "options": [
-      "Letter of credit",
-      "Tax certificate",
-      "Import license",
-      "Voters card"
-    ],
-    "correctAnswer": "Letter of credit"
-  },
-  {
-    "question": "Banks assist customers in making payments through:",
-    "options": [
-      "Cheques and online transfers",
-      "Road construction",
-      "Visa issuance",
-      "Population census"
-    ],
-    "correctAnswer": "Cheques and online transfers"
-  },
-  {
-    "question": "When a bank acts as an executor of a customer’s will, it performs its:",
-    "options": [
-      "Lending function",
-      "Agency function",
-      "Exchange function",
-      "Advisory function"
-    ],
-    "correctAnswer": "Agency function"
-  },
-  {
-    "question": "A function of commercial banks that helps in international trade is:",
-    "options": [
-      "Accepting taxes",
-      "Issuing letters of credit",
-      "Conducting elections",
-      "Printing passports"
-    ],
-    "correctAnswer": "Issuing letters of credit"
-  },
-  {
-    "question": "Commercial banks help maintain the payments system through:",
-    "options": [
-      "Clearing houses",
-      "Schools",
-      "Markets",
-      "Roads"
-    ],
-    "correctAnswer": "Clearing houses"
-  },
-  {
-    "question": "Profit made by commercial banks mainly comes from:",
-    "options": [
-      "Charging interest on loans",
-      "Issuing currency",
-      "Taxation",
-      "Buying land"
-    ],
-    "correctAnswer": "Charging interest on loans"
-  },
-  {
-    "question": "One of the development functions of commercial banks is:",
-    "options": [
-      "Providing long-term industrial loans",
-      "Issuing treasury bills",
-      "Supervising the stock exchange",
-      "Conducting monetary policy"
-    ],
-    "correctAnswer": "Providing long-term industrial loans"
-  },
-   {
-    "question": "Merchant banks are primarily involved in:",
-    "options": [
-      "Retail banking",
-      "Wholesale banking and corporate finance",
-      "Printing currency",
-      "Regulating other banks"
-    ],
-    "correctAnswer": "Wholesale banking and corporate finance"
-  },
-  {
-    "question": "Which of the following is a key function of merchant banks?",
-    "options": [
-      "Providing retail loans to individuals",
-      "Underwriting new issues of securities",
-      "Accepting savings deposits from the public",
-      "Conducting monetary policy"
-    ],
-    "correctAnswer": "Underwriting new issues of securities"
-  },
-  {
-    "question": "Merchant banks mainly serve:",
-    "options": [
-      "Individuals and households",
-      "Corporate organizations and large businesses",
-      "Students and artisans",
-      "Civil servants"
-    ],
-    "correctAnswer": "Corporate organizations and large businesses"
-  },
-  {
-    "question": "A common service provided by merchant banks is:",
-    "options": [
-      "Overdraft to petty traders",
-      "Management of investment portfolios",
-      "Issuing of passports",
-      "Collecting taxes"
-    ],
-    "correctAnswer": "Management of investment portfolios"
-  },
-  {
-    "question": "Merchant banks promote economic development by:",
-    "options": [
-      "Funding long-term capital projects",
-      "Offering daily withdrawals",
-      "Providing ATM services",
-      "Selling treasury bills"
-    ],
-    "correctAnswer": "Funding long-term capital projects"
-  },
-  {
-    "question": "Which of the following is NOT a function of merchant banks?",
-    "options": [
-      "Project financing",
-      "Acceptance of large deposits from corporations",
-      "Underwriting of securities",
-      "Issuing small personal loans"
-    ],
-    "correctAnswer": "Issuing small personal loans"
-  },
-  {
-    "question": "Merchant banks differ from commercial banks mainly because they:",
-    "options": [
-      "Provide long-term financing",
-      "Fund daily transactions of individuals",
-      "Issue currency",
-      "Act as the central bank"
-    ],
-    "correctAnswer": "Provide long-term financing"
-  },
-  {
-    "question": "Commercial banks typically focus on:",
-    "options": [
-      "Wholesale banking",
-      "Retail banking and short-term credit",
-      "Long-term project financing",
-      "Capital market operations"
-    ],
-    "correctAnswer": "Retail banking and short-term credit"
-  },
-  {
-    "question": "A key difference between merchant banks and commercial banks is that merchant banks:",
-    "options": [
-      "Serve the general public",
-      "Issue cheques and savings accounts",
-      "Serve large corporate clients",
-      "Accept deposits from every customer"
-    ],
-    "correctAnswer": "Serve large corporate clients"
-  },
-  {
-    "question": "Merchant banks assist companies to raise capital through:",
-    "options": [
-      "Issuing shares and debentures",
-      "Printing money",
-      "Selling consumer goods",
-      "Recruiting workers"
-    ],
-    "correctAnswer": "Issuing shares and debentures"
-  },
-  {
-    "question": "Merchant banks often provide advisory services in:",
-    "options": [
-      "Tax collection",
-      "Foreign exchange and investment decisions",
-      "Police recruitment",
-      "School admissions"
-    ],
-    "correctAnswer": "Foreign exchange and investment decisions"
-  },
-  {
-    "question": "Commercial banks mostly provide:",
-    "options": [
-      "Long-term loans",
-      "Short-term working capital",
-      "Underwriting services",
-      "Venture capital"
-    ],
-    "correctAnswer": "Short-term working capital"
-  },
-  {
-    "question": "The type of deposit mostly accepted by merchant banks is:",
-    "options": [
-      "Current deposits from small customers",
-      "Time deposits from corporate clients",
-      "Savings deposits",
-      "Student deposits"
-    ],
-    "correctAnswer": "Time deposits from corporate clients"
-  },
-  {
-    "question": "Merchant banks do NOT typically engage in:",
-    "options": [
-      "Portfolio management",
-      "Retail customer services",
-      "Project financing",
-      "Advisory services"
-    ],
-    "correctAnswer": "Retail customer services"
-  },
-  {
-    "question": "Which of the following is a typical client of merchant banks?",
-    "options": [
-      "Market women",
-      "Corporate investors",
-      "Students",
-      "Pensioners"
-    ],
-    "correctAnswer": "Corporate investors"
-  },
-  {
-    "question": "A major service unique to merchant banks is:",
-    "options": [
-      "Cheque clearing",
-      "Underwriting of public issues",
-      "Issuing ATM cards",
-      "Accepting salaries"
-    ],
-    "correctAnswer": "Underwriting of public issues"
-  },
-  {
-    "question": "Commercial banks help customers with daily financial needs, while merchant banks focus on:",
-    "options": [
-      "Long-term and large-scale financial services",
-      "Providing school loans",
-      "Storing valuables",
-      "Selling foreign goods"
-    ],
-    "correctAnswer": "Long-term and large-scale financial services"
-  },
-  {
-    "question": "Merchant banks contribute to industrial growth by:",
-    "options": [
-      "Providing short-term loans to individuals",
-      "Financing heavy capital projects",
-      "Issuing currency",
-      "Supervising financial institutions"
-    ],
-    "correctAnswer": "Financing heavy capital projects"
-  },
-  {
-    "question": "A key difference between commercial and merchant banks is that commercial banks:",
-    "options": [
-      "Underwrite securities",
-      "Serve mainly small customers",
-      "Only provide long-term loans",
-      "Do not offer deposit accounts"
-    ],
-    "correctAnswer": "Serve mainly small customers"
-  },
-  {
-    "question": "Merchant banks are also known as:",
-    "options": [
-      "Investment banks",
-      "Retail banks",
-      "Central banks",
-      "Cooperative banks"
-    ],
-    "correctAnswer": "Investment banks"
-  }, 
-    {
-    "question": "Development banks mainly provide:",
-    "options": [
-      "Short-term loans",
-      "Long-term project financing",
-      "Salary advances",
-      "Overdrafts"
-    ],
-    "correctAnswer": "Long-term project financing"
-  },
-  {
-    "question": "A key objective of development banks is to:",
-    "options": [
-      "Support daily transactions",
-      "Promote economic development",
-      "Issue currency",
-      "Supervise commercial banks"
-    ],
-    "correctAnswer": "Promote economic development"
-  },
-  {
-    "question": "Which of the following is a characteristic of development banks?",
-    "options": [
-      "Focus on retail banking",
-      "Provide long-term capital",
-      "Issue chequebooks",
-      "Offer ATM services"
-    ],
-    "correctAnswer": "Provide long-term capital"
-  },
-  {
-    "question": "The Nigerian Bank for Commerce and Industry (NBCI) is an example of:",
-    "options": [
-      "Central bank",
-      "Development bank",
-      "Merchant bank",
-      "Mortgage bank"
-    ],
-    "correctAnswer": "Development bank"
-  },
-  {
-    "question": "Development banks mainly support:",
-    "options": [
-      "Small grocery shops",
-      "Large-scale industrial and agricultural projects",
-      "Daily customer withdrawals",
-      "Tourist services"
-    ],
-    "correctAnswer": "Large-scale industrial and agricultural projects"
-  },
-  {
-    "question": "One major role of development banks is:",
-    "options": [
-      "Managing national currency",
-      "Financing infrastructure",
-      "Issuing debit cards",
-      "Conducting elections"
-    ],
-    "correctAnswer": "Financing infrastructure"
-  },
-  {
-    "question": "Development banks fill the gap left by:",
-    "options": [
-      "Commercial banks",
-      "Bureau de change",
-      "Insurance companies",
-      "Microfinance institutions"
-    ],
-    "correctAnswer": "Commercial banks"
-  },
-  {
-    "question": "The Industrial Development Bank (NIDB) was created to:",
-    "options": [
-      "Supervise schools",
-      "Finance industrial projects",
-      "Issue passports",
-      "Provide savings accounts"
-    ],
-    "correctAnswer": "Finance industrial projects"
-  },
-  {
-    "question": "A major source of funds for development banks is:",
-    "options": [
-      "Daily deposits",
-      "Government grants and long-term loans",
-      "Loan sharking",
-      "Personal donations"
-    ],
-    "correctAnswer": "Government grants and long-term loans"
-  },
-  {
-    "question": "Development banks help reduce:",
-    "options": [
-      "Industrial growth",
-      "Capital shortages",
-      "Employment",
-      "Government revenue"
-    ],
-    "correctAnswer": "Capital shortages"
-  },
-  {
-    "question": "Development banks differ from commercial banks because they:",
-    "options": [
-      "Focus on long-term loans",
-      "Issue saving accounts",
-      "Clear cheques",
-      "Accept short-term deposits"
-    ],
-    "correctAnswer": "Focus on long-term loans"
-  },
-  {
-    "question": "Which of the following is NOT a function of development banks?",
-    "options": [
-      "Project financing",
-      "Technical assistance",
-      "Portfolio management",
-      "Accepting retail savings"
-    ],
-    "correctAnswer": "Accepting retail savings"
-  },
-  {
-    "question": "Development banks help promote:",
-    "options": [
-      "Importation of consumables",
-      "Investment in productive sectors",
-      "Electoral campaigns",
-      "Currency printing"
-    ],
-    "correctAnswer": "Investment in productive sectors"
-  },
-  {
-    "question": "A problem faced by development banks is:",
-    "options": [
-      "Too much profit",
-      "High default risk",
-      "Excess deposits",
-      "Too many customers"
-    ],
-    "correctAnswer": "High default risk"
-  },
-  {
-    "question": "Development banks support SMEs through:",
-    "options": [
-      "Long-term credit",
-      "ATM machines",
-      "Currency issuance",
-      "School services"
-    ],
-    "correctAnswer": "Long-term credit"
-  },
-  {
-    "question": "The Development Bank of Nigeria (DBN) was created to:",
-    "options": [
-      "Provide micro loans",
-      "Support SMEs with long-term financing",
-      "Print currency",
-      "Supervise banks"
-    ],
-    "correctAnswer": "Support SMEs with long-term financing"
-  },
-  {
-    "question": "Which sector is commonly financed by development banks?",
-    "options": [
-      "Heavy industries",
-      "Retail shops",
-      "Gaming centers",
-      "Religious organizations"
-    ],
-    "correctAnswer": "Heavy industries"
-  },
-  {
-    "question": "Development banks reduce unemployment by:",
-    "options": [
-      "Funding job-creating projects",
-      "Hiring more staff",
-      "Raising interest rates",
-      "Closing industries"
-    ],
-    "correctAnswer": "Funding job-creating projects"
-  },
-  {
-    "question": "Unlike commercial banks, development banks usually have:",
-    "options": [
-      "Short-term focus",
-      "Lower interest on long-term loans",
-      "ATM networks",
-      "Retail services"
-    ],
-    "correctAnswer": "Lower interest on long-term loans"
-  },
-  {
-    "question": "One limitation of development banks is:",
-    "options": [
-      "Lack of ATMs",
-      "Insufficient long-term funds",
-      "Too many branches",
-      "Excess savings accounts"
-    ],
-    "correctAnswer": "Insufficient long-term funds"
-  },
-    {
-    "question": "Microfinance banks are established to serve:",
-    "options": [
-      "Large corporations",
-      "Low-income individuals and small businesses",
-      "Government agencies",
-      "International investors"
-    ],
-    "correctAnswer": "Low-income individuals and small businesses"
-  },
-  {
-    "question": "One major function of microfinance banks is:",
-    "options": [
-      "Long-term project financing",
-      "Providing micro-credit",
-      "Printing currency",
-      "Underwriting securities"
-    ],
-    "correctAnswer": "Providing micro-credit"
-  },
-  {
-    "question": "Microfinance banks help reduce poverty by:",
-    "options": [
-      "Offering small loans",
-      "Increasing taxes",
-      "Closing rural branches",
-      "Restricting deposits"
-    ],
-    "correctAnswer": "Offering small loans"
-  },
-  {
-    "question": "Microfinance clients are mostly:",
-    "options": [
-      "Farmers, traders, and artisans",
-      "Multinational firms",
-      "Politicians",
-      "Corporate executives"
-    ],
-    "correctAnswer": "Farmers, traders, and artisans"
-  },
-  {
-    "question": "The Central Bank of Nigeria licenses:",
-    "options": [
-      "Only merchant banks",
-      "Microfinance banks",
-      "Oil companies",
-      "Stockbrokers"
-    ],
-    "correctAnswer": "Microfinance banks"
-  },
-  {
-    "question": "Microfinance banks differ from commercial banks because they:",
-    "options": [
-      "Focus on grassroots financing",
-      "Issue large business loans",
-      "Manage foreign reserves",
-      "Conduct monetary policy"
-    ],
-    "correctAnswer": "Focus on grassroots financing"
-  },
-  {
-    "question": "One unique product of microfinance banks is:",
-    "options": [
-      "Micro-insurance",
-      "Debit cards",
-      "Treasury bills",
-      "ATM international transfers"
-    ],
-    "correctAnswer": "Micro-insurance"
-  },
-  {
-    "question": "A major objective of microfinance banks is:",
-    "options": [
-      "Wealth redistribution",
-      "Financial inclusion",
-      "Industrial development",
-      "Building roads"
-    ],
-    "correctAnswer": "Financial inclusion"
-  },
-  {
-    "question": "Microfinance banks accept the following deposits:",
-    "options": [
-      "Savings and daily contributions",
-      "Only fixed deposits",
-      "Only corporate accounts",
-      "Foreign reserves"
-    ],
-    "correctAnswer": "Savings and daily contributions"
-  },
-  {
-    "question": "The group lending method helps to:",
-    "options": [
-      "Reduce repayment defaults",
-      "Increase interest rates",
-      "Fund large industries",
-      "Provide foreign loans"
-    ],
-    "correctAnswer": "Reduce repayment defaults"
-  },
-  {
-    "question": "Microfinance banks mostly provide:",
-    "options": [
-      "Small, short-term loans",
-      "Foreign direct investments",
-      "International trade finance",
-      "Capital market loans"
-    ],
-    "correctAnswer": "Small, short-term loans"
-  },
-  {
-    "question": "One common problem of microfinance banks is:",
-    "options": [
-      "Too many large clients",
-      "High loan default rate",
-      "Excess capital",
-      "Low interest rates"
-    ],
-    "correctAnswer": "High loan default rate"
-  },
-  {
-    "question": "Microfinance promotes women empowerment by:",
-    "options": [
-      "Funding large factories",
-      "Offering small startup loans",
-      "Closing rural branches",
-      "Offering only savings accounts"
-    ],
-    "correctAnswer": "Offering small startup loans"
-  },
-  {
-    "question": "A major service offered to rural communities by MFBs is:",
-    "options": [
-      "Financial literacy training",
-      "Oil exploration",
-      "Stock market analysis",
-      "Corporate restructuring"
-    ],
-    "correctAnswer": "Financial literacy training"
-  },
-  {
-    "question": "A microfinance bank cannot:",
-    "options": [
-      "Grant microloans",
-      "Issue current accounts",
-      "Print currency",
-      "Train customers"
-    ],
-    "correctAnswer": "Print currency"
-  },
-  {
-    "question": "MFBs are important in Nigeria because they:",
-    "options": [
-      "Reduce the role of the CBN",
-      "Bring banking services to the unbanked",
-      "Eliminate commercial banks",
-      "Print banknotes"
-    ],
-    "correctAnswer": "Bring banking services to the unbanked"
-  },
-  {
-    "question": "Microfinance banks also provide:",
-    "options": [
-      "Loan monitoring",
-      "Stock trading",
-      "Foreign reserve management",
-      "Currency issuance"
-    ],
-    "correctAnswer": "Loan monitoring"
-  },
-  {
-    "question": "A key principle guiding microfinance is:",
-    "options": [
-      "Group lending",
-      "Large industrial loans",
-      "Foreign exchange trading",
-      "Tax collection"
-    ],
-    "correctAnswer": "Group lending"
-  },
-  {
-    "question": "Microfinance banks mainly operate in:",
-    "options": [
-      "Rural and semi-urban areas",
-      "Airports",
-      "Only major cities",
-      "Ports"
-    ],
-    "correctAnswer": "Rural and semi-urban areas"
-  },
-  {
-    "question": "One limitation of MFBs is:",
-    "options": [
-      "Ease of small loans",
-      "Low capital base",
-      "High customer trust",
-      "Abundance of collateral"
-    ],
-    "correctAnswer": "Low capital base"
-  },
-    {
-    "question": "Non-bank financial institutions primarily engage in:",
-    "options": [
-      "Accepting demand deposits",
-      "Providing specialized financial services",
-      "Printing currency",
-      "Conducting monetary policy"
-    ],
-    "correctAnswer": "Providing specialized financial services"
-  },
-  {
-    "question": "An example of a non-bank financial institution is:",
-    "options": [
-      "Commercial bank",
-      "Insurance company",
-      "Central bank",
-      "Merchant bank"
-    ],
-    "correctAnswer": "Insurance company"
-  },
-  {
-    "question": "Mortgage banks mainly provide:",
-    "options": [
-      "Long-term housing loans",
-      "Current accounts",
-      "ATM services",
-      "Treasury bills"
-    ],
-    "correctAnswer": "Long-term housing loans"
-  },
-  {
-    "question": "Insurance companies help reduce:",
-    "options": [
-      "Inflation",
-      "Financial risk",
-      "Import duties",
-      "Loan defaults"
-    ],
-    "correctAnswer": "Financial risk"
-  },
-  {
-    "question": "Pension fund administrators manage:",
-    "options": [
-      "Retirement savings",
-      "Current accounts",
-      "Stock exchange",
-      "Foreign reserves"
-    ],
-    "correctAnswer": "Retirement savings"
-  },
-  {
-    "question": "Finance houses primarily offer:",
-    "options": [
-      "Large industrial loans",
-      "Consumer credit and hire purchase",
-      "Savings accounts",
-      "Currency printing"
-    ],
-    "correctAnswer": "Consumer credit and hire purchase"
-  },
-  {
-    "question": "Bureau de Change institutions mainly:",
-    "options": [
-      "Grant loans",
-      "Sell foreign currency",
-      "Underwrite shares",
-      "Build houses"
-    ],
-    "correctAnswer": "Sell foreign currency"
-  },
-  {
-    "question": "Non-bank financial institutions differ from banks because they:",
-    "options": [
-      "Do not issue cheque books",
-      "Print currency",
-      "Supervise banks",
-      "Regulate the economy"
-    ],
-    "correctAnswer": "Do not issue cheque books"
-  },
-  {
-    "question": "A key role of mortgage banks is:",
-    "options": [
-      "Real estate financing",
-      "ATM installation",
-      "Short-term retail loans",
-      "Conducting elections"
-    ],
-    "correctAnswer": "Real estate financing"
-  },
-  {
-    "question": "Insurance companies operate on the principle of:",
-    "options": [
-      "Taxation",
-      "Risk pooling",
-      "Currency substitution",
-      "Deposit multipliers"
-    ],
-    "correctAnswer": "Risk pooling"
-  },
-  {
-    "question": "Finance houses help promote:",
-    "options": [
-      "Consumer credit",
-      "Foreign reserve management",
-      "Electricity distribution",
-      "Currency printing"
-    ],
-    "correctAnswer": "Consumer credit"
-  },
-  {
-    "question": "The National Pension Commission (PENCOM) regulates:",
-    "options": [
-      "Merchant banks",
-      "Pension fund administrators",
-      "Schools",
-      "Commercial banks"
-    ],
-    "correctAnswer": "Pension fund administrators"
-  },
-  {
-    "question": "A mortgage bank gives loans usually backed by:",
-    "options": [
-      "Personal savings",
-      "Collateral such as land or property",
-      "Voters card",
-      "Passport"
-    ],
-    "correctAnswer": "Collateral such as land or property"
-  },
-  {
-    "question": "Hire purchase is provided by:",
-    "options": [
-      "Insurance firms",
-      "Finance houses",
-      "Microfinance banks",
-      "Central banks"
-    ],
-    "correctAnswer": "Finance houses"
-  },
-  {
-    "question": "Non-bank institutions help diversify:",
-    "options": [
-      "Public transportation",
-      "The financial system",
-      "Educational policy",
-      "Industrial pollution"
-    ],
-    "correctAnswer": "The financial system"
-  },
-  {
-    "question": "Insurance companies collect:",
-    "options": [
-      "Premiums",
-      "Exchange rates",
-      "Tariffs",
-      "Customs duties"
-    ],
-    "correctAnswer": "Premiums"
-  },
-  {
-    "question": "Mortgage banks differ from commercial banks because they:",
-    "options": [
-      "Fund long-term real estate",
-      "Offer current accounts",
-      "Issue debit cards",
-      "Print money"
-    ],
-    "correctAnswer": "Fund long-term real estate"
-  },
-  {
-    "question": "Pension funds invest contributions to:",
-    "options": [
-      "Build roads",
-      "Grow retirement savings",
-      "Provide electricity",
-      "Fund elections"
-    ],
-    "correctAnswer": "Grow retirement savings"
-  },
-  {
-    "question": "A key limitation of finance houses is:",
-    "options": [
-      "Excess supervision",
-      "High default risk",
-      "Too many customers",
-      "High capital base"
-    ],
-    "correctAnswer": "High default risk"
-  },
-  {
-    "question": "Non-bank financial institutions contribute to economic growth by:",
-    "options": [
-      "Managing risks and mobilizing long-term funds",
-      "Printing currency",
-      "Controlling inflation",
-      "Setting interest rates"
-    ],
-    "correctAnswer": "Managing risks and mobilizing long-term funds"
-  },
-    {
-    "question": "A major distinguishing feature of commercial banks is that they:",
-    "options": [
-      "Provide project financing only",
-      "Deal mainly in retail and short-term services",
-      "Underwrite securities",
-      "Avoid taking deposits"
-    ],
-    "correctAnswer": "Deal mainly in retail and short-term services"
-  },
-  {
-    "question": "Merchant banks generally concentrate on:",
-    "options": [
-      "Small personal accounts",
-      "Wholesale banking and corporate financing",
-      "Salary payments to civil servants",
-      "ATM card issuance only"
-    ],
-    "correctAnswer": "Wholesale banking and corporate financing"
-  },
-  {
-    "question": "Commercial banks earn most of their income from:",
-    "options": [
-      "Long-term project interest",
-      "Commission on underwriting",
-      "Short-term loans and customer deposits",
-      "Venture capital income"
-    ],
-    "correctAnswer": "Short-term loans and customer deposits"
-  },
-  {
-    "question": "Merchant banks are also referred to as:",
-    "options": [
-      "Savings banks",
-      "Investment banks",
-      "Microfinance banks",
-      "Mortgage banks"
-    ],
-    "correctAnswer": "Investment banks"
-  },
-  {
-    "question": "Commercial banks usually provide:",
-    "options": [
-      "Advisory services on mergers",
-      "Daily financial transactions like withdrawals and deposits",
-      "Underwriting services",
-      "Capital market operations"
-    ],
-    "correctAnswer": "Daily financial transactions like withdrawals and deposits"
-  },
-  {
-    "question": "Merchant banks accept mainly:",
-    "options": [
-      "Savings deposits from individuals",
-      "Time deposits from large firms",
-      "Charity donations",
-      "Small petty deposits"
-    ],
-    "correctAnswer": "Time deposits from large firms"
-  },
-  {
-    "question": "Commercial banks facilitate the economy by:",
-    "options": [
-      "Funding long-term industrial projects",
-      "Providing short-term credit for individuals and businesses",
-      "Underwriting new share issues",
-      "Financing international trade only"
-    ],
-    "correctAnswer": "Providing short-term credit for individuals and businesses"
-  },
-  {
-    "question": "Merchant banks help companies raise long-term capital through:",
-    "options": [
-      "Accepting school fees",
-      "Issuing shares and debentures",
-      "Granting salary advances",
-      "Operating ATMs for the public"
-    ],
-    "correctAnswer": "Issuing shares and debentures"
-  },
-  {
-    "question": "One area where commercial banks differ from merchant banks is that commercial banks:",
-    "options": [
-      "Provide cheque book facilities",
-      "Underwrite public issues",
-      "Finance mergers",
-      "Offer portfolio management"
-    ],
-    "correctAnswer": "Provide cheque book facilities"
-  },
-  {
-    "question": "Merchant banks are specialised because they:",
-    "options": [
-      "Open accounts for all citizens",
-      "Serve mainly corporate and institutional clients",
-      "Pay salaries to civil servants",
-      "Operate savings schemes for children"
-    ],
-    "correctAnswer": "Serve mainly corporate and institutional clients"
-  },
-  {
-    "question": "Which of the following is NOT a function of commercial banks?",
-    "options": [
-      "Granting overdrafts",
-      "Accepting savings deposits",
-      "Underwriting securities",
-      "Facilitating payments"
-    ],
-    "correctAnswer": "Underwriting securities"
-  },
-  {
-    "question": "Merchant banks play a major role in:",
-    "options": [
-      "Retail banking",
-      "Capital market activities",
-      "Currency printing",
-      "Agricultural subsidies"
-    ],
-    "correctAnswer": "Capital market activities"
-  },
-  {
-    "question": "The type of loans commonly given by commercial banks is:",
-    "options": [
-      "Long-term capital loans",
-      "Short-term working capital loans",
-      "Venture capital funding",
-      "Equity financing"
-    ],
-    "correctAnswer": "Short-term working capital loans"
-  },
-  {
-    "question": "Merchant banks differ from commercial banks because they provide:",
-    "options": [
-      "ATM and POS services",
-      "Financial advisory services to large firms",
-      "Savings products for the general public",
-      "Salary advances"
-    ],
-    "correctAnswer": "Financial advisory services to large firms"
-  },
-  {
-    "question": "A unique function of merchant banks is:",
-    "options": [
-      "Accepting deposits from school children",
-      "Providing long-term project loans",
-      "Giving short-term credit",
-      "Holding savings for individuals"
-    ],
-    "correctAnswer": "Providing long-term project loans"
-  },
-  {
-    "question": "Commercial banks focus on:",
-    "options": [
-      "Corporate clients only",
-      "The general public and small businesses",
-      "Foreign exchange advisory alone",
-      "Underwriting corporations"
-    ],
-    "correctAnswer": "The general public and small businesses"
-  },
-  {
-    "question": "Merchant banks commonly engage in:",
-    "options": [
-      "Portfolio and investment management",
-      "Salary processing",
-      "Agricultural credit to farmers",
-      "Personal loan issuance"
-    ],
-    "correctAnswer": "Portfolio and investment management"
-  },
-  {
-    "question": "Commercial banks are important for:",
-    "options": [
-      "Long-term capital formation",
-      "Meeting the immediate cash needs of customers",
-      "Underwriting stocks",
-      "Providing venture capital"
-    ],
-    "correctAnswer": "Meeting the immediate cash needs of customers"
-  },
-  {
-    "question": "Merchant banks differ from commercial banks based on the fact that merchant banks:",
-    "options": [
-      "Offer retail products",
-      "Operate mainly in the wholesale financial market",
-      "Provide ATM withdrawals",
-      "Manage small personal accounts"
-    ],
-    "correctAnswer": "Operate mainly in the wholesale financial market"
-  },
-  {
-    "question": "Commercial banks mobilize savings from:",
-    "options": [
-      "Only corporate bodies",
-      "The general public",
-      "Merchants only",
-      "Government agencies alone"
-    ],
-    "correctAnswer": "The general public"
-  },
-    {
-    "question": "The primary purpose of money is to:",
-    "options": [
-      "Measure inflation",
-      "Serve as a medium of exchange",
-      "Create employment",
-      "Control tax revenue"
-    ],
-    "correctAnswer": "Serve as a medium of exchange"
-  },
-  {
-    "question": "One major characteristic of good money is:",
-    "options": [
-      "Rustiness",
-      "Durability",
-      "Unpredictability",
-      "Heavy weight"
-    ],
-    "correctAnswer": "Durability"
-  },
-  {
-    "question": "The West African Currency Board (WACB) was established to:",
-    "options": [
-      "Supervise commercial banks",
-      "Issue and redeem currency in British West Africa",
-      "Control inflation",
-      "Train bank managers"
-    ],
-    "correctAnswer": "Issue and redeem currency in British West Africa"
-  },
-  {
-    "question": "One major reason for the slow growth of early Nigerian banks was:",
-    "options": [
-      "Excess capital",
-      "Poor management and fraud",
-      "Limited competition",
-      "High literacy level"
-    ],
-    "correctAnswer": "Poor management and fraud"
-  },
-  {
-    "question": "The CBN controls the money supply through:",
-    "options": [
-      "Fiscal policy",
-      "Monetary policy",
-      "Tax collection",
-      "Import duties"
-    ],
-    "correctAnswer": "Monetary policy"
-  },
-  {
-    "question": "Which of the following is a key function of commercial banks?",
-    "options": [
-      "Underwriting securities",
-      "Acting as lender of last resort",
-      "Accepting deposits from the public",
-      "Printing currency"
-    ],
-    "correctAnswer": "Accepting deposits from the public"
-  },
-  {
-    "question": "Merchant banks typically provide financing for:",
-    "options": [
-      "Daily retail transactions",
-      "Long-term capital projects",
-      "Food distribution",
-      "Small family businesses"
-    ],
-    "correctAnswer": "Long-term capital projects"
-  },
-  {
-    "question": "A bank that deals mostly with large corporate clients is:",
-    "options": [
-      "Commercial bank",
-      "Merchant bank",
-      "Microfinance bank",
-      "Mortgage bank"
-    ],
-    "correctAnswer": "Merchant bank"
-  },
-  {
-    "question": "The main regulator of banks in Nigeria is the:",
-    "options": [
-      "Ministry of Finance",
-      "World Bank",
-      "Central Bank of Nigeria",
-      "IMF"
-    ],
-    "correctAnswer": "Central Bank of Nigeria"
-  },
-  {
-    "question": "One reason for mass bank failure in the 1950s was:",
-    "options": [
-      "Adequate supervision",
-      "Poor capital base",
-      "Strong banking laws",
-      "High customer savings"
-    ],
-    "correctAnswer": "Poor capital base"
-  },
-  {
-    "question": "Commercial banks help economic growth mainly by:",
-    "options": [
-      "Granting long-term project loans",
-      "Mobilizing savings and providing credit",
-      "Printing and distributing money",
-      "Producing coins"
-    ],
-    "correctAnswer": "Mobilizing savings and providing credit"
-  },
-  {
-    "question": "The CBN was established in:",
-    "options": [
-      "1929",
-      "1952",
-      "1958",
-      "1980"
-    ],
-    "correctAnswer": "1958"
-  },
-  {
-    "question": "The first modern bank in Nigeria was:",
-    "options": [
-      "Union Bank",
-      "First Bank",
-      "Central Bank",
-      "Cooperative Bank"
-    ],
-    "correctAnswer": "First Bank"
-  },
-  {
-    "question": "Which of the following is NOT a function of money?",
-    "options": [
-      "Store of value",
-      "Unit of account",
-      "Measure of inflation",
-      "Standard of deferred payment"
-    ],
-    "correctAnswer": "Measure of inflation"
-  },
-  {
-    "question": "Merchant banks differ from commercial banks because merchant banks:",
-    "options": [
-      "Serve the general public",
-      "Offer long-term financing",
-      "Issue ATM cards",
-      "Handle retail deposits"
-    ],
-    "correctAnswer": "Offer long-term financing"
-  },
-  {
-    "question": "A cheque is an example of:",
-    "options": [
-      "Legal tender",
-      "Near money",
-      "Commodity money",
-      "Full-bodied money"
-    ],
-    "correctAnswer": "Near money"
-  },
-  {
-    "question": "The term “banking habit” refers to:",
-    "options": [
-      "People saving in banks regularly",
-      "Banks opening late",
-      "Excessive borrowing",
-      "Bank staff behaviour"
-    ],
-    "correctAnswer": "People saving in banks regularly"
-  },
-  {
-    "question": "Which institution issues and manages Nigeria’s currency?",
-    "options": [
-      "Federal Government",
-      "Ministry of Budget",
-      "Central Bank of Nigeria",
-      "National Assembly"
-    ],
-    "correctAnswer": "Central Bank of Nigeria"
-  },
-  {
-    "question": "One major objective of the CBN is:",
-    "options": [
-      "To manufacture goods",
-      "To maintain monetary stability",
-      "To finance all banks",
-      "To grant student loans"
-    ],
-    "correctAnswer": "To maintain monetary stability"
-  },
-  {
-    "question": "The type of financing associated with merchant banks is:",
-    "options": [
-      "Retail financing",
-      "Long-term project financing",
-      "Personal loans",
-      "Microloans"
-    ],
-    "correctAnswer": "Long-term project financing"
-  },
-    ],
-
   "GST 101": [
     {
       question: "__________ is a piece of language used for a specific purpose",
@@ -19342,6 +15125,4222 @@ export const allQuestions = {
     answer: "to develop and assist the undergraduates."
   }
      ], 
+      "FIN 212":[
+        {
+    "question": "A computer is an electro-mechanical __________.",
+    "options": ["Tool", "Device", "Facility", "Machine"],
+    "correctAnswer": "Device"
+  },
+  {
+    "question": "A computer performs a wide range of tasks, from simple calculations to complex simulations.",
+    "options": ["True", "False", "Partially true", "None of the above"],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "__________ is operated under the control of instructions stored in its own memory.",
+    "options": ["Computer", "Smart device", "Machine", "Calculator"],
+    "correctAnswer": "Computer"
+  },
+  {
+    "question": "__________ is described as an electro-mechanical tool that processes and transmits data.",
+    "options": ["Computer", "Binary number", "Smart device", "Router"],
+    "correctAnswer": "Computer"
+  },
+  {
+    "question": "Smart devices use ______ to transmit data and information.",
+    "options": ["Arabic numbers", "Roman figures", "Binary code", "Decimal code"],
+    "correctAnswer": "Binary code"
+  },
+  {
+    "question": "An example of binary code is ______.",
+    "options": ["10s and 20s", "2s and 5s", "0s and 1s", "1s and 9s"],
+    "correctAnswer": "0s and 1s"
+  },
+  {
+    "question": "One of these authors gave an alternative definition of a computer.",
+    "options": ["Abraham Lincoln", "Peter Drucker", "Socrates", "Vermaat"],
+    "correctAnswer": "Vermaat"
+  },
+  {
+    "question": "Versatility functionality in computer means ______.",
+    "options": ["Single purpose", "Dual purpose", "Numerous purposes", "No purpose"],
+    "correctAnswer": "Numerous purposes"
+  },
+  {
+    "question": "Diligence functionality in computer means ______.",
+    "options": ["Gets tired easily", "Weak easily", "Does not get tired", "Needs rest often"],
+    "correctAnswer": "Does not get tired"
+  },
+  {
+    "question": "Accuracy functionality in computer means ______.",
+    "options": ["Minimum or error free", "More errors", "Moderate errors", "Random errors"],
+    "correctAnswer": "Minimum or error free"
+  },
+  {
+    "question": "Binary-based processing means ______.",
+    "options": ["Digital logic", "Program", "Software", "Hardware"],
+    "correctAnswer": "Digital logic"
+  },
+  {
+    "question": "Binary-based processing is an attribute of ______.",
+    "options": ["Computer", "Electrical device", "Mechanical device", "Smart device"],
+    "correctAnswer": "Computer"
+  },
+  {
+    "question": "The visible and tangible parts of the computer are called ______.",
+    "options": ["Software", "Hardware", "Program", "Firmware"],
+    "correctAnswer": "Hardware"
+  },
+  {
+    "question": "The visible and intangible parts of the computer are called ______.",
+    "options": ["Software", "Hardware", "Keyboard", "Monitor"],
+    "correctAnswer": "Software"
+  },
+  {
+    "question": "An input device is used to ______.",
+    "options": [
+      "Put data and instructions into the computer",
+      "Bring out information from the computer",
+      "Delete instructions from the computer",
+      "Store data permanently"
+    ],
+    "correctAnswer": "Put data and instructions into the computer"
+  },
+  {
+    "question": "An output device is used to ______.",
+    "options": [
+      "Put data and instructions into the computer",
+      "Bring out information from the computer",
+      "Delete instructions from the computer",
+      "Input commands into memory"
+    ],
+    "correctAnswer": "Bring out information from the computer"
+  },
+  {
+    "question": "An example of an output device is ______.",
+    "options": ["Monitor", "Printer", "Speaker", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "An example of an input device is ______.",
+    "options": ["Monitor", "Mouse", "Printer", "Speaker"],
+    "correctAnswer": "Mouse"
+  },
+  {
+    "question": "A device that can function as both input and output is ______.",
+    "options": ["Monitor", "Touchscreen", "Keyboard", "Mouse"],
+    "correctAnswer": "Touchscreen"
+  },
+  {
+    "question": "Joystick is an example of a ______ device.",
+    "options": ["Input device", "Output device", "Input and output device", "Storage device"],
+    "correctAnswer": "Input device"
+  },
+    {
+    "question": "Light pen is an example of ______.",
+    "options": ["Output device", "Input device", "Storage device", "Processing device"],
+    "correctAnswer": "Input device"
+  },
+  {
+    "question": "Monitor can serve as both input and output device.",
+    "options": ["True", "False", "Partially true", "None of the above"],
+    "correctAnswer": "False"
+  },
+  {
+    "question": "Which device can function as both input and output device?",
+    "options": ["Flash drive", "Memory card", "Touchscreen monitor", "Keyboard"],
+    "correctAnswer": "Touchscreen monitor"
+  },
+  {
+    "question": "External devices attached to the computer are called ______.",
+    "options": ["Peripherals", "Smart devices", "Network cables", "Adapters"],
+    "correctAnswer": "Peripherals"
+  },
+  {
+    "question": "Which of the following is system software?",
+    "options": ["MS Word", "MS Excel", "Windows", "PowerPoint"],
+    "correctAnswer": "Windows"
+  },
+  {
+    "question": "The acronym CRT stands for ______.",
+    "options": ["Cathode Ray Tube", "Commission Rate Turnover", "City Ray Tube", "Control Response Terminal"],
+    "correctAnswer": "Cathode Ray Tube"
+  },
+  {
+    "question": "CRT is a type of ______.",
+    "options": ["Printer", "Mouse", "Monitor", "Scanner"],
+    "correctAnswer": "Monitor"
+  },
+  {
+    "question": "A standard keyboard generally has 101 keys.",
+    "options": ["True", "False", "Sometimes", "Not sure"],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "System software is used to ______.",
+    "options": [
+      "Manage and control hardware components",
+      "Create documents only",
+      "Design graphics",
+      "Play music"
+    ],
+    "correctAnswer": "Manage and control hardware components"
+  },
+  {
+    "question": "Utilities, Windows and Firmware are examples of ______.",
+    "options": ["Linux", "Application software", "System software", "Programming language"],
+    "correctAnswer": "System software"
+  },
+  {
+    "question": "MS Excel, Media Player and Firefox are examples of ______.",
+    "options": ["Application software", "System software", "Operating system", "Firmware"],
+    "correctAnswer": "Application software"
+  },
+  {
+    "question": "Programming software is used to ______.",
+    "options": [
+      "Test programs",
+      "Write programs",
+      "Maintain programs",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "IDEs stands for ______.",
+    "options": [
+      "International Development Environment",
+      "Integrated Development Environments",
+      "Internal Digital Environment",
+      "Integrated Data Engine"
+    ],
+    "correctAnswer": "Integrated Development Environments"
+  },
+  {
+    "question": "Which device sends data into the computer?",
+    "options": ["Output device", "External device", "Input device", "Monitor"],
+    "correctAnswer": "Input device"
+  },
+  {
+    "question": "Which of the following is an input device?",
+    "options": ["Keyboard", "Mouse", "Joystick", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "To take data out of the computer, we need a ______.",
+    "options": ["Input device", "Output device", "Application software", "Compiler"],
+    "correctAnswer": "Output device"
+  },
+  {
+    "question": "KB stands for ______.",
+    "options": ["Megabyte", "Kilobyte", "King Byte", "Kernel Bit"],
+    "correctAnswer": "Kilobyte"
+  },
+  {
+    "question": "One kilobyte is equal to ______ bytes.",
+    "options": ["1000", "1024", "1012", "2048"],
+    "correctAnswer": "1024"
+  },
+  {
+    "question": "How many megabytes make one gigabyte?",
+    "options": ["1024", "1000", "512", "2048"],
+    "correctAnswer": "1024"
+  },
+  {
+    "question": "A number from 0 to 255 represents ______.",
+    "options": ["1 byte", "2 bytes", "4 bytes", "8 bytes"],
+    "correctAnswer": "1 byte"
+  },
+    {
+    "question": "About one page of text is approximately equal to ______.",
+    "options": ["4 KB", "4 MB", "1 GB", "500 Bytes"],
+    "correctAnswer": "4 KB"
+  },
+  {
+    "question": "A three-minute song size is approximately equal to ______.",
+    "options": ["3 MB", "3 GB", "4 KB", "500 KB"],
+    "correctAnswer": "3 MB"
+  },
+  {
+    "question": "90 bytes is enough to store a typical line of text from a book.",
+    "options": ["True", "False", "Sometimes", "Not sure"],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "CPU stands for ______.",
+    "options": [
+      "Central Processing Unit",
+      "Central Program Unit",
+      "Control Processing Unit",
+      "Central Power Unit"
+    ],
+    "correctAnswer": "Central Processing Unit"
+  },
+  {
+    "question": "File management involves ______.",
+    "options": [
+      "Creating files",
+      "Naming files",
+      "Storing files",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "CPU speed cycle is measured in ______.",
+    "options": ["MB", "GB", "Hz", "Bytes"],
+    "correctAnswer": "Hz"
+  },
+  {
+    "question": "Hz stands for ______.",
+    "options": ["Hertz", "Heat zone", "Hard zone", "High zero"],
+    "correctAnswer": "Hertz"
+  },
+  {
+    "question": "A folder is like a ______ in a cabinet while a file is a ______ stored in that drawer.",
+    "options": [
+      "Drawer and paper document",
+      "Paper and drawer",
+      "Cabinet and book",
+      "Shelf and folder"
+    ],
+    "correctAnswer": "Drawer and paper document"
+  },
+  {
+    "question": "Computers are classified mainly by ______ and ______.",
+    "options": [
+      "Money and size",
+      "Power and price",
+      "Size and power",
+      "Colour and brand"
+    ],
+    "correctAnswer": "Size and power"
+  },
+  {
+    "question": "A powerful multi-user computer capable of supporting other computers is a ______.",
+    "options": [
+      "Mainframe computer",
+      "Mini computer",
+      "Personal computer",
+      "Laptop"
+    ],
+    "correctAnswer": "Mainframe computer"
+  },
+  {
+    "question": "An extremely fast computer that performs millions of instructions per second is a ______.",
+    "options": [
+      "Microcomputer",
+      "Workstation",
+      "Supercomputer",
+      "Personal computer"
+    ],
+    "correctAnswer": "Supercomputer"
+  },
+  {
+    "question": "Facts and figures which relay something specific are called ______.",
+    "options": ["Data", "Information", "Knowledge", "Wisdom"],
+    "correctAnswer": "Data"
+  },
+  {
+    "question": "Unstructured facts and figures are called ______.",
+    "options": ["Information", "Byte", "Data", "Knowledge"],
+    "correctAnswer": "Data"
+  },
+  {
+    "question": "Contextualized and processed data is called ______.",
+    "options": ["Information", "Raw facts", "Bulk data", "Knowledge"],
+    "correctAnswer": "Information"
+  },
+  {
+    "question": "Which of the following paints a bigger picture?",
+    "options": ["Data", "Information", "Raw data", "Figures"],
+    "correctAnswer": "Information"
+  },
+  {
+    "question": "________ is linked to doing and implies know-how and understanding.",
+    "options": ["Data", "Information", "Knowledge", "Wisdom"],
+    "correctAnswer": "Knowledge"
+  },
+  {
+    "question": "The content of the human mind can be classified into ______ categories.",
+    "options": ["2", "3", "4", "5"],
+    "correctAnswer": "4"
+  },
+  {
+    "question": "The application of data and information that answers 'how' questions is ______.",
+    "options": ["Knowledge", "Wisdom", "Data", "Information"],
+    "correctAnswer": "Knowledge"
+  },
+  {
+    "question": "________ is used to evaluate understanding.",
+    "options": ["Wisdom", "Knowledge", "Data", "Information"],
+    "correctAnswer": "Wisdom"
+  },
+  {
+    "question": "A small piece of software that piggybacks on real programs is called a ______.",
+    "options": ["System software", "Application package", "Desktop publishing", "Virus"],
+    "correctAnswer": "Virus"
+  },
+    {
+    "question": "Which of the following is a type of computer virus?",
+    "options": ["Trojan horse", "Worm", "Spyware", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Anti-virus software is used to ______.",
+    "options": ["Allow viruses", "Prevent viruses", "Remove viruses", "Prevent and remove viruses"],
+    "correctAnswer": "Prevent and remove viruses"
+  },
+  {
+    "question": "An example of anti-virus software is ______.",
+    "options": ["Avast", "Kaspersky", "Norton", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "The act of collecting information or data from the internet is called ______.",
+    "options": ["Downloading", "Uploading", "Surfing", "Browsing"],
+    "correctAnswer": "Downloading"
+  },
+  {
+    "question": "The act of putting information or data on the internet is called ______.",
+    "options": ["Downloading", "Uploading", "Surfing", "Browsing"],
+    "correctAnswer": "Uploading"
+  },
+  {
+    "question": "A small piece of software that uses computer networks and security holes to replicate itself is called a ______.",
+    "options": ["Trojan horse", "Worm", "MS Word", "Firewall"],
+    "correctAnswer": "Worm"
+  },
+  {
+    "question": "The buying and selling of goods and services is associated with ______.",
+    "options": ["Relationship", "Skills", "Business", "Services"],
+    "correctAnswer": "Business"
+  },
+  {
+    "question": "Data and information vary from ______ to ______.",
+    "options": [
+      "People to people",
+      "Cars to people",
+      "Organization to organization",
+      "Country to continent"
+    ],
+    "correctAnswer": "Organization to organization"
+  },
+  {
+    "question": "Today, computers are inevitable in business transactions.",
+    "options": ["True", "False", "Not sure", "Partially true"],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "Finacle is software used in ______.",
+    "options": ["Schools", "Hospitals", "Banks", "Libraries"],
+    "correctAnswer": "Banks"
+  },
+  {
+    "question": "The use of computers and internet technologies to provide medical care at a distance is called ______.",
+    "options": ["Flexcube", "Telemedicine", "Surfing", "E-commerce"],
+    "correctAnswer": "Telemedicine"
+  },
+  {
+    "question": "A small, single-user computer based on a microprocessor is called a ______.",
+    "options": ["Supercomputer", "Mainframe computer", "Personal computer", "Mini computer"],
+    "correctAnswer": "Personal computer"
+  },
+  {
+    "question": "Problems or challenges in an organization are part of life.",
+    "options": ["True", "False", "Not really", "None of the above"],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "The first step in solving a problem using a computer is ______.",
+    "options": [
+      "Problem analysis and identification",
+      "Data cleansing",
+      "Data filtering",
+      "Solution evaluation"
+    ],
+    "correctAnswer": "Problem analysis and identification"
+  },
+  {
+    "question": "The last step in solving a problem using a computer is ______.",
+    "options": [
+      "Problem analysis",
+      "Data cleansing",
+      "Data filtering",
+      "Solution evaluation"
+    ],
+    "correctAnswer": "Solution evaluation"
+  },
+  {
+    "question": "The best software to compute compound interest investment is ______.",
+    "options": ["MS Word", "MS PowerPoint", "CorelDraw", "MS Excel"],
+    "correctAnswer": "MS Excel"
+  },
+  {
+    "question": "Software that allows users to create, edit, format, and store text documents is ______.",
+    "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
+    "correctAnswer": "MS Word"
+  },
+  {
+    "question": "A core component of Microsoft Office widely used for calculations and data analysis is ______.",
+    "options": ["MS Access", "MS Excel", "MS PowerPoint", "MS Word"],
+    "correctAnswer": "MS Excel"
+  },
+  {
+    "question": "Document creation and editing is a key feature of ______.",
+    "options": ["MS PowerPoint", "MS Excel", "MS Word", "MS Outlook"],
+    "correctAnswer": "MS Word"
+  },
+  {
+    "question": "Opening MS Word as an application package is called ______.",
+    "options": ["Exit", "Launch", "Login", "Install"],
+    "correctAnswer": "Launch"
+  },
+    {
+    "question": "Items on the MS Word environment are called ______.",
+    "options": ["Default things", "Default items", "Default features", "Icons"],
+    "correctAnswer": "Icons"
+  },
+  {
+    "question": "The title bar helps to ______.",
+    "options": [
+      "Display software name",
+      "Show software status",
+      "Move document up and down",
+      "Move document left to right"
+    ],
+    "correctAnswer": "Display software name"
+  },
+  {
+    "question": "________ treats data in rows and columns with the use of cells.",
+    "options": ["Cell", "Rows", "Columns", "Table"],
+    "correctAnswer": "Table"
+  },
+  {
+    "question": "Pictorial representation of information using X and Y axis is called ______.",
+    "options": ["Chart", "Table", "Diagram", "Cell"],
+    "correctAnswer": "Chart"
+  },
+  {
+    "question": "Schematic representation of the flow of information is called ______.",
+    "options": ["Table", "Diagram", "Chart", "Cell"],
+    "correctAnswer": "Diagram"
+  },
+  {
+    "question": "The New command is used to ______.",
+    "options": [
+      "Create a fresh document",
+      "Open an existing document",
+      "Delete a document",
+      "Save a document"
+    ],
+    "correctAnswer": "Create a fresh document"
+  },
+  {
+    "question": "The process of changing the appearance of text is called ______.",
+    "options": ["Enhancing", "Formatting", "Editing", "Styling"],
+    "correctAnswer": "Formatting"
+  },
+  {
+    "question": "Which command changes text colour?",
+    "options": ["Font size", "Font style", "Font colour", "Font effect"],
+    "correctAnswer": "Font colour"
+  },
+  {
+    "question": "Text size can be increased or decreased using the ______ command.",
+    "options": ["Font size", "Font colour", "Font style", "Font effect"],
+    "correctAnswer": "Font size"
+  },
+  {
+    "question": "The acronym BIU stands for ______.",
+    "options": [
+      "Bold, Italic and Underline",
+      "Italic, Underline and Bold",
+      "Bold, Underline and Italic",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "The keyboard shortcut to save a document is ______.",
+    "options": ["Ctrl + A", "Ctrl + L", "Ctrl + S", "Ctrl + N"],
+    "correctAnswer": "Ctrl + S"
+  },
+  {
+    "question": "The intersection of rows and columns forms a ______.",
+    "options": ["Cell", "Row", "Column", "Table"],
+    "correctAnswer": "Cell"
+  },
+  {
+    "question": "Adding two or more cells together into one is called ______.",
+    "options": ["Split cell", "Delete cell", "Merge cell", "Copy cell"],
+    "correctAnswer": "Merge cell"
+  },
+  {
+    "question": "The Insert tab contains commands to insert tables and pictures into a document.",
+    "options": ["True", "False", "Not sure", "Partially true"],
+    "correctAnswer": "True"
+  },
+  {
+    "question": "To remove unwanted rows and columns, use the ______ command.",
+    "options": [
+      "Add rows and columns",
+      "Delete rows and columns",
+      "Split rows and columns",
+      "Merge rows and columns"
+    ],
+    "correctAnswer": "Delete rows and columns"
+  },
+  {
+    "question": "The keyboard shortcut to open a file is ______.",
+    "options": ["Ctrl + O", "Ctrl + K", "Ctrl + L", "Ctrl + U"],
+    "correctAnswer": "Ctrl + O"
+  },
+  {
+    "question": "________ is an electronic ledger used to store and analyze data in tabular format.",
+    "options": ["Word", "PowerPoint", "CorelDraw", "Excel"],
+    "correctAnswer": "Excel"
+  },
+  {
+    "question": "Excel is distinguished by its ability to perform ______.",
+    "options": [
+      "Calculations",
+      "Create charts",
+      "Create graphs",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Why does Excel matter for productivity?",
+    "options": [
+      "It organizes data for fast decision making",
+      "It reduces manual errors",
+      "It improves accuracy and planning",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "To launch MS Excel means to ______.",
+    "options": ["Exit Excel", "Close Excel", "Open Excel", "Install Excel"],
+    "correctAnswer": "Open Excel"
+  },
+    {
+    "question": "The Name Box in MS Excel displays the ______.",
+    "options": ["Cell colour", "Cell status", "Cell address", "Cell border"],
+    "correctAnswer": "Cell address"
+  },
+  {
+    "question": "An active cell in Excel is characterized by a ______.",
+    "options": ["Thick border", "Light border", "Red line", "Dotted border"],
+    "correctAnswer": "Thick border"
+  },
+  {
+    "question": "A collection of worksheets is called a ______.",
+    "options": ["Workbook", "Data sheet", "Work paper", "Spreadsheet"],
+    "correctAnswer": "Workbook"
+  },
+  {
+    "question": "By default, a new Excel workbook contains ______ worksheet(s).",
+    "options": ["1", "2", "3", "4"],
+    "correctAnswer": "1"
+  },
+  {
+    "question": "Each box where you enter data in Excel is called a ______.",
+    "options": ["Cell", "Column", "Row", "Block"],
+    "correctAnswer": "Cell"
+  },
+  {
+    "question": "Vertical lines in Excel are called ______.",
+    "options": ["Cells", "Columns", "Rows", "Ranges"],
+    "correctAnswer": "Columns"
+  },
+  {
+    "question": "Horizontal lines in Excel are called ______.",
+    "options": ["Cells", "Columns", "Rows", "Ranges"],
+    "correctAnswer": "Rows"
+  },
+  {
+    "question": "The combination of a column letter and row number is called the ______.",
+    "options": ["Cell name", "Column name", "Row name", "Sheet name"],
+    "correctAnswer": "Cell name"
+  },
+  {
+    "question": "The entire Excel file is called a ______.",
+    "options": ["Workbook", "Worksheet", "Column", "Row"],
+    "correctAnswer": "Workbook"
+  },
+  {
+    "question": "The main interface in Excel containing tabs and groups of commands is called the ______.",
+    "options": ["Rows", "Columns", "Ribbon", "Formula bar"],
+    "correctAnswer": "Ribbon"
+  },
+  {
+    "question": "The Ribbon is divided into various ______.",
+    "options": ["Groups", "Cells", "Columns", "Sheets"],
+    "correctAnswer": "Groups"
+  },
+  {
+    "question": "The ______ tab provides access to the Function Library and formula auditing tools.",
+    "options": ["Formulas tab", "Name box", "Home tab", "Insert tab"],
+    "correctAnswer": "Formulas tab"
+  },
+  {
+    "question": "A predefined built-in formula that performs a specific task is called a ______.",
+    "options": ["Formula", "Function", "Cell address", "Argument"],
+    "correctAnswer": "Function"
+  },
+  {
+    "question": "A combination of operators, values, and cell references that evaluates to a value is called a ______.",
+    "options": ["Formula", "Function", "Cell address", "Range"],
+    "correctAnswer": "Formula"
+  },
+  {
+    "question": "Cells arranged in sequence vertically or horizontally are called a ______.",
+    "options": ["Block of cells", "Range of cells", "Group of cells", "Table"],
+    "correctAnswer": "Range of cells"
+  },
+  {
+    "question": "Combining two or more cells into one cell is called ______.",
+    "options": ["Merge cells", "Add cells", "Group cells", "Split cells"],
+    "correctAnswer": "Merge cells"
+  },
+  {
+    "question": "Showing only rows that meet certain criteria in Excel is called ______.",
+    "options": ["Sorting", "Filter", "Merge", "Grouping"],
+    "correctAnswer": "Filter"
+  },
+  {
+    "question": "Arranging data alphabetically or numerically is called ______.",
+    "options": ["Blocking", "Sorting", "Filtering", "Merging"],
+    "correctAnswer": "Sorting"
+  },
+  {
+    "question": "A single spreadsheet within a workbook is called a ______.",
+    "options": ["Worksheet", "Workbook", "Cell", "Range"],
+    "correctAnswer": "Worksheet"
+  },
+  {
+    "question": "The ______ tab contains commands for formatting, alignment, styles, and editing.",
+    "options": ["Home tab", "Insert tab", "View tab", "Data tab"],
+    "correctAnswer": "Home tab"
+  },
+    {
+    "question": "Sorting and filtering commands are found in which tab in Excel?",
+    "options": ["Home tab", "Data tab", "View tab", "Insert tab"],
+    "correctAnswer": "Data tab"
+  },
+  {
+    "question": "A powerful presentation software developed by Microsoft is called ______.",
+    "options": ["MS Word", "MS Excel", "MS Access", "MS PowerPoint"],
+    "correctAnswer": "MS PowerPoint"
+  },
+  {
+    "question": "The file extension for Microsoft PowerPoint is ______.",
+    "options": [".doc", ".xls", ".ppt", ".exe"],
+    "correctAnswer": ".ppt"
+  },
+  {
+    "question": "Slide presentations shown visually to an audience can be created using ______.",
+    "options": ["MS Word", "MS PowerPoint", "MS Access", "MS Excel"],
+    "correctAnswer": "MS PowerPoint"
+  },
+  {
+    "question": "Multimedia integration allows inclusion of ______ in presentations.",
+    "options": ["Images", "Video", "Audio", "All of the above"],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Users can add transitions between ______ in PowerPoint.",
+    "options": ["Slides", "Paragraphs", "Cells", "Worksheets"],
+    "correctAnswer": "Slides"
+  },
+  {
+    "question": "The keyboard shortcut to start a slideshow in PowerPoint is ______.",
+    "options": ["F1", "F5", "Ctrl + S", "Ctrl + P"],
+    "correctAnswer": "F5"
+  },
+  {
+    "question": "The default view for creating and editing slides in PowerPoint is called ______.",
+    "options": ["Slide Show view", "Normal view", "Reading view", "Outline view"],
+    "correctAnswer": "Normal view"
+  },
+  {
+    "question": "A design template in PowerPoint is used to ______.",
+    "options": [
+      "Apply a consistent style to slides",
+      "Insert pictures only",
+      "Delete slides automatically",
+      "Add formulas"
+    ],
+    "correctAnswer": "Apply a consistent style to slides"
+  },
+  {
+    "question": "Which tab in PowerPoint is used to insert pictures and shapes?",
+    "options": ["Home tab", "Design tab", "Insert tab", "View tab"],
+    "correctAnswer": "Insert tab"
+  },
+  {
+    "question": "Animations in PowerPoint are used to ______.",
+    "options": [
+      "Add movement effects to objects",
+      "Delete slides",
+      "Change background colour only",
+      "Print slides"
+    ],
+    "correctAnswer": "Add movement effects to objects"
+  },
+  {
+    "question": "The Slide Sorter view is used to ______.",
+    "options": [
+      "Rearrange slides",
+      "Insert tables",
+      "Edit text formatting",
+      "Start slideshow"
+    ],
+    "correctAnswer": "Rearrange slides"
+  },
+  {
+    "question": "A placeholder in PowerPoint is used to ______.",
+    "options": [
+      "Hold text or content",
+      "Delete slides",
+      "Change font automatically",
+      "Lock slides"
+    ],
+    "correctAnswer": "Hold text or content"
+  },
+  {
+    "question": "The Notes section in PowerPoint is used to ______.",
+    "options": [
+      "Add speaker notes",
+      "Insert animations",
+      "Change slide colour",
+      "Print handouts only"
+    ],
+    "correctAnswer": "Add speaker notes"
+  },
+  {
+    "question": "Which of the following is used to print slides?",
+    "options": ["File tab", "Insert tab", "Design tab", "Animations tab"],
+    "correctAnswer": "File tab"
+  },
+  {
+    "question": "A slide layout determines ______.",
+    "options": [
+      "The arrangement of content on a slide",
+      "The background music",
+      "The printer settings",
+      "The file extension"
+    ],
+    "correctAnswer": "The arrangement of content on a slide"
+  },
+  {
+    "question": "MS Access is mainly used for ______.",
+    "options": [
+      "Word processing",
+      "Data storage and database management",
+      "Presentation creation",
+      "Image editing"
+    ],
+    "correctAnswer": "Data storage and database management"
+  },
+  {
+    "question": "A database is a collection of ______.",
+    "options": [
+      "Related data",
+      "Pictures only",
+      "Charts only",
+      "Slides"
+    ],
+    "correctAnswer": "Related data"
+  },
+  {
+    "question": "Which key is used to insert a new slide in PowerPoint?",
+    "options": ["Ctrl + N", "Ctrl + M", "Ctrl + S", "Ctrl + P"],
+    "correctAnswer": "Ctrl + M"
+  },
+  {
+    "question": "The Design tab in PowerPoint is mainly used to ______.",
+    "options": [
+      "Apply themes and backgrounds",
+      "Insert charts",
+      "Add formulas",
+      "Delete slides"
+    ],
+    "correctAnswer": "Apply themes and backgrounds"
+  },
+    ],
+    "FIN 216":[
+        {
+    "question": "Which of the following is a basic requirement of a valid insurance contract?",
+    "options": ["Gambling interest", "Insurable interest", "Speculation", "Profit motive"],
+    "correctAnswer": "Insurable interest"
+  },
+  {
+    "question": "Insurable interest must exist at the time of loss in which type of insurance?",
+    "options": ["Life insurance", "Fire insurance", "Endowment insurance", "Pension insurance"],
+    "correctAnswer": "Fire insurance"
+  },
+  {
+    "question": "The principle that requires both parties to disclose all material facts is known as:",
+    "options": ["Indemnity", "Subrogation", "Utmost good faith", "Contribution"],
+    "correctAnswer": "Utmost good faith"
+  },
+  {
+    "question": "Which of the following shows acceptance in an insurance contract?",
+    "options": ["Proposal form", "Premium payment", "Insurance policy issuance", "Claim form"],
+    "correctAnswer": "Insurance policy issuance"
+  },
+  {
+    "question": "The consideration paid by the insured to the insurer is called:",
+    "options": ["Claim", "Bonus", "Premium", "Dividend"],
+    "correctAnswer": "Premium"
+  },
+  {
+    "question": "Which of the following is NOT a requirement of a valid insurance contract?",
+    "options": ["Legal purpose", "Insurable interest", "Agreement", "Wagering intention"],
+    "correctAnswer": "Wagering intention"
+  },
+  {
+    "question": "The capacity to enter into an insurance contract means that:",
+    "options": [
+      "The contract must be written",
+      "Parties must be of legal age and sound mind",
+      "The premium must be paid yearly",
+      "The policy must be renewed"
+    ],
+    "correctAnswer": "Parties must be of legal age and sound mind"
+  },
+  {
+    "question": "An insurance contract becomes binding when there is:",
+    "options": ["Offer only", "Acceptance only", "Offer and acceptance", "Claim settlement"],
+    "correctAnswer": "Offer and acceptance"
+  },
+  {
+    "question": "Which document serves as evidence of an insurance contract?",
+    "options": ["Proposal form", "Cover note", "Insurance policy", "Receipt"],
+    "correctAnswer": "Insurance policy"
+  },
+  {
+    "question": "The requirement that the insurance contract must not be illegal is known as:",
+    "options": ["Legal consideration", "Legal capacity", "Legal purpose", "Insurable interest"],
+    "correctAnswer": "Legal purpose"
+  },
+  {
+    "question": "Insurable interest means that the insured:",
+    "options": [
+      "Expects to make profit from loss",
+      "Has no relationship with the subject matter",
+      "Will suffer financial loss if the insured event occurs",
+      "Is an insurance company"
+    ],
+    "correctAnswer": "Will suffer financial loss if the insured event occurs"
+  },
+  {
+    "question": "Which of the following is NOT a requirement of an insurance contract?",
+    "options": ["Offer and acceptance", "Consideration", "Insurable interest", "Gambling intention"],
+    "correctAnswer": "Gambling intention"
+  },
+  {
+    "question": "In insurance, consideration refers to:",
+    "options": ["Policy document", "Premium paid by the insured", "Claim settlement", "Risk covered"],
+    "correctAnswer": "Premium paid by the insured"
+  },
+  {
+    "question": "The agreement between the insurer and the insured becomes valid when there is:",
+    "options": ["Payment of claim", "Loss occurrence", "Offer and acceptance", "Policy cancellation"],
+    "correctAnswer": "Offer and acceptance"
+  },
+  {
+    "question": "Which principle ensures that the insured is restored to the original financial position before the loss?",
+    "options": ["Utmost good faith", "Indemnity", "Insurable interest", "Subrogation"],
+    "correctAnswer": "Indemnity"
+  },
+  {
+    "question": "Utmost good faith in insurance contracts requires:",
+    "options": ["Partial disclosure", "Disclosure by insurer only", "Full disclosure by both parties", "No disclosure at all"],
+    "correctAnswer": "Full disclosure by both parties"
+  },
+  {
+    "question": "An insurance contract without insurable interest is considered:",
+    "options": ["Legal", "Enforceable", "Void", "Profitable"],
+    "correctAnswer": "Void"
+  },
+  {
+    "question": "Which of the following parties pays the premium?",
+    "options": ["Insurer", "Agent", "Insured", "Broker"],
+    "correctAnswer": "Insured"
+  },
+  {
+    "question": "The insurance company is also known as the:",
+    "options": ["Insured", "Assured", "Insurer", "Beneficiary"],
+    "correctAnswer": "Insurer"
+  },
+  {
+    "question": "Which of the following best describes an insurance contract?",
+    "options": ["Social agreement", "Gambling contract", "Legal contract", "Verbal promise"],
+    "correctAnswer": "Legal contract"
+  },
+    {
+    "question": "What is insurable interest?",
+    "options": [
+      "Interest in buying insurance",
+      "Legal right to insure",
+      "Financial relationship that may cause loss",
+      "Agreement between insurer and insured"
+    ],
+    "correctAnswer": "Financial relationship that may cause loss"
+  },
+  {
+    "question": "Insurable interest must exist in which type of insurance at the time of loss?",
+    "options": ["Life insurance", "Fire insurance", "Marine insurance", "All types of insurance"],
+    "correctAnswer": "Fire insurance"
+  },
+  {
+    "question": "Who has insurable interest in his own life?",
+    "options": ["Employer", "Creditor", "The individual himself", "Insurance company"],
+    "correctAnswer": "The individual himself"
+  },
+  {
+    "question": "Which of the following has insurable interest in a mortgaged property?",
+    "options": [
+      "Only the mortgagor",
+      "Only the mortgagee",
+      "Both mortgagor and mortgagee",
+      "The insurer"
+    ],
+    "correctAnswer": "Both mortgagor and mortgagee"
+  },
+  {
+    "question": "Insurable interest helps to prevent which of the following?",
+    "options": ["Fraud", "Gambling", "Fire", "Accidents"],
+    "correctAnswer": "Gambling"
+  },
+  {
+    "question": "A creditor has insurable interest in the life of a debtor to the extent of:",
+    "options": ["Debtor’s income", "Amount of debt", "Debtor’s age", "Policy value"],
+    "correctAnswer": "Amount of debt"
+  },
+  {
+    "question": "Which insurance contract does NOT require insurable interest at the time of loss?",
+    "options": ["Fire insurance", "Marine insurance", "Life insurance", "Property insurance"],
+    "correctAnswer": "Life insurance"
+  },
+  {
+    "question": "In marine insurance, insurable interest must exist:",
+    "options": [
+      "Only at the time of contract",
+      "Only at the time of loss",
+      "At both times",
+      "At any time"
+    ],
+    "correctAnswer": "Only at the time of loss"
+  },
+  {
+    "question": "A person can insure his house because he has:",
+    "options": ["Emotional interest", "Legal interest", "Speculative interest", "No interest"],
+    "correctAnswer": "Legal interest"
+  },
+  {
+    "question": "Insurable interest is essential for a contract of insurance to be:",
+    "options": ["Profitable", "Legal", "Long-term", "Transferable"],
+    "correctAnswer": "Legal"
+  },
+  {
+    "question": "Which of the following has NO insurable interest?",
+    "options": [
+      "Husband in wife’s life",
+      "Employer in employee’s life",
+      "Stranger in another person’s life",
+      "Creditor in debtor’s life"
+    ],
+    "correctAnswer": "Stranger in another person’s life"
+  },
+  {
+    "question": "The main purpose of insurable interest is to:",
+    "options": [
+      "Increase premium",
+      "Reduce claim amount",
+      "Ensure compensation for loss",
+      "Encourage betting"
+    ],
+    "correctAnswer": "Ensure compensation for loss"
+  },
+  {
+    "question": "Insurable interest in fire insurance must exist:",
+    "options": [
+      "At proposal stage only",
+      "At the time of policy issue",
+      "At the time of loss",
+      "After loss"
+    ],
+    "correctAnswer": "At the time of loss"
+  },
+  {
+    "question": "Which law supports the principle of insurable interest?",
+    "options": [
+      "Law of contract",
+      "Law of agency",
+      "Law of tort",
+      "Law of negligence"
+    ],
+    "correctAnswer": "Law of contract"
+  },
+  {
+    "question": "A tenant has insurable interest in:",
+    "options": [
+      "Landlord’s life",
+      "Rented property",
+      "Neighbor’s house",
+      "Public buildings"
+    ],
+    "correctAnswer": "Rented property"
+  },
+  {
+    "question": "Parents have insurable interest in the life of their:",
+    "options": ["Friends", "Relatives", "Children", "Employees"],
+    "correctAnswer": "Children"
+  },
+  {
+    "question": "Without insurable interest, an insurance contract becomes:",
+    "options": ["Profitable", "Valid", "Illegal", "Binding"],
+    "correctAnswer": "Illegal"
+  },
+  {
+    "question": "Insurable interest arises from:",
+    "options": [
+      "Chance",
+      "Contract",
+      "Legal or financial relationship",
+      "Insurance premium"
+    ],
+    "correctAnswer": "Legal or financial relationship"
+  },
+  {
+    "question": "Which of the following best describes insurable interest?",
+    "options": [
+      "Hope of profit",
+      "Possibility of gain",
+      "Risk of financial loss",
+      "Expectation of bonus"
+    ],
+    "correctAnswer": "Risk of financial loss"
+  },
+  {
+    "question": "What is contract renewal?",
+    "options": [
+      "Ending a contract before expiry",
+      "Extending a contract after its expiration",
+      "Cancelling a contract permanently",
+      "Transferring a contract to another party"
+    ],
+    "correctAnswer": "Extending a contract after its expiration"
+  },
+    {
+    "question": "Which document is usually reviewed before renewing a contract?",
+    "options": [
+      "Purchase receipt",
+      "Original contract agreement",
+      "Memorandum of understanding",
+      "Letter of recommendation"
+    ],
+    "correctAnswer": "Original contract agreement"
+  },
+  {
+    "question": "Who is responsible for initiating a contract renewal?",
+    "options": [
+      "Only the government",
+      "Any party to the contract",
+      "A third party",
+      "The court"
+    ],
+    "correctAnswer": "Any party to the contract"
+  },
+  {
+    "question": "When should a contract renewal process ideally begin?",
+    "options": [
+      "After the contract has expired",
+      "On the signing day",
+      "Before the contract expires",
+      "During a dispute"
+    ],
+    "correctAnswer": "Before the contract expires"
+  },
+  {
+    "question": "Which factor is most important when deciding to renew a contract?",
+    "options": [
+      "Personal relationship",
+      "Past performance of parties",
+      "Contract paper quality",
+      "Contract title"
+    ],
+    "correctAnswer": "Past performance of parties"
+  },
+  {
+    "question": "What happens if both parties agree to renew a contract?",
+    "options": [
+      "The contract becomes void",
+      "A new or revised contract is signed",
+      "The contract automatically ends",
+      "The court must approve it"
+    ],
+    "correctAnswer": "A new or revised contract is signed"
+  },
+  {
+    "question": "Which of the following may change during contract renewal?",
+    "options": [
+      "Contract terms and conditions",
+      "Names of witnesses only",
+      "Contract history",
+      "Contract existence"
+    ],
+    "correctAnswer": "Contract terms and conditions"
+  },
+  {
+    "question": "What is the effect of renewing a contract?",
+    "options": [
+      "It terminates obligations",
+      "It continues contractual obligations",
+      "It cancels all previous terms",
+      "It transfers ownership"
+    ],
+    "correctAnswer": "It continues contractual obligations"
+  },
+  {
+    "question": "Failure to renew a contract before expiration may result in:",
+    "options": [
+      "Automatic renewal in all cases",
+      "Legal uncertainty or termination",
+      "Immediate court action",
+      "Criminal liability"
+    ],
+    "correctAnswer": "Legal uncertainty or termination"
+  },
+  {
+    "question": "Which clause in a contract provides guidance on renewal?",
+    "options": [
+      "Arbitration clause",
+      "Renewal clause",
+      "Confidentiality clause",
+      "Consideration clause"
+    ],
+    "correctAnswer": "Renewal clause"
+  },
+  {
+    "question": "Indemnity in insurance means:",
+    "options": [
+      "Making profit from loss",
+      "Full replacement with a new item",
+      "Compensation equal to the loss suffered",
+      "Payment of the sum insured in all cases"
+    ],
+    "correctAnswer": "Compensation equal to the loss suffered"
+  },
+  {
+    "question": "The main objective of indemnity is to:",
+    "options": [
+      "Enrich the insured",
+      "Restore the insured to the original financial position",
+      "Punish the insured",
+      "Increase insurance premiums"
+    ],
+    "correctAnswer": "Restore the insured to the original financial position"
+  },
+  {
+    "question": "Which of the following insurance policies is NOT a contract of indemnity?",
+    "options": [
+      "Fire insurance",
+      "Marine insurance",
+      "Motor insurance",
+      "Life insurance"
+    ],
+    "correctAnswer": "Life insurance"
+  },
+  {
+    "question": "Under the principle of indemnity, the insured can receive:",
+    "options": [
+      "More than the loss",
+      "Less than the loss only",
+      "Exactly the amount of the loss",
+      "Any amount agreed"
+    ],
+    "correctAnswer": "Exactly the amount of the loss"
+  },
+  {
+    "question": "The maximum compensation payable under indemnity is:",
+    "options": [
+      "Market value",
+      "Replacement cost",
+      "Sum insured only",
+      "Actual loss or sum insured, whichever is lower"
+    ],
+    "correctAnswer": "Actual loss or sum insured, whichever is lower"
+  },
+  {
+    "question": "Which of the following methods is used to apply indemnity?",
+    "options": [
+      "Donation",
+      "Gambling",
+      "Cash payment",
+      "Investment"
+    ],
+    "correctAnswer": "Cash payment"
+  },
+  {
+    "question": "Indemnity prevents the insured from:",
+    "options": [
+      "Paying premiums",
+      "Claiming losses",
+      "Making profit from insurance",
+      "Insuring property"
+    ],
+    "correctAnswer": "Making profit from insurance"
+  },
+  {
+    "question": "Reinstatement as a method of indemnity means:",
+    "options": [
+      "Paying cash only",
+      "Repairing or replacing damaged property",
+      "Cancelling the policy",
+      "Increasing the sum insured"
+    ],
+    "correctAnswer": "Repairing or replacing damaged property"
+  },
+  {
+    "question": "Which principle supports indemnity by allowing insurers to recover from third parties?",
+    "options": [
+      "Contribution",
+      "Insurable interest",
+      "Subrogation",
+      "Utmost good faith"
+    ],
+    "correctAnswer": "Subrogation"
+  },
+  {
+    "question": "Indemnity is best described as:",
+    "options": [
+      "A benefit policy",
+      "A savings contract",
+      "A compensation contract",
+      "A speculative agreement"
+    ],
+    "correctAnswer": "A compensation contract"
+  },
+  {
+    "question": "An insurance underwriter is a person who:",
+    "options": [
+      "Sells insurance policies",
+      "Assesses and accepts insurance risks",
+      "Pays insurance claims",
+      "Collects insurance premiums"
+    ],
+    "correctAnswer": "Assesses and accepts insurance risks"
+  },
+    {
+    "question": "The main duty of an insurance underwriter is to:",
+    "options": [
+      "Advertise insurance products",
+      "Evaluate risk and determine policy terms",
+      "Settle claims",
+      "Manage insurance agents"
+    ],
+    "correctAnswer": "Evaluate risk and determine policy terms"
+  },
+  {
+    "question": "Which of the following factors is MOST considered by an underwriter?",
+    "options": [
+      "Profit margin only",
+      "Nature and level of risk",
+      "Office location",
+      "Agent’s commission"
+    ],
+    "correctAnswer": "Nature and level of risk"
+  },
+  {
+    "question": "An underwriter decides all EXCEPT:",
+    "options": [
+      "Whether to accept a risk",
+      "The premium to be charged",
+      "Policy conditions",
+      "Payment of claims"
+    ],
+    "correctAnswer": "Payment of claims"
+  },
+  {
+    "question": "Underwriting helps insurance companies to:",
+    "options": [
+      "Avoid all risks",
+      "Select suitable risks",
+      "Eliminate claims",
+      "Stop policy sales"
+    ],
+    "correctAnswer": "Select suitable risks"
+  },
+  {
+    "question": "Which document provides information used by underwriters to assess risk?",
+    "options": [
+      "Policy document",
+      "Proposal form",
+      "Cover note",
+      "Certificate of insurance"
+    ],
+    "correctAnswer": "Proposal form"
+  },
+  {
+    "question": "An underwriter uses which principle most in risk assessment?",
+    "options": [
+      "Contribution",
+      "Indemnity",
+      "Insurable interest",
+      "Utmost good faith"
+    ],
+    "correctAnswer": "Utmost good faith"
+  },
+  {
+    "question": "The process of underwriting mainly occurs:",
+    "options": [
+      "After loss occurs",
+      "Before issuing the policy",
+      "During claim settlement",
+      "After policy expiry"
+    ],
+    "correctAnswer": "Before issuing the policy"
+  },
+  {
+    "question": "Which class of insurance involves extensive underwriting due to higher risk?",
+    "options": [
+      "Life insurance",
+      "Fire insurance",
+      "Motor insurance",
+      "Marine insurance"
+    ],
+    "correctAnswer": "Life insurance"
+  },
+  {
+    "question": "Underwriting decisions are intended to protect the insurer from:",
+    "options": [
+      "Competition",
+      "Fraud",
+      "Excessive or unacceptable risk",
+      "Government regulations"
+    ],
+    "correctAnswer": "Excessive or unacceptable risk"
+  },
+  {
+    "question": "What does “contract award” mean?",
+    "options": [
+      "Signing of the contract",
+      "Selection of the successful bidder",
+      "Advertisement of the tender",
+      "Completion of the project"
+    ],
+    "correctAnswer": "Selection of the successful bidder"
+  },
+  {
+    "question": "A contract is usually awarded to the bidder who:",
+    "options": [
+      "Submits the earliest bid",
+      "Has the highest price",
+      "Meets requirements and offers the best value",
+      "Is most popular"
+    ],
+    "correctAnswer": "Meets requirements and offers the best value"
+  },
+  {
+    "question": "Which document officially communicates a contract award?",
+    "options": [
+      "Invitation to tender",
+      "Bid submission form",
+      "Letter of award",
+      "Bill of quantities"
+    ],
+    "correctAnswer": "Letter of award"
+  },
+  {
+    "question": "Before awarding a contract, the client must ensure that the bidder:",
+    "options": [
+      "Is a government official",
+      "Has adequate financial and technical capacity",
+      "Is the lowest bidder only",
+      "Is already working on another project"
+    ],
+    "correctAnswer": "Has adequate financial and technical capacity"
+  },
+  {
+    "question": "In public procurement, contract award must follow:",
+    "options": [
+      "Personal discretion",
+      "Informal agreements",
+      "Due process and transparency",
+      "Negotiation after completion"
+    ],
+    "correctAnswer": "Due process and transparency"
+  },
+  {
+    "question": "Which factor is least considered during contract award?",
+    "options": [
+      "Bidder’s experience",
+      "Compliance with specifications",
+      "Bidder’s personal relationship",
+      "Cost effectiveness"
+    ],
+    "correctAnswer": "Bidder’s personal relationship"
+  },
+  {
+    "question": "A contract award becomes legally binding when:",
+    "options": [
+      "The tender is advertised",
+      "The bidder submits a proposal",
+      "Both parties sign the contract",
+      "The project begins"
+    ],
+    "correctAnswer": "Both parties sign the contract"
+  },
+  {
+    "question": "What happens after a contract is awarded?",
+    "options": [
+      "Tender advertisement",
+      "Contract execution begins",
+      "Bid evaluation starts",
+      "Prequalification is done"
+    ],
+    "correctAnswer": "Contract execution begins"
+  },
+  {
+    "question": "Which of the following can lead to cancellation of a contract award?",
+    "options": [
+      "Proper documentation",
+      "Compliance with rules",
+      "Fraud or misrepresentation",
+      "Timely performance"
+    ],
+    "correctAnswer": "Fraud or misrepresentation"
+  },
+  {
+    "question": "The main objective of awarding a contract is to:",
+    "options": [
+      "Favor a bidder",
+      "Delay project execution",
+      "Achieve value for money",
+      "Avoid competition"
+    ],
+    "correctAnswer": "Achieve value for money"
+  },
+  {
+    "question": "What is the main purpose of negotiation in a contract?",
+    "options": [
+      "To finalize a contract without changes",
+      "To reach a mutually acceptable agreement",
+      "To avoid signing any contract",
+      "To increase the legal formalities"
+    ],
+    "correctAnswer": "To reach a mutually acceptable agreement"
+  },
+    {
+    "question": "Which of the following is a key characteristic of a negotiated contract?",
+    "options": [
+      "Standard terms with no flexibility",
+      "Terms are discussed and modified before agreement",
+      "It is always drafted by a government agency",
+      "It cannot be legally enforced"
+    ],
+    "correctAnswer": "Terms are discussed and modified before agreement"
+  },
+  {
+    "question": "During contract negotiation, what is an important factor to consider?",
+    "options": [
+      "The personal preferences of third parties not involved",
+      "The interests and obligations of all parties",
+      "Avoiding communication until the contract is signed",
+      "Ignoring legal requirements"
+    ],
+    "correctAnswer": "The interests and obligations of all parties"
+  },
+  {
+    "question": "Which of the following can result from poor negotiation in a contract?",
+    "options": [
+      "Increased clarity and mutual understanding",
+      "Potential disputes and misunderstandings",
+      "A stronger business relationship",
+      "Automatic contract approval by law"
+    ],
+    "correctAnswer": "Potential disputes and misunderstandings"
+  },
+  {
+    "question": "What is the difference between a standard contract and a negotiated contract?",
+    "options": [
+      "A standard contract allows modification of terms; a negotiated contract does not",
+      "A negotiated contract involves discussion and agreement on terms; a standard contract usually does not",
+      "A standard contract is always verbal; a negotiated contract is always written",
+      "There is no difference"
+    ],
+    "correctAnswer": "A negotiated contract involves discussion and agreement on terms; a standard contract usually does not"
+  },
+  {
+    "question": "What is a contract without negotiation?",
+    "options": [
+      "A contract where terms are freely discussed and modified",
+      "A contract where the terms are set by one party and the other must accept them as is",
+      "A contract that is illegal",
+      "A contract that requires signatures from multiple parties"
+    ],
+    "correctAnswer": "A contract where the terms are set by one party and the other must accept them as is"
+  },
+  {
+    "question": "Which of the following is an example of a contract without negotiation?",
+    "options": [
+      "Employment offer with a fixed salary and benefits",
+      "Purchase of a house where the buyer can propose changes",
+      "Partnership agreement between two business owners",
+      "Joint venture contract that requires mutual agreement"
+    ],
+    "correctAnswer": "Employment offer with a fixed salary and benefits"
+  },
+  {
+    "question": "What is another term often used for contracts without negotiation?",
+    "options": [
+      "Adhesion contract",
+      "Bilateral contract",
+      "Voidable contract",
+      "Contingent contract"
+    ],
+    "correctAnswer": "Adhesion contract"
+  },
+  {
+    "question": "Which of the following is a potential risk for the party accepting a contract without negotiation?",
+    "options": [
+      "Increased bargaining power",
+      "Being bound by unfair or one-sided terms",
+      "Ability to change terms anytime",
+      "Unlimited legal protections"
+    ],
+    "correctAnswer": "Being bound by unfair or one-sided terms"
+  },
+  {
+    "question": "How can the party accepting a contract without negotiation protect themselves?",
+    "options": [
+      "By refusing to read the contract",
+      "By carefully reviewing terms and seeking legal advice before signing",
+      "By assuming all terms are standard and fair",
+      "By negotiating after signing"
+    ],
+    "correctAnswer": "By carefully reviewing terms and seeking legal advice before signing"
+  },
+  {
+    "question": "The principle of indemnity in insurance primarily ensures that:",
+    "options": [
+      "The insured makes a profit from a loss",
+      "The insured is restored to the financial position they were in before the loss",
+      "The insurer pays double the loss amount",
+      "The insured can claim for future potential losses"
+    ],
+    "correctAnswer": "The insured is restored to the financial position they were in before the loss"
+  },
+  {
+    "question": "Which of the following is a key feature of the principle of indemnity?",
+    "options": [
+      "Insurance is meant to provide compensation, not profit",
+      "Insurance guarantees profit for the insured",
+      "Only life insurance follows this principle",
+      "It allows the insured to overstate losses"
+    ],
+    "correctAnswer": "Insurance is meant to provide compensation, not profit"
+  },
+  {
+    "question": "In which type of insurance is the principle of indemnity strictly applied?",
+    "options": [
+      "Life insurance",
+      "Health insurance",
+      "Property insurance",
+      "Personal accident insurance"
+    ],
+    "correctAnswer": "Property insurance"
+  },
+  {
+    "question": "If the insured suffers a loss of ₦500,000 but has an insurance policy for ₦700,000, according to the principle of indemnity, the insurer will pay:",
+    "options": [
+      "₦700,000",
+      "₦500,000",
+      "₦1,200,000",
+      "₦0"
+    ],
+    "correctAnswer": "₦500,000"
+  },
+  {
+    "question": "The purpose of the principle of indemnity is to:",
+    "options": [
+      "Encourage the insured to take unnecessary risks",
+      "Prevent the insured from profiting from a loss",
+      "Ensure the insurer makes a profit",
+      "Guarantee a fixed payment regardless of loss"
+    ],
+    "correctAnswer": "Prevent the insured from profiting from a loss"
+  },
+  {
+    "question": "What is the primary objective of risk management?",
+    "options": [
+      "To eliminate all risks",
+      "To minimize the impact of risks on objectives",
+      "To increase company profits regardless of risks",
+      "To transfer all risks to another party"
+    ],
+    "correctAnswer": "To minimize the impact of risks on objectives"
+  },
+  {
+    "question": "Which of the following is NOT a step in the risk management process?",
+    "options": [
+      "Risk identification",
+      "Risk assessment",
+      "Risk control",
+      "Risk denial"
+    ],
+    "correctAnswer": "Risk denial"
+  },
+  {
+    "question": "Which type of risk cannot be eliminated through diversification?",
+    "options": [
+      "Systematic risk",
+      "Unsystematic risk",
+      "Operational risk",
+      "Compliance risk"
+    ],
+    "correctAnswer": "Systematic risk"
+  },
+  {
+    "question": "Risk transfer is best exemplified by:",
+    "options": [
+      "Implementing safety measures in the workplace",
+      "Purchasing insurance",
+      "Training employees",
+      "Avoiding risky projects"
+    ],
+    "correctAnswer": "Purchasing insurance"
+  },
+  {
+    "question": "What does “risk appetite” refer to?",
+    "options": [
+      "The amount of risk an organization is willing to accept",
+      "The total number of risks in an organization",
+      "The strategy to avoid risk entirely",
+      "The likelihood of a risk occurring"
+    ],
+    "correctAnswer": "The amount of risk an organization is willing to accept"
+  },
+  {
+    "question": "Which of the following is an example of operational risk?",
+    "options": [
+      "A new competitor entering the market",
+      "A fire destroying company property",
+      "Employee fraud or human error",
+      "Changes in government regulations"
+    ],
+    "correctAnswer": "Employee fraud or human error"
+  },
+    {
+    "question": "What is the difference between qualitative and quantitative risk assessment?",
+    "options": [
+      "Qualitative uses numbers; quantitative uses descriptions",
+      "Qualitative uses descriptions; quantitative uses numbers",
+      "Qualitative avoids risks; quantitative eliminates risks",
+      "There is no difference"
+    ],
+    "correctAnswer": "Qualitative uses descriptions; quantitative uses numbers"
+  },
+  {
+    "question": "Which risk response strategy involves ceasing an activity entirely?",
+    "options": [
+      "Risk reduction",
+      "Risk retention",
+      "Risk avoidance",
+      "Risk transfer"
+    ],
+    "correctAnswer": "Risk avoidance"
+  },
+  {
+    "question": "Which of the following is a risk control measure?",
+    "options": [
+      "Buying insurance",
+      "Implementing fire alarms",
+      "Accepting financial loss",
+      "Ignoring low-probability risks"
+    ],
+    "correctAnswer": "Implementing fire alarms"
+  },
+  {
+    "question": "Residual risk refers to:",
+    "options": [
+      "The risk that has been completely eliminated",
+      "The risk remaining after controls have been applied",
+      "The total risk before any controls",
+      "A type of financial risk only"
+    ],
+    "correctAnswer": "The risk remaining after controls have been applied"
+  },
+  {
+    "question": "What is the primary purpose of a risk assessment?",
+    "options": [
+      "To eliminate all risks completely",
+      "To identify hazards and evaluate the likelihood and impact of risks",
+      "To create a financial report",
+      "To assign blame for past accidents"
+    ],
+    "correctAnswer": "To identify hazards and evaluate the likelihood and impact of risks"
+  },
+  {
+    "question": "Which of the following is NOT a step in the risk assessment process?",
+    "options": [
+      "Hazard identification",
+      "Risk analysis",
+      "Risk evaluation",
+      "Ignoring low-probability risks"
+    ],
+    "correctAnswer": "Ignoring low-probability risks"
+  },
+  {
+    "question": "In risk assessment, \"likelihood\" refers to:",
+    "options": [
+      "The severity of the impact if the risk occurs",
+      "The chance that a particular risk will happen",
+      "The cost of implementing safety measures",
+      "The number of people affected"
+    ],
+    "correctAnswer": "The chance that a particular risk will happen"
+  },
+  {
+    "question": "Which risk control method involves completely removing the hazard?",
+    "options": [
+      "Risk transfer",
+      "Risk elimination",
+      "Risk reduction",
+      "Risk acceptance"
+    ],
+    "correctAnswer": "Risk elimination"
+  },
+  {
+    "question": "A risk assessment should be reviewed and updated:",
+    "options": [
+      "Only after an accident occurs",
+      "Annually, or whenever there are significant changes in the workplace",
+      "Once when the company is founded",
+      "Only if requested by management"
+    ],
+    "correctAnswer": "Annually, or whenever there are significant changes in the workplace"
+  },
+  {
+    "question": "What is the main goal of risk avoidance?",
+    "options": [
+      "To reduce the impact of a risk if it occurs",
+      "To transfer the risk to another party",
+      "To completely eliminate the possibility of a risk occurring",
+      "To accept the risk as it is"
+    ],
+    "correctAnswer": "To completely eliminate the possibility of a risk occurring"
+  },
+  {
+    "question": "Which of the following is an example of risk avoidance?",
+    "options": [
+      "Buying insurance for a valuable asset",
+      "Choosing not to invest in a highly volatile stock",
+      "Implementing safety measures in the workplace",
+      "Preparing a disaster recovery plan"
+    ],
+    "correctAnswer": "Choosing not to invest in a highly volatile stock"
+  },
+  {
+    "question": "Risk avoidance is most effective when:",
+    "options": [
+      "The cost of avoiding the risk is less than the potential loss",
+      "The risk has already occurred",
+      "The organization wants to transfer the risk",
+      "The risk is minor and has little impact"
+    ],
+    "correctAnswer": "The cost of avoiding the risk is less than the potential loss"
+  },
+  {
+    "question": "Which strategy is an alternative to risk avoidance?",
+    "options": [
+      "Risk transfer",
+      "Risk elimination",
+      "Risk denial",
+      "Risk acceptance"
+    ],
+    "correctAnswer": "Risk acceptance"
+  },
+  {
+    "question": "Risk avoidance is NOT suitable when:",
+    "options": [
+      "The risk can be completely prevented",
+      "Avoiding the risk leads to missing major business opportunities",
+      "The potential loss is too high",
+      "The risk is legal and regulatory in nature"
+    ],
+    "correctAnswer": "Avoiding the risk leads to missing major business opportunities"
+  },
+  {
+    "question": "What is the primary purpose of project management?",
+    "options": [
+      "To complete tasks without planning",
+      "To achieve project objectives within scope, time, and cost constraints",
+      "To hire more employees for a project",
+      "To avoid responsibility for project outcomes"
+    ],
+    "correctAnswer": "To achieve project objectives within scope, time, and cost constraints"
+  },
+  {
+    "question": "Which of the following is NOT a phase of project management?",
+    "options": [
+      "Initiation",
+      "Planning",
+      "Execution",
+      "Termination without closure"
+    ],
+    "correctAnswer": "Termination without closure"
+  },
+  {
+    "question": "In project management, the “triple constraint” refers to:",
+    "options": [
+      "Cost, quality, and communication",
+      "Scope, time, and cost",
+      "Risk, resources, and quality",
+      "Budget, schedule, and stakeholder satisfaction"
+    ],
+    "correctAnswer": "Scope, time, and cost"
+  },
+  {
+    "question": "A Gantt chart is used to:",
+    "options": [
+      "Identify project risks",
+      "Show project tasks and their timelines",
+      "Measure employee performance",
+      "Manage project budgets"
+    ],
+    "correctAnswer": "Show project tasks and their timelines"
+  },
+  {
+    "question": "Who is primarily responsible for the success of a project?",
+    "options": [
+      "Project team members only",
+      "Project manager",
+      "Stakeholders only",
+      "Clients"
+    ],
+    "correctAnswer": "Project manager"
+  },
+  {
+    "question": "What is a “stakeholder” in project management?",
+    "options": [
+      "Only the project manager",
+      "Anyone affected by or interested in the project",
+      "The employees working on the project",
+      "Only external clients"
+    ],
+    "correctAnswer": "Anyone affected by or interested in the project"
+  },
+    {
+    "question": "Risk management in project management involves:",
+    "options": [
+      "Ignoring minor risks",
+      "Identifying, analyzing, and responding to potential project risks",
+      "Eliminating all risks completely",
+      "Delaying project decisions"
+    ],
+    "correctAnswer": "Identifying, analyzing, and responding to potential project risks"
+  },
+  {
+    "question": "The project life cycle typically begins with:",
+    "options": [
+      "Planning",
+      "Initiation",
+      "Execution",
+      "Monitoring and control"
+    ],
+    "correctAnswer": "Initiation"
+  },
+  {
+    "question": "Which technique is used to analyze the sequence of tasks in a project?",
+    "options": [
+      "SWOT analysis",
+      "Critical Path Method (CPM)",
+      "PESTLE analysis",
+      "Fishbone diagram"
+    ],
+    "correctAnswer": "Critical Path Method (CPM)"
+  },
+  {
+    "question": "“Scope creep” refers to:",
+    "options": [
+      "Reducing project requirements to save time",
+      "Uncontrolled changes or additions to the project scope",
+      "Increasing the project budget intentionally",
+      "Delaying project tasks to the last minute"
+    ],
+    "correctAnswer": "Uncontrolled changes or additions to the project scope"
+  },
+  {
+    "question": "The Insurance Act primarily governs the operations of:",
+    "options": [
+      "Banks",
+      "Insurance companies",
+      "Educational institutions",
+      "Real estate firms"
+    ],
+    "correctAnswer": "Insurance companies"
+  },
+  {
+    "question": "Which of the following is the main objective of insurance law?",
+    "options": [
+      "To restrict business competition",
+      "To protect policyholders and regulate insurers",
+      "To increase government revenue",
+      "To provide loans"
+    ],
+    "correctAnswer": "To protect policyholders and regulate insurers"
+  },
+  {
+    "question": "The principle of utmost good faith is also known as:",
+    "options": [
+      "Uberrimae fidei",
+      "Caveat emptor",
+      "Stare decisis",
+      "Nemo dat quod non habet"
+    ],
+    "correctAnswer": "Uberrimae fidei"
+  },
+  {
+    "question": "Which statutory body usually regulates insurance companies in most countries?",
+    "options": [
+      "Central Bank",
+      "Ministry of Finance",
+      "Insurance Regulatory Authority",
+      "Chamber of Commerce"
+    ],
+    "correctAnswer": "Insurance Regulatory Authority"
+  },
+  {
+    "question": "According to insurance statutes, what is the minimum information a proposer must disclose?",
+    "options": [
+      "Financial history of relatives",
+      "Any material facts affecting risk",
+      "Names of friends",
+      "Hobbies"
+    ],
+    "correctAnswer": "Any material facts affecting risk"
+  },
+  {
+    "question": "In case of breach of insurance statutes, who can take action?",
+    "options": [
+      "Only the insured",
+      "Only the insurer",
+      "Regulatory authorities",
+      "Competitors"
+    ],
+    "correctAnswer": "Regulatory authorities"
+  },
+  {
+    "question": "Which law requires insurance contracts to be written and signed?",
+    "options": [
+      "Insurance Act",
+      "Contract Act",
+      "Companies Act",
+      "Penal Code"
+    ],
+    "correctAnswer": "Insurance Act"
+  },
+  {
+    "question": "Which of the following is NOT a function of insurance statutes?",
+    "options": [
+      "Licensing insurers",
+      "Protecting public interest",
+      "Regulating premiums",
+      "Providing loans to policyholders"
+    ],
+    "correctAnswer": "Providing loans to policyholders"
+  },
+  {
+    "question": "Which statute governs the settlement of claims in insurance?",
+    "options": [
+      "Banking Act",
+      "Insurance Act",
+      "Civil Procedure Act",
+      "Evidence Act"
+    ],
+    "correctAnswer": "Insurance Act"
+  },
+  {
+    "question": "“Proximate cause” is a concept mainly regulated under:",
+    "options": [
+      "Criminal law",
+      "Insurance law",
+      "Tax law",
+      "Company law"
+    ],
+    "correctAnswer": "Insurance law"
+  },
+  {
+    "question": "Insurance statutes require insurers to maintain:",
+    "options": [
+      "Minimum paid-up capital",
+      "Unlimited liability",
+      "Loan accounts",
+      "Shareholder agreements"
+    ],
+    "correctAnswer": "Minimum paid-up capital"
+  },
+  {
+    "question": "What is the penalty for non-compliance with insurance statutes?",
+    "options": [
+      "Imprisonment",
+      "Fine",
+      "License suspension",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Which statute regulates compulsory insurance like motor third-party insurance?",
+    "options": [
+      "Insurance Act",
+      "Road Traffic Act",
+      "Penal Code",
+      "Civil Procedure Act"
+    ],
+    "correctAnswer": "Road Traffic Act"
+  },
+  {
+    "question": "The law requires insurers to submit reports to:",
+    "options": [
+      "Ministry of Education",
+      "Insurance Regulatory Authority",
+      "Police Department",
+      "Central Statistics Office"
+    ],
+    "correctAnswer": "Insurance Regulatory Authority"
+  },
+  {
+    "question": "Insurance statutes define the duties of:",
+    "options": [
+      "Policy holders only",
+      "Insurers only",
+      "Both insurers and policyholders",
+      "Brokers only"
+    ],
+    "correctAnswer": "Both insurers and policyholders"
+  },
+  {
+    "question": "Which of the following is covered under insurance law statutes?",
+    "options": [
+      "Licensing",
+      "Contract validity",
+      "Claim settlement",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+    {
+    "question": "Misrepresentation in insurance contracts can lead to:",
+    "options": [
+      "Policy cancellation",
+      "Criminal charges",
+      "Civil liability",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "Who is responsible for ensuring compliance with insurance statutes?",
+    "options": [
+      "Policy holders",
+      "Insurers",
+      "Regulatory authority",
+      "All of the above"
+    ],
+    "correctAnswer": "Regulatory authority"
+  },
+  {
+    "question": "The Insurance Act usually protects:",
+    "options": [
+      "Only insurers",
+      "Only the government",
+      "Policy holders and the public",
+      "Only brokers"
+    ],
+    "correctAnswer": "Policy holders and the public"
+  },
+  {
+    "question": "Which principle is embedded in most insurance statutes to ensure fairness?",
+    "options": [
+      "Principle of indemnity",
+      "Principle of autonomy",
+      "Principle of negligence",
+      "Principle of equity"
+    ],
+    "correctAnswer": "Principle of indemnity"
+  },
+  {
+    "question": "Which of the following is an essential element for a valid insurance contract?",
+    "options": [
+      "Offer and acceptance",
+      "Consideration",
+      "Legal capacity of parties",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above"
+  },
+  {
+    "question": "What is the term used for the amount paid by the insured to the insurer as part of an insurance contract?",
+    "options": [
+      "Premium",
+      "Indemnity",
+      "Risk",
+      "Proposal"
+    ],
+    "correctAnswer": "Premium"
+  },
+  {
+    "question": "Which principle ensures that both parties disclose all material facts in an insurance contract?",
+    "options": [
+      "Principle of Indemnity",
+      "Principle of Utmost Good Faith (Uberrimae Fidei)",
+      "Principle of Subrogation",
+      "Principle of Proximate Cause"
+    ],
+    "correctAnswer": "Principle of Utmost Good Faith (Uberrimae Fidei)"
+  },
+  {
+    "question": "For an insurance contract to be valid, the purpose of the contract must be:",
+    "options": [
+      "Illegal",
+      "Uncertain",
+      "Lawful",
+      "Ambiguous"
+    ],
+    "correctAnswer": "Lawful"
+  },
+  {
+    "question": "Which of the following is NOT an essential element of a valid insurance contract?",
+    "options": [
+      "Offer and acceptance",
+      "Consideration",
+      "Written form only",
+      "Legal capacity of parties"
+    ],
+    "correctAnswer": "Written form only"
+  },
+  {
+    "question": "The principle of indemnity in insurance means:",
+    "options": [
+      "The insurer guarantees profit to the insured",
+      "The insurer compensates the insured for the actual loss suffered",
+      "The insured can claim more than the loss",
+      "The contract can be terminated anytime"
+    ],
+    "correctAnswer": "The insurer compensates the insured for the actual loss suffered"
+  },
+    ],
+    "FIN 219":[
+        {
+    "question": "The earliest form of money used in trade before coins and paper was known as:",
+    "options": [
+      "Token money",
+      "Commodity money",
+      "Fiat money",
+      "Bank money"
+    ],
+    "correctAnswer": "Commodity money"
+  },
+  {
+    "question": "Which of the following is NOT a characteristic of money?",
+    "options": [
+      "Durability",
+      "Portability",
+      "High production cost",
+      "Divisibility"
+    ],
+    "correctAnswer": "High production cost"
+  },
+  {
+    "question": "Money first evolved mainly due to problems associated with:",
+    "options": [
+      "Inflation",
+      "Barter system",
+      "Credit creation",
+      "Banking failures"
+    ],
+    "correctAnswer": "Barter system"
+  },
+  {
+    "question": "The type of money that has value because the government declares it legal tender is:",
+    "options": [
+      "Commodity money",
+      "Fiat money",
+      "Metallic money",
+      "Representative money"
+    ],
+    "correctAnswer": "Fiat money"
+  },
+  {
+    "question": "One major limitation of the barter system was:",
+    "options": [
+      "Lack of divisibility",
+      "Excess supply of commodities",
+      "Presence of banks",
+      "Too much money in circulation"
+    ],
+    "correctAnswer": "Lack of divisibility"
+  },
+  {
+    "question": "Which of the following is NOT a function of money?",
+    "options": [
+      "Medium of exchange",
+      "Store of value",
+      "Unit of account",
+      "Production of goods"
+    ],
+    "correctAnswer": "Production of goods"
+  },
+  {
+    "question": "Money helps in comparing the value of goods through its role as:",
+    "options": [
+      "Medium of exchange",
+      "Store of value",
+      "Unit of account",
+      "Standard of deferred payment"
+    ],
+    "correctAnswer": "Unit of account"
+  },
+  {
+    "question": "The function of money that makes future transactions possible is:",
+    "options": [
+      "Medium of exchange",
+      "Standard of deferred payment",
+      "Store of value",
+      "Measure of value"
+    ],
+    "correctAnswer": "Standard of deferred payment"
+  },
+  {
+    "question": "Which of the following is a good example of representative money?",
+    "options": [
+      "Gold coins",
+      "Paper notes backed by gold",
+      "Cryptocurrency",
+      "Cowrie shells"
+    ],
+    "correctAnswer": "Paper notes backed by gold"
+  },
+  {
+    "question": "Which characteristic of money ensures that it can be used over long periods without damage?",
+    "options": [
+      "Portability",
+      "Durability",
+      "Acceptability",
+      "Divisibility"
+    ],
+    "correctAnswer": "Durability"
+  },
+  {
+    "question": "Acceptability as a characteristic of money means that:",
+    "options": [
+      "It must be easy to carry",
+      "Everyone must agree to use it",
+      "It must be made of metal",
+      "It must be divisible"
+    ],
+    "correctAnswer": "Everyone must agree to use it"
+  },
+  {
+    "question": "The introduction of coins and paper money marked the era of:",
+    "options": [
+      "Commodity money",
+      "Metallic and fiat money",
+      "Digital money",
+      "Virtual money"
+    ],
+    "correctAnswer": "Metallic and fiat money"
+  },
+  {
+    "question": "Which of the following is an example of fiat money?",
+    "options": [
+      "Gold bar",
+      "₦1000 note",
+      "Silver coin",
+      "Cowrie shells"
+    ],
+    "correctAnswer": "₦1000 note"
+  },
+  {
+    "question": "A function of money that protects wealth for future use is:",
+    "options": [
+      "Store of value",
+      "Medium of exchange",
+      "Legal tender",
+      "Divisibility"
+    ],
+    "correctAnswer": "Store of value"
+  },
+  {
+    "question": "Divisibility as a characteristic of money means it:",
+    "options": [
+      "Can be broken into small units",
+      "Must be light in weight",
+      "Must be acceptable by law",
+      "Has intrinsic value"
+    ],
+    "correctAnswer": "Can be broken into small units"
+  },
+  {
+    "question": "The earliest form of paper money originated from:",
+    "options": [
+      "England",
+      "China",
+      "Egypt",
+      "Nigeria"
+    ],
+    "correctAnswer": "China"
+  },
+  {
+    "question": "Which type of money has both intrinsic and face value?",
+    "options": [
+      "Fiat money",
+      "Representative money",
+      "Commodity money",
+      "Bank deposits"
+    ],
+    "correctAnswer": "Commodity money"
+  },
+  {
+    "question": "The use of money primarily solves the problem of:",
+    "options": [
+      "Scarcity",
+      "Double coincidence of wants",
+      "Unemployment",
+      "Inflation"
+    ],
+    "correctAnswer": "Double coincidence of wants"
+  },
+  {
+    "question": "A good store of value must:",
+    "options": [
+      "Be easily spoilt",
+      "Retain value over time",
+      "Lose value quickly",
+      "Be difficult to carry"
+    ],
+    "correctAnswer": "Retain value over time"
+  },
+  {
+    "question": "The evolution of money from barter to digital money shows:",
+    "options": [
+      "Decrease in trade",
+      "Advancement in economic systems",
+      "Rise in commodity prices",
+      "Decline in population"
+    ],
+    "correctAnswer": "Advancement in economic systems"
+  },
+    {
+    "question": "The first modern bank to operate in Nigeria was:",
+    "options": [
+      "Union Bank",
+      "Bank of British West Africa",
+      "First City Monument Bank",
+      "African Continental Bank"
+    ],
+    "correctAnswer": "Bank of British West Africa"
+  },
+  {
+    "question": "Early expatriate banks in Nigeria were mainly established to serve:",
+    "options": [
+      "Farmers and traders",
+      "The colonial government and European firms",
+      "Nigerian small businesses",
+      "Students and artisans"
+    ],
+    "correctAnswer": "The colonial government and European firms"
+  },
+  {
+    "question": "Which of the following was NOT an early expatriate bank in Nigeria?",
+    "options": [
+      "Barclays Bank",
+      "Bank of British West Africa",
+      "United Bank of Africa",
+      "Dominion Colonial Bank"
+    ],
+    "correctAnswer": "United Bank of Africa"
+  },
+  {
+    "question": "One major reason for early indigenous bank failures in Nigeria was:",
+    "options": [
+      "Excess funding",
+      "Poor management practices",
+      "Too much government involvement",
+      "High literacy rate"
+    ],
+    "correctAnswer": "Poor management practices"
+  },
+  {
+    "question": "The mass bank failures of the 1930s in Nigeria were mainly due to:",
+    "options": [
+      "Strong supervision by the CBN",
+      "Lack of adequate capital",
+      "High profit levels",
+      "Excess foreign exchange"
+    ],
+    "correctAnswer": "Lack of adequate capital"
+  },
+  {
+    "question": "Which indigenous bank was one of the earliest successful banks in Nigeria?",
+    "options": [
+      "Agbomagbe Bank",
+      "African Continental Bank",
+      "Wema Bank",
+      "First Bank"
+    ],
+    "correctAnswer": "African Continental Bank"
+  },
+  {
+    "question": "Poor record keeping in early Nigerian banks contributed to:",
+    "options": [
+      "High profitability",
+      "Bank failures",
+      "Improved banking operations",
+      "Government bailouts"
+    ],
+    "correctAnswer": "Bank failures"
+  },
+  {
+    "question": "The Banking Ordinance of 1952 was enacted to:",
+    "options": [
+      "Encourage bank failures",
+      "Regulate and supervise banking activities",
+      "Increase foreign banks",
+      "Remove expatriate banks"
+    ],
+    "correctAnswer": "Regulate and supervise banking activities"
+  },
+  {
+    "question": "A major feature of banking in the post-independence era was:",
+    "options": [
+      "Reduction in number of banks",
+      "Emergence of more indigenous banks",
+      "Full control by expatriates",
+      "Absence of regulations"
+    ],
+    "correctAnswer": "Emergence of more indigenous banks"
+  },
+  {
+    "question": "The indigenization policy of the 1970s led to:",
+    "options": [
+      "Expulsion of all foreign banks",
+      "Increased Nigerian ownership in banks",
+      "Collapse of the banking sector",
+      "Decrease in local participation"
+    ],
+    "correctAnswer": "Increased Nigerian ownership in banks"
+  },
+  {
+    "question": "The 1952 Banking Ordinance improved the Nigerian banking system by:",
+    "options": [
+      "Eliminating minimum capital requirements",
+      "Ensuring proper licensing of banks",
+      "Closing all weak banks",
+      "Increasing foreign exchange"
+    ],
+    "correctAnswer": "Ensuring proper licensing of banks"
+  },
+  {
+    "question": "A common challenge faced by early indigenous banks was:",
+    "options": [
+      "Strong regulatory support",
+      "Lack of skilled manpower",
+      "Excess deposits",
+      "Advanced technology"
+    ],
+    "correctAnswer": "Lack of skilled manpower"
+  },
+  {
+    "question": "Post-independence banking was characterized by:",
+    "options": [
+      "Decline in bank branches",
+      "Rapid expansion of banking services",
+      "Closure of all expatriate banks",
+      "Reduction in financial activities"
+    ],
+    "correctAnswer": "Rapid expansion of banking services"
+  },
+  {
+    "question": "Which of the following was NOT a reason for mass bank failure before 1952?",
+    "options": [
+      "Poor management",
+      "Low capital base",
+      "Lack of regulation",
+      "Adequate supervision"
+    ],
+    "correctAnswer": "Adequate supervision"
+  },
+  {
+    "question": "Expatriate banks mainly supported:",
+    "options": [
+      "Local farmers",
+      "Western education",
+      "International trade and colonial interests",
+      "Small-scale businesses"
+    ],
+    "correctAnswer": "International trade and colonial interests"
+  },
+  {
+    "question": "The establishment of more Nigerian-owned banks after independence was driven by:",
+    "options": [
+      "Nationalism and economic growth goals",
+      "Fear of foreign investors",
+      "Decline in trade",
+      "Shortage of skilled bankers"
+    ],
+    "correctAnswer": "Nationalism and economic growth goals"
+  },
+  {
+    "question": "Banking in Nigeria became more stable after 1952 due to:",
+    "options": [
+      "Better regulation and supervision",
+      "Withdrawal of expatriate banks",
+      "Increased corruption",
+      "Decline in the number of customers"
+    ],
+    "correctAnswer": "Better regulation and supervision"
+  },
+  {
+    "question": "The primary aim of organized banking is:",
+    "options": [
+      "Profit maximization only",
+      "Safe custody of funds and financial intermediation",
+      "Currency printing",
+      "Importation of foreign goods"
+    ],
+    "correctAnswer": "Safe custody of funds and financial intermediation"
+  },
+  {
+    "question": "In the early days, indigenous banks failed partly because they:",
+    "options": [
+      "Had too many branches",
+      "Granted unsecured loans to friends",
+      "Maintained strict loan policies",
+      "Received strong government support"
+    ],
+    "correctAnswer": "Granted unsecured loans to friends"
+  },
+  {
+    "question": "After independence, the Nigerian government encouraged organized banking through:",
+    "options": [
+      "Banking deregulation",
+      "Licensing new banks and increasing local ownership",
+      "Closing existing banks",
+      "Banning foreign investors"
+    ],
+    "correctAnswer": "Licensing new banks and increasing local ownership"
+  },
+    {
+    "question": "The West African Currency Board (WACB) was established in:",
+    "options": [
+      "1945",
+      "1912",
+      "1958",
+      "1960"
+    ],
+    "correctAnswer": "1912"
+  },
+  {
+    "question": "The main role of the West African Currency Board was to:",
+    "options": [
+      "Supervise commercial banks",
+      "Issue currency backed by sterling",
+      "Control inflation",
+      "Offer loans to farmers"
+    ],
+    "correctAnswer": "Issue currency backed by sterling"
+  },
+  {
+    "question": "Which country was NOT part of the four original members of the West African Currency Board?",
+    "options": [
+      "Nigeria",
+      "Ghana",
+      "Sierra Leone",
+      "Kenya"
+    ],
+    "correctAnswer": "Kenya"
+  },
+  {
+    "question": "A major limitation of the WACB was its inability to:",
+    "options": [
+      "Support economic development",
+      "Maintain currency convertibility",
+      "Issue banknotes",
+      "Operate in West Africa"
+    ],
+    "correctAnswer": "Support economic development"
+  },
+  {
+    "question": "The Central Bank of Nigeria was established in:",
+    "options": [
+      "1952",
+      "1958",
+      "1963",
+      "1972"
+    ],
+    "correctAnswer": "1958"
+  },
+  {
+    "question": "The CBN began full operations in:",
+    "options": [
+      "1954",
+      "1958",
+      "1959",
+      "1960"
+    ],
+    "correctAnswer": "1959"
+  },
+  {
+    "question": "One important objective of the Central Bank of Nigeria is:",
+    "options": [
+      "Providing consumer loans",
+      "Promoting monetary stability",
+      "Managing private companies",
+      "Offering insurance services"
+    ],
+    "correctAnswer": "Promoting monetary stability"
+  },
+  {
+    "question": "The CBN serves as the banker to:",
+    "options": [
+      "Commercial banks only",
+      "Merchant banks only",
+      "The government",
+      "Private individuals"
+    ],
+    "correctAnswer": "The government"
+  },
+  {
+    "question": "Which of the following is a key regulatory function of the CBN?",
+    "options": [
+      "Building roads",
+      "Supervising financial institutions",
+      "Printing passports",
+      "Collecting company taxes"
+    ],
+    "correctAnswer": "Supervising financial institutions"
+  },
+  {
+    "question": "The CBN issues legal tender currency in Nigeria. This is part of its:",
+    "options": [
+      "Commercial function",
+      "Development function",
+      "Monetary function",
+      "Advisory function"
+    ],
+    "correctAnswer": "Monetary function"
+  },
+  {
+    "question": "The body responsible for formulating monetary policy in Nigeria is the:",
+    "options": [
+      "Monetary Policy Committee (MPC)",
+      "Ministry of Finance",
+      "Nigerian Stock Exchange",
+      "Bankers’ Committee"
+    ],
+    "correctAnswer": "Monetary Policy Committee (MPC)"
+  },
+  {
+    "question": "The CBN uses the monetary policy rate (MPR) to:",
+    "options": [
+      "Increase government revenue",
+      "Control inflation and credit",
+      "Issue treasury bills",
+      "Determine exchange rate"
+    ],
+    "correctAnswer": "Control inflation and credit"
+  },
+  {
+    "question": "One of the reasons for replacing the WACB with the CBN was to:",
+    "options": [
+      "Reduce bank branches",
+      "Promote economic development",
+      "Stop international trade",
+      "Abolish currency coins"
+    ],
+    "correctAnswer": "Promote economic development"
+  },
+  {
+    "question": "The CBN controls the supply of money through:",
+    "options": [
+      "Fiscal policy",
+      "Monetary policy instruments",
+      "Taxation",
+      "Government borrowing"
+    ],
+    "correctAnswer": "Monetary policy instruments"
+  },
+  {
+    "question": "As the lender of last resort, the CBN:",
+    "options": [
+      "Takes deposits from the public",
+      "Sends loans to failing banks",
+      "Guarantees salaries of workers",
+      "Sells consumer goods"
+    ],
+    "correctAnswer": "Sends loans to failing banks"
+  },
+  {
+    "question": "Open Market Operations (OMO) involve:",
+    "options": [
+      "Buying and selling government securities",
+      "Setting tax rates",
+      "Giving loans to farmers",
+      "Importing foreign currency"
+    ],
+    "correctAnswer": "Buying and selling government securities"
+  },
+  {
+    "question": "The CBN maintains external reserves in order to:",
+    "options": [
+      "Support currency stability",
+      "Create job opportunities",
+      "Fund political campaigns",
+      "Increase import tariffs"
+    ],
+    "correctAnswer": "Support currency stability"
+  },
+  {
+    "question": "Which of the following is NOT a function of the CBN?",
+    "options": [
+      "Ensuring monetary stability",
+      "Supervising the financial system",
+      "Printing currency",
+      "Providing overdrafts to individuals"
+    ],
+    "correctAnswer": "Providing overdrafts to individuals"
+  },
+  {
+    "question": "The CBN promotes economic development by:",
+    "options": [
+      "Establishing roads",
+      "Offering special credit schemes",
+      "Building schools",
+      "Managing private companies"
+    ],
+    "correctAnswer": "Offering special credit schemes"
+  },
+  {
+    "question": "The West African Currency Board was replaced mainly because it:",
+    "options": [
+      "Encouraged local development",
+      "Was rigid and did not support African economies",
+      "Printed too much money",
+      "Funded African banks"
+    ],
+    "correctAnswer": "Was rigid and did not support African economies"
+  },
+    {
+    "question": "The primary function of a commercial bank is to:",
+    "options": [
+      "Issue currency",
+      "Accept deposits",
+      "Regulate monetary policy",
+      "Print money"
+    ],
+    "correctAnswer": "Accept deposits"
+  },
+  {
+    "question": "The process of creating money through lending is known as:",
+    "options": [
+      "Credit creation",
+      "Currency distribution",
+      "Loan diversification",
+      "Deposit recycling"
+    ],
+    "correctAnswer": "Credit creation"
+  },
+  {
+    "question": "Which of the following is a primary function of commercial banks?",
+    "options": [
+      "Advising government",
+      "Accepting deposits from customers",
+      "Monitoring stock exchange",
+      "Issuing treasury bills"
+    ],
+    "correctAnswer": "Accepting deposits from customers"
+  },
+  {
+    "question": "When a commercial bank grants loans to customers, it performs its:",
+    "options": [
+      "Agency function",
+      "Primary function",
+      "Supervisory function",
+      "Regulatory function"
+    ],
+    "correctAnswer": "Primary function"
+  },
+  {
+    "question": "Commercial banks help customers transfer funds through:",
+    "options": [
+      "Drafts, transfers, and cheques",
+      "Printing of currency",
+      "Tax collection",
+      "Insurance policies"
+    ],
+    "correctAnswer": "Drafts, transfers, and cheques"
+  },
+  {
+    "question": "The agency function of commercial banks includes:",
+    "options": [
+      "Issuing money",
+      "Collecting standing orders and dividends",
+      "Granting loans",
+      "Supervising other banks"
+    ],
+    "correctAnswer": "Collecting standing orders and dividends"
+  },
+  {
+    "question": "One of the ways commercial banks encourage savings is through:",
+    "options": [
+      "Price control",
+      "Savings and fixed deposit accounts",
+      "Exchange rate fixing",
+      "Inflation targeting"
+    ],
+    "correctAnswer": "Savings and fixed deposit accounts"
+  },
+  {
+    "question": "Which of the following is NOT a function of commercial banks?",
+    "options": [
+      "Accepting deposits",
+      "Granting loans",
+      "Building roads",
+      "Offering financial advice"
+    ],
+    "correctAnswer": "Building roads"
+  },
+  {
+    "question": "Commercial banks support business activities by:",
+    "options": [
+      "Giving birth certificates",
+      "Offering overdrafts and loans",
+      "Printing national currency",
+      "Conducting elections"
+    ],
+    "correctAnswer": "Offering overdrafts and loans"
+  },
+  {
+    "question": "When commercial banks hold customers’ valuables for safety, they perform their:",
+    "options": [
+      "Safe custody function",
+      "Lending function",
+      "Advisory function",
+      "Clearing function"
+    ],
+    "correctAnswer": "Safe custody function"
+  },
+  {
+    "question": "The ability of a bank to pay its depositors on demand is known as:",
+    "options": [
+      "Stability",
+      "Liquidity",
+      "Profitability",
+      "Security"
+    ],
+    "correctAnswer": "Liquidity"
+  },
+  {
+    "question": "Which type of account allows customers to withdraw money frequently?",
+    "options": [
+      "Current account",
+      "Fixed deposit account",
+      "Joint account",
+      "Dormant account"
+    ],
+    "correctAnswer": "Current account"
+  },
+  {
+    "question": "A bank that pays interest on savings is performing its:",
+    "options": [
+      "Development function",
+      "Advisory function",
+      "Deposit-taking function",
+      "Clearing function"
+    ],
+    "correctAnswer": "Deposit-taking function"
+  },
+  {
+    "question": "Which of the following is an example of a loan facility offered by commercial banks?",
+    "options": [
+      "Letter of credit",
+      "Tax certificate",
+      "Import license",
+      "Voters card"
+    ],
+    "correctAnswer": "Letter of credit"
+  },
+  {
+    "question": "Banks assist customers in making payments through:",
+    "options": [
+      "Cheques and online transfers",
+      "Road construction",
+      "Visa issuance",
+      "Population census"
+    ],
+    "correctAnswer": "Cheques and online transfers"
+  },
+  {
+    "question": "When a bank acts as an executor of a customer’s will, it performs its:",
+    "options": [
+      "Lending function",
+      "Agency function",
+      "Exchange function",
+      "Advisory function"
+    ],
+    "correctAnswer": "Agency function"
+  },
+  {
+    "question": "A function of commercial banks that helps in international trade is:",
+    "options": [
+      "Accepting taxes",
+      "Issuing letters of credit",
+      "Conducting elections",
+      "Printing passports"
+    ],
+    "correctAnswer": "Issuing letters of credit"
+  },
+  {
+    "question": "Commercial banks help maintain the payments system through:",
+    "options": [
+      "Clearing houses",
+      "Schools",
+      "Markets",
+      "Roads"
+    ],
+    "correctAnswer": "Clearing houses"
+  },
+  {
+    "question": "Profit made by commercial banks mainly comes from:",
+    "options": [
+      "Charging interest on loans",
+      "Issuing currency",
+      "Taxation",
+      "Buying land"
+    ],
+    "correctAnswer": "Charging interest on loans"
+  },
+  {
+    "question": "One of the development functions of commercial banks is:",
+    "options": [
+      "Providing long-term industrial loans",
+      "Issuing treasury bills",
+      "Supervising the stock exchange",
+      "Conducting monetary policy"
+    ],
+    "correctAnswer": "Providing long-term industrial loans"
+  },
+   {
+    "question": "Merchant banks are primarily involved in:",
+    "options": [
+      "Retail banking",
+      "Wholesale banking and corporate finance",
+      "Printing currency",
+      "Regulating other banks"
+    ],
+    "correctAnswer": "Wholesale banking and corporate finance"
+  },
+  {
+    "question": "Which of the following is a key function of merchant banks?",
+    "options": [
+      "Providing retail loans to individuals",
+      "Underwriting new issues of securities",
+      "Accepting savings deposits from the public",
+      "Conducting monetary policy"
+    ],
+    "correctAnswer": "Underwriting new issues of securities"
+  },
+  {
+    "question": "Merchant banks mainly serve:",
+    "options": [
+      "Individuals and households",
+      "Corporate organizations and large businesses",
+      "Students and artisans",
+      "Civil servants"
+    ],
+    "correctAnswer": "Corporate organizations and large businesses"
+  },
+  {
+    "question": "A common service provided by merchant banks is:",
+    "options": [
+      "Overdraft to petty traders",
+      "Management of investment portfolios",
+      "Issuing of passports",
+      "Collecting taxes"
+    ],
+    "correctAnswer": "Management of investment portfolios"
+  },
+  {
+    "question": "Merchant banks promote economic development by:",
+    "options": [
+      "Funding long-term capital projects",
+      "Offering daily withdrawals",
+      "Providing ATM services",
+      "Selling treasury bills"
+    ],
+    "correctAnswer": "Funding long-term capital projects"
+  },
+  {
+    "question": "Which of the following is NOT a function of merchant banks?",
+    "options": [
+      "Project financing",
+      "Acceptance of large deposits from corporations",
+      "Underwriting of securities",
+      "Issuing small personal loans"
+    ],
+    "correctAnswer": "Issuing small personal loans"
+  },
+  {
+    "question": "Merchant banks differ from commercial banks mainly because they:",
+    "options": [
+      "Provide long-term financing",
+      "Fund daily transactions of individuals",
+      "Issue currency",
+      "Act as the central bank"
+    ],
+    "correctAnswer": "Provide long-term financing"
+  },
+  {
+    "question": "Commercial banks typically focus on:",
+    "options": [
+      "Wholesale banking",
+      "Retail banking and short-term credit",
+      "Long-term project financing",
+      "Capital market operations"
+    ],
+    "correctAnswer": "Retail banking and short-term credit"
+  },
+  {
+    "question": "A key difference between merchant banks and commercial banks is that merchant banks:",
+    "options": [
+      "Serve the general public",
+      "Issue cheques and savings accounts",
+      "Serve large corporate clients",
+      "Accept deposits from every customer"
+    ],
+    "correctAnswer": "Serve large corporate clients"
+  },
+  {
+    "question": "Merchant banks assist companies to raise capital through:",
+    "options": [
+      "Issuing shares and debentures",
+      "Printing money",
+      "Selling consumer goods",
+      "Recruiting workers"
+    ],
+    "correctAnswer": "Issuing shares and debentures"
+  },
+  {
+    "question": "Merchant banks often provide advisory services in:",
+    "options": [
+      "Tax collection",
+      "Foreign exchange and investment decisions",
+      "Police recruitment",
+      "School admissions"
+    ],
+    "correctAnswer": "Foreign exchange and investment decisions"
+  },
+  {
+    "question": "Commercial banks mostly provide:",
+    "options": [
+      "Long-term loans",
+      "Short-term working capital",
+      "Underwriting services",
+      "Venture capital"
+    ],
+    "correctAnswer": "Short-term working capital"
+  },
+  {
+    "question": "The type of deposit mostly accepted by merchant banks is:",
+    "options": [
+      "Current deposits from small customers",
+      "Time deposits from corporate clients",
+      "Savings deposits",
+      "Student deposits"
+    ],
+    "correctAnswer": "Time deposits from corporate clients"
+  },
+  {
+    "question": "Merchant banks do NOT typically engage in:",
+    "options": [
+      "Portfolio management",
+      "Retail customer services",
+      "Project financing",
+      "Advisory services"
+    ],
+    "correctAnswer": "Retail customer services"
+  },
+  {
+    "question": "Which of the following is a typical client of merchant banks?",
+    "options": [
+      "Market women",
+      "Corporate investors",
+      "Students",
+      "Pensioners"
+    ],
+    "correctAnswer": "Corporate investors"
+  },
+  {
+    "question": "A major service unique to merchant banks is:",
+    "options": [
+      "Cheque clearing",
+      "Underwriting of public issues",
+      "Issuing ATM cards",
+      "Accepting salaries"
+    ],
+    "correctAnswer": "Underwriting of public issues"
+  },
+  {
+    "question": "Commercial banks help customers with daily financial needs, while merchant banks focus on:",
+    "options": [
+      "Long-term and large-scale financial services",
+      "Providing school loans",
+      "Storing valuables",
+      "Selling foreign goods"
+    ],
+    "correctAnswer": "Long-term and large-scale financial services"
+  },
+  {
+    "question": "Merchant banks contribute to industrial growth by:",
+    "options": [
+      "Providing short-term loans to individuals",
+      "Financing heavy capital projects",
+      "Issuing currency",
+      "Supervising financial institutions"
+    ],
+    "correctAnswer": "Financing heavy capital projects"
+  },
+  {
+    "question": "A key difference between commercial and merchant banks is that commercial banks:",
+    "options": [
+      "Underwrite securities",
+      "Serve mainly small customers",
+      "Only provide long-term loans",
+      "Do not offer deposit accounts"
+    ],
+    "correctAnswer": "Serve mainly small customers"
+  },
+  {
+    "question": "Merchant banks are also known as:",
+    "options": [
+      "Investment banks",
+      "Retail banks",
+      "Central banks",
+      "Cooperative banks"
+    ],
+    "correctAnswer": "Investment banks"
+  }, 
+    {
+    "question": "Development banks mainly provide:",
+    "options": [
+      "Short-term loans",
+      "Long-term project financing",
+      "Salary advances",
+      "Overdrafts"
+    ],
+    "correctAnswer": "Long-term project financing"
+  },
+  {
+    "question": "A key objective of development banks is to:",
+    "options": [
+      "Support daily transactions",
+      "Promote economic development",
+      "Issue currency",
+      "Supervise commercial banks"
+    ],
+    "correctAnswer": "Promote economic development"
+  },
+  {
+    "question": "Which of the following is a characteristic of development banks?",
+    "options": [
+      "Focus on retail banking",
+      "Provide long-term capital",
+      "Issue chequebooks",
+      "Offer ATM services"
+    ],
+    "correctAnswer": "Provide long-term capital"
+  },
+  {
+    "question": "The Nigerian Bank for Commerce and Industry (NBCI) is an example of:",
+    "options": [
+      "Central bank",
+      "Development bank",
+      "Merchant bank",
+      "Mortgage bank"
+    ],
+    "correctAnswer": "Development bank"
+  },
+  {
+    "question": "Development banks mainly support:",
+    "options": [
+      "Small grocery shops",
+      "Large-scale industrial and agricultural projects",
+      "Daily customer withdrawals",
+      "Tourist services"
+    ],
+    "correctAnswer": "Large-scale industrial and agricultural projects"
+  },
+  {
+    "question": "One major role of development banks is:",
+    "options": [
+      "Managing national currency",
+      "Financing infrastructure",
+      "Issuing debit cards",
+      "Conducting elections"
+    ],
+    "correctAnswer": "Financing infrastructure"
+  },
+  {
+    "question": "Development banks fill the gap left by:",
+    "options": [
+      "Commercial banks",
+      "Bureau de change",
+      "Insurance companies",
+      "Microfinance institutions"
+    ],
+    "correctAnswer": "Commercial banks"
+  },
+  {
+    "question": "The Industrial Development Bank (NIDB) was created to:",
+    "options": [
+      "Supervise schools",
+      "Finance industrial projects",
+      "Issue passports",
+      "Provide savings accounts"
+    ],
+    "correctAnswer": "Finance industrial projects"
+  },
+  {
+    "question": "A major source of funds for development banks is:",
+    "options": [
+      "Daily deposits",
+      "Government grants and long-term loans",
+      "Loan sharking",
+      "Personal donations"
+    ],
+    "correctAnswer": "Government grants and long-term loans"
+  },
+  {
+    "question": "Development banks help reduce:",
+    "options": [
+      "Industrial growth",
+      "Capital shortages",
+      "Employment",
+      "Government revenue"
+    ],
+    "correctAnswer": "Capital shortages"
+  },
+  {
+    "question": "Development banks differ from commercial banks because they:",
+    "options": [
+      "Focus on long-term loans",
+      "Issue saving accounts",
+      "Clear cheques",
+      "Accept short-term deposits"
+    ],
+    "correctAnswer": "Focus on long-term loans"
+  },
+  {
+    "question": "Which of the following is NOT a function of development banks?",
+    "options": [
+      "Project financing",
+      "Technical assistance",
+      "Portfolio management",
+      "Accepting retail savings"
+    ],
+    "correctAnswer": "Accepting retail savings"
+  },
+  {
+    "question": "Development banks help promote:",
+    "options": [
+      "Importation of consumables",
+      "Investment in productive sectors",
+      "Electoral campaigns",
+      "Currency printing"
+    ],
+    "correctAnswer": "Investment in productive sectors"
+  },
+  {
+    "question": "A problem faced by development banks is:",
+    "options": [
+      "Too much profit",
+      "High default risk",
+      "Excess deposits",
+      "Too many customers"
+    ],
+    "correctAnswer": "High default risk"
+  },
+  {
+    "question": "Development banks support SMEs through:",
+    "options": [
+      "Long-term credit",
+      "ATM machines",
+      "Currency issuance",
+      "School services"
+    ],
+    "correctAnswer": "Long-term credit"
+  },
+  {
+    "question": "The Development Bank of Nigeria (DBN) was created to:",
+    "options": [
+      "Provide micro loans",
+      "Support SMEs with long-term financing",
+      "Print currency",
+      "Supervise banks"
+    ],
+    "correctAnswer": "Support SMEs with long-term financing"
+  },
+  {
+    "question": "Which sector is commonly financed by development banks?",
+    "options": [
+      "Heavy industries",
+      "Retail shops",
+      "Gaming centers",
+      "Religious organizations"
+    ],
+    "correctAnswer": "Heavy industries"
+  },
+  {
+    "question": "Development banks reduce unemployment by:",
+    "options": [
+      "Funding job-creating projects",
+      "Hiring more staff",
+      "Raising interest rates",
+      "Closing industries"
+    ],
+    "correctAnswer": "Funding job-creating projects"
+  },
+  {
+    "question": "Unlike commercial banks, development banks usually have:",
+    "options": [
+      "Short-term focus",
+      "Lower interest on long-term loans",
+      "ATM networks",
+      "Retail services"
+    ],
+    "correctAnswer": "Lower interest on long-term loans"
+  },
+  {
+    "question": "One limitation of development banks is:",
+    "options": [
+      "Lack of ATMs",
+      "Insufficient long-term funds",
+      "Too many branches",
+      "Excess savings accounts"
+    ],
+    "correctAnswer": "Insufficient long-term funds"
+  },
+    {
+    "question": "Microfinance banks are established to serve:",
+    "options": [
+      "Large corporations",
+      "Low-income individuals and small businesses",
+      "Government agencies",
+      "International investors"
+    ],
+    "correctAnswer": "Low-income individuals and small businesses"
+  },
+  {
+    "question": "One major function of microfinance banks is:",
+    "options": [
+      "Long-term project financing",
+      "Providing micro-credit",
+      "Printing currency",
+      "Underwriting securities"
+    ],
+    "correctAnswer": "Providing micro-credit"
+  },
+  {
+    "question": "Microfinance banks help reduce poverty by:",
+    "options": [
+      "Offering small loans",
+      "Increasing taxes",
+      "Closing rural branches",
+      "Restricting deposits"
+    ],
+    "correctAnswer": "Offering small loans"
+  },
+  {
+    "question": "Microfinance clients are mostly:",
+    "options": [
+      "Farmers, traders, and artisans",
+      "Multinational firms",
+      "Politicians",
+      "Corporate executives"
+    ],
+    "correctAnswer": "Farmers, traders, and artisans"
+  },
+  {
+    "question": "The Central Bank of Nigeria licenses:",
+    "options": [
+      "Only merchant banks",
+      "Microfinance banks",
+      "Oil companies",
+      "Stockbrokers"
+    ],
+    "correctAnswer": "Microfinance banks"
+  },
+  {
+    "question": "Microfinance banks differ from commercial banks because they:",
+    "options": [
+      "Focus on grassroots financing",
+      "Issue large business loans",
+      "Manage foreign reserves",
+      "Conduct monetary policy"
+    ],
+    "correctAnswer": "Focus on grassroots financing"
+  },
+  {
+    "question": "One unique product of microfinance banks is:",
+    "options": [
+      "Micro-insurance",
+      "Debit cards",
+      "Treasury bills",
+      "ATM international transfers"
+    ],
+    "correctAnswer": "Micro-insurance"
+  },
+  {
+    "question": "A major objective of microfinance banks is:",
+    "options": [
+      "Wealth redistribution",
+      "Financial inclusion",
+      "Industrial development",
+      "Building roads"
+    ],
+    "correctAnswer": "Financial inclusion"
+  },
+  {
+    "question": "Microfinance banks accept the following deposits:",
+    "options": [
+      "Savings and daily contributions",
+      "Only fixed deposits",
+      "Only corporate accounts",
+      "Foreign reserves"
+    ],
+    "correctAnswer": "Savings and daily contributions"
+  },
+  {
+    "question": "The group lending method helps to:",
+    "options": [
+      "Reduce repayment defaults",
+      "Increase interest rates",
+      "Fund large industries",
+      "Provide foreign loans"
+    ],
+    "correctAnswer": "Reduce repayment defaults"
+  },
+  {
+    "question": "Microfinance banks mostly provide:",
+    "options": [
+      "Small, short-term loans",
+      "Foreign direct investments",
+      "International trade finance",
+      "Capital market loans"
+    ],
+    "correctAnswer": "Small, short-term loans"
+  },
+  {
+    "question": "One common problem of microfinance banks is:",
+    "options": [
+      "Too many large clients",
+      "High loan default rate",
+      "Excess capital",
+      "Low interest rates"
+    ],
+    "correctAnswer": "High loan default rate"
+  },
+  {
+    "question": "Microfinance promotes women empowerment by:",
+    "options": [
+      "Funding large factories",
+      "Offering small startup loans",
+      "Closing rural branches",
+      "Offering only savings accounts"
+    ],
+    "correctAnswer": "Offering small startup loans"
+  },
+  {
+    "question": "A major service offered to rural communities by MFBs is:",
+    "options": [
+      "Financial literacy training",
+      "Oil exploration",
+      "Stock market analysis",
+      "Corporate restructuring"
+    ],
+    "correctAnswer": "Financial literacy training"
+  },
+  {
+    "question": "A microfinance bank cannot:",
+    "options": [
+      "Grant microloans",
+      "Issue current accounts",
+      "Print currency",
+      "Train customers"
+    ],
+    "correctAnswer": "Print currency"
+  },
+  {
+    "question": "MFBs are important in Nigeria because they:",
+    "options": [
+      "Reduce the role of the CBN",
+      "Bring banking services to the unbanked",
+      "Eliminate commercial banks",
+      "Print banknotes"
+    ],
+    "correctAnswer": "Bring banking services to the unbanked"
+  },
+  {
+    "question": "Microfinance banks also provide:",
+    "options": [
+      "Loan monitoring",
+      "Stock trading",
+      "Foreign reserve management",
+      "Currency issuance"
+    ],
+    "correctAnswer": "Loan monitoring"
+  },
+  {
+    "question": "A key principle guiding microfinance is:",
+    "options": [
+      "Group lending",
+      "Large industrial loans",
+      "Foreign exchange trading",
+      "Tax collection"
+    ],
+    "correctAnswer": "Group lending"
+  },
+  {
+    "question": "Microfinance banks mainly operate in:",
+    "options": [
+      "Rural and semi-urban areas",
+      "Airports",
+      "Only major cities",
+      "Ports"
+    ],
+    "correctAnswer": "Rural and semi-urban areas"
+  },
+  {
+    "question": "One limitation of MFBs is:",
+    "options": [
+      "Ease of small loans",
+      "Low capital base",
+      "High customer trust",
+      "Abundance of collateral"
+    ],
+    "correctAnswer": "Low capital base"
+  },
+    {
+    "question": "Non-bank financial institutions primarily engage in:",
+    "options": [
+      "Accepting demand deposits",
+      "Providing specialized financial services",
+      "Printing currency",
+      "Conducting monetary policy"
+    ],
+    "correctAnswer": "Providing specialized financial services"
+  },
+  {
+    "question": "An example of a non-bank financial institution is:",
+    "options": [
+      "Commercial bank",
+      "Insurance company",
+      "Central bank",
+      "Merchant bank"
+    ],
+    "correctAnswer": "Insurance company"
+  },
+  {
+    "question": "Mortgage banks mainly provide:",
+    "options": [
+      "Long-term housing loans",
+      "Current accounts",
+      "ATM services",
+      "Treasury bills"
+    ],
+    "correctAnswer": "Long-term housing loans"
+  },
+  {
+    "question": "Insurance companies help reduce:",
+    "options": [
+      "Inflation",
+      "Financial risk",
+      "Import duties",
+      "Loan defaults"
+    ],
+    "correctAnswer": "Financial risk"
+  },
+  {
+    "question": "Pension fund administrators manage:",
+    "options": [
+      "Retirement savings",
+      "Current accounts",
+      "Stock exchange",
+      "Foreign reserves"
+    ],
+    "correctAnswer": "Retirement savings"
+  },
+  {
+    "question": "Finance houses primarily offer:",
+    "options": [
+      "Large industrial loans",
+      "Consumer credit and hire purchase",
+      "Savings accounts",
+      "Currency printing"
+    ],
+    "correctAnswer": "Consumer credit and hire purchase"
+  },
+  {
+    "question": "Bureau de Change institutions mainly:",
+    "options": [
+      "Grant loans",
+      "Sell foreign currency",
+      "Underwrite shares",
+      "Build houses"
+    ],
+    "correctAnswer": "Sell foreign currency"
+  },
+  {
+    "question": "Non-bank financial institutions differ from banks because they:",
+    "options": [
+      "Do not issue cheque books",
+      "Print currency",
+      "Supervise banks",
+      "Regulate the economy"
+    ],
+    "correctAnswer": "Do not issue cheque books"
+  },
+  {
+    "question": "A key role of mortgage banks is:",
+    "options": [
+      "Real estate financing",
+      "ATM installation",
+      "Short-term retail loans",
+      "Conducting elections"
+    ],
+    "correctAnswer": "Real estate financing"
+  },
+  {
+    "question": "Insurance companies operate on the principle of:",
+    "options": [
+      "Taxation",
+      "Risk pooling",
+      "Currency substitution",
+      "Deposit multipliers"
+    ],
+    "correctAnswer": "Risk pooling"
+  },
+  {
+    "question": "Finance houses help promote:",
+    "options": [
+      "Consumer credit",
+      "Foreign reserve management",
+      "Electricity distribution",
+      "Currency printing"
+    ],
+    "correctAnswer": "Consumer credit"
+  },
+  {
+    "question": "The National Pension Commission (PENCOM) regulates:",
+    "options": [
+      "Merchant banks",
+      "Pension fund administrators",
+      "Schools",
+      "Commercial banks"
+    ],
+    "correctAnswer": "Pension fund administrators"
+  },
+  {
+    "question": "A mortgage bank gives loans usually backed by:",
+    "options": [
+      "Personal savings",
+      "Collateral such as land or property",
+      "Voters card",
+      "Passport"
+    ],
+    "correctAnswer": "Collateral such as land or property"
+  },
+  {
+    "question": "Hire purchase is provided by:",
+    "options": [
+      "Insurance firms",
+      "Finance houses",
+      "Microfinance banks",
+      "Central banks"
+    ],
+    "correctAnswer": "Finance houses"
+  },
+  {
+    "question": "Non-bank institutions help diversify:",
+    "options": [
+      "Public transportation",
+      "The financial system",
+      "Educational policy",
+      "Industrial pollution"
+    ],
+    "correctAnswer": "The financial system"
+  },
+  {
+    "question": "Insurance companies collect:",
+    "options": [
+      "Premiums",
+      "Exchange rates",
+      "Tariffs",
+      "Customs duties"
+    ],
+    "correctAnswer": "Premiums"
+  },
+  {
+    "question": "Mortgage banks differ from commercial banks because they:",
+    "options": [
+      "Fund long-term real estate",
+      "Offer current accounts",
+      "Issue debit cards",
+      "Print money"
+    ],
+    "correctAnswer": "Fund long-term real estate"
+  },
+  {
+    "question": "Pension funds invest contributions to:",
+    "options": [
+      "Build roads",
+      "Grow retirement savings",
+      "Provide electricity",
+      "Fund elections"
+    ],
+    "correctAnswer": "Grow retirement savings"
+  },
+  {
+    "question": "A key limitation of finance houses is:",
+    "options": [
+      "Excess supervision",
+      "High default risk",
+      "Too many customers",
+      "High capital base"
+    ],
+    "correctAnswer": "High default risk"
+  },
+  {
+    "question": "Non-bank financial institutions contribute to economic growth by:",
+    "options": [
+      "Managing risks and mobilizing long-term funds",
+      "Printing currency",
+      "Controlling inflation",
+      "Setting interest rates"
+    ],
+    "correctAnswer": "Managing risks and mobilizing long-term funds"
+  },
+    {
+    "question": "A major distinguishing feature of commercial banks is that they:",
+    "options": [
+      "Provide project financing only",
+      "Deal mainly in retail and short-term services",
+      "Underwrite securities",
+      "Avoid taking deposits"
+    ],
+    "correctAnswer": "Deal mainly in retail and short-term services"
+  },
+  {
+    "question": "Merchant banks generally concentrate on:",
+    "options": [
+      "Small personal accounts",
+      "Wholesale banking and corporate financing",
+      "Salary payments to civil servants",
+      "ATM card issuance only"
+    ],
+    "correctAnswer": "Wholesale banking and corporate financing"
+  },
+  {
+    "question": "Commercial banks earn most of their income from:",
+    "options": [
+      "Long-term project interest",
+      "Commission on underwriting",
+      "Short-term loans and customer deposits",
+      "Venture capital income"
+    ],
+    "correctAnswer": "Short-term loans and customer deposits"
+  },
+  {
+    "question": "Merchant banks are also referred to as:",
+    "options": [
+      "Savings banks",
+      "Investment banks",
+      "Microfinance banks",
+      "Mortgage banks"
+    ],
+    "correctAnswer": "Investment banks"
+  },
+  {
+    "question": "Commercial banks usually provide:",
+    "options": [
+      "Advisory services on mergers",
+      "Daily financial transactions like withdrawals and deposits",
+      "Underwriting services",
+      "Capital market operations"
+    ],
+    "correctAnswer": "Daily financial transactions like withdrawals and deposits"
+  },
+  {
+    "question": "Merchant banks accept mainly:",
+    "options": [
+      "Savings deposits from individuals",
+      "Time deposits from large firms",
+      "Charity donations",
+      "Small petty deposits"
+    ],
+    "correctAnswer": "Time deposits from large firms"
+  },
+  {
+    "question": "Commercial banks facilitate the economy by:",
+    "options": [
+      "Funding long-term industrial projects",
+      "Providing short-term credit for individuals and businesses",
+      "Underwriting new share issues",
+      "Financing international trade only"
+    ],
+    "correctAnswer": "Providing short-term credit for individuals and businesses"
+  },
+  {
+    "question": "Merchant banks help companies raise long-term capital through:",
+    "options": [
+      "Accepting school fees",
+      "Issuing shares and debentures",
+      "Granting salary advances",
+      "Operating ATMs for the public"
+    ],
+    "correctAnswer": "Issuing shares and debentures"
+  },
+  {
+    "question": "One area where commercial banks differ from merchant banks is that commercial banks:",
+    "options": [
+      "Provide cheque book facilities",
+      "Underwrite public issues",
+      "Finance mergers",
+      "Offer portfolio management"
+    ],
+    "correctAnswer": "Provide cheque book facilities"
+  },
+  {
+    "question": "Merchant banks are specialised because they:",
+    "options": [
+      "Open accounts for all citizens",
+      "Serve mainly corporate and institutional clients",
+      "Pay salaries to civil servants",
+      "Operate savings schemes for children"
+    ],
+    "correctAnswer": "Serve mainly corporate and institutional clients"
+  },
+  {
+    "question": "Which of the following is NOT a function of commercial banks?",
+    "options": [
+      "Granting overdrafts",
+      "Accepting savings deposits",
+      "Underwriting securities",
+      "Facilitating payments"
+    ],
+    "correctAnswer": "Underwriting securities"
+  },
+  {
+    "question": "Merchant banks play a major role in:",
+    "options": [
+      "Retail banking",
+      "Capital market activities",
+      "Currency printing",
+      "Agricultural subsidies"
+    ],
+    "correctAnswer": "Capital market activities"
+  },
+  {
+    "question": "The type of loans commonly given by commercial banks is:",
+    "options": [
+      "Long-term capital loans",
+      "Short-term working capital loans",
+      "Venture capital funding",
+      "Equity financing"
+    ],
+    "correctAnswer": "Short-term working capital loans"
+  },
+  {
+    "question": "Merchant banks differ from commercial banks because they provide:",
+    "options": [
+      "ATM and POS services",
+      "Financial advisory services to large firms",
+      "Savings products for the general public",
+      "Salary advances"
+    ],
+    "correctAnswer": "Financial advisory services to large firms"
+  },
+  {
+    "question": "A unique function of merchant banks is:",
+    "options": [
+      "Accepting deposits from school children",
+      "Providing long-term project loans",
+      "Giving short-term credit",
+      "Holding savings for individuals"
+    ],
+    "correctAnswer": "Providing long-term project loans"
+  },
+  {
+    "question": "Commercial banks focus on:",
+    "options": [
+      "Corporate clients only",
+      "The general public and small businesses",
+      "Foreign exchange advisory alone",
+      "Underwriting corporations"
+    ],
+    "correctAnswer": "The general public and small businesses"
+  },
+  {
+    "question": "Merchant banks commonly engage in:",
+    "options": [
+      "Portfolio and investment management",
+      "Salary processing",
+      "Agricultural credit to farmers",
+      "Personal loan issuance"
+    ],
+    "correctAnswer": "Portfolio and investment management"
+  },
+  {
+    "question": "Commercial banks are important for:",
+    "options": [
+      "Long-term capital formation",
+      "Meeting the immediate cash needs of customers",
+      "Underwriting stocks",
+      "Providing venture capital"
+    ],
+    "correctAnswer": "Meeting the immediate cash needs of customers"
+  },
+  {
+    "question": "Merchant banks differ from commercial banks based on the fact that merchant banks:",
+    "options": [
+      "Offer retail products",
+      "Operate mainly in the wholesale financial market",
+      "Provide ATM withdrawals",
+      "Manage small personal accounts"
+    ],
+    "correctAnswer": "Operate mainly in the wholesale financial market"
+  },
+  {
+    "question": "Commercial banks mobilize savings from:",
+    "options": [
+      "Only corporate bodies",
+      "The general public",
+      "Merchants only",
+      "Government agencies alone"
+    ],
+    "correctAnswer": "The general public"
+  },
+    {
+    "question": "The primary purpose of money is to:",
+    "options": [
+      "Measure inflation",
+      "Serve as a medium of exchange",
+      "Create employment",
+      "Control tax revenue"
+    ],
+    "correctAnswer": "Serve as a medium of exchange"
+  },
+  {
+    "question": "One major characteristic of good money is:",
+    "options": [
+      "Rustiness",
+      "Durability",
+      "Unpredictability",
+      "Heavy weight"
+    ],
+    "correctAnswer": "Durability"
+  },
+  {
+    "question": "The West African Currency Board (WACB) was established to:",
+    "options": [
+      "Supervise commercial banks",
+      "Issue and redeem currency in British West Africa",
+      "Control inflation",
+      "Train bank managers"
+    ],
+    "correctAnswer": "Issue and redeem currency in British West Africa"
+  },
+  {
+    "question": "One major reason for the slow growth of early Nigerian banks was:",
+    "options": [
+      "Excess capital",
+      "Poor management and fraud",
+      "Limited competition",
+      "High literacy level"
+    ],
+    "correctAnswer": "Poor management and fraud"
+  },
+  {
+    "question": "The CBN controls the money supply through:",
+    "options": [
+      "Fiscal policy",
+      "Monetary policy",
+      "Tax collection",
+      "Import duties"
+    ],
+    "correctAnswer": "Monetary policy"
+  },
+  {
+    "question": "Which of the following is a key function of commercial banks?",
+    "options": [
+      "Underwriting securities",
+      "Acting as lender of last resort",
+      "Accepting deposits from the public",
+      "Printing currency"
+    ],
+    "correctAnswer": "Accepting deposits from the public"
+  },
+  {
+    "question": "Merchant banks typically provide financing for:",
+    "options": [
+      "Daily retail transactions",
+      "Long-term capital projects",
+      "Food distribution",
+      "Small family businesses"
+    ],
+    "correctAnswer": "Long-term capital projects"
+  },
+  {
+    "question": "A bank that deals mostly with large corporate clients is:",
+    "options": [
+      "Commercial bank",
+      "Merchant bank",
+      "Microfinance bank",
+      "Mortgage bank"
+    ],
+    "correctAnswer": "Merchant bank"
+  },
+  {
+    "question": "The main regulator of banks in Nigeria is the:",
+    "options": [
+      "Ministry of Finance",
+      "World Bank",
+      "Central Bank of Nigeria",
+      "IMF"
+    ],
+    "correctAnswer": "Central Bank of Nigeria"
+  },
+  {
+    "question": "One reason for mass bank failure in the 1950s was:",
+    "options": [
+      "Adequate supervision",
+      "Poor capital base",
+      "Strong banking laws",
+      "High customer savings"
+    ],
+    "correctAnswer": "Poor capital base"
+  },
+  {
+    "question": "Commercial banks help economic growth mainly by:",
+    "options": [
+      "Granting long-term project loans",
+      "Mobilizing savings and providing credit",
+      "Printing and distributing money",
+      "Producing coins"
+    ],
+    "correctAnswer": "Mobilizing savings and providing credit"
+  },
+  {
+    "question": "The CBN was established in:",
+    "options": [
+      "1929",
+      "1952",
+      "1958",
+      "1980"
+    ],
+    "correctAnswer": "1958"
+  },
+  {
+    "question": "The first modern bank in Nigeria was:",
+    "options": [
+      "Union Bank",
+      "First Bank",
+      "Central Bank",
+      "Cooperative Bank"
+    ],
+    "correctAnswer": "First Bank"
+  },
+  {
+    "question": "Which of the following is NOT a function of money?",
+    "options": [
+      "Store of value",
+      "Unit of account",
+      "Measure of inflation",
+      "Standard of deferred payment"
+    ],
+    "correctAnswer": "Measure of inflation"
+  },
+  {
+    "question": "Merchant banks differ from commercial banks because merchant banks:",
+    "options": [
+      "Serve the general public",
+      "Offer long-term financing",
+      "Issue ATM cards",
+      "Handle retail deposits"
+    ],
+    "correctAnswer": "Offer long-term financing"
+  },
+  {
+    "question": "A cheque is an example of:",
+    "options": [
+      "Legal tender",
+      "Near money",
+      "Commodity money",
+      "Full-bodied money"
+    ],
+    "correctAnswer": "Near money"
+  },
+  {
+    "question": "The term “banking habit” refers to:",
+    "options": [
+      "People saving in banks regularly",
+      "Banks opening late",
+      "Excessive borrowing",
+      "Bank staff behaviour"
+    ],
+    "correctAnswer": "People saving in banks regularly"
+  },
+  {
+    "question": "Which institution issues and manages Nigeria’s currency?",
+    "options": [
+      "Federal Government",
+      "Ministry of Budget",
+      "Central Bank of Nigeria",
+      "National Assembly"
+    ],
+    "correctAnswer": "Central Bank of Nigeria"
+  },
+  {
+    "question": "One major objective of the CBN is:",
+    "options": [
+      "To manufacture goods",
+      "To maintain monetary stability",
+      "To finance all banks",
+      "To grant student loans"
+    ],
+    "correctAnswer": "To maintain monetary stability"
+  },
+  {
+    "question": "The type of financing associated with merchant banks is:",
+    "options": [
+      "Retail financing",
+      "Long-term project financing",
+      "Personal loans",
+      "Microloans"
+    ],
+    "correctAnswer": "Long-term project financing"
+  },
+    ],
    "GST 222":[
     {
   question: "OMPADEC means:",
