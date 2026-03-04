@@ -140,12 +140,10 @@ window.location.reload();
 };
 
 
-// START 1 DAY FREE TRIAL
+// FREE TRIAL
 const startTrial = async () => {
 
 if (!session?.user?.id) return;
-
-const userId = session.user.id;
 
 const now = new Date();
 const expires = new Date(now.getTime() + 24 * 60 * 60 * 1000);
@@ -153,7 +151,7 @@ const expires = new Date(now.getTime() + 24 * 60 * 60 * 1000);
 await supabase
 .from("profiles")
 .upsert({
-id: userId,
+id: session.user.id,
 is_premium: true,
 trial_started_at: now.toISOString(),
 premium_expires_at: expires.toISOString(),
@@ -166,12 +164,10 @@ alert("Your 1-day free trial has started!");
 };
 
 
-// AFTER PAYMENT SUCCESS
+// PAYMENT SUCCESS
 const onPremiumSuccess = async (reference, plan = "weekly") => {
 
 if (!session?.user?.id) return;
-
-const userId = session.user.id;
 
 const now = new Date();
 
@@ -182,7 +178,7 @@ now.getTime() + (plan === "weekly" ? 7 : 30) * 24 * 60 * 60 * 1000
 await supabase
 .from("profiles")
 .upsert({
-id: userId,
+id: session.user.id,
 is_premium: true,
 premium_expires_at: expires.toISOString(),
 });
@@ -193,7 +189,7 @@ setIsPremium(true);
 
 
 // START SUBJECT
-const startSubject = (picked) => {
+const startSubject = async (picked) => {
 
 const clean = String(picked || "").trim();
 
@@ -203,6 +199,14 @@ return;
 }
 
 setSubject(clean);
+
+// SAVE ANALYTICS
+await supabase.from("student_activity").insert({
+user_email: session.user.email,
+subject: clean,
+current_question: 0,
+total_questions: allQuestions[clean]?.length || 0
+});
 
 };
 

@@ -2951,939 +2951,939 @@ export const allQuestions = {
              {
     question: "Which of the following is an example of a conjunction?",
     options: ["James", "Michael", "Unless", "Paul"],
-    correctAnswer: "Unless",
+    answer: "Unless",
   },
   {
     question: "Which of the following is NOT among the 8 parts of speech?",
     options: ["Interjection", "Phrases", "Nouns", "Pronouns"],
-    correctAnswer: "Phrases",
+    answer: "Phrases",
   },
   {
     question: "I saw Michael's note, what about ______?",
     options: ["Success'", "Success's", "Success", "Success's's"],
-    correctAnswer: "Success'",
+    answer: "Success'",
   },
   {
     question: "______ pen has been found.",
     options: ["Michael's", "Mikesss", "Michaels's", "Michaelses"],
-    correctAnswer: "Michael's",
+    answer: "Michael's",
   },
   {
     question: "Pick out the adverb.",
     options: ["Madly", "Bad", "Festus", "John"],
-    correctAnswer: "Madly",
+    answer: "Madly",
   },
   {
     question: "Identify the singular verb.",
     options: ["Were", "Has", "To", "Welcome"],
-    correctAnswer: "Has",
+    answer: "Has",
   },
   {
     question: "Identify the plural verb.",
     options: ["Were", "Was", "Punishes", "Greets"],
-    correctAnswer: "Were",
+    answer: "Were",
   },
   {
     question: "______ is an action word.",
     options: ["Pronoun", "Noun", "Verb", "Michael"],
-    correctAnswer: "Verb",
+    answer: "Verb",
   },
   {
     question: "Which of the following is a lexical verb?",
     options: ["Walk", "Will", "Chelsea", "Ought"],
-    correctAnswer: "Walk",
+    answer: "Walk",
   },
   {
     question: "Which of the following is an auxiliary verb?",
     options: ["Must", "Dance", "Eat", "Thomas"],
-    correctAnswer: "Must",
+    answer: "Must",
   },
   {
     question: "______ is a naming word.",
     options: ["Pronoun", "Verb", "Noun", "Adverb"],
-    correctAnswer: "Noun",
+    answer: "Noun",
   },
   {
     question: "Which gender refers to things without life?",
     options: ["Common", "Masculine", "Feminine", "Neuter"],
-    correctAnswer: "Neuter",
+    answer: "Neuter",
   },
   {
     question: "Which of the following is feminine gender?",
     options: ["Queen", "Phone", "Daddy", "Actor"],
-    correctAnswer: "Queen",
+    answer: "Queen",
   },
   {
     question: "Which of the following is a countable noun?",
     options: ["Bottle", "Advice", "Information", "Water"],
-    correctAnswer: "Bottle",
+    answer: "Bottle",
   },
   {
     question: "Which noun should NOT be pluralized?",
     options: ["Boy", "Man", "School", "Equipment"],
-    correctAnswer: "Equipment",
+    answer: "Equipment",
   },
   {
     question: "Pick out the irregular verb.",
     options: ["Talked", "Walked", "Broadcast", "Danced"],
-    correctAnswer: "Broadcast",
+    answer: "Broadcast",
   },
   {
     question: "The ammunition recovered from the criminals ______ dangerous.",
     options: ["Are", "Is", "Were", "Am"],
-    correctAnswer: "Is",
+    answer: "Is",
   },
   {
     question: "All these are masculine except ______.",
     options: ["Boy", "Bachelor", "Spinster", "Dog"],
-    correctAnswer: "Spinster",
+    answer: "Spinster",
   },
   {
     question: "Which is the correct plural form?",
     options: ["Mangos", "Mangoes", "Mangoess", "Thangoes"],
-    correctAnswer: "Mangoes",
+    answer: "Mangoes",
   },
   {
     question: "Choose the correct plural of brother-in-law.",
     options: ["Brother-in-laws", "Brothers-in-law", "Brothers-in-laws", "Brother-in-lawses"],
-    correctAnswer: "Brothers-in-law",
+    answer: "Brothers-in-law",
   },
   {
     question: "The artist has ______ a song.",
     options: ["Sung", "Sing", "Sang", "Singeth"],
-    correctAnswer: "Sung",
+    answer: "Sung",
   },
   {
     question: "______ is used for a class of person.",
     options: ["Proper noun", "Common noun", "Abstract noun", "Concrete noun"],
-    correctAnswer: "Common noun",
+    answer: "Common noun",
   },
   {
     question: "Which of the following is an abstract noun?",
     options: ["Pen", "Pain", "Helen", "Table"],
-    correctAnswer: "Pain",
+    answer: "Pain",
   },
   {
     question: "The two boys love ______.",
     options: ["The other", "One another", "Themselves", "Each other"],
-    correctAnswer: "Each other",
+    answer: "Each other",
   },
   {
     question: "I have ______ mangoes left.",
     options: ["Few", "Much", "Little", "A little"],
-    correctAnswer: "Few",
+    answer: "Few",
   },
   {
     question: "The principal alongside the women ______ invited.",
     options: ["Is", "Are", "Were", "Am"],
-    correctAnswer: "Is",
+    answer: "Is",
   },
   {
     question: "Which is NOT a personal pronoun?",
     options: ["Which", "I", "You", "They"],
-    correctAnswer: "Which",
+    answer: "Which",
   },
   {
     question: "The baby ______.",
     options: ["Cries", "Cry", "Criss", "Cryed"],
-    correctAnswer: "Cries",
+    answer: "Cries",
   },
   {
     question: "Which represents 3rd person singular pronoun?",
     options: ["They", "You", "We", "She"],
-    correctAnswer: "She",
+    answer: "She",
   },
   {
     question: "A preposition must always be followed by a ______.",
     options: ["Verb", "Noun or pronoun", "Adjective", "Adverb"],
-    correctAnswer: "Noun or pronoun",
+    answer: "Noun or pronoun",
   },
   {
     question: "Reflexive pronouns refer to ______.",
     options: ["Possession", "Self", "Questions", "Location"],
-    correctAnswer: "Self",
+    answer: "Self",
   },
   {
     question: "Which of the following is an indefinite article?",
     options: ["The", "A", "That", "Those"],
-    correctAnswer: "A",
+    answer: "A",
   },
   {
     question: "A sentence is active when the subject is the ______.",
     options: ["Receiver", "Object", "Performer", "Predicate"],
-    correctAnswer: "Performer",
+    answer: "Performer",
   },
   {
     question: "Which verb is transitive?",
     options: ["Laugh", "Sleep", "Kill", "Cry"],
-    correctAnswer: "Kill",
+    answer: "Kill",
   },
   {
     question: "Subjunctive mood expresses ______.",
     options: ["Facts", "Reality", "Wishes or unreal situations", "Commands"],
-    correctAnswer: "Wishes or unreal situations",
+    answer: "Wishes or unreal situations",
   },
   {
     question: "Words ending in -OUS are usually ______.",
     options: ["Nouns", "Verbs", "Adjectives", "Adverbs"],
-    correctAnswer: "Adjectives",
+    answer: "Adjectives",
   },
   {
     question: "When an adjective comes before a noun, it is called ______ adjective.",
     options: ["Predicative", "Attributive", "Comparative", "Superlative"],
-    correctAnswer: "Attributive",
+    answer: "Attributive",
   },
   {
     question: "The comparative form is used when comparing ______ persons.",
     options: ["One", "Two", "Three", "Four"],
-    correctAnswer: "Two",
+    answer: "Two",
   },
   {
     question: "Wealthy in the sentence is an example of a ______.",
     options: ["Adverb", "Adjective", "Verb", "Conjunction"],
-    correctAnswer: "Adjective",
+    answer: "Adjective",
   },
   {
     question: "Several in the sentence indicates ______.",
     options: ["Ownership", "Quantity", "Location", "Action"],
-    correctAnswer: "Quantity",
+    answer: "Quantity",
   },
   {
     question: "Neither the man nor the players ______ arrived.",
     options: ["Has", "Have", "Is", "Am"],
-    correctAnswer: "Have",
+    answer: "Have",
   },
   {
     question: "A flock of sheep. Flock is a ______ noun.",
     options: ["Abstract", "Collective", "Common", "Proper"],
-    correctAnswer: "Collective",
+    answer: "Collective",
   },
     {
     question: "A reflexive pronoun can also perform an ______ function.",
     options: ["Interrogative", "Emphatic", "Relative", "Possessive"],
-    correctAnswer: "Emphatic",
+    answer: "Emphatic",
   },
   {
     question: "Which of the following is a relative pronoun?",
     options: ["Who", "Mine", "Them", "Us"],
-    correctAnswer: "Who",
+    answer: "Who",
   },
   {
     question: "Which of the following is a demonstrative pronoun?",
     options: ["Those", "Him", "Whom", "Mine"],
-    correctAnswer: "Those",
+    answer: "Those",
   },
   {
     question: "It is high time we ______ going.",
     options: ["are", "were", "was", "be"],
-    correctAnswer: "were",
+    answer: "were",
   },
   {
     question: "Which of the following is a content word?",
     options: ["And", "But", "Run", "The"],
-    correctAnswer: "Run",
+    answer: "Run",
   },
   {
     question: "Which of the following is a structural (closed class) word?",
     options: ["Table", "Quickly", "Because", "Teacher"],
-    correctAnswer: "Because",
+    answer: "Because",
   },
   {
     question: "In the sentence 'The ball was kicked by Okon', the sentence is in the ______ voice.",
     options: ["Active", "Passive", "Present", "Future"],
-    correctAnswer: "Passive",
+    answer: "Passive",
   },
   {
     question: "Which of the following is an intransitive verb?",
     options: ["Kill", "Laugh", "Write", "Build"],
-    correctAnswer: "Laugh",
+    answer: "Laugh",
   },
     ],
     "ELS 113": [
             {
     question: "A phrase is made up of two or more words that does ______ sense to the hearer.",
     options: ["Make a complete", "Not make a complete", "Complete", "Not a complete"],
-    correctAnswer: "Not make a complete",
+    answer: "Not make a complete",
   },
   {
     question: "The new manager congratulated Mrs David ______ the successful delivery of a baby boy.",
     options: ["at", "for", "on", "in"],
-    correctAnswer: "on",
+    answer: "on",
   },
   {
     question: "It all depended on what he wanted. The underlined illustrates example of a ______.",
     options: ["clause", "sentence", "word", "gerund"],
-    correctAnswer: "clause",
+    answer: "clause",
   },
   {
     question: "Several stolen cars recovered in the operation. The underlined exemplifies ______ verb.",
     options: ["Finite", "Present", "Past", "Non finite"],
-    correctAnswer: "Non finite",
+    answer: "Non finite",
   },
   {
     question: "One of the following is not a type of phrase.",
     options: ["adjectival", "adverbial", "verbal", "conjunctional"],
-    correctAnswer: "conjunctional",
+    answer: "conjunctional",
   },
   {
     question: "______ is an example of present perfect tense.",
     options: ["Birds fly", "She sang well", "Mary sings well", "She has just sung"],
-    correctAnswer: "She has just sung",
+    answer: "She has just sung",
   },
   {
     question: "Most English lecturers detest wrong ______ of words.",
     options: ["Pronunciation", "Pronouncement", "Pronounciation", "Pronounsation"],
-    correctAnswer: "Pronunciation",
+    answer: "Pronunciation",
   },
   {
     question: "______ is not an example of end punctuation.",
     options: ["Quotation mark", "Question mark", "Comma", "Exclamation mark"],
-    correctAnswer: "Comma",
+    answer: "Comma",
   },
   {
     question: "A noun phrase is a group of words often ending with a ______.",
     options: ["pronoun", "verb", "noun", "adjective"],
-    correctAnswer: "noun",
+    answer: "noun",
   },
   {
     question: "Considering the size of ELS113 course, it was ______ into two classes.",
     options: ["Spitted", "Split", "Splited", "Splits"],
-    correctAnswer: "Split",
+    answer: "Split",
   },
   {
     question: "The newly ______ couple began to attend marriage seminars.",
     options: ["Wedded", "Welded", "Wed", "Wedding"],
-    correctAnswer: "Wed",
+    answer: "Wed",
   },
   {
     question: "Grandpa advised two of his ______ not to listen to third party.",
     options: ["Sons-in-law", "Sons-inlaws", "Son-inlaws", "Son–inlaws"],
-    correctAnswer: "Sons-in-law",
+    answer: "Sons-in-law",
   },
   {
     question: "One of the following is used to make contracted form of the verb.",
     options: ["full stop", "comma", "apostrophe", "apostrophy"],
-    correctAnswer: "apostrophe",
+    answer: "apostrophe",
   },
   {
     question: "Very few students have satisfactory ______ these days.",
     options: ["accommodation", "accomodation", "acommodation", "accommdasion"],
-    correctAnswer: "accommodation",
+    answer: "accommodation",
   },
   {
     question: "It’s my pleasure and ______ to welcome my special guest of honour.",
     options: ["Privelege", "Privilege", "Priviledge", "Previlege"],
-    correctAnswer: "Privilege",
+    answer: "Privilege",
   },
   {
     question: "James needs reminding that not all that glitters is gold. The underlined illustrates a ______.",
     options: ["Present participle", "Gerund", "Infinitive", "Present continuous"],
-    correctAnswer: "Present participle",
+    answer: "Present participle",
   },
   {
     question: "I do not want ______ from such friend as Jimoh.",
     options: ["More advices", "More adrises", "More advice", "More advices"],
-    correctAnswer: "More advice",
+    answer: "More advice",
   },
   {
     question: "In the sentence ‘We have cut down the mango tree OUTSIDE THE COMPOUND’, the phrase functions as a ______.",
     options: ["Complement of adjective", "Post modifier", "Complement of verb", "Adjunct"],
-    correctAnswer: "Post modifier",
+    answer: "Post modifier",
   },
   {
     question: "Journalists always collect and publish ______.",
     options: ["informations", "an information", "some informations", "information"],
-    correctAnswer: "information",
+    answer: "information",
   },
   {
     question: "I have received the answer scripts of Peter and John. What about ______?",
     options: ["Maris own", "Maris’s", "Maris’", "Maris’s script"],
-    correctAnswer: "Maris’",
+    answer: "Maris’",
   },
   {
     question: "Four persons accused of currency ______ are being held by the security agents.",
     options: ["Traficking", "Traviking", "Trafficking", "Traffiking"],
-    correctAnswer: "Trafficking",
+    answer: "Trafficking",
   },
   {
     question: "I don’t suppose you enjoyed the journey, ______ you?",
     options: ["don’t", "did", "didn’t", "have"],
-    correctAnswer: "did",
+    answer: "did",
   },
   {
     question: "I’m sorry I can’t give you any of the oranges; I have ______ left.",
     options: ["Few", "Little", "Only a little", "A few"],
-    correctAnswer: "Few",
+    answer: "Few",
   },
   {
     question: "My wife and I met ______ on a ship going to Liberia.",
     options: ["ourselves", "one another", "each other", "each order"],
-    correctAnswer: "each other",
+    answer: "each other",
   },
   {
     question: "______ yet about ASUU strike?",
     options: ["Is there any news", "Are there any news", "Is there some news", "Is their some news"],
-    correctAnswer: "Is there any news",
+    answer: "Is there any news",
   },
   {
     question: "I can quickly recite the National Anthem ______ now.",
     options: ["Off head", "Off by heart", "At hand", "Off hand"],
-    correctAnswer: "Off by heart",
+    answer: "Off by heart",
   },
   {
     question: "The Nigerian Labour congress is on warning strike. Which word is wrongly capitalized?",
     options: ["warning", "congress", "Nigeria", "strike"],
-    correctAnswer: "congress",
+    answer: "congress",
   },
   {
     question: "He did not attend the final burial ______.",
     options: ["rite", "rights", "rites", "right"],
-    correctAnswer: "rites",
+    answer: "rites",
   },
   {
     question: "The office was compelled to ______ the suspect’s car.",
     options: ["seize", "cease", "sieze", "sease"],
-    correctAnswer: "seize",
+    answer: "seize",
   },
   {
     question: "A number of suspects were paraded ______ the victim of the robbery.",
     options: ["in front of", "before", "for", "to"],
-    correctAnswer: "before",
+    answer: "before",
   },
   {
     question: "We heard him ______ a new song.",
     options: ["sing", "sings", "sang", "singing"],
-    correctAnswer: "sing",
+    answer: "sing",
   },
   {
     question: "The only set of loud speakers available ______ to be connected according to the instruction.",
     options: ["is", "are", "were", "have"],
-    correctAnswer: "is",
+    answer: "is",
   },
   {
     question: "He decided to wait for the bus because he had ______.",
     options: ["too many luggage", "many luggage", "a lot of luggage", "plenty luggage"],
-    correctAnswer: "a lot of luggage",
+    answer: "a lot of luggage",
   },
   {
     question: "When he had arranged the furniture he ______ the picture on the wall.",
     options: ["hanged", "hung", "hang", "hunged"],
-    correctAnswer: "hung",
+    answer: "hung",
   },
   {
     question: "I forgot to bring a pen with me. Would you please ______ me yours?",
     options: ["borrow", "loan", "provide", "lend"],
-    correctAnswer: "lend",
+    answer: "lend",
   },
   {
     question: "If you are going to the market, may I ______ please?",
     options: ["follow you", "accompany you", "come with you", "come as your second"],
-    correctAnswer: "come with you",
+    answer: "come with you",
   },
   {
     question: "Wale said that two of his chickens ______ eggs yesterday morning.",
     options: ["layed", "lied", "laid", "lain"],
-    correctAnswer: "laid",
+    answer: "laid",
   },
   {
     question: "The ceremony was rounded ______ very late.",
     options: ["up", "off", "of", "out"],
-    correctAnswer: "off",
+    answer: "off",
   },
   {
     question: "My ______ brother intends to get married in December.",
     options: ["senior", "elder", "older", "oldest"],
-    correctAnswer: "elder",
+    answer: "elder",
   },
   {
     question: "The recent graduation ceremony of Ambrose Alli University was attended by men from all ______ of life.",
     options: ["works", "areas", "walks", "parts"],
-    correctAnswer: "walks",
+    answer: "walks",
   },
   {
     question: "The ______ Affairs officer is expecting all of us in the New Lecture Hall.",
     options: ["student", "student’s", "students", "students’"],
-    correctAnswer: "students’",
+    answer: "students’",
   },
   {
     question: "Many a candidate ______ to realize the difference between written and spoken English.",
     options: ["fails", "fail", "have failed", "is failing"],
-    correctAnswer: "fails",
+    answer: "fails",
   },
   {
     question: "All ______ well with Peter.",
     options: ["are not", "have not been", "were not", "is not"],
-    correctAnswer: "is not",
+    answer: "is not",
   },
   {
     question: "One of the ladies who sell in the premises ______ been asked to withdraw.",
     options: ["have", "were", "has", "is"],
-    correctAnswer: "has",
+    answer: "has",
   },
   {
     question: "A sentence is a group of words that end with the following punctuation markers except ______.",
     options: ["full stop", "semi colon", "exclamation mark", "question mark"],
-    correctAnswer: "semi colon",
+    answer: "semi colon",
   },
   {
     question: "A declarative sentence is used to make a ______.",
     options: ["statement", "question", "complain", "request"],
-    correctAnswer: "statement",
+    answer: "statement",
   },
   {
     question: "An interrogative sentence is used to make a ______.",
     options: ["request", "factual statement", "wish", "question"],
-    correctAnswer: "question",
+    answer: "question",
   },
   {
     question: "An infinitive phrase is a verb form often started with ______.",
     options: ["To", "In", "On", "Of"],
-    correctAnswer: "To",
+    answer: "To",
   },
   {
     question: "An imperative and declarative sentence must be followed by a ______.",
     options: ["semi colon", "comma", "full stop", "question mark"],
-    correctAnswer: "full stop",
+    answer: "full stop",
   },
   {
     question: "An exclamatory sentence is used to express ______.",
     options: ["wish", "feeling", "command", "intent"],
-    correctAnswer: "feeling",
+    answer: "feeling",
   },
   {
     question: "Structurally, a sentence has two parts which are ______.",
     options: ["subject and predicate", "predicate and question", "subject and object", "predicate and direct object"],
-    correctAnswer: "subject and predicate",
+    answer: "subject and predicate",
   },
   {
     question: "Structurally, the types of sentence include the following except ______.",
     options: ["compound complex sentence", "complex sentence", "compound sentence", "compound simple sentence"],
-    correctAnswer: "compound simple sentence",
+    answer: "compound simple sentence",
   },
   {
     question: "A gerundive phrase is a verb form often ending with ______.",
     options: ["-ed", "-ied", "-t", "-ing"],
-    correctAnswer: "-ing",
+    answer: "-ing",
   },
   {
     question: "“Jide presents well, but his tenses are bad” is an example of a ______.",
     options: ["simple sentence", "complex sentence", "compound sentence", "compound complex sentence"],
-    correctAnswer: "compound sentence",
+    answer: "compound sentence",
   },
   {
     question: "The following except one are the basic elements of sentence.",
     options: ["adjunct", "disjunct", "object", "verb"],
-    correctAnswer: "disjunct",
+    answer: "disjunct",
   },
   {
     question: "The subject of a sentence is the person or thing that carries out the ______ performed.",
     options: ["receives", "decide", "follow", "action"],
-    correctAnswer: "action",
+    answer: "action",
   },
   {
     question: "Identify the sentence pattern: John slapped Mary.",
     options: ["S V O", "S V", "S V O D", "S V O L"],
-    correctAnswer: "S V O",
+    answer: "S V O",
   },
   {
     question: "Identify the sentence pattern: Give him a bag.",
     options: ["V O O", "S V O C O", "S V O A", "S V O O D"],
-    correctAnswer: "V O O",
+    answer: "V O O",
   },
   {
     question: "Identify the sentence pattern: The chairmen declared the meeting closed.",
     options: ["S V O O", "S V C", "S V O C", "S V O A"],
-    correctAnswer: "S V O C",
+    answer: "S V O C",
   },
   {
     question: "Identify the sentence pattern: She cried loudly.",
     options: ["A S V", "A S V C", "S V O", "S V A"],
-    correctAnswer: "S V A",
+    answer: "S V A",
   },
   {
     question: "Identify the sentence pattern: Truly Samson is a poet.",
     options: ["S V O C A", "A S V C", "S V O", "S V O O"],
-    correctAnswer: "A S V C",
+    answer: "A S V C",
   },
   {
     question: "An adjunct functions like an adverb; it therefore modifies the ______.",
     options: ["verb", "adverb", "adjective", "noun"],
-    correctAnswer: "verb",
+    answer: "verb",
   },
   {
     question: "The girl that my brother introduced to us last week is pretty ______ ill-mannered.",
     options: ["and", "but also", "as well as", "but"],
-    correctAnswer: "but",
+    answer: "but",
   },
   {
     question: "African extended family system gives security to ______ members.",
     options: ["his", "her", "its", "their"],
-    correctAnswer: "its",
+    answer: "its",
   },
   {
     question: "Sentences perform the following functions except ______.",
     options: ["Declarative", "Interrogative", "complex", "Exclamatory"],
-    correctAnswer: "complex",
+    answer: "complex",
   },
   {
     question: "Insects can become ______ to insecticides.",
     options: ["immunized", "resistant", "resistance", "immobilized"],
-    correctAnswer: "resistant",
+    answer: "resistant",
   },
   {
     question: "A clause is a group of words that contains both a subject and a ______.",
     options: ["object", "predicate", "complement", "finite verb"],
-    correctAnswer: "finite verb",
+    answer: "finite verb",
   },
   {
     question: "Little did Tunde realize that his frequent reports were working ______ my advantage.",
     options: ["in", "to", "for", "against"],
-    correctAnswer: "to",
+    answer: "to",
   },
   {
     question: "The board has been having ______ series of meetings lately.",
     options: ["some", "a", "a lot", "many"],
-    correctAnswer: "a",
+    answer: "a",
   },
   {
     question: "Sheriff has always been shy to speak ______.",
     options: ["in public", "publicly", "in the public", "with the public"],
-    correctAnswer: "in public",
+    answer: "in public",
   },
   {
     question: "______ his uncle helped him or not, he would still not be able to do it.",
     options: ["although", "if", "whether", "since"],
-    correctAnswer: "whether",
+    answer: "whether",
   },
   {
     question: "Either the chief of the village or the leaders of the farmers ______ to be held responsible.",
     options: ["were", "are", "is", "have"],
-    correctAnswer: "are",
+    answer: "are",
   },
   {
     question: "My best subject is ______.",
     options: ["Government", "english", "economics", "history"],
-    correctAnswer: "Government",
+    answer: "Government",
   },
   {
     question: "Mary and John travelled to ______ last week.",
     options: ["Benin", "lagos", "auchi", "ekpoma"],
-    correctAnswer: "Benin",
+    answer: "Benin",
   },
   {
     question: "Only observers from the ______ are allowed into the conference room.",
     options: ["Ministry of Works", "Ministry of work", "MINISTRY Of WORK", "Ministry WORKS"],
-    correctAnswer: "Ministry of Works",
+    answer: "Ministry of Works",
   },
   {
     question: "A panel set up to probe the organization’s activities ______ yet to sit.",
     options: ["are", "is", "will", "would"],
-    correctAnswer: "is",
+    answer: "is",
   },
   {
     question: "The Manager became angry and shouted, “Sit down!” The missing punctuation mark is ______.",
     options: [".", "?", "!", ","],
-    correctAnswer: "!",
+    answer: "!",
   },
   {
     question: "When you’ve finished using the phone, please hang ______.",
     options: ["down", "up", "off", "on"],
-    correctAnswer: "up",
+    answer: "up",
   },
   {
     question: "The man rose to an important position as a result of ______ hard work.",
     options: ["sheer", "cheer", "share", "shear"],
-    correctAnswer: "sheer",
+    answer: "sheer",
   },
   {
     question: "The attitude of my students to ______ baffles me.",
     options: ["maintainance", "maintenance", "mentainance", "mentenance"],
-    correctAnswer: "maintenance",
+    answer: "maintenance",
   },
   {
     question: "We need some ______ in the office.",
     options: ["stationary", "statonery", "stationery", "stationerry"],
-    correctAnswer: "stationery",
+    answer: "stationery",
   },
   {
     question: "My name is Doctor Mark is an example of a ______ sentence.",
     options: ["imperative", "declarative", "exclamatory", "interrogatory"],
-    correctAnswer: "declarative",
+    answer: "declarative",
   },
   {
     question: "Baba and ______ participated in the tournament.",
     options: ["him", "his", "he", "he’s"],
-    correctAnswer: "he",
+    answer: "he",
   },
   {
     question: "The University has a large collection of sporting ______.",
     options: ["equipment", "equipments", "costumes", "aids"],
-    correctAnswer: "equipment",
+    answer: "equipment",
   },
   {
     question: "He keeps his ______ clean always.",
     options: ["surroundings", "surrounding", "premise", "environments"],
-    correctAnswer: "surroundings",
+    answer: "surroundings",
   },
   {
     question: "The police are looking for ______.",
     options: ["two big car black", "two car big black", "two big black cars", "two black big car"],
-    correctAnswer: "two big black cars",
+    answer: "two big black cars",
   },
   {
     question: "The ______ of the participating states Nigeria will hold a pre-conference next month.",
     options: ["Auditor–Generals", "Auditor General", "Auditors General", "Auditors Generals"],
-    correctAnswer: "Auditors General",
+    answer: "Auditors General",
   },
   {
     question: "Stella is a student of the ______.",
     options: ["Faculty of law", "Faculty Of Law", "Faculty of Law", "Dept. of english"],
-    correctAnswer: "Faculty of Law",
+    answer: "Faculty of Law",
   },
   {
     question: "The abbreviation for Doctor of Philosophy is ______.",
     options: ["Ph.D.", "PH.D.", "Ph.D", "PHd"],
-    correctAnswer: "Ph.D.",
+    answer: "Ph.D.",
   },
   {
     question: "The price of everything seems to have ______ up in the last few months.",
     options: ["climbed", "shot", "risen", "flared"],
-    correctAnswer: "shot",
+    answer: "shot",
   },
   {
     question: "They took the road NEAR THE MARKET. The expression in capital letters exemplifies a ______.",
     options: ["adjective phrase", "noun clause", "noun phrase", "adverbial phrase"],
-    correctAnswer: "adverbial phrase",
+    answer: "adverbial phrase",
   },
   {
     question: "______ is the essential element present in a clause but absent in a phrase.",
     options: ["infinitive verb", "noun", "finite verb", "present participle"],
-    correctAnswer: "finite verb",
+    answer: "finite verb",
   },
   {
     question: "______ often functions as the subject of a verb in a sentence.",
     options: ["a verb", "an adjective", "a noun", "conjunction"],
-    correctAnswer: "a noun",
+    answer: "a noun",
   },
   {
     question: "What part of a sentence describes a noun or pronoun?",
     options: ["preposition", "adverb", "adjective", "noun"],
-    correctAnswer: "adjective",
+    answer: "adjective",
   },
   {
     question: "DIGGING THE GROUND, the dog found a snake. The capitalized expression is a ______.",
     options: ["Adverbial phrase", "Participial phrase", "Noun clause", "Prepositional phrase"],
-    correctAnswer: "Participial phrase",
+    answer: "Participial phrase",
   },
   {
     question: "Another name for dependent clause is ______ clause.",
     options: ["main", "static", "complex", "subordinate"],
-    correctAnswer: "subordinate",
+    answer: "subordinate",
   },
   {
     question: "When I met Amadi yesterday, it was the first time I ______ him for six months.",
     options: ["had seen", "saw", "have been", "seeing"],
-    correctAnswer: "had seen",
+    answer: "had seen",
   },
   {
     question: "Many unrelated issues were touched upon in the ______ of the discussion.",
     options: ["cause", "course", "coarse", "curse"],
-    correctAnswer: "course",
+    answer: "course",
   },
   {
     question: "The new singlet factory is built on the ______ of Aba township.",
     options: ["outstretch", "outskirts", "outskates", "outskirt"],
-    correctAnswer: "outskirts",
+    answer: "outskirts",
   },
   {
     question: "The soldiers were sufficiently equipped with ______.",
     options: ["Arms and ammunition", "Arms and ammunitions", "Arm and ammunitions", "Arm and ammunition"],
-    correctAnswer: "Arms and ammunition",
+    answer: "Arms and ammunition",
   },
   {
     question: "My younger brother is going to the stream with ______ boys.",
     options: ["two other little", "other little two", "two little other", "other two little"],
-    correctAnswer: "two other little",
+    answer: "two other little",
   },
   {
     question: "Okoro intends to wear his ______ dress to the zoo this afternoon.",
     options: ["white cotton new", "white new cotton", "new white cotton", "cotton white new"],
-    correctAnswer: "new white cotton",
+    answer: "new white cotton",
   },
   {
     question: "The contractors were short ______ cash even before the project was completed.",
     options: ["in", "for", "with", "of"],
-    correctAnswer: "of",
+    answer: "of",
   },
   {
     question: "The judge acquitted the accused ______ all the eight counts.",
     options: ["of", "on", "from", "upon"],
-    correctAnswer: "of",
+    answer: "of",
   },
   {
     question: "You had better ______ what the doctor recommended this morning.",
     options: ["done", "do", "did", "be doing"],
-    correctAnswer: "do",
+    answer: "do",
   },
   {
     question: "______ is always superior to any other in town.",
     options: ["their’s", "theirs", "there", "their"],
-    correctAnswer: "theirs",
+    answer: "theirs",
   },
   {
     question: "I looked for you all over the campus but I could not ______ you.",
     options: ["find", "see", "meet", "catch"],
-    correctAnswer: "find",
+    answer: "find",
   },
   {
     question: "The manager was angry with Dauda for ______ seeds of discord among the workers.",
     options: ["planting", "sewing", "cultivating", "sowing"],
-    correctAnswer: "sowing",
+    answer: "sowing",
   },
   {
     question: "The government has provided new ______ for the local government elections.",
     options: ["guard lines", "guide lines", "guardlines", "guidelines"],
-    correctAnswer: "guidelines",
+    answer: "guidelines",
   },
   {
     question: "The H.O.D invited John and ______.",
     options: ["myself", "me", "I", "himself"],
-    correctAnswer: "me",
+    answer: "me",
   },
   {
     question: "He was not a very ______ student when I first met him.",
     options: ["mature", "matures", "matured", "maturing"],
-    correctAnswer: "mature",
+    answer: "mature",
   },
   {
     question: "Our manager has instructed that ______ of customers must be barred from our bank.",
     options: ["those type", "that type", "that types", "this types"],
-    correctAnswer: "that type",
+    answer: "that type",
   },
   {
     question: "He regarded the betrayal of his friend as a stab ______ the back.",
     options: ["on", "at", "in", "from"],
-    correctAnswer: "in",
+    answer: "in",
   },
   {
     question: "Akpan has developed ______ for my friend.",
     options: ["a likeness", "a liking", "alike", "some likes"],
-    correctAnswer: "a liking",
+    answer: "a liking",
   },
   {
     question: "“The tourists have plenty of money to spend.” The underlined functions as a ______.",
     options: ["verb-noun", "verb-compound", "verb-adjective", "verb-complex"],
-    correctAnswer: "verb-adjective",
+    answer: "verb-adjective",
   },
   {
     question: "The present participle form of a non-finite verb functions as a ______.",
     options: ["verb-adjective", "verb-noun", "verb-adverb", "verb-complex"],
-    correctAnswer: "verb-adjective",
+    answer: "verb-adjective",
   },
   {
     question: "“After my journey” is an example of a ______ phrase.",
     options: ["participial", "infinitive", "gerundive", "prepositional"],
-    correctAnswer: "prepositional",
+    answer: "prepositional",
   },
   {
     question: "“Books that have illustrations sell well at Christmas.” The underlined exemplifies a ______.",
     options: ["independent clause", "dependent clause", "main clause", "complex clause"],
-    correctAnswer: "dependent clause",
+    answer: "dependent clause",
   },
   {
     question: "“Where are the students?” The missing punctuation mark is called ______.",
     options: ["apostrophe", "dash", "hyphen", "question mark"],
-    correctAnswer: "question mark",
+    answer: "question mark",
   },
   {
     question: "This section of the test will ______ questions on set passage.",
     options: ["consist", "comprise", "contain", "comprise of"],
-    correctAnswer: "contain",
+    answer: "contain",
   },
   {
     question: "After Jerry had made the bed, he ______ on it.",
     options: ["layed", "laid", "lied", "lay"],
-    correctAnswer: "lay",
+    answer: "lay",
   },
   {
     question: "Knowledge of figures of speech as well as idioms ______ tested in this section.",
     options: ["is", "have been", "are", "were"],
-    correctAnswer: "is",
+    answer: "is",
   },
   {
     question: "The buildings damaged by the rainstorm ______ schools, hospitals and private houses.",
     options: ["included", "include", "were included", "was including"],
-    correctAnswer: "included",
+    answer: "included",
   },
   {
     question: "The lecturer said that we ______ be able to finish the exam at the weekend.",
     options: ["must", "can", "shall", "should"],
-    correctAnswer: "should",
+    answer: "should",
   },
   {
     question: "If you want a successful marriage, you ______ pray for it.",
     options: ["have better", "better", "had better", "would better"],
-    correctAnswer: "had better",
+    answer: "had better",
   },
   {
     question: "I could have agreed with your action if I ______ not ______ you promise to increase salaries.",
     options: ["have/heard", "had/heard", "were/hearing", "was/hearing"],
-    correctAnswer: "had/heard",
+    answer: "had/heard",
   },
   {
     question: "We are not surprised he was elected; every one of his constituents ______ that he is unreliable.",
     options: ["know", "knows", "will know", "do know"],
-    correctAnswer: "knows",
+    answer: "knows",
   },
   {
     question: "The pastor said, “Lay ______ your hearts to God.”",
     options: ["bier", "bear", "bare", "bar"],
-    correctAnswer: "bare",
+    answer: "bare",
   },
   {
     question: "Now, I am used ______ bread without butter.",
     options: ["to eat", "in eating", "for eating", "to eating"],
-    correctAnswer: "to eating",
+    answer: "to eating",
   },
   {
     question: "______ all probability, the train will arrive today.",
     options: ["In", "Under", "For", "By"],
-    correctAnswer: "In",
+    answer: "In",
   },
   {
     question: "The answers to the questions were discussed ______ the students.",
     options: ["between", "by", "for", "to"],
-    correctAnswer: "by",
+    answer: "by",
   },
   {
     question: "I can always depend ______ my father for survival.",
     options: ["on", "in", "upon", "by"],
-    correctAnswer: "on",
+    answer: "on",
   },
   {
     question: "The company representative in Nigeria is a ______.",
     options: ["smart little Japanese", "little smart Japanese", "smart Japanese", "little Japanese smart"],
-    correctAnswer: "smart Japanese",
+    answer: "smart Japanese",
   },
   {
     question: "Let’s have a cup of coffee, ______?",
     options: ["shall we", "will we", "should we", "could we"],
-    correctAnswer: "shall we",
+    answer: "shall we",
   },
   {
     question: "No matter to whom I ______, nobody in the crowd had a clue.",
     options: ["discussed", "asked", "turned", "contacted"],
-    correctAnswer: "turned",
+    answer: "turned",
   },
   {
     question: "Olu, Tunde and Mathew’s ______ make people believe they belong to the same school of thought.",
     options: ["philosophy", "philosophys", "philosophies", "philosophy’s"],
-    correctAnswer: "philosophies",
+    answer: "philosophies",
   },
   {
     question: "Identify the pattern in the sentence: She smiles broadly.",
     options: ["S V A", "S V O", "S O V", "S V O C A"],
-    correctAnswer: "S V A",
+    answer: "S V A",
   },
     ],
   "GST 101": [
@@ -9874,7 +9874,7 @@ export const allQuestions = {
        {
     "question": "Simply means the study of the past events.",
     "options": ["Political Science", "History", "Anthropology", "Politics"],
-    "correctAnswer": "History"
+    "answer": "History"
   },
   {
     "question": "Hamitic Hypothesis means ______.",
@@ -9884,27 +9884,27 @@ export const allQuestions = {
       "Africa copies from Europe",
       "All of the above"
     ],
-    "correctAnswer": "Africa copied civilization from the Arab"
+    "answer": "Africa copied civilization from the Arab"
   },
   {
     "question": "The oldest bronze in West Africa are found in ______.",
     "options": ["Ife", "Benin", "Igbo Ukwu", "Jos"],
-    "correctAnswer": "Benin"
+    "answer": "Benin"
   },
   {
     "question": "The European and Nigerian traders developed a credit system known as ______.",
     "options": ["Thrift System", "Debt System", "Loan System", "Trust System"],
-    "correctAnswer": "Trust System"
+    "answer": "Trust System"
   },
   {
     "question": "Which European country was the first to explore the African coastland?",
     "options": ["Spain", "Portugal", "Italy", "France"],
-    "correctAnswer": "Portugal"
+    "answer": "Portugal"
   },
   {
     "question": "Which West African people’s artwork is naturalistic?",
     "options": ["Bamileke", "Ife", "Nok", "Ashante"],
-    "correctAnswer": "Ife"
+    "answer": "Ife"
   },
   {
     "question": "Why was King Kosoko of Lagos hated by the British?",
@@ -9914,7 +9914,7 @@ export const allQuestions = {
       "He refused to sign a treaty of protection",
       "He allowed missionaries into his kingdom"
     ],
-    "correctAnswer": "He refused to sign a treaty of protection"
+    "answer": "He refused to sign a treaty of protection"
   },
   {
     "question": "What was introduced after the abolition of the slave trade?",
@@ -9924,17 +9924,17 @@ export const allQuestions = {
       "Internal trade",
       "Trans-Sahara trade"
     ],
-    "correctAnswer": "Legitimate trade"
+    "answer": "Legitimate trade"
   },
   {
     "question": "Benin Empire was conquered in ______.",
     "options": ["1900", "1789", "1897", "1504"],
-    "correctAnswer": "1897"
+    "answer": "1897"
   },
   {
     "question": "The only country in Africa that was not colonized by any European country is ______.",
     "options": ["Liberia", "Ethiopia", "Egypt", "Nigeria"],
-    "correctAnswer": "Ethiopia"
+    "answer": "Ethiopia"
   },
   {
     "question": "Why did the Egyptians build pyramids, paint walls, and embalm corpses?",
@@ -9944,22 +9944,22 @@ export const allQuestions = {
       "They believed in beauty",
       "They believed in life after death"
     ],
-    "correctAnswer": "They believed in life after death"
+    "answer": "They believed in life after death"
   },
   {
     "question": "In what year were most Benin artworks removed to museums abroad?",
     "options": ["1887", "1787", "1967", "1897"],
-    "correctAnswer": "1897"
+    "answer": "1897"
   },
   {
     "question": "The legendary founder of the Hausa states is ______.",
     "options": ["Bayajida", "Seifbin Yazen", "Al-Maghili", "Uthman Dan Fodio"],
-    "correctAnswer": "Bayajida"
+    "answer": "Bayajida"
   },
   {
     "question": "The Trans-Atlantic slave trade was abolished in all British territories in ______.",
     "options": ["1804", "1807", "1914", "1900"],
-    "correctAnswer": "1807"
+    "answer": "1807"
   },
   {
     "question": "The Berlin Conference of 1884–1885 was called at the instance of ______.",
@@ -9969,7 +9969,7 @@ export const allQuestions = {
       "King Leopold of Belgium",
       "Jules Ferry of France"
     ],
-    "correctAnswer": "Bismarck of Germany"
+    "answer": "Bismarck of Germany"
   },
   {
     "question": "The largest dynasty in African recorded history is the ______.",
@@ -9979,17 +9979,17 @@ export const allQuestions = {
       "Alafin dynasty",
       "Oduduwa dynasty"
     ],
-    "correctAnswer": "Seifewa dynasty"
+    "answer": "Seifewa dynasty"
   },
   {
     "question": "Which desert tribe weakened the territorial boundaries of the first Kanem-Borno empire?",
     "options": ["Yoruba", "Bulala", "So", "Kanem"],
-    "correctAnswer": "Bulala"
+    "answer": "Bulala"
   },
   {
     "question": "Uthman Dan Fodio divided the Caliphate into ______ divisions.",
     "options": ["Six", "Two", "Five", "Eight"],
-    "correctAnswer": "Two"
+    "answer": "Two"
   },
   {
     "question": "Who wrote the book titled 'The Obligation of Prince'?",
@@ -9999,22 +9999,22 @@ export const allQuestions = {
       "Al-Maghili",
       "Uthman Dan Fodio"
     ],
-    "correctAnswer": "Al-Maghili"
+    "answer": "Al-Maghili"
   },
   {
     "question": "Bayajida is reported to have migrated from ______.",
     "options": ["Saudi Arabia", "Iraq", "Iran", "Baghdad"],
-    "correctAnswer": "Baghdad"
+    "answer": "Baghdad"
   },
     {
     "question": "The NOK culture evolved in one of the following states in Nigeria.",
     "options": ["Plateau State", "Edo State", "Niger State", "Kwara State"],
-    "correctAnswer": "Plateau State"
+    "answer": "Plateau State"
   },
   {
     "question": "The Sacred Mure (Mune) or state charm of Kanem-Borno was opened by ______.",
     "options": ["Mai Dunama", "Mai Idris", "Mai Umjilid", "Mai Idris Katakarnbe"],
-    "correctAnswer": "Mai Dunama"
+    "answer": "Mai Dunama"
   },
   {
     "question": "Who wrote the book titled 'The Dual Mandate in British Tropical Africa'?",
@@ -10024,32 +10024,32 @@ export const allQuestions = {
       "James Coleman",
       "Nnamdi Azikiwe"
     ],
-    "correctAnswer": "Sir F. Lugard"
+    "answer": "Sir F. Lugard"
   },
   {
     "question": "Which ancient Nigerian kingdom had the title of Mai for its king?",
     "options": ["Old Oyo Kingdom", "Benin Empire", "Kanem-Borno", "Ife"],
-    "correctAnswer": "Kanem-Borno"
+    "answer": "Kanem-Borno"
   },
   {
     "question": "The legitimate Hausa states are ______ in number.",
     "options": ["Six", "Seven", "Ten", "Five"],
-    "correctAnswer": "Seven"
+    "answer": "Seven"
   },
   {
     "question": "The Alaafin was the title of the king in ancient ______.",
     "options": ["Old Oyo Empire", "Nupe Kingdom", "Lagos", "Idoma"],
-    "correctAnswer": "Old Oyo Empire"
+    "answer": "Old Oyo Empire"
   },
   {
     "question": "The Egyptian oldest form of writing is called ______.",
     "options": ["Cuneiform", "Cursive", "Erotic", "Hieroglyphics"],
-    "correctAnswer": "Hieroglyphics"
+    "answer": "Hieroglyphics"
   },
   {
     "question": "The Igbo-Ukwu civilization is associated with ______.",
     "options": ["Terracotta works", "Bronze work", "Metal works", "Gold"],
-    "correctAnswer": "Bronze work"
+    "answer": "Bronze work"
   },
   {
     "question": "The Oba is the title of the king in which two Nigerian kingdoms?",
@@ -10059,22 +10059,22 @@ export const allQuestions = {
       "Bini and Lagos",
       "Bini and Ife"
     ],
-    "correctAnswer": "Bini and Lagos"
+    "answer": "Bini and Lagos"
   },
   {
     "question": "The king of Nupe is titled ______.",
     "options": ["Emir", "Etsu", "Waziri", "Ovie"],
-    "correctAnswer": "Etsu"
+    "answer": "Etsu"
   },
   {
     "question": "Terracotta figure head is usually associated with ______.",
     "options": ["NOK culture", "Benin Empire", "Ife", "Ugobiri"],
-    "correctAnswer": "Ife"
+    "answer": "Ife"
   },
   {
     "question": "Mungo Park died at New Bussa in Niger State in what year?",
     "options": ["1805", "1806", "1807", "1808"],
-    "correctAnswer": "1805"
+    "answer": "1805"
   },
   {
     "question": "Mungo Park died at what place on River Niger?",
@@ -10084,7 +10084,7 @@ export const allQuestions = {
       "New River in Nigeria",
       "Old Bussa"
     ],
-    "correctAnswer": "New Bussa in Niger State"
+    "answer": "New Bussa in Niger State"
   },
   {
     "question": "Egbe Omo Oduduwa was ______.",
@@ -10094,12 +10094,12 @@ export const allQuestions = {
       "The first name of Action Group",
       "A cultural association that fought for the unity of the Yoruba"
     ],
-    "correctAnswer": "A cultural association that fought for the unity of the Yoruba"
+    "answer": "A cultural association that fought for the unity of the Yoruba"
   },
   {
     "question": "History has no neat beginning and ending; therefore historians divide the past into ______.",
     "options": ["Time", "Periods", "Time zones", "All of the above"],
-    "correctAnswer": "Periods"
+    "answer": "Periods"
   },
   {
     "question": "West Africa has two principal zones of climate and vegetation which are ______.",
@@ -10109,12 +10109,12 @@ export const allQuestions = {
       "Grassland and trees",
       "None of the above"
     ],
-    "correctAnswer": "Grassland and forest"
+    "answer": "Grassland and forest"
   },
   {
     "question": "______ was the Arab scholar of Cordoba who wrote an important book on the Savannah area south of the Sahara.",
     "options": ["Al-Bakri", "Sundiata", "Dunama", "Mai Idris Alooma"],
-    "correctAnswer": "Al-Bakri"
+    "answer": "Al-Bakri"
   },
   {
     "question": "Al-Bakri based his work on information supplied by ______.",
@@ -10124,82 +10124,82 @@ export const allQuestions = {
       "Moroccan traders",
       "Christians and Muslims"
     ],
-    "correctAnswer": "Muslim merchants"
+    "answer": "Muslim merchants"
   },
   {
     "question": "By ______ Ghana was the largest, wealthiest and most powerful state in West Africa.",
     "options": ["1068", "1090", "1800", "1500 AD"],
-    "correctAnswer": "1068"
+    "answer": "1068"
   },
   {
     "question": "The Empire of Ghana was situated in the vast ______ area between the Senegal and Niger.",
     "options": ["Forest", "Swamp", "Forest and water", "Savannah"],
-    "correctAnswer": "Savannah"
+    "answer": "Savannah"
   },
     {
     "question": "Its authority extended from the frontiers of ______ to the western banks of the Niger.",
     "options": ["Tekrur", "Mandigo", "Tunkamenin", "A and B"],
-    "correctAnswer": "Tekrur"
+    "answer": "Tekrur"
   },
   {
     "question": "The indigenous inhabitants of the Ghana Empire are the ______ people.",
     "options": ["Mandigo", "Soninke", "Tekrur", "All of the above"],
-    "correctAnswer": "Soninke"
+    "answer": "Soninke"
   },
   {
     "question": "The Empire of Ghana had its capital situated at ______.",
     "options": ["Kumbi", "Cordoba Northern", "Sudan", "Soninke"],
-    "correctAnswer": "Kumbi"
+    "answer": "Kumbi"
   },
   {
     "question": "Kumbi, the greatest trading centre of the Ghana Empire, was situated in what part of the kingdom?",
     "options": ["Western Sudan", "Northern Sudan", "Senegambia", "A, B & C"],
-    "correctAnswer": "Western Sudan"
+    "answer": "Western Sudan"
   },
   {
     "question": "The ruler of the Soninke people at the time Al-Bakri wrote was ______.",
     "options": ["Tekrur", "Mandigo", "Tunkamenin", "Muslim scholar"],
-    "correctAnswer": "Tunkamenin"
+    "answer": "Tunkamenin"
   },
   {
     "question": "The Soninke followed the ______ system of inheritance.",
     "options": ["Patrilineal", "Matrilineal", "Both", "None of the above"],
-    "correctAnswer": "Matrilineal"
+    "answer": "Matrilineal"
   },
   {
     "question": "Recorded traditions suggest that the Soninke were predominantly ______ until about A.D. 300.",
     "options": ["Traders", "Merchants", "Hunters", "Agriculturalists"],
-    "correctAnswer": "Agriculturalists"
+    "answer": "Agriculturalists"
   },
   {
     "question": "Some white immigrants who settled among the Soninke of Awkal were possibly ______.",
     "options": ["Berbers or Jews", "Missionaries", "Inhabitants of Asia", "All of the above"],
-    "correctAnswer": "Berbers or Jews"
+    "answer": "Berbers or Jews"
   },
   {
     "question": "Some historians regard the Fulani and kindred people such as ______ and ______ as descendants.",
     "options": ["Mesa & Musa", "Sundiata & Musa", "Soninke and Susu", "Tukulor and Susu"],
-    "correctAnswer": "Tukulor and Susu"
+    "answer": "Tukulor and Susu"
   },
   {
     "question": "In about A.D. 700, ______ led a successful rebellion against the Berbers and established a pure Soninke dynasty.",
     "options": ["Mansa Musa", "Mai Idris", "Kaya Maghan", "None of the above"],
-    "correctAnswer": "Kaya Maghan"
+    "answer": "Kaya Maghan"
   },
   {
     "question": "In the early ninth century, Ghana’s power and wealth were endangered by the activities of the ______.",
     "options": ["Sanhaja Berbers", "Sahara Berbers", "Sahara Whites", "Asia and Spain Berbers"],
-    "correctAnswer": "Sanhaja Berbers"
+    "answer": "Sanhaja Berbers"
   },
   {
     "question": "Under Titutame, the Sanhaja were able to field an army of ______ thousand.",
     "options": ["Five thousand", "Fifteen thousand", "Ten thousand", "Seven thousand"],
-    "correctAnswer": "Ten thousand"
+    "answer": "Ten thousand"
   },
   {
     "question": "After Titutame’s death, the Soninke recovered control by conquering at ______.",
     "options": ["Awdaghast", "Tukulor", "Kumbi", "None of the above"],
-    "correctAnswer": "Awdaghast"
+    "answer": "Awdaghast"
   },
   {
     "question": "Much of the interest of historical study derives from learning in ______.",
@@ -10209,22 +10209,22 @@ export const allQuestions = {
       "Oral and narrative",
       "Oral and written form"
     ],
-    "correctAnswer": "Narrative and descriptive form"
+    "answer": "Narrative and descriptive form"
   },
   {
     "question": "The major factor that enhanced the rise of the Ghana Empire was the ______.",
     "options": ["Social factor", "Geographical factor", "Political factor", "Cultural factor"],
-    "correctAnswer": "Geographical factor"
+    "answer": "Geographical factor"
   },
   {
     "question": "The principal national resource of the Ghana Empire was ______.",
     "options": ["Iron", "Pure water", "Food stuff", "Gold"],
-    "correctAnswer": "Gold"
+    "answer": "Gold"
   },
   {
     "question": "Although the Soninke did not themselves occupy the main goldfields of ______.",
     "options": ["Wangara", "Kumbi", "Awdaghast", "Tukulor"],
-    "correctAnswer": "Wangara"
+    "answer": "Wangara"
   },
   {
     "question": "The flat savannah plains made travel for trade, administration and ______ comparatively easy.",
@@ -10234,12 +10234,12 @@ export const allQuestions = {
       "Easy and complex to conquer",
       "All of the above"
     ],
-    "correctAnswer": "Conquest comparatively easy"
+    "answer": "Conquest comparatively easy"
   },
   {
     "question": "The first people in the Ghana Empire to develop the use of iron and horses were the ______.",
     "options": ["Soninke people", "Niger valley people", "Trans-Saharan people", "A and B"],
-    "correctAnswer": "Soninke people"
+    "answer": "Soninke people"
   },
   {
     "question": "The nomadic impulse of their early white dynasty provided the original initiative for the ______.",
@@ -10249,12 +10249,12 @@ export const allQuestions = {
       "Creation of chiefdom",
       "Creation of farm"
     ],
-    "correctAnswer": "Creation of empire"
+    "answer": "Creation of empire"
   },
     {
     "question": "The Empire of Ghana was generally described as what system of government?",
     "options": ["Federation", "Confederation", "Republic", "Kingdom"],
-    "correctAnswer": "Confederation"
+    "answer": "Confederation"
   },
   {
     "question": "Yahya made the pilgrimage to Mecca and brought back the Puritanical ______.",
@@ -10264,27 +10264,27 @@ export const allQuestions = {
       "Mansa Musa",
       "A and B"
     ],
-    "correctAnswer": "Abdullah Ibn Tacin"
+    "answer": "Abdullah Ibn Tacin"
   },
   {
     "question": "Ibn Tacin imposed a strict Islamic life on the Berber tribes now named the ______.",
     "options": ["Abu Bakr", "Susu", "Soninke", "Almoravids"],
-    "correctAnswer": "Almoravids"
+    "answer": "Almoravids"
   },
   {
     "question": "The newly recruited army that waged war against Ghana was called the ______.",
     "options": ["Almoravids", "Armies", "Islamic Armies", "Arab Army"],
-    "correctAnswer": "Almoravids"
+    "answer": "Almoravids"
   },
   {
     "question": "Which Susu leader later conquered Kumbi?",
     "options": ["Sumanguru", "Sundiata", "Abu Bakr", "Mandingo Leaders"],
-    "correctAnswer": "Sumanguru"
+    "answer": "Sumanguru"
   },
   {
     "question": "Apart from being a great warrior, Sumanguru also had a reputation as an outstanding ______.",
     "options": ["Herbalist", "Magician", "Performer", "None of the above"],
-    "correctAnswer": "Magician"
+    "answer": "Magician"
   },
   {
     "question": "One major reason for the decline of the Ghana Empire was ______.",
@@ -10294,7 +10294,7 @@ export const allQuestions = {
       "Increasing confrontation from the Susu",
       "Increasing leadership of the Susu"
     ],
-    "correctAnswer": "Increasing competition from the Sanhaja Berbers for control of the gold trade"
+    "answer": "Increasing competition from the Sanhaja Berbers for control of the gold trade"
   },
   {
     "question": "Another important reason for the fall of the Ghana Empire was ______.",
@@ -10304,7 +10304,7 @@ export const allQuestions = {
       "A and B",
       "All of the above"
     ],
-    "correctAnswer": "Increasing pressure of attacks by powerful enemies"
+    "answer": "Increasing pressure of attacks by powerful enemies"
   },
   {
     "question": "The powerful enemies that consistently attacked Ghana were notably the ______.",
@@ -10314,7 +10314,7 @@ export const allQuestions = {
       "Anbara, Susu and Mandingo people",
       "A and B"
     ],
-    "correctAnswer": "A and B"
+    "answer": "A and B"
   },
   {
     "question": "Another factor that weakened the Ghana Empire was ______.",
@@ -10324,7 +10324,7 @@ export const allQuestions = {
       "Ambition of kings to secure independence",
       "Ambition of kings, chiefs and the people"
     ],
-    "correctAnswer": "Ambition of local sub-chiefs to stop paying tribute and gain independence"
+    "answer": "Ambition of local sub-chiefs to stop paying tribute and gain independence"
   },
   {
     "question": "The southern states of Ghana such as ______ and ______ broke away permanently.",
@@ -10334,12 +10334,12 @@ export const allQuestions = {
       "Mandingos and Anbara",
       "Anbara, Diara and Susu"
     ],
-    "correctAnswer": "Diara and Susu"
+    "answer": "Diara and Susu"
   },
   {
     "question": "______ also contributed to disloyalty among the Soninke and non-Soninke people.",
     "options": ["War", "Spread of missionaries", "Lack of cooperation", "Islam and Muslim activities"],
-    "correctAnswer": "Islam and Muslim activities"
+    "answer": "Islam and Muslim activities"
   },
   {
     "question": "The creators of the great Empire of Mali were the ______.",
@@ -10349,12 +10349,12 @@ export const allQuestions = {
       "Susu and the Berbers",
       "None of the above"
     ],
-    "correctAnswer": "Mandingo, a Negro people"
+    "answer": "Mandingo, a Negro people"
   },
   {
     "question": "Sundiata was a prince of ______.",
     "options": ["Kumbi", "Senegal and Niger", "Kangaba", "All of the above"],
-    "correctAnswer": "Kangaba"
+    "answer": "Kangaba"
   },
   {
     "question": "Sundiata (Mari-Jata) was the son of ______.",
@@ -10364,7 +10364,7 @@ export const allQuestions = {
       "Mandinka",
       "Mansa Musa"
     ],
-    "correctAnswer": "Nare Maghan, ruler of Kangaba"
+    "answer": "Nare Maghan, ruler of Kangaba"
   },
   {
     "question": "The mother of Sundiata was ______.",
@@ -10374,7 +10374,7 @@ export const allQuestions = {
       "Sumanguru’s mother",
       "Mansa Musa’s mother"
     ],
-    "correctAnswer": "Sogolon"
+    "answer": "Sogolon"
   },
   {
     "question": "The marriage of Nare Maghan and Sogolon took place under ______ circumstances.",
@@ -10384,7 +10384,7 @@ export const allQuestions = {
       "Mysterious",
       "A and B"
     ],
-    "correctAnswer": "Mysterious"
+    "answer": "Mysterious"
   },
   {
     "question": "Sundiata was considered a disappointment because he was ______.",
@@ -10394,12 +10394,12 @@ export const allQuestions = {
       "Unable to grow and talk",
       "Always crying"
     ],
-    "correctAnswer": "Slow to talk and unable to walk during childhood"
+    "answer": "Slow to talk and unable to walk during childhood"
   },
   {
     "question": "The first son of Nare Maghan was ______.",
     "options": ["Sundiata", "Dankaran Touman", "Sumanguru", "All of the above"],
-    "correctAnswer": "Dankaran Touman"
+    "answer": "Dankaran Touman"
   },
   {
     "question": "Dankaran Touman was described as a man of ______.",
@@ -10409,7 +10409,7 @@ export const allQuestions = {
       "A fighter",
       "Very brave man"
     ],
-    "correctAnswer": "Weak character"
+    "answer": "Weak character"
   },
     {
     "question": "Sundiata possessed outstanding qualities which made him popular as a leader. These qualities included ______.",
@@ -10419,12 +10419,12 @@ export const allQuestions = {
       "Good in hunting only",
       "None of the above"
     ],
-    "correctAnswer": "Physical strength, prowess in fighting and hunting"
+    "answer": "Physical strength, prowess in fighting and hunting"
   },
   {
     "question": "Sogolon fled from Kangaba with her children and settled in ______.",
     "options": ["Kumbi", "Mema", "Mandinka", "Sudan"],
-    "correctAnswer": "Mema"
+    "answer": "Mema"
   },
   {
     "question": "In Mema, Sundiata was appointed as ______.",
@@ -10434,12 +10434,12 @@ export const allQuestions = {
       "Captain of army",
       "Commander of all the army"
     ],
-    "correctAnswer": "Commander of a cavalry division"
+    "answer": "Commander of a cavalry division"
   },
   {
     "question": "The capital of Kangaba in the Mali Empire was ______.",
     "options": ["Mema", "Jeriba", "Kumbi", "Western Sudan"],
-    "correctAnswer": "Jeriba"
+    "answer": "Jeriba"
   },
   {
     "question": "Sundiata skilfully evaded the main Susu army at ______.",
@@ -10449,12 +10449,12 @@ export const allQuestions = {
       "Kulikoro in the Niger Valley",
       "All of the above"
     ],
-    "correctAnswer": "Sirina near Kulikoro in the Niger Valley"
+    "answer": "Sirina near Kulikoro in the Niger Valley"
   },
   {
     "question": "After conquering Sumanguru, Sundiata created a new capital at ______.",
     "options": ["Kumbi", "Sirina", "Niani", "Confluence of Niger"],
-    "correctAnswer": "Niani"
+    "answer": "Niani"
   },
   {
     "question": "After the death of Sundiata, he was succeeded by ______.",
@@ -10464,7 +10464,7 @@ export const allQuestions = {
       "Mansa Kankan Musa",
       "Sakaura"
     ],
-    "correctAnswer": "Mansa Uli (Wali)"
+    "answer": "Mansa Uli (Wali)"
   },
   {
     "question": "During Mansa Musa’s reign, he secured the cities of ______ under Mali jurisdiction.",
@@ -10474,7 +10474,7 @@ export const allQuestions = {
       "Tangabala",
       "Niani"
     ],
-    "correctAnswer": "Walata and Taghaza"
+    "answer": "Walata and Taghaza"
   },
   {
     "question": "______ was one of the greatest West African leaders who went to Mecca on a lavish scale.",
@@ -10484,7 +10484,7 @@ export const allQuestions = {
       "Mansa Uli",
       "Sumanguru"
     ],
-    "correctAnswer": "Mansa Musa"
+    "answer": "Mansa Musa"
   },
     {
     "question": "Mansa Musa of Mali, during his pilgrimage, took an escort of about ______ richly dressed and carrying three million pounds worth of gold.",
@@ -10494,12 +10494,12 @@ export const allQuestions = {
       "Sixty thousand armies and sixty thousand servants",
       "Ten thousand servants"
     ],
-    "correctAnswer": "Sixty thousand armies and servants"
+    "answer": "Sixty thousand armies and servants"
   },
   {
     "question": "Mansa Musa was responsible for establishing ______ as the official religion of Mali cities.",
     "options": ["Muslims", "Islam", "Christianity", "Islam and Christianity"],
-    "correctAnswer": "Islam"
+    "answer": "Islam"
   },
   {
     "question": "The five pillars of Islam include prayer, fasting, almsgiving and pilgrimage to Mecca. Islam simply means ______.",
@@ -10509,12 +10509,12 @@ export const allQuestions = {
       "Fasting during Ramadan only",
       "Submission to the will of Allah"
     ],
-    "correctAnswer": "Submission to the will of Allah"
+    "answer": "Submission to the will of Allah"
   },
   {
     "question": "During his reign, Mansa Musa developed ______ as a foremost centre of Islamic scholarship.",
     "options": ["Timbuktu", "Niani", "Kumbi", "Susu"],
-    "correctAnswer": "Timbuktu"
+    "answer": "Timbuktu"
   },
   {
     "question": "Mansa Musa’s contact with North Africa brought development in ______.",
@@ -10524,7 +10524,7 @@ export const allQuestions = {
       "Travelling to Mecca",
       "All of the above"
     ],
-    "correctAnswer": "Architecture"
+    "answer": "Architecture"
   },
   {
     "question": "Mansa Musa firmly established religion as the court of ______.",
@@ -10534,7 +10534,7 @@ export const allQuestions = {
       "Muslim Scholars and traders",
       "Umma Muslim Scholars"
     ],
-    "correctAnswer": "Ulama – Muslim Scholars"
+    "answer": "Ulama – Muslim Scholars"
   },
   {
     "question": "Mansa Musa remains the greatest ruler of Mali because ______.",
@@ -10544,12 +10544,12 @@ export const allQuestions = {
       "He conquered many territories",
       "He consolidated Sundiata only"
     ],
-    "correctAnswer": "He was a great consolidator who built on foundations laid by Sundiata and Sakaura"
+    "answer": "He was a great consolidator who built on foundations laid by Sundiata and Sakaura"
   },
   {
     "question": "The Empire of Mali finally lost its political dignity in the ______ century.",
     "options": ["Fifteenth", "Sixteenth", "Seventeenth", "Eighteenth"],
-    "correctAnswer": "Seventeenth"
+    "answer": "Seventeenth"
   },
   {
     "question": "One major factor contributing to the fall of Mali was ______.",
@@ -10559,7 +10559,7 @@ export const allQuestions = {
       "Royal poverty",
       "Introduction of Islam"
     ],
-    "correctAnswer": "Hostility of Uncle Suleiman"
+    "answer": "Hostility of Uncle Suleiman"
   },
   {
     "question": "Another factor that led to the fall of Mali was ______.",
@@ -10569,17 +10569,17 @@ export const allQuestions = {
       "Inadequate loyalty",
       "A and B"
     ],
-    "correctAnswer": "A and B"
+    "answer": "A and B"
   },
   {
     "question": "The Mandingo preserved their homeland from the greater empire of ______.",
     "options": ["Songhai", "Sudan", "Ghana", "Susu"],
-    "correctAnswer": "Songhai"
+    "answer": "Songhai"
   },
   {
     "question": "It is not very ______ when the earliest man evolved.",
     "options": ["Certain", "Good", "Uncertain", "Nice"],
-    "correctAnswer": "Certain"
+    "answer": "Certain"
   },
   {
     "question": "The earliest man developed in Africa about ______ years ago.",
@@ -10589,7 +10589,7 @@ export const allQuestions = {
       "Four million years",
       "Three million years"
     ],
-    "correctAnswer": "Two million years"
+    "answer": "Two million years"
   },
   {
     "question": "The earliest form of man about two million years ago was called ______.",
@@ -10599,7 +10599,7 @@ export const allQuestions = {
       "Homo sapiens",
       "Homo sapiens sapiens"
     ],
-    "correctAnswer": "Australopithecine"
+    "answer": "Australopithecine"
   },
   {
     "question": "Early man has been given distinctive names such as ______.",
@@ -10609,7 +10609,7 @@ export const allQuestions = {
       "Homo erectus",
       "All of the above"
     ],
-    "correctAnswer": "Kenyanthropus and Australopithecus Africanus"
+    "answer": "Kenyanthropus and Australopithecus Africanus"
   },
   {
     "question": "The Australopithecine period corresponds to the ______ age.",
@@ -10619,12 +10619,12 @@ export const allQuestions = {
       "Late stone age",
       "A and B"
     ],
-    "correctAnswer": "Early old stone age"
+    "answer": "Early old stone age"
   },
   {
     "question": "During the early old stone age, man used implements made mainly from ______.",
     "options": ["Fire", "Tree", "Stone", "Water"],
-    "correctAnswer": "Stone"
+    "answer": "Stone"
   },
   {
     "question": "Homo erectus evolved from which form of man?",
@@ -10634,7 +10634,7 @@ export const allQuestions = {
       "Homo sapiens sapiens",
       "All of the above"
     ],
-    "correctAnswer": "Australopithecine"
+    "answer": "Australopithecine"
   },
   {
     "question": "Homo erectus lived about ______ years ago.",
@@ -10644,7 +10644,7 @@ export const allQuestions = {
       "15,000 years",
       "None of the above"
     ],
-    "correctAnswer": "500,000 years"
+    "answer": "500,000 years"
   },
   {
     "question": "The Homo erectus period corresponds to the ______.",
@@ -10654,17 +10654,17 @@ export const allQuestions = {
       "Old stone age",
       "Early stone age"
     ],
-    "correctAnswer": "Old stone age"
+    "answer": "Old stone age"
   },
     {
     "question": "The Homo erectus form of man had a larger ______ than the Australopithecine form.",
     "options": ["Brain size", "Head size", "Hair size", "Body size"],
-    "correctAnswer": "Brain size"
+    "answer": "Brain size"
   },
   {
     "question": "Homo erectus was said to have more of a human being than ______.",
     "options": ["Australopithecine", "Homo sapiens", "Homo sapiens sapiens", "A and B"],
-    "correctAnswer": "Australopithecine"
+    "answer": "Australopithecine"
   },
   {
     "question": "Places where Homo erectus lived include East Africa, Java and Beijing.",
@@ -10674,12 +10674,12 @@ export const allQuestions = {
       "Algeria and Acheul in France only",
       "None of the above"
     ],
-    "correctAnswer": "East Africa, Java and Beijing"
+    "answer": "East Africa, Java and Beijing"
   },
   {
     "question": "The earliest man first developed in ______.",
     "options": ["East Africa", "Arab", "Asia", "America"],
-    "correctAnswer": "East Africa"
+    "answer": "East Africa"
   },
   {
     "question": "The earliest man in Nigeria developed near ______.",
@@ -10689,7 +10689,7 @@ export const allQuestions = {
       "Ife (about 60,000 years ago)",
       "Calabar (about 60,000 years ago)"
     ],
-    "correctAnswer": "Jos (about 60,000 years ago)"
+    "answer": "Jos (about 60,000 years ago)"
   },
   {
     "question": "Old stone age man had no particular home; therefore he ______.",
@@ -10699,7 +10699,7 @@ export const allQuestions = {
       "Wandered from place to place",
       "All of the above"
     ],
-    "correctAnswer": "Wandered from place to place"
+    "answer": "Wandered from place to place"
   },
   {
     "question": "The principal occupation of old stone age man was ______.",
@@ -10709,7 +10709,7 @@ export const allQuestions = {
       "Planting crops",
       "Planting crops and keeping animals"
     ],
-    "correctAnswer": "Hunting and gathering"
+    "answer": "Hunting and gathering"
   },
   {
     "question": "Apart from walking upright, man possesses ______.",
@@ -10719,12 +10719,12 @@ export const allQuestions = {
       "Legs and hands",
       "Talk and mouth"
     ],
-    "correctAnswer": "A larger and more complex brain"
+    "answer": "A larger and more complex brain"
   },
   {
     "question": "Man is said to have come from the same ______ as animals.",
     "options": ["Structure", "Society", "Forest", "Kingdom"],
-    "correctAnswer": "Kingdom"
+    "answer": "Kingdom"
   },
   {
     "question": "The theory of evolution of man was originally put forward by ______.",
@@ -10734,22 +10734,22 @@ export const allQuestions = {
       "Charles Eastern",
       "Charles Barron"
     ],
-    "correctAnswer": "Charles Darwin"
+    "answer": "Charles Darwin"
   },
   {
     "question": "The highest order of mammals is known as ______.",
     "options": ["Anthropoids", "Mammals", "Vertebrates", "Invertebrates"],
-    "correctAnswer": "Anthropoids"
+    "answer": "Anthropoids"
   },
   {
     "question": "Apes and man are said to have diverged from a common ancestor known as ______.",
     "options": ["Anthropoids", "Hominoids", "Vertebrates", "None of the above"],
-    "correctAnswer": "Hominoids"
+    "answer": "Hominoids"
   },
   {
     "question": "The class of animals to which man belongs is known as ______.",
     "options": ["Hominids", "Vertebrates", "Hominoids", "Anthropoids"],
-    "correctAnswer": "Hominids"
+    "answer": "Hominids"
   },
   {
     "question": "Man developed features such as erect posture, speech and complex culture which made him different from apes.",
@@ -10759,7 +10759,7 @@ export const allQuestions = {
       "Ability to make complex culture",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "Man is the only animal endowed with a ______.",
@@ -10769,7 +10769,7 @@ export const allQuestions = {
       "Growing characteristics",
       "Growing and thinking"
     ],
-    "correctAnswer": "Reasoning faculty"
+    "answer": "Reasoning faculty"
   },
   {
     "question": "Homo sapiens is said to have lived about ______ years ago.",
@@ -10779,7 +10779,7 @@ export const allQuestions = {
       "15,000 years",
       "5,000 years"
     ],
-    "correctAnswer": "50,000 years"
+    "answer": "50,000 years"
   },
   {
     "question": "The Homo sapiens period is also known as the ______.",
@@ -10789,7 +10789,7 @@ export const allQuestions = {
       "Old Stone Age",
       "All of the above"
     ],
-    "correctAnswer": "Mesolithic or Middle Stone Age"
+    "answer": "Mesolithic or Middle Stone Age"
   },
   {
     "question": "The Homo sapiens period was transitional between the ______.",
@@ -10799,7 +10799,7 @@ export const allQuestions = {
       "Early and New Stone Age",
       "Middle and New Stone Age"
     ],
-    "correctAnswer": "Old and New Stone Age"
+    "answer": "Old and New Stone Age"
   },
   {
     "question": "Homo sapiens had a larger ______ than earlier forms of man.",
@@ -10809,7 +10809,7 @@ export const allQuestions = {
       "Chinless jaw",
       "All of the above"
     ],
-    "correctAnswer": "Brain"
+    "answer": "Brain"
   },
   {
     "question": "Both Homo erectus and Homo sapiens ______.",
@@ -10819,7 +10819,7 @@ export const allQuestions = {
       "Reared animals",
       "Wandered and used stone tools"
     ],
-    "correctAnswer": "Wandered and used stone tools"
+    "answer": "Wandered and used stone tools"
   },
     {
     "question": "Homo sapiens is said to have lived in places such as ______.",
@@ -10829,12 +10829,12 @@ export const allQuestions = {
       "Asia, Arab and Uganda",
       "Jos, Mali and Morocco"
     ],
-    "correctAnswer": "South Africa, Uganda, Zaire and Morocco"
+    "answer": "South Africa, Uganda, Zaire and Morocco"
   },
   {
     "question": "The earliest man first evolved in East Africa in which country?",
     "options": ["Mali", "Morocco", "Togo", "Kenya"],
-    "correctAnswer": "Kenya"
+    "answer": "Kenya"
   },
   {
     "question": "Homo sapiens sapiens is said to have lived about ______ years ago.",
@@ -10844,7 +10844,7 @@ export const allQuestions = {
       "8,000 years",
       "20,000 years"
     ],
-    "correctAnswer": "12,000 years"
+    "answer": "12,000 years"
   },
   {
     "question": "Homo sapiens sapiens period is also known as the ______.",
@@ -10854,7 +10854,7 @@ export const allQuestions = {
       "Middle Stone Age",
       "Earliest Age"
     ],
-    "correctAnswer": "New Stone or Neolithic Age"
+    "answer": "New Stone or Neolithic Age"
   },
   {
     "question": "Homo sapiens sapiens developed ______.",
@@ -10864,7 +10864,7 @@ export const allQuestions = {
       "Larger teeth only",
       "None of the above"
     ],
-    "correctAnswer": "A larger brain and prominent chin"
+    "answer": "A larger brain and prominent chin"
   },
   {
     "question": "Modern races of man sprang up from ______ stock.",
@@ -10874,7 +10874,7 @@ export const allQuestions = {
       "Homo sapiens sapiens",
       "Anthropoid"
     ],
-    "correctAnswer": "Homo sapiens sapiens"
+    "answer": "Homo sapiens sapiens"
   },
   {
     "question": "Homo sapiens sapiens discovered ______.",
@@ -10884,7 +10884,7 @@ export const allQuestions = {
       "Planting crops only",
       "Rearing animals and fishing"
     ],
-    "correctAnswer": "Agriculture and domestication of animals"
+    "answer": "Agriculture and domestication of animals"
   },
   {
     "question": "One major factor distinguishing Homo sapiens sapiens from earlier man is that ______.",
@@ -10894,7 +10894,7 @@ export const allQuestions = {
       "He had no place to live",
       "He kept moving constantly"
     ],
-    "correctAnswer": "He lived in huts"
+    "answer": "He lived in huts"
   },
   {
     "question": "Homo sapiens sapiens weapons were ______.",
@@ -10904,7 +10904,7 @@ export const allQuestions = {
       "Heavy stones only",
       "Preservable and rough"
     ],
-    "correctAnswer": "Finely shaped"
+    "answer": "Finely shaped"
   },
   {
     "question": "Early apes apart from Africa were also found in ______.",
@@ -10914,7 +10914,7 @@ export const allQuestions = {
       "Europe and South Africa",
       "All of the above"
     ],
-    "correctAnswer": "Africa and Europe"
+    "answer": "Africa and Europe"
   },
   {
     "question": "The Miocene period is between fifteen and ______ million years ago.",
@@ -10924,7 +10924,7 @@ export const allQuestions = {
       "Forty",
       "None of the above"
     ],
-    "correctAnswer": "Thirty"
+    "answer": "Thirty"
   },
   {
     "question": "The foremost protagonist for early appearance of hominids was ______.",
@@ -10934,7 +10934,7 @@ export const allQuestions = {
       "Al-Bakri",
       "A and B"
     ],
-    "correctAnswer": "Louis S.B Leakey"
+    "answer": "Louis S.B Leakey"
   },
   {
     "question": "L.S.B Leakey discovered a fossil which he renamed ______.",
@@ -10944,7 +10944,7 @@ export const allQuestions = {
       "Kenyanthropus Nigeria",
       "Ramapithecus Africa"
     ],
-    "correctAnswer": "Kenyanthropus Wickeri"
+    "answer": "Kenyanthropus Wickeri"
   },
   {
     "question": "Kenyanthropus Africanus was discovered about ______ million years ago.",
@@ -10954,7 +10954,7 @@ export const allQuestions = {
       "Twenty five million years",
       "Ten million years"
     ],
-    "correctAnswer": "Twenty million years"
+    "answer": "Twenty million years"
   },
   {
     "question": "An ancient creature of man that was tree-inhabitant was ______.",
@@ -10964,12 +10964,12 @@ export const allQuestions = {
       "Homo sapiens",
       "Homo sapiens sapiens"
     ],
-    "correctAnswer": "Apes"
+    "answer": "Apes"
   },
   {
     "question": "Ramapithecus was originally found in ______.",
     "options": ["Arab", "Asia", "South Africa", "India"],
-    "correctAnswer": "India"
+    "answer": "India"
   },
   {
     "question": "Ramapithecus was found in India about ______ years ago.",
@@ -10979,7 +10979,7 @@ export const allQuestions = {
       "Five million years",
       "Two million years"
     ],
-    "correctAnswer": "Seven million years"
+    "answer": "Seven million years"
   },
   {
     "question": "The separation between man and monkeys occurred about ______ years ago.",
@@ -10989,7 +10989,7 @@ export const allQuestions = {
       "Ten million years",
       "Twelve million years"
     ],
-    "correctAnswer": "Twenty million years"
+    "answer": "Twenty million years"
   },
   {
     "question": "One major characteristic of bipedalism is the connection between the ______.",
@@ -10999,7 +10999,7 @@ export const allQuestions = {
       "Brain and Mouth",
       "Brain and Nose"
     ],
-    "correctAnswer": "Hand and Brain"
+    "answer": "Hand and Brain"
   },
   {
     "question": "The shift to bipedalism occurred during the ______ period.",
@@ -11009,7 +11009,7 @@ export const allQuestions = {
       "Bipedal Age",
       "None of the above"
     ],
-    "correctAnswer": "Pleistocene"
+    "answer": "Pleistocene"
   },
     {
     "question": "Zinjanthropus was later supplemented by the discovery of ______.",
@@ -11019,42 +11019,42 @@ export const allQuestions = {
       "Homo habilis",
       "All of the above"
     ],
-    "correctAnswer": "Homo habilis"
+    "answer": "Homo habilis"
   },
   {
     "question": "Homo habilis had a larger brain, smaller teeth and more developed ______.",
     "options": ["Hands", "Head", "Lips", "Eyes"],
-    "correctAnswer": "Hands"
+    "answer": "Hands"
   },
   {
     "question": "______ is regarded as the cradle of African civilization.",
     "options": ["Ethiopia", "Mali", "Ghana", "Egypt"],
-    "correctAnswer": "Egypt"
+    "answer": "Egypt"
   },
   {
     "question": "Australopithecus Africanus was discovered in which African country?",
     "options": ["South Africa", "Nigeria", "Liberia", "Kenya"],
-    "correctAnswer": "South Africa"
+    "answer": "South Africa"
   },
   {
     "question": "Olduvai Gorge (the Nutcracker site) was discovered in ______.",
     "options": ["India", "Arab", "Tanzania", "America and Europe"],
-    "correctAnswer": "Tanzania"
+    "answer": "Tanzania"
   },
   {
     "question": "Pyramid building is accredited to ancient ______.",
     "options": ["Egypt", "Tanzania", "Jos", "Ethiopia"],
-    "correctAnswer": "Egypt"
+    "answer": "Egypt"
   },
   {
     "question": "The first written material was introduced by ancient ______.",
     "options": ["Morocco", "Sudan", "Gambia", "Egypt"],
-    "correctAnswer": "Egypt"
+    "answer": "Egypt"
   },
   {
     "question": "By ______ all human species except Homo sapiens had become extinct.",
     "options": ["20,000 BC", "10,000 AD", "11,000 AD", "10,000 BC"],
-    "correctAnswer": "10,000 BC"
+    "answer": "10,000 BC"
   },
   {
     "question": "By 15,000 BC microlith technology had become dominant in ______.",
@@ -11064,7 +11064,7 @@ export const allQuestions = {
       "Mediterranean Africa and Asia",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "The earliest stone core tools continued to serve hunting societies of ______.",
@@ -11074,7 +11074,7 @@ export const allQuestions = {
       "Tropical Africa",
       "Northern Africa"
     ],
-    "correctAnswer": "Tropical Africa"
+    "answer": "Tropical Africa"
   },
   {
     "question": "Stone core tools were replaced around 10,000 BC by ______ technology.",
@@ -11084,7 +11084,7 @@ export const allQuestions = {
       "Heavy stones tools",
       "Cutlass"
     ],
-    "correctAnswer": "Microliths technology"
+    "answer": "Microliths technology"
   },
   {
     "question": "The abrupt shift from stone tools to microlith tools was once thought to be caused by immigrants from ______.",
@@ -11094,7 +11094,7 @@ export const allQuestions = {
       "Europe and Asia",
       "Asia and Arab"
     ],
-    "correctAnswer": "Europe and Asia"
+    "answer": "Europe and Asia"
   },
   {
     "question": "Moister conditions in the Sahara encouraged fishing equipment based on barbed harpoons in ______.",
@@ -11104,7 +11104,7 @@ export const allQuestions = {
       "East Africa",
       "West Africa"
     ],
-    "correctAnswer": "West Africa"
+    "answer": "West Africa"
   },
   {
     "question": "Microlith technology introduced iron tools such as ______.",
@@ -11114,7 +11114,7 @@ export const allQuestions = {
       "Gun only",
       "Dagger cutlass"
     ],
-    "correctAnswer": "Multitanged spears and arrowheads"
+    "answer": "Multitanged spears and arrowheads"
   },
   {
     "question": "During late prehistory, Africa was inhabited by ______.",
@@ -11124,7 +11124,7 @@ export const allQuestions = {
       "Civilised man",
       "Civilised modern man"
     ],
-    "correctAnswer": "Bushman stock"
+    "answer": "Bushman stock"
   },
   {
     "question": "Before European and Asian influence, Africa’s major occupation was ______.",
@@ -11134,12 +11134,12 @@ export const allQuestions = {
       "Hunting only",
       "Farming and fishing"
     ],
-    "correctAnswer": "Hunting"
+    "answer": "Hunting"
   },
   {
     "question": "The thick forest growth of the river watershed was located in ______.",
     "options": ["Ethiopia", "Liberia", "Morocco", "Congo"],
-    "correctAnswer": "Congo"
+    "answer": "Congo"
   },
   {
     "question": "After the drying of the Sahara, the Negroids emerged from ______.",
@@ -11149,7 +11149,7 @@ export const allQuestions = {
       "Coastal Africa",
       "Southern Africa"
     ],
-    "correctAnswer": "Western and Central Africa"
+    "answer": "Western and Central Africa"
   },
   {
     "question": "Early man-like creatures included ______.",
@@ -11159,7 +11159,7 @@ export const allQuestions = {
       "Birds and monkeys",
       "A and B"
     ],
-    "correctAnswer": "A and B"
+    "answer": "A and B"
   },
   {
     "question": "Bipedal refers to living creatures that ______.",
@@ -11169,7 +11169,7 @@ export const allQuestions = {
       "Have no legs",
       "Have uncountable legs"
     ],
-    "correctAnswer": "Have two legs and can stand upright"
+    "answer": "Have two legs and can stand upright"
   },
     {
     "question": "The first kind of creature above had their ancestral to ______.",
@@ -11179,7 +11179,7 @@ export const allQuestions = {
       "Homo sapiens sapiens",
       "Apes"
     ],
-    "correctAnswer": "Homo sapiens"
+    "answer": "Homo sapiens"
   },
   {
     "question": "Man evolved from the species of mammals called ______.",
@@ -11189,22 +11189,22 @@ export const allQuestions = {
       "Primates",
       "Australopithecus"
     ],
-    "correctAnswer": "Primates"
+    "answer": "Primates"
   },
   {
     "question": "Primates is one of the highest orders of ______.",
     "options": ["Mammals", "Man", "Apes", "Hominids"],
-    "correctAnswer": "Mammals"
+    "answer": "Mammals"
   },
   {
     "question": "The highest order of primates is ______.",
     "options": ["Man", "Mammals", "Apes", "Kenyanthropus"],
-    "correctAnswer": "Man"
+    "answer": "Man"
   },
   {
     "question": "About 30 million years ago, the separation resulted in the emergence of ______ distinct groups of primates.",
     "options": ["Three", "Four", "Two", "Five"],
-    "correctAnswer": "Two"
+    "answer": "Two"
   },
   {
     "question": "About 30 million years ago two distinct groups of primates emerged which were ______.",
@@ -11214,7 +11214,7 @@ export const allQuestions = {
       "Erect and hominid",
       "Ape and Man"
     ],
-    "correctAnswer": "Oryopithecus and Ramapithecus"
+    "answer": "Oryopithecus and Ramapithecus"
   },
   {
     "question": "Oryopithecus are regarded as the ______.",
@@ -11224,7 +11224,7 @@ export const allQuestions = {
       "Ancestral to animals",
       "None of the above"
     ],
-    "correctAnswer": "Earliest of the apes"
+    "answer": "Earliest of the apes"
   },
   {
     "question": "The two evolutionary groups have been called ______.",
@@ -11234,7 +11234,7 @@ export const allQuestions = {
       "Homo erectus and ape",
       "Pongidae and Hominidae"
     ],
-    "correctAnswer": "Pongidae and Hominidae"
+    "answer": "Pongidae and Hominidae"
   },
   {
     "question": "The Miocene period evolved up to about ______ years ago in Africa.",
@@ -11244,7 +11244,7 @@ export const allQuestions = {
       "5 million years",
       "25 million years"
     ],
-    "correctAnswer": "15 million years"
+    "answer": "15 million years"
   },
   {
     "question": "The Pliocene period evolved up to about ______ years ago.",
@@ -11254,12 +11254,12 @@ export const allQuestions = {
       "2 million years",
       "1 million years"
     ],
-    "correctAnswer": "4 million years"
+    "answer": "4 million years"
   },
   {
     "question": "The Pleistocene period evolved between 3 million BC to ______.",
     "options": ["1500 AD", "1600 AD", "1700 AD", "1800 AD"],
-    "correctAnswer": "1500 AD"
+    "answer": "1500 AD"
   },
   {
     "question": "The Paleolithic (Old Stone Age) started from about ______.",
@@ -11269,7 +11269,7 @@ export const allQuestions = {
       "300,000 years ago",
       "200,000 years ago"
     ],
-    "correctAnswer": "3 million BC"
+    "answer": "3 million BC"
   },
   {
     "question": "The Mesolithic (Middle Stone Age) started from about ______.",
@@ -11279,7 +11279,7 @@ export const allQuestions = {
       "60,000 BC",
       "70,000 BC"
     ],
-    "correctAnswer": "1 million BC"
+    "answer": "1 million BC"
   },
   {
     "question": "The Neolithic (New Stone Age) started from about ______.",
@@ -11289,7 +11289,7 @@ export const allQuestions = {
       "1,500 AD",
       "11,500 AD"
     ],
-    "correctAnswer": "50,000 BC"
+    "answer": "50,000 BC"
   },
   {
     "question": "Africa did not pass through the ______ stage in the evolutionary iron age.",
@@ -11299,7 +11299,7 @@ export const allQuestions = {
       "Copper and bronze age",
       "All of the above"
     ],
-    "correctAnswer": "Copper and bronze age"
+    "answer": "Copper and bronze age"
   },
   {
     "question": "The continent that passed through copper and bronze age in the evolutionary stage of iron age was ______.",
@@ -11309,7 +11309,7 @@ export const allQuestions = {
       "Asia and South America",
       "North America and Europe"
     ],
-    "correctAnswer": "Europe and Asia"
+    "answer": "Europe and Asia"
   },
   {
     "question": "The first people who discovered planting crops were ______.",
@@ -11319,7 +11319,7 @@ export const allQuestions = {
       "South Africans",
       "All of the above"
     ],
-    "correctAnswer": "Asians"
+    "answer": "Asians"
   },
   {
     "question": "The Bantu people are predominantly situated in the ______ of Africa.",
@@ -11329,7 +11329,7 @@ export const allQuestions = {
       "Northern part",
       "None of the above"
     ],
-    "correctAnswer": "Southern half"
+    "answer": "Southern half"
   },
   {
     "question": "Pure Negroes were mainly located in the ______ of Africa during ancient civilization.",
@@ -11339,12 +11339,12 @@ export const allQuestions = {
       "East",
       "Central"
     ],
-    "correctAnswer": "West"
+    "answer": "West"
   },
   {
     "question": "Generally speaking, more than ______ percent of the total area is covered.",
     "options": ["30 percent", "20 percent", "50 percent", "40 percent"],
-    "correctAnswer": "30 percent"
+    "answer": "30 percent"
   },
     {
     "question": "The Sahara Desert covers more than ______ percent of Africa.",
@@ -11354,7 +11354,7 @@ export const allQuestions = {
       "30 percent",
       "40 percent"
     ],
-    "correctAnswer": "30 percent"
+    "answer": "30 percent"
   },
   {
     "question": "The longest river in Africa is the ______.",
@@ -11364,7 +11364,7 @@ export const allQuestions = {
       "River Nile",
       "River Benue"
     ],
-    "correctAnswer": "River Nile"
+    "answer": "River Nile"
   },
   {
     "question": "The River Nile flows into the ______.",
@@ -11374,7 +11374,7 @@ export const allQuestions = {
       "Mediterranean Sea",
       "Red Sea"
     ],
-    "correctAnswer": "Mediterranean Sea"
+    "answer": "Mediterranean Sea"
   },
   {
     "question": "The River Niger flows into the ______.",
@@ -11384,7 +11384,7 @@ export const allQuestions = {
       "Indian Ocean",
       "Red Sea"
     ],
-    "correctAnswer": "Atlantic Ocean"
+    "answer": "Atlantic Ocean"
   },
   {
     "question": "The Congo Basin is located in ______ Africa.",
@@ -11394,7 +11394,7 @@ export const allQuestions = {
       "Western",
       "Central"
     ],
-    "correctAnswer": "Central"
+    "answer": "Central"
   },
   {
     "question": "The tropical rainforest is mainly found in the ______ region of Africa.",
@@ -11404,7 +11404,7 @@ export const allQuestions = {
       "Southern",
       "Eastern"
     ],
-    "correctAnswer": "Central"
+    "answer": "Central"
   },
   {
     "question": "The savannah region of Africa is best known for ______.",
@@ -11414,7 +11414,7 @@ export const allQuestions = {
       "Thick ice",
       "Heavy snowfall"
     ],
-    "correctAnswer": "Grassland vegetation"
+    "answer": "Grassland vegetation"
   },
   {
     "question": "The Mediterranean climate in Africa is mainly experienced in the ______.",
@@ -11424,7 +11424,7 @@ export const allQuestions = {
       "Western region",
       "Eastern region"
     ],
-    "correctAnswer": "Northern and Southern tips"
+    "answer": "Northern and Southern tips"
   },
     ],
     "MTH 101": [],
@@ -12671,25 +12671,25 @@ export const allQuestions = {
     question:
       "Psychologists define ______ as the process by which experience or practice results in relatively permanent change in behavior or potential behavior.",
     options: ["Learning", "Motivation", "Perception", "Emotion"],
-    correctAnswer: "Learning",
+    answer: "Learning",
   },
   {
     question:
       "A ______ is a group of people who are born at a similar point in history and share similar experiences.",
     options: ["Cohort", "Population", "Culture", "Family"],
-    correctAnswer: "Cohort",
+    answer: "Cohort",
   },
   {
     question:
       "Neurons release chemicals known as ______ into the synapses to communicate with other neurons.",
     options: ["Neurotransmitters", "Hormones", "Enzymes", "Antibodies"],
-    correctAnswer: "Neurotransmitters",
+    answer: "Neurotransmitters",
   },
   {
     question:
       "______ are the building blocks of the body’s communication system.",
     options: ["Neurons", "Bones", "Muscles", "Glands"],
-    correctAnswer: "Neurons",
+    answer: "Neurons",
   },
   {
     question: "The human nervous system is composed of two parts: ______.",
@@ -12699,7 +12699,7 @@ export const allQuestions = {
       "Autonomic and somatic nervous system",
       "Spinal cord and nerves",
     ],
-    correctAnswer: "Central nervous system and peripheral nervous system",
+    answer: "Central nervous system and peripheral nervous system",
   },
   {
     question: "The peripheral nervous system is divided into two parts: ______.",
@@ -12709,7 +12709,7 @@ export const allQuestions = {
       "Sympathetic and parasympathetic nervous system",
       "Brain and spinal cord",
     ],
-    correctAnswer: "Autonomic and somatic nervous system",
+    answer: "Autonomic and somatic nervous system",
   },
   {
     question: "The central nervous system is composed of the ______.",
@@ -12719,7 +12719,7 @@ export const allQuestions = {
       "Autonomic and somatic system",
       "Glands and hormones",
     ],
-    correctAnswer: "Spinal cord and brain",
+    answer: "Spinal cord and brain",
   },
   {
     question: "A key function of the cerebellum is ______.",
@@ -12729,7 +12729,7 @@ export const allQuestions = {
       "Breathing and heart rate",
       "Hunger and thirst",
     ],
-    correctAnswer: "Movement, balance, and posture",
+    answer: "Movement, balance, and posture",
   },
   {
     question: "A function of the brainstem is ______.",
@@ -12739,7 +12739,7 @@ export const allQuestions = {
       "Memory storage",
       "Taste and smell",
     ],
-    correctAnswer: "Breathing, heart rate, and blood pressure",
+    answer: "Breathing, heart rate, and blood pressure",
   },
   {
     question: "The hypothalamus helps regulate ______.",
@@ -12749,14 +12749,14 @@ export const allQuestions = {
       "Speech and writing",
       "Reflex actions only",
     ],
-    correctAnswer:
+    answer:
       "Body temperature, emotions, hunger, thirst, and circadian rhythms",
   },
   {
     question:
       "Psychology is the study of ______ and the factors that influence it.",
     options: ["Human behavior", "Only the brain", "Only feelings", "Only society"],
-    correctAnswer: "Human behavior",
+    answer: "Human behavior",
   },
   {
     question: "Psychology is a young ______ and ______ science.",
@@ -12766,7 +12766,7 @@ export const allQuestions = {
       "Physical and agricultural",
       "Political and religious",
     ],
-    correctAnswer: "Biological and cognitive",
+    answer: "Biological and cognitive",
   },
   {
     question: "Man is a complex dynamic ______ organism.",
@@ -12776,7 +12776,7 @@ export const allQuestions = {
       "Techno-economic",
       "Geo-political",
     ],
-    correctAnswer: "Bio-socio-cognitive",
+    answer: "Bio-socio-cognitive",
   },
   {
     question:
@@ -12787,18 +12787,18 @@ export const allQuestions = {
       "1800 at Oxford by Freud",
       "1950 at Yale by Pavlov",
     ],
-    correctAnswer: "1879 at Leipzig by Wilhelm Wundt",
+    answer: "1879 at Leipzig by Wilhelm Wundt",
   },
   {
     question: "Development is an ongoing ______ process.",
     options: ["Lifelong", "Temporary", "Short-term", "Seasonal"],
-    correctAnswer: "Lifelong",
+    answer: "Lifelong",
   },
   {
     question:
       "Memory can be defined as the storage of ______ for retrieval and future use.",
     options: ["Learned information", "Only emotions", "Only reflexes", "DNA"],
-    correctAnswer: "Learned information",
+    answer: "Learned information",
   },
   {
     question:
@@ -12809,24 +12809,24 @@ export const allQuestions = {
       "Punishment and reinforcement",
       "Motivation and fear",
     ],
-    correctAnswer: "Pattern recognition and attention",
+    answer: "Pattern recognition and attention",
   },
   {
     question: "______ refers to skills that humans possess.",
     options: ["Procedural memory", "Episodic memory", "Semantic memory", "Iconic memory"],
-    correctAnswer: "Procedural memory",
+    answer: "Procedural memory",
   },
   {
     question:
       "In classical conditioning, ______ is the initial learning of the stimulus–response linking.",
     options: ["Acquisition", "Extinction", "Generalization", "Punishment"],
-    correctAnswer: "Acquisition",
+    answer: "Acquisition",
   },
   {
     question:
       "In operant conditioning, the removal of an unpleasant stimulus (such as pain) is called ______.",
     options: ["Negative reinforcement", "Positive reinforcement", "Positive punishment", "Extinction"],
-    correctAnswer: "Negative reinforcement",
+    answer: "Negative reinforcement",
   },
   {
     question: "There are two kinds of punishment: ______ and ______.",
@@ -12836,23 +12836,23 @@ export const allQuestions = {
       "Primary and secondary",
       "Direct and indirect",
     ],
-    correctAnswer: "Positive and negative",
+    answer: "Positive and negative",
   },
   {
     question: "The dendrites, cell body, and axon are the three basic parts of a ______.",
     options: ["Neuron", "Hormone", "Gland", "Reflex"],
-    correctAnswer: "Neuron",
+    answer: "Neuron",
   },
   {
     question: "The ______ theory explains the theory of homeostasis.",
     options: ["Divine theory", "Gestalt theory", "Psychoanalytic theory", "Trait theory"],
-    correctAnswer: "Divine theory",
+    answer: "Divine theory",
   },
   {
     question:
       "A leader is someone that has ______ over the behavior of other members.",
     options: ["More influence", "Less influence", "No influence", "Only physical strength"],
-    correctAnswer: "More influence",
+    answer: "More influence",
   },
   {
     question:
@@ -12863,71 +12863,71 @@ export const allQuestions = {
       "Humanistic and mechanical approach",
       "Medical and economic approach",
     ],
-    correctAnswer: "Behavioral and cognitive approach",
+    answer: "Behavioral and cognitive approach",
   },
   
   {
     question:
       "______ is a branch of psychology that analyzes how neurotransmitters influence our behaviors, thoughts, and feelings.",
     options: ["Biopsychology", "Social psychology", "Industrial psychology", "Educational psychology"],
-    correctAnswer: "Biopsychology",
+    answer: "Biopsychology",
   },
   {
     question: "______ is a construct that cannot be observed directly.",
     options: ["Motivation", "Emotion", "Behavior", "Reflex"],
-    correctAnswer: "Motivation",
+    answer: "Motivation",
   },
   {
     question: "The primary form of communication in the CNS is ______.",
     options: ["Neurons", "Hormones", "Glands", "Muscles"],
-    correctAnswer: "Neurons",
+    answer: "Neurons",
   },
   {
     question: "The ______ nervous system controls the fight-or-flight response.",
     options: ["Sympathetic", "Parasympathetic", "Somatic", "Central"],
-    correctAnswer: "Sympathetic",
+    answer: "Sympathetic",
   },
   {
     question:
       "The ______ nervous system works to bring the body back to its normal state.",
     options: ["Parasympathetic", "Sympathetic", "Somatic", "Peripheral"],
-    correctAnswer: "Parasympathetic",
+    answer: "Parasympathetic",
   },
   {
     question:
       "Edward Thorndike developed the psychology of learning called ______.",
     options: ["Connectionism", "Behaviorism", "Psychoanalysis", "Humanism"],
-    correctAnswer: "Connectionism",
+    answer: "Connectionism",
   },
   {
     question:
       "The right and left parts of the cerebral cortex are connected by a thick band of nerve fibers called the ______.",
     options: ["Corpus callosum", "Thalamus", "Hypothalamus", "Medulla"],
-    correctAnswer: "Corpus callosum",
+    answer: "Corpus callosum",
   },
   {
     question:
       "A behavior consistently triggered by a particular stimulus and beyond voluntary control is called a ______.",
     options: ["Fixed action pattern", "Reflex arc", "Conditioned response", "Habit"],
-    correctAnswer: "Fixed action pattern",
+    answer: "Fixed action pattern",
   },
   {
     question:
       "The method of casting out evil spirits by drilling a hole in the skull is called ______.",
     options: ["Trephination", "Hypnosis", "Exorcism", "Surgery"],
-    correctAnswer: "Trephination",
+    answer: "Trephination",
   },
   {
     question:
       "______ involves intense, persistent anxiety about being negatively evaluated by others.",
     options: ["Social phobia", "Agoraphobia", "Depression", "Paranoia"],
-    correctAnswer: "Social phobia",
+    answer: "Social phobia",
   },
   {
     question:
       "______ is the systematic interaction between a therapist and a client to influence thoughts, feelings, and behavior.",
     options: ["Psychotherapy", "Counseling", "Coaching", "Guidance"],
-    correctAnswer: "Psychotherapy",
+    answer: "Psychotherapy",
   },
   {
     question:
@@ -12938,7 +12938,7 @@ export const allQuestions = {
       "Objective and subjective",
       "Reliable and valid",
     ],
-    correctAnswer: "Structured and unstructured",
+    answer: "Structured and unstructured",
   },
   {
     question:
@@ -12949,31 +12949,31 @@ export const allQuestions = {
       "Observation and modeling",
       "Reinforcement and punishment",
     ],
-    correctAnswer: "Classical conditioning and operant conditioning",
+    answer: "Classical conditioning and operant conditioning",
   },
   {
     question:
       "Modern psychology is said to begin with the work of ______.",
     options: ["Charles Darwin", "Sigmund Freud", "B.F. Skinner", "Ivan Pavlov"],
-    correctAnswer: "Charles Darwin",
+    answer: "Charles Darwin",
   },
   {
     question:
       "______ grew out of the rejection of the functionalist system.",
     options: ["Behaviorism", "Humanism", "Gestalt psychology", "Structuralism"],
-    correctAnswer: "Behaviorism",
+    answer: "Behaviorism",
   },
   {
     question:
       "______ was the first American psychologist to advocate the behavioral approach.",
     options: ["J.B. Watson", "William James", "Carl Rogers", "Edward Titchener"],
-    correctAnswer: "J.B. Watson",
+    answer: "J.B. Watson",
   },
   {
     question:
       "______ is recognized by many as the founder of scientific psychology.",
     options: ["Wilhelm Wundt", "Sigmund Freud", "Ivan Pavlov", "John Dewey"],
-    correctAnswer: "Wilhelm Wundt",
+    answer: "Wilhelm Wundt",
   },
   {
     question:
@@ -12984,67 +12984,67 @@ export const allQuestions = {
       "Sensing, perceiving, and acting",
       "Motivation, emotion, and behavior",
     ],
-    correctAnswer: "Encoding, storage, and retrieval",
+    answer: "Encoding, storage, and retrieval",
   },
   {
     question:
       "Another name for classical conditioning is ______.",
     options: ["Respondent conditioning", "Operant conditioning", "Instrumental learning", "Trial learning"],
-    correctAnswer: "Respondent conditioning",
+    answer: "Respondent conditioning",
   },
   {
     question:
       "Sensory organs include the ______.",
     options: ["Ear, eye, nose, and skin", "Brain and spinal cord", "Heart and lungs", "Bones and muscles"],
-    correctAnswer: "Ear, eye, nose, and skin",
+    answer: "Ear, eye, nose, and skin",
   },
   {
     question:
       "______ is the phenomenon that explains why people learn new behaviors more quickly if they are similar to those already learned.",
     options: ["Positive transfer", "Extinction", "Habituation", "Punishment"],
-    correctAnswer: "Positive transfer",
+    answer: "Positive transfer",
   },
   {
     question:
       "In memory studies, deliberate conscious recollection of past experiences is called ______.",
     options: ["Explicit memory", "Implicit memory", "Procedural memory", "Iconic memory"],
-    correctAnswer: "Explicit memory",
+    answer: "Explicit memory",
   },
   {
     question:
       "In the lifespan perspective, development involves ______, maintenance, and regulation.",
     options: ["Growth", "Decay", "Extinction", "Punishment"],
-    correctAnswer: "Growth",
+    answer: "Growth",
   },
   {
     question:
       "Distortions or excesses of normal functions are known as ______.",
     options: ["Positive symptoms", "Negative symptoms", "Delusions", "Hallucinations"],
-    correctAnswer: "Positive symptoms",
+    answer: "Positive symptoms",
   },
   {
     question:
       "______ deals with abnormal behavior.",
     options: ["Psychopathology", "Sociology", "Anthropology", "Philosophy"],
-    correctAnswer: "Psychopathology",
+    answer: "Psychopathology",
   },
   
   {
     question: "______ is a German word meaning 'whole.'",
     options: ["Gestalt", "Psyche", "Logos", "Ego"],
-    correctAnswer: "Gestalt",
+    answer: "Gestalt",
   },
   {
     question:
       "______ is the process of seeing from another person’s perspective and understanding what he or she is experiencing.",
     options: ["Empathy", "Sympathy", "Projection", "Perception"],
-    correctAnswer: "Empathy",
+    answer: "Empathy",
   },
   {
     question:
       "Memory and ______ are closely related and often describe roughly the same process.",
     options: ["Learning", "Emotion", "Perception", "Motivation"],
-    correctAnswer: "Learning",
+    answer: "Learning",
   },
   {
     question:
@@ -13055,25 +13055,25 @@ export const allQuestions = {
       "Short and long rehearsal",
       "Direct and indirect rehearsal",
     ],
-    correctAnswer: "Maintenance and elaborative rehearsal",
+    answer: "Maintenance and elaborative rehearsal",
   },
   {
     question:
       "Behavior that deviates from social expectations is considered ______.",
     options: ["Abnormal", "Normal", "Healthy", "Functional"],
-    correctAnswer: "Abnormal",
+    answer: "Abnormal",
   },
   {
     question:
       "The combination of live modeling with gradual practice is called ______.",
     options: ["Participant modeling", "Classical conditioning", "Habituation", "Extinction"],
-    correctAnswer: "Participant modeling",
+    answer: "Participant modeling",
   },
   {
     question:
       "The word schizophrenia was coined by Eugen Bleuler meaning ______.",
     options: ["Split psyche or mind", "Multiple personalities", "Madness", "Brain damage"],
-    correctAnswer: "Split psyche or mind",
+    answer: "Split psyche or mind",
   },
   {
     question:
@@ -13084,13 +13084,13 @@ export const allQuestions = {
       "Positive and negative",
       "Clinical and non-clinical",
     ],
-    correctAnswer:
+    answer:
       "Diagnostic and Statistical Manual (DSM) and International Classification of Disease (ICD)",
   },
   {
     question: "______ is anything perceptible to the senses.",
     options: ["Stimulus", "Response", "Emotion", "Memory"],
-    correctAnswer: "Stimulus",
+    answer: "Stimulus",
   },
   {
     question:
@@ -13101,7 +13101,7 @@ export const allQuestions = {
       "Genetic and environmental",
       "Cultural and political",
     ],
-    correctAnswer:
+    answer:
       "Biological, social, emotional, and cognitive",
   },
   {
@@ -13113,46 +13113,46 @@ export const allQuestions = {
       "Reward and punishment",
       "Stimulus and response",
     ],
-    correctAnswer: "Timing and productivity",
+    answer: "Timing and productivity",
   },
   {
     question:
       "A major purpose of diagnosis is to make ______.",
     options: ["Prediction", "Punishment", "Fear", "Assumption"],
-    correctAnswer: "Prediction",
+    answer: "Prediction",
   },
   {
     question: "Negative punishment is also called ______.",
     options: ["Omission", "Extinction", "Reinforcement", "Habituation"],
-    correctAnswer: "Omission",
+    answer: "Omission",
   },
   {
     question: "Our attitudes may be ______ and ______.",
     options: ["Positive and negative", "Short and long", "Strong and weak", "Fixed and flexible"],
-    correctAnswer: "Positive and negative",
+    answer: "Positive and negative",
   },
   {
     question: "______ is not complete or absolute.",
     options: ["Memory", "Learning", "Emotion", "Perception"],
-    correctAnswer: "Memory",
+    answer: "Memory",
   },
   {
     question:
       "______ is grouping separate bits of information into meaningful units that are easier to remember.",
     options: ["Chunking", "Encoding", "Storage", "Retrieval"],
-    correctAnswer: "Chunking",
+    answer: "Chunking",
   },
   {
     question:
       "______ means forgetting due to memories fading over time.",
     options: ["Decay", "Repression", "Interference", "Amnesia"],
-    correctAnswer: "Decay",
+    answer: "Decay",
   },
   {
     question:
       "The ______ serves as both a sensory system and a security system.",
     options: ["Immune system", "Nervous system", "Endocrine system", "Digestive system"],
-    correctAnswer: "Immune system",
+    answer: "Immune system",
   },
   {
     question:
@@ -13163,7 +13163,7 @@ export const allQuestions = {
       "Heart and lungs",
       "Skin and muscles",
     ],
-    correctAnswer:
+    answer:
       "Central nervous system and autonomic nervous system",
   },
   {
@@ -13175,19 +13175,19 @@ export const allQuestions = {
       "Mild, moderate, and severe",
       "Direct, indirect, and general",
     ],
-    correctAnswer: "Agoraphobia, specific phobia, and social phobia",
+    answer: "Agoraphobia, specific phobia, and social phobia",
   },
   {
     question:
       "Any situation that threatens the well-being of an organism produces a state called ______.",
     options: ["Anxiety", "Fearlessness", "Excitement", "Motivation"],
-    correctAnswer: "Anxiety",
+    answer: "Anxiety",
   },
   {
     question:
       "When social phobia involves virtually all social situations in a person’s life, it is referred to as ______.",
     options: ["Generalized", "Specific", "Mild", "Situational"],
-    correctAnswer: "Generalized",
+    answer: "Generalized",
   },
   {
     question:
@@ -13198,59 +13198,59 @@ export const allQuestions = {
       "Short, medium, and long",
       "Physical only",
     ],
-    correctAnswer: "Behavioral, cognitive, and physiological",
+    answer: "Behavioral, cognitive, and physiological",
   },
   {
     question:
       "The fear of experiencing another panic attack leads to ______.",
     options: ["Agoraphobia", "Depression", "Mania", "Phobia"],
-    correctAnswer: "Agoraphobia",
+    answer: "Agoraphobia",
   },
   {
     question:
       "______ is when a person worries about anything and everything.",
     options: ["Generalized anxiety disorder", "Depression", "Panic disorder", "Phobia"],
-    correctAnswer: "Generalized anxiety disorder",
+    answer: "Generalized anxiety disorder",
   },
   
   {
     question: "______ plays a central role in most mood disorders.",
     options: ["Depression", "Anxiety", "Memory", "Perception"],
-    correctAnswer: "Depression",
+    answer: "Depression",
   },
   {
     question:
       "______ carry information from the sensory receptor cells throughout the body to the brain.",
     options: ["Sensory neurons", "Motor neurons", "Interneurons", "Glial cells"],
-    correctAnswer: "Sensory neurons",
+    answer: "Sensory neurons",
   },
   {
     question:
       "______ are responsible for communicating information between different neurons in the body.",
     options: ["Interneurons", "Sensory neurons", "Motor neurons", "Hormones"],
-    correctAnswer: "Interneurons",
+    answer: "Interneurons",
   },
   {
     question: "The connection between two nerve cells is known as a ______.",
     options: ["Synapse", "Axon", "Dendrite", "Neuron"],
-    correctAnswer: "Synapse",
+    answer: "Synapse",
   },
   {
     question:
       "______ is seen as the reaction to change in our relationship with the world.",
     options: ["Emotion", "Memory", "Learning", "Motivation"],
-    correctAnswer: "Emotion",
+    answer: "Emotion",
   },
   {
     question:
       "Forms of learning range from ______ to ______ depending on the number of stimuli involved.",
     options: ["Simple to complex", "Fast to slow", "Short to long", "Weak to strong"],
-    correctAnswer: "Simple to complex",
+    answer: "Simple to complex",
   },
   {
     question: "______ is a process of learning associations.",
     options: ["Conditioning", "Perception", "Motivation", "Sensation"],
-    correctAnswer: "Conditioning",
+    answer: "Conditioning",
   },
   {
     question:
@@ -13261,7 +13261,7 @@ export const allQuestions = {
       "Emotional and cognitive methods",
       "Biological and social methods",
     ],
-    correctAnswer: "Direct and defensive methods",
+    answer: "Direct and defensive methods",
   },
   {
     question:
@@ -13272,102 +13272,102 @@ export const allQuestions = {
       "Bones and muscles",
       "Eyes and ears",
     ],
-    correctAnswer: "Brain and spinal cord",
+    answer: "Brain and spinal cord",
   },
   {
     question: "The hypothalamus is located at the ______.",
     options: ["Base of the brain", "Top of the skull", "Spinal cord", "Cerebellum"],
-    correctAnswer: "Base of the brain",
+    answer: "Base of the brain",
   },
   {
     question:
       "The thalamus receives sensory information and relates this information to the ______.",
     options: ["Cerebral cortex", "Spinal cord", "Hypothalamus", "Medulla"],
-    correctAnswer: "Cerebral cortex",
+    answer: "Cerebral cortex",
   },
   {
     question:
       "Episodic and semantic memory are classified as types of ______ memory.",
     options: ["Long-term", "Short-term", "Sensory", "Working"],
-    correctAnswer: "Long-term",
+    answer: "Long-term",
   },
   {
     question:
       "One effective form of effortful processing is turning information into ______.",
     options: ["Mental imagery", "Noise", "Emotion", "Repetition only"],
-    correctAnswer: "Mental imagery",
+    answer: "Mental imagery",
   },
   {
     question:
       "There are two types of negative reinforcement: ______ and ______.",
     options: ["Escape and avoidance", "Positive and negative", "Direct and indirect", "Primary and secondary"],
-    correctAnswer: "Escape and avoidance",
+    answer: "Escape and avoidance",
   },
   {
     question:
       "There are two general categories of reinforcement: ______ and ______.",
     options: ["Positive and negative reinforcement", "Primary and secondary", "Direct and indirect", "Major and minor"],
-    correctAnswer: "Positive and negative reinforcement",
+    answer: "Positive and negative reinforcement",
   },
   {
     question:
       "______ is the tendency to become familiar with a stimulus after repeated exposure to it.",
     options: ["Habituation", "Extinction", "Punishment", "Generalization"],
-    correctAnswer: "Habituation",
+    answer: "Habituation",
   },
   {
     question:
       "______ are associated with emotions and pain perception.",
     options: ["Endorphins", "Dopamine", "Serotonin", "Adrenaline"],
-    correctAnswer: "Endorphins",
+    answer: "Endorphins",
   },
   {
     question:
       "The body releases ______ in response to fear or trauma.",
     options: ["Endorphins", "Glucose", "Oxygen", "Melatonin"],
-    correctAnswer: "Endorphins",
+    answer: "Endorphins",
   },
   {
     question:
       "______ is associated with thought and pleasure feelings.",
     options: ["Dopamine", "Serotonin", "Cortisol", "Adrenaline"],
-    correctAnswer: "Dopamine",
+    answer: "Dopamine",
   },
   {
     question:
       "Parkinson’s disease is associated with deficits in ______.",
     options: ["Dopamine", "Endorphins", "Adrenaline", "Glucose"],
-    correctAnswer: "Dopamine",
+    answer: "Dopamine",
   },
   {
     question:
       "Learning that occurs by watching other people is called ______.",
     options: ["Learning by observation", "Classical conditioning", "Habituation", "Extinction"],
-    correctAnswer: "Learning by observation",
+    answer: "Learning by observation",
   },
   {
     question:
       "______ is one of the best-known forms of cognitive therapy.",
     options: ["Rational emotive therapy", "Psychoanalysis", "Behavior therapy", "Hypnotherapy"],
-    correctAnswer: "Rational emotive therapy",
+    answer: "Rational emotive therapy",
   },
   {
     question:
       "______ refers to sexual love beyond the usual.",
     options: ["Paraphilia", "Phobia", "Depression", "Mania"],
-    correctAnswer: "Paraphilia",
+    answer: "Paraphilia",
   },
   {
     question:
       "______ refers to sexual activity with a child who has not reached puberty.",
     options: ["Pedophilia", "Paranoia", "Schizophrenia", "Neurosis"],
-    correctAnswer: "Pedophilia",
+    answer: "Pedophilia",
   },
   {
     question:
       "______ is the mental representation of information as a sequence of sounds.",
     options: ["Acoustic encoding", "Visual encoding", "Semantic encoding", "Chunking"],
-    correctAnswer: "Acoustic encoding",
+    answer: "Acoustic encoding",
   },
     ],
      "ENT 201": [
@@ -15129,72 +15129,72 @@ export const allQuestions = {
         {
     "question": "A computer is an electro-mechanical __________.",
     "options": ["Tool", "Device", "Facility", "Machine"],
-    "correctAnswer": "Device"
+    "answer": "Device"
   },
   {
     "question": "A computer performs a wide range of tasks, from simple calculations to complex simulations.",
     "options": ["True", "False", "Partially true", "None of the above"],
-    "correctAnswer": "True"
+    "answer": "True"
   },
   {
     "question": "__________ is operated under the control of instructions stored in its own memory.",
     "options": ["Computer", "Smart device", "Machine", "Calculator"],
-    "correctAnswer": "Computer"
+    "answer": "Computer"
   },
   {
     "question": "__________ is described as an electro-mechanical tool that processes and transmits data.",
     "options": ["Computer", "Binary number", "Smart device", "Router"],
-    "correctAnswer": "Computer"
+    "answer": "Computer"
   },
   {
     "question": "Smart devices use ______ to transmit data and information.",
     "options": ["Arabic numbers", "Roman figures", "Binary code", "Decimal code"],
-    "correctAnswer": "Binary code"
+    "answer": "Binary code"
   },
   {
     "question": "An example of binary code is ______.",
     "options": ["10s and 20s", "2s and 5s", "0s and 1s", "1s and 9s"],
-    "correctAnswer": "0s and 1s"
+    "answer": "0s and 1s"
   },
   {
     "question": "One of these authors gave an alternative definition of a computer.",
     "options": ["Abraham Lincoln", "Peter Drucker", "Socrates", "Vermaat"],
-    "correctAnswer": "Vermaat"
+    "answer": "Vermaat"
   },
   {
     "question": "Versatility functionality in computer means ______.",
     "options": ["Single purpose", "Dual purpose", "Numerous purposes", "No purpose"],
-    "correctAnswer": "Numerous purposes"
+    "answer": "Numerous purposes"
   },
   {
     "question": "Diligence functionality in computer means ______.",
     "options": ["Gets tired easily", "Weak easily", "Does not get tired", "Needs rest often"],
-    "correctAnswer": "Does not get tired"
+    "answer": "Does not get tired"
   },
   {
     "question": "Accuracy functionality in computer means ______.",
     "options": ["Minimum or error free", "More errors", "Moderate errors", "Random errors"],
-    "correctAnswer": "Minimum or error free"
+    "answer": "Minimum or error free"
   },
   {
     "question": "Binary-based processing means ______.",
     "options": ["Digital logic", "Program", "Software", "Hardware"],
-    "correctAnswer": "Digital logic"
+    "answer": "Digital logic"
   },
   {
     "question": "Binary-based processing is an attribute of ______.",
     "options": ["Computer", "Electrical device", "Mechanical device", "Smart device"],
-    "correctAnswer": "Computer"
+    "answer": "Computer"
   },
   {
     "question": "The visible and tangible parts of the computer are called ______.",
     "options": ["Software", "Hardware", "Program", "Firmware"],
-    "correctAnswer": "Hardware"
+    "answer": "Hardware"
   },
   {
     "question": "The visible and intangible parts of the computer are called ______.",
     "options": ["Software", "Hardware", "Keyboard", "Monitor"],
-    "correctAnswer": "Software"
+    "answer": "Software"
   },
   {
     "question": "An input device is used to ______.",
@@ -15204,7 +15204,7 @@ export const allQuestions = {
       "Delete instructions from the computer",
       "Store data permanently"
     ],
-    "correctAnswer": "Put data and instructions into the computer"
+    "answer": "Put data and instructions into the computer"
   },
   {
     "question": "An output device is used to ______.",
@@ -15214,67 +15214,67 @@ export const allQuestions = {
       "Delete instructions from the computer",
       "Input commands into memory"
     ],
-    "correctAnswer": "Bring out information from the computer"
+    "answer": "Bring out information from the computer"
   },
   {
     "question": "An example of an output device is ______.",
     "options": ["Monitor", "Printer", "Speaker", "All of the above"],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "An example of an input device is ______.",
     "options": ["Monitor", "Mouse", "Printer", "Speaker"],
-    "correctAnswer": "Mouse"
+    "answer": "Mouse"
   },
   {
     "question": "A device that can function as both input and output is ______.",
     "options": ["Monitor", "Touchscreen", "Keyboard", "Mouse"],
-    "correctAnswer": "Touchscreen"
+    "answer": "Touchscreen"
   },
   {
     "question": "Joystick is an example of a ______ device.",
     "options": ["Input device", "Output device", "Input and output device", "Storage device"],
-    "correctAnswer": "Input device"
+    "answer": "Input device"
   },
     {
     "question": "Light pen is an example of ______.",
     "options": ["Output device", "Input device", "Storage device", "Processing device"],
-    "correctAnswer": "Input device"
+    "answer": "Input device"
   },
   {
     "question": "Monitor can serve as both input and output device.",
     "options": ["True", "False", "Partially true", "None of the above"],
-    "correctAnswer": "False"
+    "answer": "False"
   },
   {
     "question": "Which device can function as both input and output device?",
     "options": ["Flash drive", "Memory card", "Touchscreen monitor", "Keyboard"],
-    "correctAnswer": "Touchscreen monitor"
+    "answer": "Touchscreen monitor"
   },
   {
     "question": "External devices attached to the computer are called ______.",
     "options": ["Peripherals", "Smart devices", "Network cables", "Adapters"],
-    "correctAnswer": "Peripherals"
+    "answer": "Peripherals"
   },
   {
     "question": "Which of the following is system software?",
     "options": ["MS Word", "MS Excel", "Windows", "PowerPoint"],
-    "correctAnswer": "Windows"
+    "answer": "Windows"
   },
   {
     "question": "The acronym CRT stands for ______.",
     "options": ["Cathode Ray Tube", "Commission Rate Turnover", "City Ray Tube", "Control Response Terminal"],
-    "correctAnswer": "Cathode Ray Tube"
+    "answer": "Cathode Ray Tube"
   },
   {
     "question": "CRT is a type of ______.",
     "options": ["Printer", "Mouse", "Monitor", "Scanner"],
-    "correctAnswer": "Monitor"
+    "answer": "Monitor"
   },
   {
     "question": "A standard keyboard generally has 101 keys.",
     "options": ["True", "False", "Sometimes", "Not sure"],
-    "correctAnswer": "True"
+    "answer": "True"
   },
   {
     "question": "System software is used to ______.",
@@ -15284,17 +15284,17 @@ export const allQuestions = {
       "Design graphics",
       "Play music"
     ],
-    "correctAnswer": "Manage and control hardware components"
+    "answer": "Manage and control hardware components"
   },
   {
     "question": "Utilities, Windows and Firmware are examples of ______.",
     "options": ["Linux", "Application software", "System software", "Programming language"],
-    "correctAnswer": "System software"
+    "answer": "System software"
   },
   {
     "question": "MS Excel, Media Player and Firefox are examples of ______.",
     "options": ["Application software", "System software", "Operating system", "Firmware"],
-    "correctAnswer": "Application software"
+    "answer": "Application software"
   },
   {
     "question": "Programming software is used to ______.",
@@ -15304,7 +15304,7 @@ export const allQuestions = {
       "Maintain programs",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "IDEs stands for ______.",
@@ -15314,57 +15314,57 @@ export const allQuestions = {
       "Internal Digital Environment",
       "Integrated Data Engine"
     ],
-    "correctAnswer": "Integrated Development Environments"
+    "answer": "Integrated Development Environments"
   },
   {
     "question": "Which device sends data into the computer?",
     "options": ["Output device", "External device", "Input device", "Monitor"],
-    "correctAnswer": "Input device"
+    "answer": "Input device"
   },
   {
     "question": "Which of the following is an input device?",
     "options": ["Keyboard", "Mouse", "Joystick", "All of the above"],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "To take data out of the computer, we need a ______.",
     "options": ["Input device", "Output device", "Application software", "Compiler"],
-    "correctAnswer": "Output device"
+    "answer": "Output device"
   },
   {
     "question": "KB stands for ______.",
     "options": ["Megabyte", "Kilobyte", "King Byte", "Kernel Bit"],
-    "correctAnswer": "Kilobyte"
+    "answer": "Kilobyte"
   },
   {
     "question": "One kilobyte is equal to ______ bytes.",
     "options": ["1000", "1024", "1012", "2048"],
-    "correctAnswer": "1024"
+    "answer": "1024"
   },
   {
     "question": "How many megabytes make one gigabyte?",
     "options": ["1024", "1000", "512", "2048"],
-    "correctAnswer": "1024"
+    "answer": "1024"
   },
   {
     "question": "A number from 0 to 255 represents ______.",
     "options": ["1 byte", "2 bytes", "4 bytes", "8 bytes"],
-    "correctAnswer": "1 byte"
+    "answer": "1 byte"
   },
     {
     "question": "About one page of text is approximately equal to ______.",
     "options": ["4 KB", "4 MB", "1 GB", "500 Bytes"],
-    "correctAnswer": "4 KB"
+    "answer": "4 KB"
   },
   {
     "question": "A three-minute song size is approximately equal to ______.",
     "options": ["3 MB", "3 GB", "4 KB", "500 KB"],
-    "correctAnswer": "3 MB"
+    "answer": "3 MB"
   },
   {
     "question": "90 bytes is enough to store a typical line of text from a book.",
     "options": ["True", "False", "Sometimes", "Not sure"],
-    "correctAnswer": "True"
+    "answer": "True"
   },
   {
     "question": "CPU stands for ______.",
@@ -15374,7 +15374,7 @@ export const allQuestions = {
       "Control Processing Unit",
       "Central Power Unit"
     ],
-    "correctAnswer": "Central Processing Unit"
+    "answer": "Central Processing Unit"
   },
   {
     "question": "File management involves ______.",
@@ -15384,17 +15384,17 @@ export const allQuestions = {
       "Storing files",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "CPU speed cycle is measured in ______.",
     "options": ["MB", "GB", "Hz", "Bytes"],
-    "correctAnswer": "Hz"
+    "answer": "Hz"
   },
   {
     "question": "Hz stands for ______.",
     "options": ["Hertz", "Heat zone", "Hard zone", "High zero"],
-    "correctAnswer": "Hertz"
+    "answer": "Hertz"
   },
   {
     "question": "A folder is like a ______ in a cabinet while a file is a ______ stored in that drawer.",
@@ -15404,7 +15404,7 @@ export const allQuestions = {
       "Cabinet and book",
       "Shelf and folder"
     ],
-    "correctAnswer": "Drawer and paper document"
+    "answer": "Drawer and paper document"
   },
   {
     "question": "Computers are classified mainly by ______ and ______.",
@@ -15414,7 +15414,7 @@ export const allQuestions = {
       "Size and power",
       "Colour and brand"
     ],
-    "correctAnswer": "Size and power"
+    "answer": "Size and power"
   },
   {
     "question": "A powerful multi-user computer capable of supporting other computers is a ______.",
@@ -15424,7 +15424,7 @@ export const allQuestions = {
       "Personal computer",
       "Laptop"
     ],
-    "correctAnswer": "Mainframe computer"
+    "answer": "Mainframe computer"
   },
   {
     "question": "An extremely fast computer that performs millions of instructions per second is a ______.",
@@ -15434,87 +15434,87 @@ export const allQuestions = {
       "Supercomputer",
       "Personal computer"
     ],
-    "correctAnswer": "Supercomputer"
+    "answer": "Supercomputer"
   },
   {
     "question": "Facts and figures which relay something specific are called ______.",
     "options": ["Data", "Information", "Knowledge", "Wisdom"],
-    "correctAnswer": "Data"
+    "answer": "Data"
   },
   {
     "question": "Unstructured facts and figures are called ______.",
     "options": ["Information", "Byte", "Data", "Knowledge"],
-    "correctAnswer": "Data"
+    "answer": "Data"
   },
   {
     "question": "Contextualized and processed data is called ______.",
     "options": ["Information", "Raw facts", "Bulk data", "Knowledge"],
-    "correctAnswer": "Information"
+    "answer": "Information"
   },
   {
     "question": "Which of the following paints a bigger picture?",
     "options": ["Data", "Information", "Raw data", "Figures"],
-    "correctAnswer": "Information"
+    "answer": "Information"
   },
   {
     "question": "________ is linked to doing and implies know-how and understanding.",
     "options": ["Data", "Information", "Knowledge", "Wisdom"],
-    "correctAnswer": "Knowledge"
+    "answer": "Knowledge"
   },
   {
     "question": "The content of the human mind can be classified into ______ categories.",
     "options": ["2", "3", "4", "5"],
-    "correctAnswer": "4"
+    "answer": "4"
   },
   {
     "question": "The application of data and information that answers 'how' questions is ______.",
     "options": ["Knowledge", "Wisdom", "Data", "Information"],
-    "correctAnswer": "Knowledge"
+    "answer": "Knowledge"
   },
   {
     "question": "________ is used to evaluate understanding.",
     "options": ["Wisdom", "Knowledge", "Data", "Information"],
-    "correctAnswer": "Wisdom"
+    "answer": "Wisdom"
   },
   {
     "question": "A small piece of software that piggybacks on real programs is called a ______.",
     "options": ["System software", "Application package", "Desktop publishing", "Virus"],
-    "correctAnswer": "Virus"
+    "answer": "Virus"
   },
     {
     "question": "Which of the following is a type of computer virus?",
     "options": ["Trojan horse", "Worm", "Spyware", "All of the above"],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "Anti-virus software is used to ______.",
     "options": ["Allow viruses", "Prevent viruses", "Remove viruses", "Prevent and remove viruses"],
-    "correctAnswer": "Prevent and remove viruses"
+    "answer": "Prevent and remove viruses"
   },
   {
     "question": "An example of anti-virus software is ______.",
     "options": ["Avast", "Kaspersky", "Norton", "All of the above"],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "The act of collecting information or data from the internet is called ______.",
     "options": ["Downloading", "Uploading", "Surfing", "Browsing"],
-    "correctAnswer": "Downloading"
+    "answer": "Downloading"
   },
   {
     "question": "The act of putting information or data on the internet is called ______.",
     "options": ["Downloading", "Uploading", "Surfing", "Browsing"],
-    "correctAnswer": "Uploading"
+    "answer": "Uploading"
   },
   {
     "question": "A small piece of software that uses computer networks and security holes to replicate itself is called a ______.",
     "options": ["Trojan horse", "Worm", "MS Word", "Firewall"],
-    "correctAnswer": "Worm"
+    "answer": "Worm"
   },
   {
     "question": "The buying and selling of goods and services is associated with ______.",
     "options": ["Relationship", "Skills", "Business", "Services"],
-    "correctAnswer": "Business"
+    "answer": "Business"
   },
   {
     "question": "Data and information vary from ______ to ______.",
@@ -15524,32 +15524,32 @@ export const allQuestions = {
       "Organization to organization",
       "Country to continent"
     ],
-    "correctAnswer": "Organization to organization"
+    "answer": "Organization to organization"
   },
   {
     "question": "Today, computers are inevitable in business transactions.",
     "options": ["True", "False", "Not sure", "Partially true"],
-    "correctAnswer": "True"
+    "answer": "True"
   },
   {
     "question": "Finacle is software used in ______.",
     "options": ["Schools", "Hospitals", "Banks", "Libraries"],
-    "correctAnswer": "Banks"
+    "answer": "Banks"
   },
   {
     "question": "The use of computers and internet technologies to provide medical care at a distance is called ______.",
     "options": ["Flexcube", "Telemedicine", "Surfing", "E-commerce"],
-    "correctAnswer": "Telemedicine"
+    "answer": "Telemedicine"
   },
   {
     "question": "A small, single-user computer based on a microprocessor is called a ______.",
     "options": ["Supercomputer", "Mainframe computer", "Personal computer", "Mini computer"],
-    "correctAnswer": "Personal computer"
+    "answer": "Personal computer"
   },
   {
     "question": "Problems or challenges in an organization are part of life.",
     "options": ["True", "False", "Not really", "None of the above"],
-    "correctAnswer": "True"
+    "answer": "True"
   },
   {
     "question": "The first step in solving a problem using a computer is ______.",
@@ -15559,7 +15559,7 @@ export const allQuestions = {
       "Data filtering",
       "Solution evaluation"
     ],
-    "correctAnswer": "Problem analysis and identification"
+    "answer": "Problem analysis and identification"
   },
   {
     "question": "The last step in solving a problem using a computer is ______.",
@@ -15569,37 +15569,37 @@ export const allQuestions = {
       "Data filtering",
       "Solution evaluation"
     ],
-    "correctAnswer": "Solution evaluation"
+    "answer": "Solution evaluation"
   },
   {
     "question": "The best software to compute compound interest investment is ______.",
     "options": ["MS Word", "MS PowerPoint", "CorelDraw", "MS Excel"],
-    "correctAnswer": "MS Excel"
+    "answer": "MS Excel"
   },
   {
     "question": "Software that allows users to create, edit, format, and store text documents is ______.",
     "options": ["MS Word", "MS Excel", "MS PowerPoint", "MS Access"],
-    "correctAnswer": "MS Word"
+    "answer": "MS Word"
   },
   {
     "question": "A core component of Microsoft Office widely used for calculations and data analysis is ______.",
     "options": ["MS Access", "MS Excel", "MS PowerPoint", "MS Word"],
-    "correctAnswer": "MS Excel"
+    "answer": "MS Excel"
   },
   {
     "question": "Document creation and editing is a key feature of ______.",
     "options": ["MS PowerPoint", "MS Excel", "MS Word", "MS Outlook"],
-    "correctAnswer": "MS Word"
+    "answer": "MS Word"
   },
   {
     "question": "Opening MS Word as an application package is called ______.",
     "options": ["Exit", "Launch", "Login", "Install"],
-    "correctAnswer": "Launch"
+    "answer": "Launch"
   },
     {
     "question": "Items on the MS Word environment are called ______.",
     "options": ["Default things", "Default items", "Default features", "Icons"],
-    "correctAnswer": "Icons"
+    "answer": "Icons"
   },
   {
     "question": "The title bar helps to ______.",
@@ -15609,22 +15609,22 @@ export const allQuestions = {
       "Move document up and down",
       "Move document left to right"
     ],
-    "correctAnswer": "Display software name"
+    "answer": "Display software name"
   },
   {
     "question": "________ treats data in rows and columns with the use of cells.",
     "options": ["Cell", "Rows", "Columns", "Table"],
-    "correctAnswer": "Table"
+    "answer": "Table"
   },
   {
     "question": "Pictorial representation of information using X and Y axis is called ______.",
     "options": ["Chart", "Table", "Diagram", "Cell"],
-    "correctAnswer": "Chart"
+    "answer": "Chart"
   },
   {
     "question": "Schematic representation of the flow of information is called ______.",
     "options": ["Table", "Diagram", "Chart", "Cell"],
-    "correctAnswer": "Diagram"
+    "answer": "Diagram"
   },
   {
     "question": "The New command is used to ______.",
@@ -15634,22 +15634,22 @@ export const allQuestions = {
       "Delete a document",
       "Save a document"
     ],
-    "correctAnswer": "Create a fresh document"
+    "answer": "Create a fresh document"
   },
   {
     "question": "The process of changing the appearance of text is called ______.",
     "options": ["Enhancing", "Formatting", "Editing", "Styling"],
-    "correctAnswer": "Formatting"
+    "answer": "Formatting"
   },
   {
     "question": "Which command changes text colour?",
     "options": ["Font size", "Font style", "Font colour", "Font effect"],
-    "correctAnswer": "Font colour"
+    "answer": "Font colour"
   },
   {
     "question": "Text size can be increased or decreased using the ______ command.",
     "options": ["Font size", "Font colour", "Font style", "Font effect"],
-    "correctAnswer": "Font size"
+    "answer": "Font size"
   },
   {
     "question": "The acronym BIU stands for ______.",
@@ -15659,27 +15659,27 @@ export const allQuestions = {
       "Bold, Underline and Italic",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "The keyboard shortcut to save a document is ______.",
     "options": ["Ctrl + A", "Ctrl + L", "Ctrl + S", "Ctrl + N"],
-    "correctAnswer": "Ctrl + S"
+    "answer": "Ctrl + S"
   },
   {
     "question": "The intersection of rows and columns forms a ______.",
     "options": ["Cell", "Row", "Column", "Table"],
-    "correctAnswer": "Cell"
+    "answer": "Cell"
   },
   {
     "question": "Adding two or more cells together into one is called ______.",
     "options": ["Split cell", "Delete cell", "Merge cell", "Copy cell"],
-    "correctAnswer": "Merge cell"
+    "answer": "Merge cell"
   },
   {
     "question": "The Insert tab contains commands to insert tables and pictures into a document.",
     "options": ["True", "False", "Not sure", "Partially true"],
-    "correctAnswer": "True"
+    "answer": "True"
   },
   {
     "question": "To remove unwanted rows and columns, use the ______ command.",
@@ -15689,17 +15689,17 @@ export const allQuestions = {
       "Split rows and columns",
       "Merge rows and columns"
     ],
-    "correctAnswer": "Delete rows and columns"
+    "answer": "Delete rows and columns"
   },
   {
     "question": "The keyboard shortcut to open a file is ______.",
     "options": ["Ctrl + O", "Ctrl + K", "Ctrl + L", "Ctrl + U"],
-    "correctAnswer": "Ctrl + O"
+    "answer": "Ctrl + O"
   },
   {
     "question": "________ is an electronic ledger used to store and analyze data in tabular format.",
     "options": ["Word", "PowerPoint", "CorelDraw", "Excel"],
-    "correctAnswer": "Excel"
+    "answer": "Excel"
   },
   {
     "question": "Excel is distinguished by its ability to perform ______.",
@@ -15709,7 +15709,7 @@ export const allQuestions = {
       "Create graphs",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "Why does Excel matter for productivity?",
@@ -15719,152 +15719,152 @@ export const allQuestions = {
       "It improves accuracy and planning",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "To launch MS Excel means to ______.",
     "options": ["Exit Excel", "Close Excel", "Open Excel", "Install Excel"],
-    "correctAnswer": "Open Excel"
+    "answer": "Open Excel"
   },
     {
     "question": "The Name Box in MS Excel displays the ______.",
     "options": ["Cell colour", "Cell status", "Cell address", "Cell border"],
-    "correctAnswer": "Cell address"
+    "answer": "Cell address"
   },
   {
     "question": "An active cell in Excel is characterized by a ______.",
     "options": ["Thick border", "Light border", "Red line", "Dotted border"],
-    "correctAnswer": "Thick border"
+    "answer": "Thick border"
   },
   {
     "question": "A collection of worksheets is called a ______.",
     "options": ["Workbook", "Data sheet", "Work paper", "Spreadsheet"],
-    "correctAnswer": "Workbook"
+    "answer": "Workbook"
   },
   {
     "question": "By default, a new Excel workbook contains ______ worksheet(s).",
     "options": ["1", "2", "3", "4"],
-    "correctAnswer": "1"
+    "answer": "1"
   },
   {
     "question": "Each box where you enter data in Excel is called a ______.",
     "options": ["Cell", "Column", "Row", "Block"],
-    "correctAnswer": "Cell"
+    "answer": "Cell"
   },
   {
     "question": "Vertical lines in Excel are called ______.",
     "options": ["Cells", "Columns", "Rows", "Ranges"],
-    "correctAnswer": "Columns"
+    "answer": "Columns"
   },
   {
     "question": "Horizontal lines in Excel are called ______.",
     "options": ["Cells", "Columns", "Rows", "Ranges"],
-    "correctAnswer": "Rows"
+    "answer": "Rows"
   },
   {
     "question": "The combination of a column letter and row number is called the ______.",
     "options": ["Cell name", "Column name", "Row name", "Sheet name"],
-    "correctAnswer": "Cell name"
+    "answer": "Cell name"
   },
   {
     "question": "The entire Excel file is called a ______.",
     "options": ["Workbook", "Worksheet", "Column", "Row"],
-    "correctAnswer": "Workbook"
+    "answer": "Workbook"
   },
   {
     "question": "The main interface in Excel containing tabs and groups of commands is called the ______.",
     "options": ["Rows", "Columns", "Ribbon", "Formula bar"],
-    "correctAnswer": "Ribbon"
+    "answer": "Ribbon"
   },
   {
     "question": "The Ribbon is divided into various ______.",
     "options": ["Groups", "Cells", "Columns", "Sheets"],
-    "correctAnswer": "Groups"
+    "answer": "Groups"
   },
   {
     "question": "The ______ tab provides access to the Function Library and formula auditing tools.",
     "options": ["Formulas tab", "Name box", "Home tab", "Insert tab"],
-    "correctAnswer": "Formulas tab"
+    "answer": "Formulas tab"
   },
   {
     "question": "A predefined built-in formula that performs a specific task is called a ______.",
     "options": ["Formula", "Function", "Cell address", "Argument"],
-    "correctAnswer": "Function"
+    "answer": "Function"
   },
   {
     "question": "A combination of operators, values, and cell references that evaluates to a value is called a ______.",
     "options": ["Formula", "Function", "Cell address", "Range"],
-    "correctAnswer": "Formula"
+    "answer": "Formula"
   },
   {
     "question": "Cells arranged in sequence vertically or horizontally are called a ______.",
     "options": ["Block of cells", "Range of cells", "Group of cells", "Table"],
-    "correctAnswer": "Range of cells"
+    "answer": "Range of cells"
   },
   {
     "question": "Combining two or more cells into one cell is called ______.",
     "options": ["Merge cells", "Add cells", "Group cells", "Split cells"],
-    "correctAnswer": "Merge cells"
+    "answer": "Merge cells"
   },
   {
     "question": "Showing only rows that meet certain criteria in Excel is called ______.",
     "options": ["Sorting", "Filter", "Merge", "Grouping"],
-    "correctAnswer": "Filter"
+    "answer": "Filter"
   },
   {
     "question": "Arranging data alphabetically or numerically is called ______.",
     "options": ["Blocking", "Sorting", "Filtering", "Merging"],
-    "correctAnswer": "Sorting"
+    "answer": "Sorting"
   },
   {
     "question": "A single spreadsheet within a workbook is called a ______.",
     "options": ["Worksheet", "Workbook", "Cell", "Range"],
-    "correctAnswer": "Worksheet"
+    "answer": "Worksheet"
   },
   {
     "question": "The ______ tab contains commands for formatting, alignment, styles, and editing.",
     "options": ["Home tab", "Insert tab", "View tab", "Data tab"],
-    "correctAnswer": "Home tab"
+    "answer": "Home tab"
   },
     {
     "question": "Sorting and filtering commands are found in which tab in Excel?",
     "options": ["Home tab", "Data tab", "View tab", "Insert tab"],
-    "correctAnswer": "Data tab"
+    "answer": "Data tab"
   },
   {
     "question": "A powerful presentation software developed by Microsoft is called ______.",
     "options": ["MS Word", "MS Excel", "MS Access", "MS PowerPoint"],
-    "correctAnswer": "MS PowerPoint"
+    "answer": "MS PowerPoint"
   },
   {
     "question": "The file extension for Microsoft PowerPoint is ______.",
     "options": [".doc", ".xls", ".ppt", ".exe"],
-    "correctAnswer": ".ppt"
+    "answer": ".ppt"
   },
   {
     "question": "Slide presentations shown visually to an audience can be created using ______.",
     "options": ["MS Word", "MS PowerPoint", "MS Access", "MS Excel"],
-    "correctAnswer": "MS PowerPoint"
+    "answer": "MS PowerPoint"
   },
   {
     "question": "Multimedia integration allows inclusion of ______ in presentations.",
     "options": ["Images", "Video", "Audio", "All of the above"],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "Users can add transitions between ______ in PowerPoint.",
     "options": ["Slides", "Paragraphs", "Cells", "Worksheets"],
-    "correctAnswer": "Slides"
+    "answer": "Slides"
   },
   {
     "question": "The keyboard shortcut to start a slideshow in PowerPoint is ______.",
     "options": ["F1", "F5", "Ctrl + S", "Ctrl + P"],
-    "correctAnswer": "F5"
+    "answer": "F5"
   },
   {
     "question": "The default view for creating and editing slides in PowerPoint is called ______.",
     "options": ["Slide Show view", "Normal view", "Reading view", "Outline view"],
-    "correctAnswer": "Normal view"
+    "answer": "Normal view"
   },
   {
     "question": "A design template in PowerPoint is used to ______.",
@@ -15874,12 +15874,12 @@ export const allQuestions = {
       "Delete slides automatically",
       "Add formulas"
     ],
-    "correctAnswer": "Apply a consistent style to slides"
+    "answer": "Apply a consistent style to slides"
   },
   {
     "question": "Which tab in PowerPoint is used to insert pictures and shapes?",
     "options": ["Home tab", "Design tab", "Insert tab", "View tab"],
-    "correctAnswer": "Insert tab"
+    "answer": "Insert tab"
   },
   {
     "question": "Animations in PowerPoint are used to ______.",
@@ -15889,7 +15889,7 @@ export const allQuestions = {
       "Change background colour only",
       "Print slides"
     ],
-    "correctAnswer": "Add movement effects to objects"
+    "answer": "Add movement effects to objects"
   },
   {
     "question": "The Slide Sorter view is used to ______.",
@@ -15899,7 +15899,7 @@ export const allQuestions = {
       "Edit text formatting",
       "Start slideshow"
     ],
-    "correctAnswer": "Rearrange slides"
+    "answer": "Rearrange slides"
   },
   {
     "question": "A placeholder in PowerPoint is used to ______.",
@@ -15909,7 +15909,7 @@ export const allQuestions = {
       "Change font automatically",
       "Lock slides"
     ],
-    "correctAnswer": "Hold text or content"
+    "answer": "Hold text or content"
   },
   {
     "question": "The Notes section in PowerPoint is used to ______.",
@@ -15919,12 +15919,12 @@ export const allQuestions = {
       "Change slide colour",
       "Print handouts only"
     ],
-    "correctAnswer": "Add speaker notes"
+    "answer": "Add speaker notes"
   },
   {
     "question": "Which of the following is used to print slides?",
     "options": ["File tab", "Insert tab", "Design tab", "Animations tab"],
-    "correctAnswer": "File tab"
+    "answer": "File tab"
   },
   {
     "question": "A slide layout determines ______.",
@@ -15934,7 +15934,7 @@ export const allQuestions = {
       "The printer settings",
       "The file extension"
     ],
-    "correctAnswer": "The arrangement of content on a slide"
+    "answer": "The arrangement of content on a slide"
   },
   {
     "question": "MS Access is mainly used for ______.",
@@ -15944,7 +15944,7 @@ export const allQuestions = {
       "Presentation creation",
       "Image editing"
     ],
-    "correctAnswer": "Data storage and database management"
+    "answer": "Data storage and database management"
   },
   {
     "question": "A database is a collection of ______.",
@@ -15954,12 +15954,12 @@ export const allQuestions = {
       "Charts only",
       "Slides"
     ],
-    "correctAnswer": "Related data"
+    "answer": "Related data"
   },
   {
     "question": "Which key is used to insert a new slide in PowerPoint?",
     "options": ["Ctrl + N", "Ctrl + M", "Ctrl + S", "Ctrl + P"],
-    "correctAnswer": "Ctrl + M"
+    "answer": "Ctrl + M"
   },
   {
     "question": "The Design tab in PowerPoint is mainly used to ______.",
@@ -15969,39 +15969,39 @@ export const allQuestions = {
       "Add formulas",
       "Delete slides"
     ],
-    "correctAnswer": "Apply themes and backgrounds"
+    "answer": "Apply themes and backgrounds"
   },
     ],
     "FIN 216":[
         {
     "question": "Which of the following is a basic requirement of a valid insurance contract?",
     "options": ["Gambling interest", "Insurable interest", "Speculation", "Profit motive"],
-    "correctAnswer": "Insurable interest"
+    "answer": "Insurable interest"
   },
   {
     "question": "Insurable interest must exist at the time of loss in which type of insurance?",
     "options": ["Life insurance", "Fire insurance", "Endowment insurance", "Pension insurance"],
-    "correctAnswer": "Fire insurance"
+    "answer": "Fire insurance"
   },
   {
     "question": "The principle that requires both parties to disclose all material facts is known as:",
     "options": ["Indemnity", "Subrogation", "Utmost good faith", "Contribution"],
-    "correctAnswer": "Utmost good faith"
+    "answer": "Utmost good faith"
   },
   {
     "question": "Which of the following shows acceptance in an insurance contract?",
     "options": ["Proposal form", "Premium payment", "Insurance policy issuance", "Claim form"],
-    "correctAnswer": "Insurance policy issuance"
+    "answer": "Insurance policy issuance"
   },
   {
     "question": "The consideration paid by the insured to the insurer is called:",
     "options": ["Claim", "Bonus", "Premium", "Dividend"],
-    "correctAnswer": "Premium"
+    "answer": "Premium"
   },
   {
     "question": "Which of the following is NOT a requirement of a valid insurance contract?",
     "options": ["Legal purpose", "Insurable interest", "Agreement", "Wagering intention"],
-    "correctAnswer": "Wagering intention"
+    "answer": "Wagering intention"
   },
   {
     "question": "The capacity to enter into an insurance contract means that:",
@@ -16011,22 +16011,22 @@ export const allQuestions = {
       "The premium must be paid yearly",
       "The policy must be renewed"
     ],
-    "correctAnswer": "Parties must be of legal age and sound mind"
+    "answer": "Parties must be of legal age and sound mind"
   },
   {
     "question": "An insurance contract becomes binding when there is:",
     "options": ["Offer only", "Acceptance only", "Offer and acceptance", "Claim settlement"],
-    "correctAnswer": "Offer and acceptance"
+    "answer": "Offer and acceptance"
   },
   {
     "question": "Which document serves as evidence of an insurance contract?",
     "options": ["Proposal form", "Cover note", "Insurance policy", "Receipt"],
-    "correctAnswer": "Insurance policy"
+    "answer": "Insurance policy"
   },
   {
     "question": "The requirement that the insurance contract must not be illegal is known as:",
     "options": ["Legal consideration", "Legal capacity", "Legal purpose", "Insurable interest"],
-    "correctAnswer": "Legal purpose"
+    "answer": "Legal purpose"
   },
   {
     "question": "Insurable interest means that the insured:",
@@ -16036,52 +16036,52 @@ export const allQuestions = {
       "Will suffer financial loss if the insured event occurs",
       "Is an insurance company"
     ],
-    "correctAnswer": "Will suffer financial loss if the insured event occurs"
+    "answer": "Will suffer financial loss if the insured event occurs"
   },
   {
     "question": "Which of the following is NOT a requirement of an insurance contract?",
     "options": ["Offer and acceptance", "Consideration", "Insurable interest", "Gambling intention"],
-    "correctAnswer": "Gambling intention"
+    "answer": "Gambling intention"
   },
   {
     "question": "In insurance, consideration refers to:",
     "options": ["Policy document", "Premium paid by the insured", "Claim settlement", "Risk covered"],
-    "correctAnswer": "Premium paid by the insured"
+    "answer": "Premium paid by the insured"
   },
   {
     "question": "The agreement between the insurer and the insured becomes valid when there is:",
     "options": ["Payment of claim", "Loss occurrence", "Offer and acceptance", "Policy cancellation"],
-    "correctAnswer": "Offer and acceptance"
+    "answer": "Offer and acceptance"
   },
   {
     "question": "Which principle ensures that the insured is restored to the original financial position before the loss?",
     "options": ["Utmost good faith", "Indemnity", "Insurable interest", "Subrogation"],
-    "correctAnswer": "Indemnity"
+    "answer": "Indemnity"
   },
   {
     "question": "Utmost good faith in insurance contracts requires:",
     "options": ["Partial disclosure", "Disclosure by insurer only", "Full disclosure by both parties", "No disclosure at all"],
-    "correctAnswer": "Full disclosure by both parties"
+    "answer": "Full disclosure by both parties"
   },
   {
     "question": "An insurance contract without insurable interest is considered:",
     "options": ["Legal", "Enforceable", "Void", "Profitable"],
-    "correctAnswer": "Void"
+    "answer": "Void"
   },
   {
     "question": "Which of the following parties pays the premium?",
     "options": ["Insurer", "Agent", "Insured", "Broker"],
-    "correctAnswer": "Insured"
+    "answer": "Insured"
   },
   {
     "question": "The insurance company is also known as the:",
     "options": ["Insured", "Assured", "Insurer", "Beneficiary"],
-    "correctAnswer": "Insurer"
+    "answer": "Insurer"
   },
   {
     "question": "Which of the following best describes an insurance contract?",
     "options": ["Social agreement", "Gambling contract", "Legal contract", "Verbal promise"],
-    "correctAnswer": "Legal contract"
+    "answer": "Legal contract"
   },
     {
     "question": "What is insurable interest?",
@@ -16091,17 +16091,17 @@ export const allQuestions = {
       "Financial relationship that may cause loss",
       "Agreement between insurer and insured"
     ],
-    "correctAnswer": "Financial relationship that may cause loss"
+    "answer": "Financial relationship that may cause loss"
   },
   {
     "question": "Insurable interest must exist in which type of insurance at the time of loss?",
     "options": ["Life insurance", "Fire insurance", "Marine insurance", "All types of insurance"],
-    "correctAnswer": "Fire insurance"
+    "answer": "Fire insurance"
   },
   {
     "question": "Who has insurable interest in his own life?",
     "options": ["Employer", "Creditor", "The individual himself", "Insurance company"],
-    "correctAnswer": "The individual himself"
+    "answer": "The individual himself"
   },
   {
     "question": "Which of the following has insurable interest in a mortgaged property?",
@@ -16111,22 +16111,22 @@ export const allQuestions = {
       "Both mortgagor and mortgagee",
       "The insurer"
     ],
-    "correctAnswer": "Both mortgagor and mortgagee"
+    "answer": "Both mortgagor and mortgagee"
   },
   {
     "question": "Insurable interest helps to prevent which of the following?",
     "options": ["Fraud", "Gambling", "Fire", "Accidents"],
-    "correctAnswer": "Gambling"
+    "answer": "Gambling"
   },
   {
     "question": "A creditor has insurable interest in the life of a debtor to the extent of:",
     "options": ["Debtor’s income", "Amount of debt", "Debtor’s age", "Policy value"],
-    "correctAnswer": "Amount of debt"
+    "answer": "Amount of debt"
   },
   {
     "question": "Which insurance contract does NOT require insurable interest at the time of loss?",
     "options": ["Fire insurance", "Marine insurance", "Life insurance", "Property insurance"],
-    "correctAnswer": "Life insurance"
+    "answer": "Life insurance"
   },
   {
     "question": "In marine insurance, insurable interest must exist:",
@@ -16136,17 +16136,17 @@ export const allQuestions = {
       "At both times",
       "At any time"
     ],
-    "correctAnswer": "Only at the time of loss"
+    "answer": "Only at the time of loss"
   },
   {
     "question": "A person can insure his house because he has:",
     "options": ["Emotional interest", "Legal interest", "Speculative interest", "No interest"],
-    "correctAnswer": "Legal interest"
+    "answer": "Legal interest"
   },
   {
     "question": "Insurable interest is essential for a contract of insurance to be:",
     "options": ["Profitable", "Legal", "Long-term", "Transferable"],
-    "correctAnswer": "Legal"
+    "answer": "Legal"
   },
   {
     "question": "Which of the following has NO insurable interest?",
@@ -16156,7 +16156,7 @@ export const allQuestions = {
       "Stranger in another person’s life",
       "Creditor in debtor’s life"
     ],
-    "correctAnswer": "Stranger in another person’s life"
+    "answer": "Stranger in another person’s life"
   },
   {
     "question": "The main purpose of insurable interest is to:",
@@ -16166,7 +16166,7 @@ export const allQuestions = {
       "Ensure compensation for loss",
       "Encourage betting"
     ],
-    "correctAnswer": "Ensure compensation for loss"
+    "answer": "Ensure compensation for loss"
   },
   {
     "question": "Insurable interest in fire insurance must exist:",
@@ -16176,7 +16176,7 @@ export const allQuestions = {
       "At the time of loss",
       "After loss"
     ],
-    "correctAnswer": "At the time of loss"
+    "answer": "At the time of loss"
   },
   {
     "question": "Which law supports the principle of insurable interest?",
@@ -16186,7 +16186,7 @@ export const allQuestions = {
       "Law of tort",
       "Law of negligence"
     ],
-    "correctAnswer": "Law of contract"
+    "answer": "Law of contract"
   },
   {
     "question": "A tenant has insurable interest in:",
@@ -16196,17 +16196,17 @@ export const allQuestions = {
       "Neighbor’s house",
       "Public buildings"
     ],
-    "correctAnswer": "Rented property"
+    "answer": "Rented property"
   },
   {
     "question": "Parents have insurable interest in the life of their:",
     "options": ["Friends", "Relatives", "Children", "Employees"],
-    "correctAnswer": "Children"
+    "answer": "Children"
   },
   {
     "question": "Without insurable interest, an insurance contract becomes:",
     "options": ["Profitable", "Valid", "Illegal", "Binding"],
-    "correctAnswer": "Illegal"
+    "answer": "Illegal"
   },
   {
     "question": "Insurable interest arises from:",
@@ -16216,7 +16216,7 @@ export const allQuestions = {
       "Legal or financial relationship",
       "Insurance premium"
     ],
-    "correctAnswer": "Legal or financial relationship"
+    "answer": "Legal or financial relationship"
   },
   {
     "question": "Which of the following best describes insurable interest?",
@@ -16226,7 +16226,7 @@ export const allQuestions = {
       "Risk of financial loss",
       "Expectation of bonus"
     ],
-    "correctAnswer": "Risk of financial loss"
+    "answer": "Risk of financial loss"
   },
   {
     "question": "What is contract renewal?",
@@ -16236,7 +16236,7 @@ export const allQuestions = {
       "Cancelling a contract permanently",
       "Transferring a contract to another party"
     ],
-    "correctAnswer": "Extending a contract after its expiration"
+    "answer": "Extending a contract after its expiration"
   },
     {
     "question": "Which document is usually reviewed before renewing a contract?",
@@ -16246,7 +16246,7 @@ export const allQuestions = {
       "Memorandum of understanding",
       "Letter of recommendation"
     ],
-    "correctAnswer": "Original contract agreement"
+    "answer": "Original contract agreement"
   },
   {
     "question": "Who is responsible for initiating a contract renewal?",
@@ -16256,7 +16256,7 @@ export const allQuestions = {
       "A third party",
       "The court"
     ],
-    "correctAnswer": "Any party to the contract"
+    "answer": "Any party to the contract"
   },
   {
     "question": "When should a contract renewal process ideally begin?",
@@ -16266,7 +16266,7 @@ export const allQuestions = {
       "Before the contract expires",
       "During a dispute"
     ],
-    "correctAnswer": "Before the contract expires"
+    "answer": "Before the contract expires"
   },
   {
     "question": "Which factor is most important when deciding to renew a contract?",
@@ -16276,7 +16276,7 @@ export const allQuestions = {
       "Contract paper quality",
       "Contract title"
     ],
-    "correctAnswer": "Past performance of parties"
+    "answer": "Past performance of parties"
   },
   {
     "question": "What happens if both parties agree to renew a contract?",
@@ -16286,7 +16286,7 @@ export const allQuestions = {
       "The contract automatically ends",
       "The court must approve it"
     ],
-    "correctAnswer": "A new or revised contract is signed"
+    "answer": "A new or revised contract is signed"
   },
   {
     "question": "Which of the following may change during contract renewal?",
@@ -16296,7 +16296,7 @@ export const allQuestions = {
       "Contract history",
       "Contract existence"
     ],
-    "correctAnswer": "Contract terms and conditions"
+    "answer": "Contract terms and conditions"
   },
   {
     "question": "What is the effect of renewing a contract?",
@@ -16306,7 +16306,7 @@ export const allQuestions = {
       "It cancels all previous terms",
       "It transfers ownership"
     ],
-    "correctAnswer": "It continues contractual obligations"
+    "answer": "It continues contractual obligations"
   },
   {
     "question": "Failure to renew a contract before expiration may result in:",
@@ -16316,7 +16316,7 @@ export const allQuestions = {
       "Immediate court action",
       "Criminal liability"
     ],
-    "correctAnswer": "Legal uncertainty or termination"
+    "answer": "Legal uncertainty or termination"
   },
   {
     "question": "Which clause in a contract provides guidance on renewal?",
@@ -16326,7 +16326,7 @@ export const allQuestions = {
       "Confidentiality clause",
       "Consideration clause"
     ],
-    "correctAnswer": "Renewal clause"
+    "answer": "Renewal clause"
   },
   {
     "question": "Indemnity in insurance means:",
@@ -16336,7 +16336,7 @@ export const allQuestions = {
       "Compensation equal to the loss suffered",
       "Payment of the sum insured in all cases"
     ],
-    "correctAnswer": "Compensation equal to the loss suffered"
+    "answer": "Compensation equal to the loss suffered"
   },
   {
     "question": "The main objective of indemnity is to:",
@@ -16346,7 +16346,7 @@ export const allQuestions = {
       "Punish the insured",
       "Increase insurance premiums"
     ],
-    "correctAnswer": "Restore the insured to the original financial position"
+    "answer": "Restore the insured to the original financial position"
   },
   {
     "question": "Which of the following insurance policies is NOT a contract of indemnity?",
@@ -16356,7 +16356,7 @@ export const allQuestions = {
       "Motor insurance",
       "Life insurance"
     ],
-    "correctAnswer": "Life insurance"
+    "answer": "Life insurance"
   },
   {
     "question": "Under the principle of indemnity, the insured can receive:",
@@ -16366,7 +16366,7 @@ export const allQuestions = {
       "Exactly the amount of the loss",
       "Any amount agreed"
     ],
-    "correctAnswer": "Exactly the amount of the loss"
+    "answer": "Exactly the amount of the loss"
   },
   {
     "question": "The maximum compensation payable under indemnity is:",
@@ -16376,7 +16376,7 @@ export const allQuestions = {
       "Sum insured only",
       "Actual loss or sum insured, whichever is lower"
     ],
-    "correctAnswer": "Actual loss or sum insured, whichever is lower"
+    "answer": "Actual loss or sum insured, whichever is lower"
   },
   {
     "question": "Which of the following methods is used to apply indemnity?",
@@ -16386,7 +16386,7 @@ export const allQuestions = {
       "Cash payment",
       "Investment"
     ],
-    "correctAnswer": "Cash payment"
+    "answer": "Cash payment"
   },
   {
     "question": "Indemnity prevents the insured from:",
@@ -16396,7 +16396,7 @@ export const allQuestions = {
       "Making profit from insurance",
       "Insuring property"
     ],
-    "correctAnswer": "Making profit from insurance"
+    "answer": "Making profit from insurance"
   },
   {
     "question": "Reinstatement as a method of indemnity means:",
@@ -16406,7 +16406,7 @@ export const allQuestions = {
       "Cancelling the policy",
       "Increasing the sum insured"
     ],
-    "correctAnswer": "Repairing or replacing damaged property"
+    "answer": "Repairing or replacing damaged property"
   },
   {
     "question": "Which principle supports indemnity by allowing insurers to recover from third parties?",
@@ -16416,7 +16416,7 @@ export const allQuestions = {
       "Subrogation",
       "Utmost good faith"
     ],
-    "correctAnswer": "Subrogation"
+    "answer": "Subrogation"
   },
   {
     "question": "Indemnity is best described as:",
@@ -16426,7 +16426,7 @@ export const allQuestions = {
       "A compensation contract",
       "A speculative agreement"
     ],
-    "correctAnswer": "A compensation contract"
+    "answer": "A compensation contract"
   },
   {
     "question": "An insurance underwriter is a person who:",
@@ -16436,7 +16436,7 @@ export const allQuestions = {
       "Pays insurance claims",
       "Collects insurance premiums"
     ],
-    "correctAnswer": "Assesses and accepts insurance risks"
+    "answer": "Assesses and accepts insurance risks"
   },
     {
     "question": "The main duty of an insurance underwriter is to:",
@@ -16446,7 +16446,7 @@ export const allQuestions = {
       "Settle claims",
       "Manage insurance agents"
     ],
-    "correctAnswer": "Evaluate risk and determine policy terms"
+    "answer": "Evaluate risk and determine policy terms"
   },
   {
     "question": "Which of the following factors is MOST considered by an underwriter?",
@@ -16456,7 +16456,7 @@ export const allQuestions = {
       "Office location",
       "Agent’s commission"
     ],
-    "correctAnswer": "Nature and level of risk"
+    "answer": "Nature and level of risk"
   },
   {
     "question": "An underwriter decides all EXCEPT:",
@@ -16466,7 +16466,7 @@ export const allQuestions = {
       "Policy conditions",
       "Payment of claims"
     ],
-    "correctAnswer": "Payment of claims"
+    "answer": "Payment of claims"
   },
   {
     "question": "Underwriting helps insurance companies to:",
@@ -16476,7 +16476,7 @@ export const allQuestions = {
       "Eliminate claims",
       "Stop policy sales"
     ],
-    "correctAnswer": "Select suitable risks"
+    "answer": "Select suitable risks"
   },
   {
     "question": "Which document provides information used by underwriters to assess risk?",
@@ -16486,7 +16486,7 @@ export const allQuestions = {
       "Cover note",
       "Certificate of insurance"
     ],
-    "correctAnswer": "Proposal form"
+    "answer": "Proposal form"
   },
   {
     "question": "An underwriter uses which principle most in risk assessment?",
@@ -16496,7 +16496,7 @@ export const allQuestions = {
       "Insurable interest",
       "Utmost good faith"
     ],
-    "correctAnswer": "Utmost good faith"
+    "answer": "Utmost good faith"
   },
   {
     "question": "The process of underwriting mainly occurs:",
@@ -16506,7 +16506,7 @@ export const allQuestions = {
       "During claim settlement",
       "After policy expiry"
     ],
-    "correctAnswer": "Before issuing the policy"
+    "answer": "Before issuing the policy"
   },
   {
     "question": "Which class of insurance involves extensive underwriting due to higher risk?",
@@ -16516,7 +16516,7 @@ export const allQuestions = {
       "Motor insurance",
       "Marine insurance"
     ],
-    "correctAnswer": "Life insurance"
+    "answer": "Life insurance"
   },
   {
     "question": "Underwriting decisions are intended to protect the insurer from:",
@@ -16526,7 +16526,7 @@ export const allQuestions = {
       "Excessive or unacceptable risk",
       "Government regulations"
     ],
-    "correctAnswer": "Excessive or unacceptable risk"
+    "answer": "Excessive or unacceptable risk"
   },
   {
     "question": "What does “contract award” mean?",
@@ -16536,7 +16536,7 @@ export const allQuestions = {
       "Advertisement of the tender",
       "Completion of the project"
     ],
-    "correctAnswer": "Selection of the successful bidder"
+    "answer": "Selection of the successful bidder"
   },
   {
     "question": "A contract is usually awarded to the bidder who:",
@@ -16546,7 +16546,7 @@ export const allQuestions = {
       "Meets requirements and offers the best value",
       "Is most popular"
     ],
-    "correctAnswer": "Meets requirements and offers the best value"
+    "answer": "Meets requirements and offers the best value"
   },
   {
     "question": "Which document officially communicates a contract award?",
@@ -16556,7 +16556,7 @@ export const allQuestions = {
       "Letter of award",
       "Bill of quantities"
     ],
-    "correctAnswer": "Letter of award"
+    "answer": "Letter of award"
   },
   {
     "question": "Before awarding a contract, the client must ensure that the bidder:",
@@ -16566,7 +16566,7 @@ export const allQuestions = {
       "Is the lowest bidder only",
       "Is already working on another project"
     ],
-    "correctAnswer": "Has adequate financial and technical capacity"
+    "answer": "Has adequate financial and technical capacity"
   },
   {
     "question": "In public procurement, contract award must follow:",
@@ -16576,7 +16576,7 @@ export const allQuestions = {
       "Due process and transparency",
       "Negotiation after completion"
     ],
-    "correctAnswer": "Due process and transparency"
+    "answer": "Due process and transparency"
   },
   {
     "question": "Which factor is least considered during contract award?",
@@ -16586,7 +16586,7 @@ export const allQuestions = {
       "Bidder’s personal relationship",
       "Cost effectiveness"
     ],
-    "correctAnswer": "Bidder’s personal relationship"
+    "answer": "Bidder’s personal relationship"
   },
   {
     "question": "A contract award becomes legally binding when:",
@@ -16596,7 +16596,7 @@ export const allQuestions = {
       "Both parties sign the contract",
       "The project begins"
     ],
-    "correctAnswer": "Both parties sign the contract"
+    "answer": "Both parties sign the contract"
   },
   {
     "question": "What happens after a contract is awarded?",
@@ -16606,7 +16606,7 @@ export const allQuestions = {
       "Bid evaluation starts",
       "Prequalification is done"
     ],
-    "correctAnswer": "Contract execution begins"
+    "answer": "Contract execution begins"
   },
   {
     "question": "Which of the following can lead to cancellation of a contract award?",
@@ -16616,7 +16616,7 @@ export const allQuestions = {
       "Fraud or misrepresentation",
       "Timely performance"
     ],
-    "correctAnswer": "Fraud or misrepresentation"
+    "answer": "Fraud or misrepresentation"
   },
   {
     "question": "The main objective of awarding a contract is to:",
@@ -16626,7 +16626,7 @@ export const allQuestions = {
       "Achieve value for money",
       "Avoid competition"
     ],
-    "correctAnswer": "Achieve value for money"
+    "answer": "Achieve value for money"
   },
   {
     "question": "What is the main purpose of negotiation in a contract?",
@@ -16636,7 +16636,7 @@ export const allQuestions = {
       "To avoid signing any contract",
       "To increase the legal formalities"
     ],
-    "correctAnswer": "To reach a mutually acceptable agreement"
+    "answer": "To reach a mutually acceptable agreement"
   },
     {
     "question": "Which of the following is a key characteristic of a negotiated contract?",
@@ -16646,7 +16646,7 @@ export const allQuestions = {
       "It is always drafted by a government agency",
       "It cannot be legally enforced"
     ],
-    "correctAnswer": "Terms are discussed and modified before agreement"
+    "answer": "Terms are discussed and modified before agreement"
   },
   {
     "question": "During contract negotiation, what is an important factor to consider?",
@@ -16656,7 +16656,7 @@ export const allQuestions = {
       "Avoiding communication until the contract is signed",
       "Ignoring legal requirements"
     ],
-    "correctAnswer": "The interests and obligations of all parties"
+    "answer": "The interests and obligations of all parties"
   },
   {
     "question": "Which of the following can result from poor negotiation in a contract?",
@@ -16666,7 +16666,7 @@ export const allQuestions = {
       "A stronger business relationship",
       "Automatic contract approval by law"
     ],
-    "correctAnswer": "Potential disputes and misunderstandings"
+    "answer": "Potential disputes and misunderstandings"
   },
   {
     "question": "What is the difference between a standard contract and a negotiated contract?",
@@ -16676,7 +16676,7 @@ export const allQuestions = {
       "A standard contract is always verbal; a negotiated contract is always written",
       "There is no difference"
     ],
-    "correctAnswer": "A negotiated contract involves discussion and agreement on terms; a standard contract usually does not"
+    "answer": "A negotiated contract involves discussion and agreement on terms; a standard contract usually does not"
   },
   {
     "question": "What is a contract without negotiation?",
@@ -16686,7 +16686,7 @@ export const allQuestions = {
       "A contract that is illegal",
       "A contract that requires signatures from multiple parties"
     ],
-    "correctAnswer": "A contract where the terms are set by one party and the other must accept them as is"
+    "answer": "A contract where the terms are set by one party and the other must accept them as is"
   },
   {
     "question": "Which of the following is an example of a contract without negotiation?",
@@ -16696,7 +16696,7 @@ export const allQuestions = {
       "Partnership agreement between two business owners",
       "Joint venture contract that requires mutual agreement"
     ],
-    "correctAnswer": "Employment offer with a fixed salary and benefits"
+    "answer": "Employment offer with a fixed salary and benefits"
   },
   {
     "question": "What is another term often used for contracts without negotiation?",
@@ -16706,7 +16706,7 @@ export const allQuestions = {
       "Voidable contract",
       "Contingent contract"
     ],
-    "correctAnswer": "Adhesion contract"
+    "answer": "Adhesion contract"
   },
   {
     "question": "Which of the following is a potential risk for the party accepting a contract without negotiation?",
@@ -16716,7 +16716,7 @@ export const allQuestions = {
       "Ability to change terms anytime",
       "Unlimited legal protections"
     ],
-    "correctAnswer": "Being bound by unfair or one-sided terms"
+    "answer": "Being bound by unfair or one-sided terms"
   },
   {
     "question": "How can the party accepting a contract without negotiation protect themselves?",
@@ -16726,7 +16726,7 @@ export const allQuestions = {
       "By assuming all terms are standard and fair",
       "By negotiating after signing"
     ],
-    "correctAnswer": "By carefully reviewing terms and seeking legal advice before signing"
+    "answer": "By carefully reviewing terms and seeking legal advice before signing"
   },
   {
     "question": "The principle of indemnity in insurance primarily ensures that:",
@@ -16736,7 +16736,7 @@ export const allQuestions = {
       "The insurer pays double the loss amount",
       "The insured can claim for future potential losses"
     ],
-    "correctAnswer": "The insured is restored to the financial position they were in before the loss"
+    "answer": "The insured is restored to the financial position they were in before the loss"
   },
   {
     "question": "Which of the following is a key feature of the principle of indemnity?",
@@ -16746,7 +16746,7 @@ export const allQuestions = {
       "Only life insurance follows this principle",
       "It allows the insured to overstate losses"
     ],
-    "correctAnswer": "Insurance is meant to provide compensation, not profit"
+    "answer": "Insurance is meant to provide compensation, not profit"
   },
   {
     "question": "In which type of insurance is the principle of indemnity strictly applied?",
@@ -16756,7 +16756,7 @@ export const allQuestions = {
       "Property insurance",
       "Personal accident insurance"
     ],
-    "correctAnswer": "Property insurance"
+    "answer": "Property insurance"
   },
   {
     "question": "If the insured suffers a loss of ₦500,000 but has an insurance policy for ₦700,000, according to the principle of indemnity, the insurer will pay:",
@@ -16766,7 +16766,7 @@ export const allQuestions = {
       "₦1,200,000",
       "₦0"
     ],
-    "correctAnswer": "₦500,000"
+    "answer": "₦500,000"
   },
   {
     "question": "The purpose of the principle of indemnity is to:",
@@ -16776,7 +16776,7 @@ export const allQuestions = {
       "Ensure the insurer makes a profit",
       "Guarantee a fixed payment regardless of loss"
     ],
-    "correctAnswer": "Prevent the insured from profiting from a loss"
+    "answer": "Prevent the insured from profiting from a loss"
   },
   {
     "question": "What is the primary objective of risk management?",
@@ -16786,7 +16786,7 @@ export const allQuestions = {
       "To increase company profits regardless of risks",
       "To transfer all risks to another party"
     ],
-    "correctAnswer": "To minimize the impact of risks on objectives"
+    "answer": "To minimize the impact of risks on objectives"
   },
   {
     "question": "Which of the following is NOT a step in the risk management process?",
@@ -16796,7 +16796,7 @@ export const allQuestions = {
       "Risk control",
       "Risk denial"
     ],
-    "correctAnswer": "Risk denial"
+    "answer": "Risk denial"
   },
   {
     "question": "Which type of risk cannot be eliminated through diversification?",
@@ -16806,7 +16806,7 @@ export const allQuestions = {
       "Operational risk",
       "Compliance risk"
     ],
-    "correctAnswer": "Systematic risk"
+    "answer": "Systematic risk"
   },
   {
     "question": "Risk transfer is best exemplified by:",
@@ -16816,7 +16816,7 @@ export const allQuestions = {
       "Training employees",
       "Avoiding risky projects"
     ],
-    "correctAnswer": "Purchasing insurance"
+    "answer": "Purchasing insurance"
   },
   {
     "question": "What does “risk appetite” refer to?",
@@ -16826,7 +16826,7 @@ export const allQuestions = {
       "The strategy to avoid risk entirely",
       "The likelihood of a risk occurring"
     ],
-    "correctAnswer": "The amount of risk an organization is willing to accept"
+    "answer": "The amount of risk an organization is willing to accept"
   },
   {
     "question": "Which of the following is an example of operational risk?",
@@ -16836,7 +16836,7 @@ export const allQuestions = {
       "Employee fraud or human error",
       "Changes in government regulations"
     ],
-    "correctAnswer": "Employee fraud or human error"
+    "answer": "Employee fraud or human error"
   },
     {
     "question": "What is the difference between qualitative and quantitative risk assessment?",
@@ -16846,7 +16846,7 @@ export const allQuestions = {
       "Qualitative avoids risks; quantitative eliminates risks",
       "There is no difference"
     ],
-    "correctAnswer": "Qualitative uses descriptions; quantitative uses numbers"
+    "answer": "Qualitative uses descriptions; quantitative uses numbers"
   },
   {
     "question": "Which risk response strategy involves ceasing an activity entirely?",
@@ -16856,7 +16856,7 @@ export const allQuestions = {
       "Risk avoidance",
       "Risk transfer"
     ],
-    "correctAnswer": "Risk avoidance"
+    "answer": "Risk avoidance"
   },
   {
     "question": "Which of the following is a risk control measure?",
@@ -16866,7 +16866,7 @@ export const allQuestions = {
       "Accepting financial loss",
       "Ignoring low-probability risks"
     ],
-    "correctAnswer": "Implementing fire alarms"
+    "answer": "Implementing fire alarms"
   },
   {
     "question": "Residual risk refers to:",
@@ -16876,7 +16876,7 @@ export const allQuestions = {
       "The total risk before any controls",
       "A type of financial risk only"
     ],
-    "correctAnswer": "The risk remaining after controls have been applied"
+    "answer": "The risk remaining after controls have been applied"
   },
   {
     "question": "What is the primary purpose of a risk assessment?",
@@ -16886,7 +16886,7 @@ export const allQuestions = {
       "To create a financial report",
       "To assign blame for past accidents"
     ],
-    "correctAnswer": "To identify hazards and evaluate the likelihood and impact of risks"
+    "answer": "To identify hazards and evaluate the likelihood and impact of risks"
   },
   {
     "question": "Which of the following is NOT a step in the risk assessment process?",
@@ -16896,7 +16896,7 @@ export const allQuestions = {
       "Risk evaluation",
       "Ignoring low-probability risks"
     ],
-    "correctAnswer": "Ignoring low-probability risks"
+    "answer": "Ignoring low-probability risks"
   },
   {
     "question": "In risk assessment, \"likelihood\" refers to:",
@@ -16906,7 +16906,7 @@ export const allQuestions = {
       "The cost of implementing safety measures",
       "The number of people affected"
     ],
-    "correctAnswer": "The chance that a particular risk will happen"
+    "answer": "The chance that a particular risk will happen"
   },
   {
     "question": "Which risk control method involves completely removing the hazard?",
@@ -16916,7 +16916,7 @@ export const allQuestions = {
       "Risk reduction",
       "Risk acceptance"
     ],
-    "correctAnswer": "Risk elimination"
+    "answer": "Risk elimination"
   },
   {
     "question": "A risk assessment should be reviewed and updated:",
@@ -16926,7 +16926,7 @@ export const allQuestions = {
       "Once when the company is founded",
       "Only if requested by management"
     ],
-    "correctAnswer": "Annually, or whenever there are significant changes in the workplace"
+    "answer": "Annually, or whenever there are significant changes in the workplace"
   },
   {
     "question": "What is the main goal of risk avoidance?",
@@ -16936,7 +16936,7 @@ export const allQuestions = {
       "To completely eliminate the possibility of a risk occurring",
       "To accept the risk as it is"
     ],
-    "correctAnswer": "To completely eliminate the possibility of a risk occurring"
+    "answer": "To completely eliminate the possibility of a risk occurring"
   },
   {
     "question": "Which of the following is an example of risk avoidance?",
@@ -16946,7 +16946,7 @@ export const allQuestions = {
       "Implementing safety measures in the workplace",
       "Preparing a disaster recovery plan"
     ],
-    "correctAnswer": "Choosing not to invest in a highly volatile stock"
+    "answer": "Choosing not to invest in a highly volatile stock"
   },
   {
     "question": "Risk avoidance is most effective when:",
@@ -16956,7 +16956,7 @@ export const allQuestions = {
       "The organization wants to transfer the risk",
       "The risk is minor and has little impact"
     ],
-    "correctAnswer": "The cost of avoiding the risk is less than the potential loss"
+    "answer": "The cost of avoiding the risk is less than the potential loss"
   },
   {
     "question": "Which strategy is an alternative to risk avoidance?",
@@ -16966,7 +16966,7 @@ export const allQuestions = {
       "Risk denial",
       "Risk acceptance"
     ],
-    "correctAnswer": "Risk acceptance"
+    "answer": "Risk acceptance"
   },
   {
     "question": "Risk avoidance is NOT suitable when:",
@@ -16976,7 +16976,7 @@ export const allQuestions = {
       "The potential loss is too high",
       "The risk is legal and regulatory in nature"
     ],
-    "correctAnswer": "Avoiding the risk leads to missing major business opportunities"
+    "answer": "Avoiding the risk leads to missing major business opportunities"
   },
   {
     "question": "What is the primary purpose of project management?",
@@ -16986,7 +16986,7 @@ export const allQuestions = {
       "To hire more employees for a project",
       "To avoid responsibility for project outcomes"
     ],
-    "correctAnswer": "To achieve project objectives within scope, time, and cost constraints"
+    "answer": "To achieve project objectives within scope, time, and cost constraints"
   },
   {
     "question": "Which of the following is NOT a phase of project management?",
@@ -16996,7 +16996,7 @@ export const allQuestions = {
       "Execution",
       "Termination without closure"
     ],
-    "correctAnswer": "Termination without closure"
+    "answer": "Termination without closure"
   },
   {
     "question": "In project management, the “triple constraint” refers to:",
@@ -17006,7 +17006,7 @@ export const allQuestions = {
       "Risk, resources, and quality",
       "Budget, schedule, and stakeholder satisfaction"
     ],
-    "correctAnswer": "Scope, time, and cost"
+    "answer": "Scope, time, and cost"
   },
   {
     "question": "A Gantt chart is used to:",
@@ -17016,7 +17016,7 @@ export const allQuestions = {
       "Measure employee performance",
       "Manage project budgets"
     ],
-    "correctAnswer": "Show project tasks and their timelines"
+    "answer": "Show project tasks and their timelines"
   },
   {
     "question": "Who is primarily responsible for the success of a project?",
@@ -17026,7 +17026,7 @@ export const allQuestions = {
       "Stakeholders only",
       "Clients"
     ],
-    "correctAnswer": "Project manager"
+    "answer": "Project manager"
   },
   {
     "question": "What is a “stakeholder” in project management?",
@@ -17036,7 +17036,7 @@ export const allQuestions = {
       "The employees working on the project",
       "Only external clients"
     ],
-    "correctAnswer": "Anyone affected by or interested in the project"
+    "answer": "Anyone affected by or interested in the project"
   },
     {
     "question": "Risk management in project management involves:",
@@ -17046,7 +17046,7 @@ export const allQuestions = {
       "Eliminating all risks completely",
       "Delaying project decisions"
     ],
-    "correctAnswer": "Identifying, analyzing, and responding to potential project risks"
+    "answer": "Identifying, analyzing, and responding to potential project risks"
   },
   {
     "question": "The project life cycle typically begins with:",
@@ -17056,7 +17056,7 @@ export const allQuestions = {
       "Execution",
       "Monitoring and control"
     ],
-    "correctAnswer": "Initiation"
+    "answer": "Initiation"
   },
   {
     "question": "Which technique is used to analyze the sequence of tasks in a project?",
@@ -17066,7 +17066,7 @@ export const allQuestions = {
       "PESTLE analysis",
       "Fishbone diagram"
     ],
-    "correctAnswer": "Critical Path Method (CPM)"
+    "answer": "Critical Path Method (CPM)"
   },
   {
     "question": "“Scope creep” refers to:",
@@ -17076,7 +17076,7 @@ export const allQuestions = {
       "Increasing the project budget intentionally",
       "Delaying project tasks to the last minute"
     ],
-    "correctAnswer": "Uncontrolled changes or additions to the project scope"
+    "answer": "Uncontrolled changes or additions to the project scope"
   },
   {
     "question": "The Insurance Act primarily governs the operations of:",
@@ -17086,7 +17086,7 @@ export const allQuestions = {
       "Educational institutions",
       "Real estate firms"
     ],
-    "correctAnswer": "Insurance companies"
+    "answer": "Insurance companies"
   },
   {
     "question": "Which of the following is the main objective of insurance law?",
@@ -17096,7 +17096,7 @@ export const allQuestions = {
       "To increase government revenue",
       "To provide loans"
     ],
-    "correctAnswer": "To protect policyholders and regulate insurers"
+    "answer": "To protect policyholders and regulate insurers"
   },
   {
     "question": "The principle of utmost good faith is also known as:",
@@ -17106,7 +17106,7 @@ export const allQuestions = {
       "Stare decisis",
       "Nemo dat quod non habet"
     ],
-    "correctAnswer": "Uberrimae fidei"
+    "answer": "Uberrimae fidei"
   },
   {
     "question": "Which statutory body usually regulates insurance companies in most countries?",
@@ -17116,7 +17116,7 @@ export const allQuestions = {
       "Insurance Regulatory Authority",
       "Chamber of Commerce"
     ],
-    "correctAnswer": "Insurance Regulatory Authority"
+    "answer": "Insurance Regulatory Authority"
   },
   {
     "question": "According to insurance statutes, what is the minimum information a proposer must disclose?",
@@ -17126,7 +17126,7 @@ export const allQuestions = {
       "Names of friends",
       "Hobbies"
     ],
-    "correctAnswer": "Any material facts affecting risk"
+    "answer": "Any material facts affecting risk"
   },
   {
     "question": "In case of breach of insurance statutes, who can take action?",
@@ -17136,7 +17136,7 @@ export const allQuestions = {
       "Regulatory authorities",
       "Competitors"
     ],
-    "correctAnswer": "Regulatory authorities"
+    "answer": "Regulatory authorities"
   },
   {
     "question": "Which law requires insurance contracts to be written and signed?",
@@ -17146,7 +17146,7 @@ export const allQuestions = {
       "Companies Act",
       "Penal Code"
     ],
-    "correctAnswer": "Insurance Act"
+    "answer": "Insurance Act"
   },
   {
     "question": "Which of the following is NOT a function of insurance statutes?",
@@ -17156,7 +17156,7 @@ export const allQuestions = {
       "Regulating premiums",
       "Providing loans to policyholders"
     ],
-    "correctAnswer": "Providing loans to policyholders"
+    "answer": "Providing loans to policyholders"
   },
   {
     "question": "Which statute governs the settlement of claims in insurance?",
@@ -17166,7 +17166,7 @@ export const allQuestions = {
       "Civil Procedure Act",
       "Evidence Act"
     ],
-    "correctAnswer": "Insurance Act"
+    "answer": "Insurance Act"
   },
   {
     "question": "“Proximate cause” is a concept mainly regulated under:",
@@ -17176,7 +17176,7 @@ export const allQuestions = {
       "Tax law",
       "Company law"
     ],
-    "correctAnswer": "Insurance law"
+    "answer": "Insurance law"
   },
   {
     "question": "Insurance statutes require insurers to maintain:",
@@ -17186,7 +17186,7 @@ export const allQuestions = {
       "Loan accounts",
       "Shareholder agreements"
     ],
-    "correctAnswer": "Minimum paid-up capital"
+    "answer": "Minimum paid-up capital"
   },
   {
     "question": "What is the penalty for non-compliance with insurance statutes?",
@@ -17196,7 +17196,7 @@ export const allQuestions = {
       "License suspension",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "Which statute regulates compulsory insurance like motor third-party insurance?",
@@ -17206,7 +17206,7 @@ export const allQuestions = {
       "Penal Code",
       "Civil Procedure Act"
     ],
-    "correctAnswer": "Road Traffic Act"
+    "answer": "Road Traffic Act"
   },
   {
     "question": "The law requires insurers to submit reports to:",
@@ -17216,7 +17216,7 @@ export const allQuestions = {
       "Police Department",
       "Central Statistics Office"
     ],
-    "correctAnswer": "Insurance Regulatory Authority"
+    "answer": "Insurance Regulatory Authority"
   },
   {
     "question": "Insurance statutes define the duties of:",
@@ -17226,7 +17226,7 @@ export const allQuestions = {
       "Both insurers and policyholders",
       "Brokers only"
     ],
-    "correctAnswer": "Both insurers and policyholders"
+    "answer": "Both insurers and policyholders"
   },
   {
     "question": "Which of the following is covered under insurance law statutes?",
@@ -17236,7 +17236,7 @@ export const allQuestions = {
       "Claim settlement",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
     {
     "question": "Misrepresentation in insurance contracts can lead to:",
@@ -17246,7 +17246,7 @@ export const allQuestions = {
       "Civil liability",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "Who is responsible for ensuring compliance with insurance statutes?",
@@ -17256,7 +17256,7 @@ export const allQuestions = {
       "Regulatory authority",
       "All of the above"
     ],
-    "correctAnswer": "Regulatory authority"
+    "answer": "Regulatory authority"
   },
   {
     "question": "The Insurance Act usually protects:",
@@ -17266,7 +17266,7 @@ export const allQuestions = {
       "Policy holders and the public",
       "Only brokers"
     ],
-    "correctAnswer": "Policy holders and the public"
+    "answer": "Policy holders and the public"
   },
   {
     "question": "Which principle is embedded in most insurance statutes to ensure fairness?",
@@ -17276,7 +17276,7 @@ export const allQuestions = {
       "Principle of negligence",
       "Principle of equity"
     ],
-    "correctAnswer": "Principle of indemnity"
+    "answer": "Principle of indemnity"
   },
   {
     "question": "Which of the following is an essential element for a valid insurance contract?",
@@ -17286,7 +17286,7 @@ export const allQuestions = {
       "Legal capacity of parties",
       "All of the above"
     ],
-    "correctAnswer": "All of the above"
+    "answer": "All of the above"
   },
   {
     "question": "What is the term used for the amount paid by the insured to the insurer as part of an insurance contract?",
@@ -17296,7 +17296,7 @@ export const allQuestions = {
       "Risk",
       "Proposal"
     ],
-    "correctAnswer": "Premium"
+    "answer": "Premium"
   },
   {
     "question": "Which principle ensures that both parties disclose all material facts in an insurance contract?",
@@ -17306,7 +17306,7 @@ export const allQuestions = {
       "Principle of Subrogation",
       "Principle of Proximate Cause"
     ],
-    "correctAnswer": "Principle of Utmost Good Faith (Uberrimae Fidei)"
+    "answer": "Principle of Utmost Good Faith (Uberrimae Fidei)"
   },
   {
     "question": "For an insurance contract to be valid, the purpose of the contract must be:",
@@ -17316,7 +17316,7 @@ export const allQuestions = {
       "Lawful",
       "Ambiguous"
     ],
-    "correctAnswer": "Lawful"
+    "answer": "Lawful"
   },
   {
     "question": "Which of the following is NOT an essential element of a valid insurance contract?",
@@ -17326,7 +17326,7 @@ export const allQuestions = {
       "Written form only",
       "Legal capacity of parties"
     ],
-    "correctAnswer": "Written form only"
+    "answer": "Written form only"
   },
   {
     "question": "The principle of indemnity in insurance means:",
@@ -17336,7 +17336,7 @@ export const allQuestions = {
       "The insured can claim more than the loss",
       "The contract can be terminated anytime"
     ],
-    "correctAnswer": "The insurer compensates the insured for the actual loss suffered"
+    "answer": "The insurer compensates the insured for the actual loss suffered"
   },
     ],
     "FIN 219":[
@@ -17348,7 +17348,7 @@ export const allQuestions = {
       "Fiat money",
       "Bank money"
     ],
-    "correctAnswer": "Commodity money"
+    "answer": "Commodity money"
   },
   {
     "question": "Which of the following is NOT a characteristic of money?",
@@ -17358,7 +17358,7 @@ export const allQuestions = {
       "High production cost",
       "Divisibility"
     ],
-    "correctAnswer": "High production cost"
+    "answer": "High production cost"
   },
   {
     "question": "Money first evolved mainly due to problems associated with:",
@@ -17368,7 +17368,7 @@ export const allQuestions = {
       "Credit creation",
       "Banking failures"
     ],
-    "correctAnswer": "Barter system"
+    "answer": "Barter system"
   },
   {
     "question": "The type of money that has value because the government declares it legal tender is:",
@@ -17378,7 +17378,7 @@ export const allQuestions = {
       "Metallic money",
       "Representative money"
     ],
-    "correctAnswer": "Fiat money"
+    "answer": "Fiat money"
   },
   {
     "question": "One major limitation of the barter system was:",
@@ -17388,7 +17388,7 @@ export const allQuestions = {
       "Presence of banks",
       "Too much money in circulation"
     ],
-    "correctAnswer": "Lack of divisibility"
+    "answer": "Lack of divisibility"
   },
   {
     "question": "Which of the following is NOT a function of money?",
@@ -17398,7 +17398,7 @@ export const allQuestions = {
       "Unit of account",
       "Production of goods"
     ],
-    "correctAnswer": "Production of goods"
+    "answer": "Production of goods"
   },
   {
     "question": "Money helps in comparing the value of goods through its role as:",
@@ -17408,7 +17408,7 @@ export const allQuestions = {
       "Unit of account",
       "Standard of deferred payment"
     ],
-    "correctAnswer": "Unit of account"
+    "answer": "Unit of account"
   },
   {
     "question": "The function of money that makes future transactions possible is:",
@@ -17418,7 +17418,7 @@ export const allQuestions = {
       "Store of value",
       "Measure of value"
     ],
-    "correctAnswer": "Standard of deferred payment"
+    "answer": "Standard of deferred payment"
   },
   {
     "question": "Which of the following is a good example of representative money?",
@@ -17428,7 +17428,7 @@ export const allQuestions = {
       "Cryptocurrency",
       "Cowrie shells"
     ],
-    "correctAnswer": "Paper notes backed by gold"
+    "answer": "Paper notes backed by gold"
   },
   {
     "question": "Which characteristic of money ensures that it can be used over long periods without damage?",
@@ -17438,7 +17438,7 @@ export const allQuestions = {
       "Acceptability",
       "Divisibility"
     ],
-    "correctAnswer": "Durability"
+    "answer": "Durability"
   },
   {
     "question": "Acceptability as a characteristic of money means that:",
@@ -17448,7 +17448,7 @@ export const allQuestions = {
       "It must be made of metal",
       "It must be divisible"
     ],
-    "correctAnswer": "Everyone must agree to use it"
+    "answer": "Everyone must agree to use it"
   },
   {
     "question": "The introduction of coins and paper money marked the era of:",
@@ -17458,7 +17458,7 @@ export const allQuestions = {
       "Digital money",
       "Virtual money"
     ],
-    "correctAnswer": "Metallic and fiat money"
+    "answer": "Metallic and fiat money"
   },
   {
     "question": "Which of the following is an example of fiat money?",
@@ -17468,7 +17468,7 @@ export const allQuestions = {
       "Silver coin",
       "Cowrie shells"
     ],
-    "correctAnswer": "₦1000 note"
+    "answer": "₦1000 note"
   },
   {
     "question": "A function of money that protects wealth for future use is:",
@@ -17478,7 +17478,7 @@ export const allQuestions = {
       "Legal tender",
       "Divisibility"
     ],
-    "correctAnswer": "Store of value"
+    "answer": "Store of value"
   },
   {
     "question": "Divisibility as a characteristic of money means it:",
@@ -17488,7 +17488,7 @@ export const allQuestions = {
       "Must be acceptable by law",
       "Has intrinsic value"
     ],
-    "correctAnswer": "Can be broken into small units"
+    "answer": "Can be broken into small units"
   },
   {
     "question": "The earliest form of paper money originated from:",
@@ -17498,7 +17498,7 @@ export const allQuestions = {
       "Egypt",
       "Nigeria"
     ],
-    "correctAnswer": "China"
+    "answer": "China"
   },
   {
     "question": "Which type of money has both intrinsic and face value?",
@@ -17508,7 +17508,7 @@ export const allQuestions = {
       "Commodity money",
       "Bank deposits"
     ],
-    "correctAnswer": "Commodity money"
+    "answer": "Commodity money"
   },
   {
     "question": "The use of money primarily solves the problem of:",
@@ -17518,7 +17518,7 @@ export const allQuestions = {
       "Unemployment",
       "Inflation"
     ],
-    "correctAnswer": "Double coincidence of wants"
+    "answer": "Double coincidence of wants"
   },
   {
     "question": "A good store of value must:",
@@ -17528,7 +17528,7 @@ export const allQuestions = {
       "Lose value quickly",
       "Be difficult to carry"
     ],
-    "correctAnswer": "Retain value over time"
+    "answer": "Retain value over time"
   },
   {
     "question": "The evolution of money from barter to digital money shows:",
@@ -17538,7 +17538,7 @@ export const allQuestions = {
       "Rise in commodity prices",
       "Decline in population"
     ],
-    "correctAnswer": "Advancement in economic systems"
+    "answer": "Advancement in economic systems"
   },
     {
     "question": "The first modern bank to operate in Nigeria was:",
@@ -17548,7 +17548,7 @@ export const allQuestions = {
       "First City Monument Bank",
       "African Continental Bank"
     ],
-    "correctAnswer": "Bank of British West Africa"
+    "answer": "Bank of British West Africa"
   },
   {
     "question": "Early expatriate banks in Nigeria were mainly established to serve:",
@@ -17558,7 +17558,7 @@ export const allQuestions = {
       "Nigerian small businesses",
       "Students and artisans"
     ],
-    "correctAnswer": "The colonial government and European firms"
+    "answer": "The colonial government and European firms"
   },
   {
     "question": "Which of the following was NOT an early expatriate bank in Nigeria?",
@@ -17568,7 +17568,7 @@ export const allQuestions = {
       "United Bank of Africa",
       "Dominion Colonial Bank"
     ],
-    "correctAnswer": "United Bank of Africa"
+    "answer": "United Bank of Africa"
   },
   {
     "question": "One major reason for early indigenous bank failures in Nigeria was:",
@@ -17578,7 +17578,7 @@ export const allQuestions = {
       "Too much government involvement",
       "High literacy rate"
     ],
-    "correctAnswer": "Poor management practices"
+    "answer": "Poor management practices"
   },
   {
     "question": "The mass bank failures of the 1930s in Nigeria were mainly due to:",
@@ -17588,7 +17588,7 @@ export const allQuestions = {
       "High profit levels",
       "Excess foreign exchange"
     ],
-    "correctAnswer": "Lack of adequate capital"
+    "answer": "Lack of adequate capital"
   },
   {
     "question": "Which indigenous bank was one of the earliest successful banks in Nigeria?",
@@ -17598,7 +17598,7 @@ export const allQuestions = {
       "Wema Bank",
       "First Bank"
     ],
-    "correctAnswer": "African Continental Bank"
+    "answer": "African Continental Bank"
   },
   {
     "question": "Poor record keeping in early Nigerian banks contributed to:",
@@ -17608,7 +17608,7 @@ export const allQuestions = {
       "Improved banking operations",
       "Government bailouts"
     ],
-    "correctAnswer": "Bank failures"
+    "answer": "Bank failures"
   },
   {
     "question": "The Banking Ordinance of 1952 was enacted to:",
@@ -17618,7 +17618,7 @@ export const allQuestions = {
       "Increase foreign banks",
       "Remove expatriate banks"
     ],
-    "correctAnswer": "Regulate and supervise banking activities"
+    "answer": "Regulate and supervise banking activities"
   },
   {
     "question": "A major feature of banking in the post-independence era was:",
@@ -17628,7 +17628,7 @@ export const allQuestions = {
       "Full control by expatriates",
       "Absence of regulations"
     ],
-    "correctAnswer": "Emergence of more indigenous banks"
+    "answer": "Emergence of more indigenous banks"
   },
   {
     "question": "The indigenization policy of the 1970s led to:",
@@ -17638,7 +17638,7 @@ export const allQuestions = {
       "Collapse of the banking sector",
       "Decrease in local participation"
     ],
-    "correctAnswer": "Increased Nigerian ownership in banks"
+    "answer": "Increased Nigerian ownership in banks"
   },
   {
     "question": "The 1952 Banking Ordinance improved the Nigerian banking system by:",
@@ -17648,7 +17648,7 @@ export const allQuestions = {
       "Closing all weak banks",
       "Increasing foreign exchange"
     ],
-    "correctAnswer": "Ensuring proper licensing of banks"
+    "answer": "Ensuring proper licensing of banks"
   },
   {
     "question": "A common challenge faced by early indigenous banks was:",
@@ -17658,7 +17658,7 @@ export const allQuestions = {
       "Excess deposits",
       "Advanced technology"
     ],
-    "correctAnswer": "Lack of skilled manpower"
+    "answer": "Lack of skilled manpower"
   },
   {
     "question": "Post-independence banking was characterized by:",
@@ -17668,7 +17668,7 @@ export const allQuestions = {
       "Closure of all expatriate banks",
       "Reduction in financial activities"
     ],
-    "correctAnswer": "Rapid expansion of banking services"
+    "answer": "Rapid expansion of banking services"
   },
   {
     "question": "Which of the following was NOT a reason for mass bank failure before 1952?",
@@ -17678,7 +17678,7 @@ export const allQuestions = {
       "Lack of regulation",
       "Adequate supervision"
     ],
-    "correctAnswer": "Adequate supervision"
+    "answer": "Adequate supervision"
   },
   {
     "question": "Expatriate banks mainly supported:",
@@ -17688,7 +17688,7 @@ export const allQuestions = {
       "International trade and colonial interests",
       "Small-scale businesses"
     ],
-    "correctAnswer": "International trade and colonial interests"
+    "answer": "International trade and colonial interests"
   },
   {
     "question": "The establishment of more Nigerian-owned banks after independence was driven by:",
@@ -17698,7 +17698,7 @@ export const allQuestions = {
       "Decline in trade",
       "Shortage of skilled bankers"
     ],
-    "correctAnswer": "Nationalism and economic growth goals"
+    "answer": "Nationalism and economic growth goals"
   },
   {
     "question": "Banking in Nigeria became more stable after 1952 due to:",
@@ -17708,7 +17708,7 @@ export const allQuestions = {
       "Increased corruption",
       "Decline in the number of customers"
     ],
-    "correctAnswer": "Better regulation and supervision"
+    "answer": "Better regulation and supervision"
   },
   {
     "question": "The primary aim of organized banking is:",
@@ -17718,7 +17718,7 @@ export const allQuestions = {
       "Currency printing",
       "Importation of foreign goods"
     ],
-    "correctAnswer": "Safe custody of funds and financial intermediation"
+    "answer": "Safe custody of funds and financial intermediation"
   },
   {
     "question": "In the early days, indigenous banks failed partly because they:",
@@ -17728,7 +17728,7 @@ export const allQuestions = {
       "Maintained strict loan policies",
       "Received strong government support"
     ],
-    "correctAnswer": "Granted unsecured loans to friends"
+    "answer": "Granted unsecured loans to friends"
   },
   {
     "question": "After independence, the Nigerian government encouraged organized banking through:",
@@ -17738,7 +17738,7 @@ export const allQuestions = {
       "Closing existing banks",
       "Banning foreign investors"
     ],
-    "correctAnswer": "Licensing new banks and increasing local ownership"
+    "answer": "Licensing new banks and increasing local ownership"
   },
     {
     "question": "The West African Currency Board (WACB) was established in:",
@@ -17748,7 +17748,7 @@ export const allQuestions = {
       "1958",
       "1960"
     ],
-    "correctAnswer": "1912"
+    "answer": "1912"
   },
   {
     "question": "The main role of the West African Currency Board was to:",
@@ -17758,7 +17758,7 @@ export const allQuestions = {
       "Control inflation",
       "Offer loans to farmers"
     ],
-    "correctAnswer": "Issue currency backed by sterling"
+    "answer": "Issue currency backed by sterling"
   },
   {
     "question": "Which country was NOT part of the four original members of the West African Currency Board?",
@@ -17768,7 +17768,7 @@ export const allQuestions = {
       "Sierra Leone",
       "Kenya"
     ],
-    "correctAnswer": "Kenya"
+    "answer": "Kenya"
   },
   {
     "question": "A major limitation of the WACB was its inability to:",
@@ -17778,7 +17778,7 @@ export const allQuestions = {
       "Issue banknotes",
       "Operate in West Africa"
     ],
-    "correctAnswer": "Support economic development"
+    "answer": "Support economic development"
   },
   {
     "question": "The Central Bank of Nigeria was established in:",
@@ -17788,7 +17788,7 @@ export const allQuestions = {
       "1963",
       "1972"
     ],
-    "correctAnswer": "1958"
+    "answer": "1958"
   },
   {
     "question": "The CBN began full operations in:",
@@ -17798,7 +17798,7 @@ export const allQuestions = {
       "1959",
       "1960"
     ],
-    "correctAnswer": "1959"
+    "answer": "1959"
   },
   {
     "question": "One important objective of the Central Bank of Nigeria is:",
@@ -17808,7 +17808,7 @@ export const allQuestions = {
       "Managing private companies",
       "Offering insurance services"
     ],
-    "correctAnswer": "Promoting monetary stability"
+    "answer": "Promoting monetary stability"
   },
   {
     "question": "The CBN serves as the banker to:",
@@ -17818,7 +17818,7 @@ export const allQuestions = {
       "The government",
       "Private individuals"
     ],
-    "correctAnswer": "The government"
+    "answer": "The government"
   },
   {
     "question": "Which of the following is a key regulatory function of the CBN?",
@@ -17828,7 +17828,7 @@ export const allQuestions = {
       "Printing passports",
       "Collecting company taxes"
     ],
-    "correctAnswer": "Supervising financial institutions"
+    "answer": "Supervising financial institutions"
   },
   {
     "question": "The CBN issues legal tender currency in Nigeria. This is part of its:",
@@ -17838,7 +17838,7 @@ export const allQuestions = {
       "Monetary function",
       "Advisory function"
     ],
-    "correctAnswer": "Monetary function"
+    "answer": "Monetary function"
   },
   {
     "question": "The body responsible for formulating monetary policy in Nigeria is the:",
@@ -17848,7 +17848,7 @@ export const allQuestions = {
       "Nigerian Stock Exchange",
       "Bankers’ Committee"
     ],
-    "correctAnswer": "Monetary Policy Committee (MPC)"
+    "answer": "Monetary Policy Committee (MPC)"
   },
   {
     "question": "The CBN uses the monetary policy rate (MPR) to:",
@@ -17858,7 +17858,7 @@ export const allQuestions = {
       "Issue treasury bills",
       "Determine exchange rate"
     ],
-    "correctAnswer": "Control inflation and credit"
+    "answer": "Control inflation and credit"
   },
   {
     "question": "One of the reasons for replacing the WACB with the CBN was to:",
@@ -17868,7 +17868,7 @@ export const allQuestions = {
       "Stop international trade",
       "Abolish currency coins"
     ],
-    "correctAnswer": "Promote economic development"
+    "answer": "Promote economic development"
   },
   {
     "question": "The CBN controls the supply of money through:",
@@ -17878,7 +17878,7 @@ export const allQuestions = {
       "Taxation",
       "Government borrowing"
     ],
-    "correctAnswer": "Monetary policy instruments"
+    "answer": "Monetary policy instruments"
   },
   {
     "question": "As the lender of last resort, the CBN:",
@@ -17888,7 +17888,7 @@ export const allQuestions = {
       "Guarantees salaries of workers",
       "Sells consumer goods"
     ],
-    "correctAnswer": "Sends loans to failing banks"
+    "answer": "Sends loans to failing banks"
   },
   {
     "question": "Open Market Operations (OMO) involve:",
@@ -17898,7 +17898,7 @@ export const allQuestions = {
       "Giving loans to farmers",
       "Importing foreign currency"
     ],
-    "correctAnswer": "Buying and selling government securities"
+    "answer": "Buying and selling government securities"
   },
   {
     "question": "The CBN maintains external reserves in order to:",
@@ -17908,7 +17908,7 @@ export const allQuestions = {
       "Fund political campaigns",
       "Increase import tariffs"
     ],
-    "correctAnswer": "Support currency stability"
+    "answer": "Support currency stability"
   },
   {
     "question": "Which of the following is NOT a function of the CBN?",
@@ -17918,7 +17918,7 @@ export const allQuestions = {
       "Printing currency",
       "Providing overdrafts to individuals"
     ],
-    "correctAnswer": "Providing overdrafts to individuals"
+    "answer": "Providing overdrafts to individuals"
   },
   {
     "question": "The CBN promotes economic development by:",
@@ -17928,7 +17928,7 @@ export const allQuestions = {
       "Building schools",
       "Managing private companies"
     ],
-    "correctAnswer": "Offering special credit schemes"
+    "answer": "Offering special credit schemes"
   },
   {
     "question": "The West African Currency Board was replaced mainly because it:",
@@ -17938,7 +17938,7 @@ export const allQuestions = {
       "Printed too much money",
       "Funded African banks"
     ],
-    "correctAnswer": "Was rigid and did not support African economies"
+    "answer": "Was rigid and did not support African economies"
   },
     {
     "question": "The primary function of a commercial bank is to:",
@@ -17948,7 +17948,7 @@ export const allQuestions = {
       "Regulate monetary policy",
       "Print money"
     ],
-    "correctAnswer": "Accept deposits"
+    "answer": "Accept deposits"
   },
   {
     "question": "The process of creating money through lending is known as:",
@@ -17958,7 +17958,7 @@ export const allQuestions = {
       "Loan diversification",
       "Deposit recycling"
     ],
-    "correctAnswer": "Credit creation"
+    "answer": "Credit creation"
   },
   {
     "question": "Which of the following is a primary function of commercial banks?",
@@ -17968,7 +17968,7 @@ export const allQuestions = {
       "Monitoring stock exchange",
       "Issuing treasury bills"
     ],
-    "correctAnswer": "Accepting deposits from customers"
+    "answer": "Accepting deposits from customers"
   },
   {
     "question": "When a commercial bank grants loans to customers, it performs its:",
@@ -17978,7 +17978,7 @@ export const allQuestions = {
       "Supervisory function",
       "Regulatory function"
     ],
-    "correctAnswer": "Primary function"
+    "answer": "Primary function"
   },
   {
     "question": "Commercial banks help customers transfer funds through:",
@@ -17988,7 +17988,7 @@ export const allQuestions = {
       "Tax collection",
       "Insurance policies"
     ],
-    "correctAnswer": "Drafts, transfers, and cheques"
+    "answer": "Drafts, transfers, and cheques"
   },
   {
     "question": "The agency function of commercial banks includes:",
@@ -17998,7 +17998,7 @@ export const allQuestions = {
       "Granting loans",
       "Supervising other banks"
     ],
-    "correctAnswer": "Collecting standing orders and dividends"
+    "answer": "Collecting standing orders and dividends"
   },
   {
     "question": "One of the ways commercial banks encourage savings is through:",
@@ -18008,7 +18008,7 @@ export const allQuestions = {
       "Exchange rate fixing",
       "Inflation targeting"
     ],
-    "correctAnswer": "Savings and fixed deposit accounts"
+    "answer": "Savings and fixed deposit accounts"
   },
   {
     "question": "Which of the following is NOT a function of commercial banks?",
@@ -18018,7 +18018,7 @@ export const allQuestions = {
       "Building roads",
       "Offering financial advice"
     ],
-    "correctAnswer": "Building roads"
+    "answer": "Building roads"
   },
   {
     "question": "Commercial banks support business activities by:",
@@ -18028,7 +18028,7 @@ export const allQuestions = {
       "Printing national currency",
       "Conducting elections"
     ],
-    "correctAnswer": "Offering overdrafts and loans"
+    "answer": "Offering overdrafts and loans"
   },
   {
     "question": "When commercial banks hold customers’ valuables for safety, they perform their:",
@@ -18038,7 +18038,7 @@ export const allQuestions = {
       "Advisory function",
       "Clearing function"
     ],
-    "correctAnswer": "Safe custody function"
+    "answer": "Safe custody function"
   },
   {
     "question": "The ability of a bank to pay its depositors on demand is known as:",
@@ -18048,7 +18048,7 @@ export const allQuestions = {
       "Profitability",
       "Security"
     ],
-    "correctAnswer": "Liquidity"
+    "answer": "Liquidity"
   },
   {
     "question": "Which type of account allows customers to withdraw money frequently?",
@@ -18058,7 +18058,7 @@ export const allQuestions = {
       "Joint account",
       "Dormant account"
     ],
-    "correctAnswer": "Current account"
+    "answer": "Current account"
   },
   {
     "question": "A bank that pays interest on savings is performing its:",
@@ -18068,7 +18068,7 @@ export const allQuestions = {
       "Deposit-taking function",
       "Clearing function"
     ],
-    "correctAnswer": "Deposit-taking function"
+    "answer": "Deposit-taking function"
   },
   {
     "question": "Which of the following is an example of a loan facility offered by commercial banks?",
@@ -18078,7 +18078,7 @@ export const allQuestions = {
       "Import license",
       "Voters card"
     ],
-    "correctAnswer": "Letter of credit"
+    "answer": "Letter of credit"
   },
   {
     "question": "Banks assist customers in making payments through:",
@@ -18088,7 +18088,7 @@ export const allQuestions = {
       "Visa issuance",
       "Population census"
     ],
-    "correctAnswer": "Cheques and online transfers"
+    "answer": "Cheques and online transfers"
   },
   {
     "question": "When a bank acts as an executor of a customer’s will, it performs its:",
@@ -18098,7 +18098,7 @@ export const allQuestions = {
       "Exchange function",
       "Advisory function"
     ],
-    "correctAnswer": "Agency function"
+    "answer": "Agency function"
   },
   {
     "question": "A function of commercial banks that helps in international trade is:",
@@ -18108,7 +18108,7 @@ export const allQuestions = {
       "Conducting elections",
       "Printing passports"
     ],
-    "correctAnswer": "Issuing letters of credit"
+    "answer": "Issuing letters of credit"
   },
   {
     "question": "Commercial banks help maintain the payments system through:",
@@ -18118,7 +18118,7 @@ export const allQuestions = {
       "Markets",
       "Roads"
     ],
-    "correctAnswer": "Clearing houses"
+    "answer": "Clearing houses"
   },
   {
     "question": "Profit made by commercial banks mainly comes from:",
@@ -18128,7 +18128,7 @@ export const allQuestions = {
       "Taxation",
       "Buying land"
     ],
-    "correctAnswer": "Charging interest on loans"
+    "answer": "Charging interest on loans"
   },
   {
     "question": "One of the development functions of commercial banks is:",
@@ -18138,7 +18138,7 @@ export const allQuestions = {
       "Supervising the stock exchange",
       "Conducting monetary policy"
     ],
-    "correctAnswer": "Providing long-term industrial loans"
+    "answer": "Providing long-term industrial loans"
   },
    {
     "question": "Merchant banks are primarily involved in:",
@@ -18148,7 +18148,7 @@ export const allQuestions = {
       "Printing currency",
       "Regulating other banks"
     ],
-    "correctAnswer": "Wholesale banking and corporate finance"
+    "answer": "Wholesale banking and corporate finance"
   },
   {
     "question": "Which of the following is a key function of merchant banks?",
@@ -18158,7 +18158,7 @@ export const allQuestions = {
       "Accepting savings deposits from the public",
       "Conducting monetary policy"
     ],
-    "correctAnswer": "Underwriting new issues of securities"
+    "answer": "Underwriting new issues of securities"
   },
   {
     "question": "Merchant banks mainly serve:",
@@ -18168,7 +18168,7 @@ export const allQuestions = {
       "Students and artisans",
       "Civil servants"
     ],
-    "correctAnswer": "Corporate organizations and large businesses"
+    "answer": "Corporate organizations and large businesses"
   },
   {
     "question": "A common service provided by merchant banks is:",
@@ -18178,7 +18178,7 @@ export const allQuestions = {
       "Issuing of passports",
       "Collecting taxes"
     ],
-    "correctAnswer": "Management of investment portfolios"
+    "answer": "Management of investment portfolios"
   },
   {
     "question": "Merchant banks promote economic development by:",
@@ -18188,7 +18188,7 @@ export const allQuestions = {
       "Providing ATM services",
       "Selling treasury bills"
     ],
-    "correctAnswer": "Funding long-term capital projects"
+    "answer": "Funding long-term capital projects"
   },
   {
     "question": "Which of the following is NOT a function of merchant banks?",
@@ -18198,7 +18198,7 @@ export const allQuestions = {
       "Underwriting of securities",
       "Issuing small personal loans"
     ],
-    "correctAnswer": "Issuing small personal loans"
+    "answer": "Issuing small personal loans"
   },
   {
     "question": "Merchant banks differ from commercial banks mainly because they:",
@@ -18208,7 +18208,7 @@ export const allQuestions = {
       "Issue currency",
       "Act as the central bank"
     ],
-    "correctAnswer": "Provide long-term financing"
+    "answer": "Provide long-term financing"
   },
   {
     "question": "Commercial banks typically focus on:",
@@ -18218,7 +18218,7 @@ export const allQuestions = {
       "Long-term project financing",
       "Capital market operations"
     ],
-    "correctAnswer": "Retail banking and short-term credit"
+    "answer": "Retail banking and short-term credit"
   },
   {
     "question": "A key difference between merchant banks and commercial banks is that merchant banks:",
@@ -18228,7 +18228,7 @@ export const allQuestions = {
       "Serve large corporate clients",
       "Accept deposits from every customer"
     ],
-    "correctAnswer": "Serve large corporate clients"
+    "answer": "Serve large corporate clients"
   },
   {
     "question": "Merchant banks assist companies to raise capital through:",
@@ -18238,7 +18238,7 @@ export const allQuestions = {
       "Selling consumer goods",
       "Recruiting workers"
     ],
-    "correctAnswer": "Issuing shares and debentures"
+    "answer": "Issuing shares and debentures"
   },
   {
     "question": "Merchant banks often provide advisory services in:",
@@ -18248,7 +18248,7 @@ export const allQuestions = {
       "Police recruitment",
       "School admissions"
     ],
-    "correctAnswer": "Foreign exchange and investment decisions"
+    "answer": "Foreign exchange and investment decisions"
   },
   {
     "question": "Commercial banks mostly provide:",
@@ -18258,7 +18258,7 @@ export const allQuestions = {
       "Underwriting services",
       "Venture capital"
     ],
-    "correctAnswer": "Short-term working capital"
+    "answer": "Short-term working capital"
   },
   {
     "question": "The type of deposit mostly accepted by merchant banks is:",
@@ -18268,7 +18268,7 @@ export const allQuestions = {
       "Savings deposits",
       "Student deposits"
     ],
-    "correctAnswer": "Time deposits from corporate clients"
+    "answer": "Time deposits from corporate clients"
   },
   {
     "question": "Merchant banks do NOT typically engage in:",
@@ -18278,7 +18278,7 @@ export const allQuestions = {
       "Project financing",
       "Advisory services"
     ],
-    "correctAnswer": "Retail customer services"
+    "answer": "Retail customer services"
   },
   {
     "question": "Which of the following is a typical client of merchant banks?",
@@ -18288,7 +18288,7 @@ export const allQuestions = {
       "Students",
       "Pensioners"
     ],
-    "correctAnswer": "Corporate investors"
+    "answer": "Corporate investors"
   },
   {
     "question": "A major service unique to merchant banks is:",
@@ -18298,7 +18298,7 @@ export const allQuestions = {
       "Issuing ATM cards",
       "Accepting salaries"
     ],
-    "correctAnswer": "Underwriting of public issues"
+    "answer": "Underwriting of public issues"
   },
   {
     "question": "Commercial banks help customers with daily financial needs, while merchant banks focus on:",
@@ -18308,7 +18308,7 @@ export const allQuestions = {
       "Storing valuables",
       "Selling foreign goods"
     ],
-    "correctAnswer": "Long-term and large-scale financial services"
+    "answer": "Long-term and large-scale financial services"
   },
   {
     "question": "Merchant banks contribute to industrial growth by:",
@@ -18318,7 +18318,7 @@ export const allQuestions = {
       "Issuing currency",
       "Supervising financial institutions"
     ],
-    "correctAnswer": "Financing heavy capital projects"
+    "answer": "Financing heavy capital projects"
   },
   {
     "question": "A key difference between commercial and merchant banks is that commercial banks:",
@@ -18328,7 +18328,7 @@ export const allQuestions = {
       "Only provide long-term loans",
       "Do not offer deposit accounts"
     ],
-    "correctAnswer": "Serve mainly small customers"
+    "answer": "Serve mainly small customers"
   },
   {
     "question": "Merchant banks are also known as:",
@@ -18338,7 +18338,7 @@ export const allQuestions = {
       "Central banks",
       "Cooperative banks"
     ],
-    "correctAnswer": "Investment banks"
+    "answer": "Investment banks"
   }, 
     {
     "question": "Development banks mainly provide:",
@@ -18348,7 +18348,7 @@ export const allQuestions = {
       "Salary advances",
       "Overdrafts"
     ],
-    "correctAnswer": "Long-term project financing"
+    "answer": "Long-term project financing"
   },
   {
     "question": "A key objective of development banks is to:",
@@ -18358,7 +18358,7 @@ export const allQuestions = {
       "Issue currency",
       "Supervise commercial banks"
     ],
-    "correctAnswer": "Promote economic development"
+    "answer": "Promote economic development"
   },
   {
     "question": "Which of the following is a characteristic of development banks?",
@@ -18368,7 +18368,7 @@ export const allQuestions = {
       "Issue chequebooks",
       "Offer ATM services"
     ],
-    "correctAnswer": "Provide long-term capital"
+    "answer": "Provide long-term capital"
   },
   {
     "question": "The Nigerian Bank for Commerce and Industry (NBCI) is an example of:",
@@ -18378,7 +18378,7 @@ export const allQuestions = {
       "Merchant bank",
       "Mortgage bank"
     ],
-    "correctAnswer": "Development bank"
+    "answer": "Development bank"
   },
   {
     "question": "Development banks mainly support:",
@@ -18388,7 +18388,7 @@ export const allQuestions = {
       "Daily customer withdrawals",
       "Tourist services"
     ],
-    "correctAnswer": "Large-scale industrial and agricultural projects"
+    "answer": "Large-scale industrial and agricultural projects"
   },
   {
     "question": "One major role of development banks is:",
@@ -18398,7 +18398,7 @@ export const allQuestions = {
       "Issuing debit cards",
       "Conducting elections"
     ],
-    "correctAnswer": "Financing infrastructure"
+    "answer": "Financing infrastructure"
   },
   {
     "question": "Development banks fill the gap left by:",
@@ -18408,7 +18408,7 @@ export const allQuestions = {
       "Insurance companies",
       "Microfinance institutions"
     ],
-    "correctAnswer": "Commercial banks"
+    "answer": "Commercial banks"
   },
   {
     "question": "The Industrial Development Bank (NIDB) was created to:",
@@ -18418,7 +18418,7 @@ export const allQuestions = {
       "Issue passports",
       "Provide savings accounts"
     ],
-    "correctAnswer": "Finance industrial projects"
+    "answer": "Finance industrial projects"
   },
   {
     "question": "A major source of funds for development banks is:",
@@ -18428,7 +18428,7 @@ export const allQuestions = {
       "Loan sharking",
       "Personal donations"
     ],
-    "correctAnswer": "Government grants and long-term loans"
+    "answer": "Government grants and long-term loans"
   },
   {
     "question": "Development banks help reduce:",
@@ -18438,7 +18438,7 @@ export const allQuestions = {
       "Employment",
       "Government revenue"
     ],
-    "correctAnswer": "Capital shortages"
+    "answer": "Capital shortages"
   },
   {
     "question": "Development banks differ from commercial banks because they:",
@@ -18448,7 +18448,7 @@ export const allQuestions = {
       "Clear cheques",
       "Accept short-term deposits"
     ],
-    "correctAnswer": "Focus on long-term loans"
+    "answer": "Focus on long-term loans"
   },
   {
     "question": "Which of the following is NOT a function of development banks?",
@@ -18458,7 +18458,7 @@ export const allQuestions = {
       "Portfolio management",
       "Accepting retail savings"
     ],
-    "correctAnswer": "Accepting retail savings"
+    "answer": "Accepting retail savings"
   },
   {
     "question": "Development banks help promote:",
@@ -18468,7 +18468,7 @@ export const allQuestions = {
       "Electoral campaigns",
       "Currency printing"
     ],
-    "correctAnswer": "Investment in productive sectors"
+    "answer": "Investment in productive sectors"
   },
   {
     "question": "A problem faced by development banks is:",
@@ -18478,7 +18478,7 @@ export const allQuestions = {
       "Excess deposits",
       "Too many customers"
     ],
-    "correctAnswer": "High default risk"
+    "answer": "High default risk"
   },
   {
     "question": "Development banks support SMEs through:",
@@ -18488,7 +18488,7 @@ export const allQuestions = {
       "Currency issuance",
       "School services"
     ],
-    "correctAnswer": "Long-term credit"
+    "answer": "Long-term credit"
   },
   {
     "question": "The Development Bank of Nigeria (DBN) was created to:",
@@ -18498,7 +18498,7 @@ export const allQuestions = {
       "Print currency",
       "Supervise banks"
     ],
-    "correctAnswer": "Support SMEs with long-term financing"
+    "answer": "Support SMEs with long-term financing"
   },
   {
     "question": "Which sector is commonly financed by development banks?",
@@ -18508,7 +18508,7 @@ export const allQuestions = {
       "Gaming centers",
       "Religious organizations"
     ],
-    "correctAnswer": "Heavy industries"
+    "answer": "Heavy industries"
   },
   {
     "question": "Development banks reduce unemployment by:",
@@ -18518,7 +18518,7 @@ export const allQuestions = {
       "Raising interest rates",
       "Closing industries"
     ],
-    "correctAnswer": "Funding job-creating projects"
+    "answer": "Funding job-creating projects"
   },
   {
     "question": "Unlike commercial banks, development banks usually have:",
@@ -18528,7 +18528,7 @@ export const allQuestions = {
       "ATM networks",
       "Retail services"
     ],
-    "correctAnswer": "Lower interest on long-term loans"
+    "answer": "Lower interest on long-term loans"
   },
   {
     "question": "One limitation of development banks is:",
@@ -18538,7 +18538,7 @@ export const allQuestions = {
       "Too many branches",
       "Excess savings accounts"
     ],
-    "correctAnswer": "Insufficient long-term funds"
+    "answer": "Insufficient long-term funds"
   },
     {
     "question": "Microfinance banks are established to serve:",
@@ -18548,7 +18548,7 @@ export const allQuestions = {
       "Government agencies",
       "International investors"
     ],
-    "correctAnswer": "Low-income individuals and small businesses"
+    "answer": "Low-income individuals and small businesses"
   },
   {
     "question": "One major function of microfinance banks is:",
@@ -18558,7 +18558,7 @@ export const allQuestions = {
       "Printing currency",
       "Underwriting securities"
     ],
-    "correctAnswer": "Providing micro-credit"
+    "answer": "Providing micro-credit"
   },
   {
     "question": "Microfinance banks help reduce poverty by:",
@@ -18568,7 +18568,7 @@ export const allQuestions = {
       "Closing rural branches",
       "Restricting deposits"
     ],
-    "correctAnswer": "Offering small loans"
+    "answer": "Offering small loans"
   },
   {
     "question": "Microfinance clients are mostly:",
@@ -18578,7 +18578,7 @@ export const allQuestions = {
       "Politicians",
       "Corporate executives"
     ],
-    "correctAnswer": "Farmers, traders, and artisans"
+    "answer": "Farmers, traders, and artisans"
   },
   {
     "question": "The Central Bank of Nigeria licenses:",
@@ -18588,7 +18588,7 @@ export const allQuestions = {
       "Oil companies",
       "Stockbrokers"
     ],
-    "correctAnswer": "Microfinance banks"
+    "answer": "Microfinance banks"
   },
   {
     "question": "Microfinance banks differ from commercial banks because they:",
@@ -18598,7 +18598,7 @@ export const allQuestions = {
       "Manage foreign reserves",
       "Conduct monetary policy"
     ],
-    "correctAnswer": "Focus on grassroots financing"
+    "answer": "Focus on grassroots financing"
   },
   {
     "question": "One unique product of microfinance banks is:",
@@ -18608,7 +18608,7 @@ export const allQuestions = {
       "Treasury bills",
       "ATM international transfers"
     ],
-    "correctAnswer": "Micro-insurance"
+    "answer": "Micro-insurance"
   },
   {
     "question": "A major objective of microfinance banks is:",
@@ -18618,7 +18618,7 @@ export const allQuestions = {
       "Industrial development",
       "Building roads"
     ],
-    "correctAnswer": "Financial inclusion"
+    "answer": "Financial inclusion"
   },
   {
     "question": "Microfinance banks accept the following deposits:",
@@ -18628,7 +18628,7 @@ export const allQuestions = {
       "Only corporate accounts",
       "Foreign reserves"
     ],
-    "correctAnswer": "Savings and daily contributions"
+    "answer": "Savings and daily contributions"
   },
   {
     "question": "The group lending method helps to:",
@@ -18638,7 +18638,7 @@ export const allQuestions = {
       "Fund large industries",
       "Provide foreign loans"
     ],
-    "correctAnswer": "Reduce repayment defaults"
+    "answer": "Reduce repayment defaults"
   },
   {
     "question": "Microfinance banks mostly provide:",
@@ -18648,7 +18648,7 @@ export const allQuestions = {
       "International trade finance",
       "Capital market loans"
     ],
-    "correctAnswer": "Small, short-term loans"
+    "answer": "Small, short-term loans"
   },
   {
     "question": "One common problem of microfinance banks is:",
@@ -18658,7 +18658,7 @@ export const allQuestions = {
       "Excess capital",
       "Low interest rates"
     ],
-    "correctAnswer": "High loan default rate"
+    "answer": "High loan default rate"
   },
   {
     "question": "Microfinance promotes women empowerment by:",
@@ -18668,7 +18668,7 @@ export const allQuestions = {
       "Closing rural branches",
       "Offering only savings accounts"
     ],
-    "correctAnswer": "Offering small startup loans"
+    "answer": "Offering small startup loans"
   },
   {
     "question": "A major service offered to rural communities by MFBs is:",
@@ -18678,7 +18678,7 @@ export const allQuestions = {
       "Stock market analysis",
       "Corporate restructuring"
     ],
-    "correctAnswer": "Financial literacy training"
+    "answer": "Financial literacy training"
   },
   {
     "question": "A microfinance bank cannot:",
@@ -18688,7 +18688,7 @@ export const allQuestions = {
       "Print currency",
       "Train customers"
     ],
-    "correctAnswer": "Print currency"
+    "answer": "Print currency"
   },
   {
     "question": "MFBs are important in Nigeria because they:",
@@ -18698,7 +18698,7 @@ export const allQuestions = {
       "Eliminate commercial banks",
       "Print banknotes"
     ],
-    "correctAnswer": "Bring banking services to the unbanked"
+    "answer": "Bring banking services to the unbanked"
   },
   {
     "question": "Microfinance banks also provide:",
@@ -18708,7 +18708,7 @@ export const allQuestions = {
       "Foreign reserve management",
       "Currency issuance"
     ],
-    "correctAnswer": "Loan monitoring"
+    "answer": "Loan monitoring"
   },
   {
     "question": "A key principle guiding microfinance is:",
@@ -18718,7 +18718,7 @@ export const allQuestions = {
       "Foreign exchange trading",
       "Tax collection"
     ],
-    "correctAnswer": "Group lending"
+    "answer": "Group lending"
   },
   {
     "question": "Microfinance banks mainly operate in:",
@@ -18728,7 +18728,7 @@ export const allQuestions = {
       "Only major cities",
       "Ports"
     ],
-    "correctAnswer": "Rural and semi-urban areas"
+    "answer": "Rural and semi-urban areas"
   },
   {
     "question": "One limitation of MFBs is:",
@@ -18738,7 +18738,7 @@ export const allQuestions = {
       "High customer trust",
       "Abundance of collateral"
     ],
-    "correctAnswer": "Low capital base"
+    "answer": "Low capital base"
   },
     {
     "question": "Non-bank financial institutions primarily engage in:",
@@ -18748,7 +18748,7 @@ export const allQuestions = {
       "Printing currency",
       "Conducting monetary policy"
     ],
-    "correctAnswer": "Providing specialized financial services"
+    "answer": "Providing specialized financial services"
   },
   {
     "question": "An example of a non-bank financial institution is:",
@@ -18758,7 +18758,7 @@ export const allQuestions = {
       "Central bank",
       "Merchant bank"
     ],
-    "correctAnswer": "Insurance company"
+    "answer": "Insurance company"
   },
   {
     "question": "Mortgage banks mainly provide:",
@@ -18768,7 +18768,7 @@ export const allQuestions = {
       "ATM services",
       "Treasury bills"
     ],
-    "correctAnswer": "Long-term housing loans"
+    "answer": "Long-term housing loans"
   },
   {
     "question": "Insurance companies help reduce:",
@@ -18778,7 +18778,7 @@ export const allQuestions = {
       "Import duties",
       "Loan defaults"
     ],
-    "correctAnswer": "Financial risk"
+    "answer": "Financial risk"
   },
   {
     "question": "Pension fund administrators manage:",
@@ -18788,7 +18788,7 @@ export const allQuestions = {
       "Stock exchange",
       "Foreign reserves"
     ],
-    "correctAnswer": "Retirement savings"
+    "answer": "Retirement savings"
   },
   {
     "question": "Finance houses primarily offer:",
@@ -18798,7 +18798,7 @@ export const allQuestions = {
       "Savings accounts",
       "Currency printing"
     ],
-    "correctAnswer": "Consumer credit and hire purchase"
+    "answer": "Consumer credit and hire purchase"
   },
   {
     "question": "Bureau de Change institutions mainly:",
@@ -18808,7 +18808,7 @@ export const allQuestions = {
       "Underwrite shares",
       "Build houses"
     ],
-    "correctAnswer": "Sell foreign currency"
+    "answer": "Sell foreign currency"
   },
   {
     "question": "Non-bank financial institutions differ from banks because they:",
@@ -18818,7 +18818,7 @@ export const allQuestions = {
       "Supervise banks",
       "Regulate the economy"
     ],
-    "correctAnswer": "Do not issue cheque books"
+    "answer": "Do not issue cheque books"
   },
   {
     "question": "A key role of mortgage banks is:",
@@ -18828,7 +18828,7 @@ export const allQuestions = {
       "Short-term retail loans",
       "Conducting elections"
     ],
-    "correctAnswer": "Real estate financing"
+    "answer": "Real estate financing"
   },
   {
     "question": "Insurance companies operate on the principle of:",
@@ -18838,7 +18838,7 @@ export const allQuestions = {
       "Currency substitution",
       "Deposit multipliers"
     ],
-    "correctAnswer": "Risk pooling"
+    "answer": "Risk pooling"
   },
   {
     "question": "Finance houses help promote:",
@@ -18848,7 +18848,7 @@ export const allQuestions = {
       "Electricity distribution",
       "Currency printing"
     ],
-    "correctAnswer": "Consumer credit"
+    "answer": "Consumer credit"
   },
   {
     "question": "The National Pension Commission (PENCOM) regulates:",
@@ -18858,7 +18858,7 @@ export const allQuestions = {
       "Schools",
       "Commercial banks"
     ],
-    "correctAnswer": "Pension fund administrators"
+    "answer": "Pension fund administrators"
   },
   {
     "question": "A mortgage bank gives loans usually backed by:",
@@ -18868,7 +18868,7 @@ export const allQuestions = {
       "Voters card",
       "Passport"
     ],
-    "correctAnswer": "Collateral such as land or property"
+    "answer": "Collateral such as land or property"
   },
   {
     "question": "Hire purchase is provided by:",
@@ -18878,7 +18878,7 @@ export const allQuestions = {
       "Microfinance banks",
       "Central banks"
     ],
-    "correctAnswer": "Finance houses"
+    "answer": "Finance houses"
   },
   {
     "question": "Non-bank institutions help diversify:",
@@ -18888,7 +18888,7 @@ export const allQuestions = {
       "Educational policy",
       "Industrial pollution"
     ],
-    "correctAnswer": "The financial system"
+    "answer": "The financial system"
   },
   {
     "question": "Insurance companies collect:",
@@ -18898,7 +18898,7 @@ export const allQuestions = {
       "Tariffs",
       "Customs duties"
     ],
-    "correctAnswer": "Premiums"
+    "answer": "Premiums"
   },
   {
     "question": "Mortgage banks differ from commercial banks because they:",
@@ -18908,7 +18908,7 @@ export const allQuestions = {
       "Issue debit cards",
       "Print money"
     ],
-    "correctAnswer": "Fund long-term real estate"
+    "answer": "Fund long-term real estate"
   },
   {
     "question": "Pension funds invest contributions to:",
@@ -18918,7 +18918,7 @@ export const allQuestions = {
       "Provide electricity",
       "Fund elections"
     ],
-    "correctAnswer": "Grow retirement savings"
+    "answer": "Grow retirement savings"
   },
   {
     "question": "A key limitation of finance houses is:",
@@ -18928,7 +18928,7 @@ export const allQuestions = {
       "Too many customers",
       "High capital base"
     ],
-    "correctAnswer": "High default risk"
+    "answer": "High default risk"
   },
   {
     "question": "Non-bank financial institutions contribute to economic growth by:",
@@ -18938,7 +18938,7 @@ export const allQuestions = {
       "Controlling inflation",
       "Setting interest rates"
     ],
-    "correctAnswer": "Managing risks and mobilizing long-term funds"
+    "answer": "Managing risks and mobilizing long-term funds"
   },
     {
     "question": "A major distinguishing feature of commercial banks is that they:",
@@ -18948,7 +18948,7 @@ export const allQuestions = {
       "Underwrite securities",
       "Avoid taking deposits"
     ],
-    "correctAnswer": "Deal mainly in retail and short-term services"
+    "answer": "Deal mainly in retail and short-term services"
   },
   {
     "question": "Merchant banks generally concentrate on:",
@@ -18958,7 +18958,7 @@ export const allQuestions = {
       "Salary payments to civil servants",
       "ATM card issuance only"
     ],
-    "correctAnswer": "Wholesale banking and corporate financing"
+    "answer": "Wholesale banking and corporate financing"
   },
   {
     "question": "Commercial banks earn most of their income from:",
@@ -18968,7 +18968,7 @@ export const allQuestions = {
       "Short-term loans and customer deposits",
       "Venture capital income"
     ],
-    "correctAnswer": "Short-term loans and customer deposits"
+    "answer": "Short-term loans and customer deposits"
   },
   {
     "question": "Merchant banks are also referred to as:",
@@ -18978,7 +18978,7 @@ export const allQuestions = {
       "Microfinance banks",
       "Mortgage banks"
     ],
-    "correctAnswer": "Investment banks"
+    "answer": "Investment banks"
   },
   {
     "question": "Commercial banks usually provide:",
@@ -18988,7 +18988,7 @@ export const allQuestions = {
       "Underwriting services",
       "Capital market operations"
     ],
-    "correctAnswer": "Daily financial transactions like withdrawals and deposits"
+    "answer": "Daily financial transactions like withdrawals and deposits"
   },
   {
     "question": "Merchant banks accept mainly:",
@@ -18998,7 +18998,7 @@ export const allQuestions = {
       "Charity donations",
       "Small petty deposits"
     ],
-    "correctAnswer": "Time deposits from large firms"
+    "answer": "Time deposits from large firms"
   },
   {
     "question": "Commercial banks facilitate the economy by:",
@@ -19008,7 +19008,7 @@ export const allQuestions = {
       "Underwriting new share issues",
       "Financing international trade only"
     ],
-    "correctAnswer": "Providing short-term credit for individuals and businesses"
+    "answer": "Providing short-term credit for individuals and businesses"
   },
   {
     "question": "Merchant banks help companies raise long-term capital through:",
@@ -19018,7 +19018,7 @@ export const allQuestions = {
       "Granting salary advances",
       "Operating ATMs for the public"
     ],
-    "correctAnswer": "Issuing shares and debentures"
+    "answer": "Issuing shares and debentures"
   },
   {
     "question": "One area where commercial banks differ from merchant banks is that commercial banks:",
@@ -19028,7 +19028,7 @@ export const allQuestions = {
       "Finance mergers",
       "Offer portfolio management"
     ],
-    "correctAnswer": "Provide cheque book facilities"
+    "answer": "Provide cheque book facilities"
   },
   {
     "question": "Merchant banks are specialised because they:",
@@ -19038,7 +19038,7 @@ export const allQuestions = {
       "Pay salaries to civil servants",
       "Operate savings schemes for children"
     ],
-    "correctAnswer": "Serve mainly corporate and institutional clients"
+    "answer": "Serve mainly corporate and institutional clients"
   },
   {
     "question": "Which of the following is NOT a function of commercial banks?",
@@ -19048,7 +19048,7 @@ export const allQuestions = {
       "Underwriting securities",
       "Facilitating payments"
     ],
-    "correctAnswer": "Underwriting securities"
+    "answer": "Underwriting securities"
   },
   {
     "question": "Merchant banks play a major role in:",
@@ -19058,7 +19058,7 @@ export const allQuestions = {
       "Currency printing",
       "Agricultural subsidies"
     ],
-    "correctAnswer": "Capital market activities"
+    "answer": "Capital market activities"
   },
   {
     "question": "The type of loans commonly given by commercial banks is:",
@@ -19068,7 +19068,7 @@ export const allQuestions = {
       "Venture capital funding",
       "Equity financing"
     ],
-    "correctAnswer": "Short-term working capital loans"
+    "answer": "Short-term working capital loans"
   },
   {
     "question": "Merchant banks differ from commercial banks because they provide:",
@@ -19078,7 +19078,7 @@ export const allQuestions = {
       "Savings products for the general public",
       "Salary advances"
     ],
-    "correctAnswer": "Financial advisory services to large firms"
+    "answer": "Financial advisory services to large firms"
   },
   {
     "question": "A unique function of merchant banks is:",
@@ -19088,7 +19088,7 @@ export const allQuestions = {
       "Giving short-term credit",
       "Holding savings for individuals"
     ],
-    "correctAnswer": "Providing long-term project loans"
+    "answer": "Providing long-term project loans"
   },
   {
     "question": "Commercial banks focus on:",
@@ -19098,7 +19098,7 @@ export const allQuestions = {
       "Foreign exchange advisory alone",
       "Underwriting corporations"
     ],
-    "correctAnswer": "The general public and small businesses"
+    "answer": "The general public and small businesses"
   },
   {
     "question": "Merchant banks commonly engage in:",
@@ -19108,7 +19108,7 @@ export const allQuestions = {
       "Agricultural credit to farmers",
       "Personal loan issuance"
     ],
-    "correctAnswer": "Portfolio and investment management"
+    "answer": "Portfolio and investment management"
   },
   {
     "question": "Commercial banks are important for:",
@@ -19118,7 +19118,7 @@ export const allQuestions = {
       "Underwriting stocks",
       "Providing venture capital"
     ],
-    "correctAnswer": "Meeting the immediate cash needs of customers"
+    "answer": "Meeting the immediate cash needs of customers"
   },
   {
     "question": "Merchant banks differ from commercial banks based on the fact that merchant banks:",
@@ -19128,7 +19128,7 @@ export const allQuestions = {
       "Provide ATM withdrawals",
       "Manage small personal accounts"
     ],
-    "correctAnswer": "Operate mainly in the wholesale financial market"
+    "answer": "Operate mainly in the wholesale financial market"
   },
   {
     "question": "Commercial banks mobilize savings from:",
@@ -19138,7 +19138,7 @@ export const allQuestions = {
       "Merchants only",
       "Government agencies alone"
     ],
-    "correctAnswer": "The general public"
+    "answer": "The general public"
   },
     {
     "question": "The primary purpose of money is to:",
@@ -19148,7 +19148,7 @@ export const allQuestions = {
       "Create employment",
       "Control tax revenue"
     ],
-    "correctAnswer": "Serve as a medium of exchange"
+    "answer": "Serve as a medium of exchange"
   },
   {
     "question": "One major characteristic of good money is:",
@@ -19158,7 +19158,7 @@ export const allQuestions = {
       "Unpredictability",
       "Heavy weight"
     ],
-    "correctAnswer": "Durability"
+    "answer": "Durability"
   },
   {
     "question": "The West African Currency Board (WACB) was established to:",
@@ -19168,7 +19168,7 @@ export const allQuestions = {
       "Control inflation",
       "Train bank managers"
     ],
-    "correctAnswer": "Issue and redeem currency in British West Africa"
+    "answer": "Issue and redeem currency in British West Africa"
   },
   {
     "question": "One major reason for the slow growth of early Nigerian banks was:",
@@ -19178,7 +19178,7 @@ export const allQuestions = {
       "Limited competition",
       "High literacy level"
     ],
-    "correctAnswer": "Poor management and fraud"
+    "answer": "Poor management and fraud"
   },
   {
     "question": "The CBN controls the money supply through:",
@@ -19188,7 +19188,7 @@ export const allQuestions = {
       "Tax collection",
       "Import duties"
     ],
-    "correctAnswer": "Monetary policy"
+    "answer": "Monetary policy"
   },
   {
     "question": "Which of the following is a key function of commercial banks?",
@@ -19198,7 +19198,7 @@ export const allQuestions = {
       "Accepting deposits from the public",
       "Printing currency"
     ],
-    "correctAnswer": "Accepting deposits from the public"
+    "answer": "Accepting deposits from the public"
   },
   {
     "question": "Merchant banks typically provide financing for:",
@@ -19208,7 +19208,7 @@ export const allQuestions = {
       "Food distribution",
       "Small family businesses"
     ],
-    "correctAnswer": "Long-term capital projects"
+    "answer": "Long-term capital projects"
   },
   {
     "question": "A bank that deals mostly with large corporate clients is:",
@@ -19218,7 +19218,7 @@ export const allQuestions = {
       "Microfinance bank",
       "Mortgage bank"
     ],
-    "correctAnswer": "Merchant bank"
+    "answer": "Merchant bank"
   },
   {
     "question": "The main regulator of banks in Nigeria is the:",
@@ -19228,7 +19228,7 @@ export const allQuestions = {
       "Central Bank of Nigeria",
       "IMF"
     ],
-    "correctAnswer": "Central Bank of Nigeria"
+    "answer": "Central Bank of Nigeria"
   },
   {
     "question": "One reason for mass bank failure in the 1950s was:",
@@ -19238,7 +19238,7 @@ export const allQuestions = {
       "Strong banking laws",
       "High customer savings"
     ],
-    "correctAnswer": "Poor capital base"
+    "answer": "Poor capital base"
   },
   {
     "question": "Commercial banks help economic growth mainly by:",
@@ -19248,7 +19248,7 @@ export const allQuestions = {
       "Printing and distributing money",
       "Producing coins"
     ],
-    "correctAnswer": "Mobilizing savings and providing credit"
+    "answer": "Mobilizing savings and providing credit"
   },
   {
     "question": "The CBN was established in:",
@@ -19258,7 +19258,7 @@ export const allQuestions = {
       "1958",
       "1980"
     ],
-    "correctAnswer": "1958"
+    "answer": "1958"
   },
   {
     "question": "The first modern bank in Nigeria was:",
@@ -19268,7 +19268,7 @@ export const allQuestions = {
       "Central Bank",
       "Cooperative Bank"
     ],
-    "correctAnswer": "First Bank"
+    "answer": "First Bank"
   },
   {
     "question": "Which of the following is NOT a function of money?",
@@ -19278,7 +19278,7 @@ export const allQuestions = {
       "Measure of inflation",
       "Standard of deferred payment"
     ],
-    "correctAnswer": "Measure of inflation"
+    "answer": "Measure of inflation"
   },
   {
     "question": "Merchant banks differ from commercial banks because merchant banks:",
@@ -19288,7 +19288,7 @@ export const allQuestions = {
       "Issue ATM cards",
       "Handle retail deposits"
     ],
-    "correctAnswer": "Offer long-term financing"
+    "answer": "Offer long-term financing"
   },
   {
     "question": "A cheque is an example of:",
@@ -19298,7 +19298,7 @@ export const allQuestions = {
       "Commodity money",
       "Full-bodied money"
     ],
-    "correctAnswer": "Near money"
+    "answer": "Near money"
   },
   {
     "question": "The term “banking habit” refers to:",
@@ -19308,7 +19308,7 @@ export const allQuestions = {
       "Excessive borrowing",
       "Bank staff behaviour"
     ],
-    "correctAnswer": "People saving in banks regularly"
+    "answer": "People saving in banks regularly"
   },
   {
     "question": "Which institution issues and manages Nigeria’s currency?",
@@ -19318,7 +19318,7 @@ export const allQuestions = {
       "Central Bank of Nigeria",
       "National Assembly"
     ],
-    "correctAnswer": "Central Bank of Nigeria"
+    "answer": "Central Bank of Nigeria"
   },
   {
     "question": "One major objective of the CBN is:",
@@ -19328,7 +19328,7 @@ export const allQuestions = {
       "To finance all banks",
       "To grant student loans"
     ],
-    "correctAnswer": "To maintain monetary stability"
+    "answer": "To maintain monetary stability"
   },
   {
     "question": "The type of financing associated with merchant banks is:",
@@ -19338,7 +19338,7 @@ export const allQuestions = {
       "Personal loans",
       "Microloans"
     ],
-    "correctAnswer": "Long-term project financing"
+    "answer": "Long-term project financing"
   },
     ],
    "GST 222":[
