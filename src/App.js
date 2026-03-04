@@ -1,4 +1,3 @@
-// App.js
 import { useEffect, useMemo, useState } from "react";
 import Quiz from "./Quiz";
 import Landing from "./Landing";
@@ -9,176 +8,245 @@ import ReportButtons from "./ReportButtons";
 
 export default function App() {
 
- useEffect(() => {
-  // document.addEventListener("contextmenu", (e) => e.preventDefault());
-  document.addEventListener("copy", (e) => e.preventDefault());
-  document.addEventListener("cut", (e) => e.preventDefault());
-  document.addEventListener("paste", (e) => e.preventDefault());
+useEffect(() => {
+document.addEventListener("copy", (e) => e.preventDefault());
+document.addEventListener("cut", (e) => e.preventDefault());
+document.addEventListener("paste", (e) => e.preventDefault());
 }, []);
 
-  const [session, setSession] = useState(null);
-  const [subject, setSubject] = useState("");
-  const [isPremium, setIsPremium] = useState(false);
-  const [premiumLoading, setPremiumLoading] = useState(false);
+const [session, setSession] = useState(null);
+const [subject, setSubject] = useState("");
+const [isPremium, setIsPremium] = useState(false);
+const [premiumLoading, setPremiumLoading] = useState(false);
 
-  const subjects = useMemo(() => Object.keys(allQuestions), []);
+const subjects = useMemo(() => Object.keys(allQuestions), []);
 
-  // ✅ EDIT PREMIUM SUBJECTS HERE (must match your subject names)
-  const premiumSubjects = useMemo(
-    () => ["GST 102", "MTH 101", "GST 111", "GST 112", "ENT 201", "ENT 211", "GST 222", "POS 216", "PHY 102", "ELS 103",],
-    []
-  );
+const premiumSubjects = useMemo(
+() => [
+"GST 102",
+"MTH 101",
+"GST 111",
+"GST 112",
+"ENT 201",
+"ENT 211",
+"GST 222",
+"POS 216",
+"PHY 102",
+"ELS 103",
+],
+[]
+);
 
-  useEffect(() => {
-    let mounted = true;
 
-    const init = async () => {
-      const { data } = await supabase.auth.getSession();
-      if (!mounted) return;
-      setSession(data.session || null);
-    };
+// AUTH SESSION
+useEffect(() => {
 
-    init();
+let mounted = true;
 
-    const { data: authListener } = supabase.auth.onAuthStateChange(
-      (_event, newSession) => {
-        setSession(newSession);
-        setSubject("");
-      }
-    );
+const init = async () => {
+const { data } = await supabase.auth.getSession();
+if (!mounted) return;
+setSession(data.session || null);
+};
 
-    return () => {
-      mounted = false;
-      authListener.subscription.unsubscribe();
-    };
-  }, []);
+init();
 
-  useEffect(() => {
-    const run = async () => {
-      if (!session?.user?.id) return;
+const { data: authListener } = supabase.auth.onAuthStateChange(
+(_event, newSession) => {
+setSession(newSession);
+setSubject("");
+}
+);
 
-      setPremiumLoading(true);
+return () => {
+mounted = false;
+authListener.subscription.unsubscribe();
+};
 
-      try {
-        const userId = session.user.id;
+}, []);
 
-        // Ensure profile exists
-        const { error: upsertErr } = await supabase
-          .from("profiles")
-          .upsert({ id: userId }, { onConflict: "id" });
 
-        if (upsertErr) throw upsertErr;
+// CHECK PREMIUM STATUS
+useEffect(() => {
 
-        // Read premium flag
-        const { data, error } = await supabase
-          .from("profiles")
-          .select("is_premium")
-          .eq("id", userId)
-          .single();
+const run = async () => {
 
-        if (error) throw error;
+if (!session?.user?.id) return;
 
-        setIsPremium(!!data?.is_premium);
-      } catch (e) {
-        console.error("Premium check error:", e);
-        setIsPremium(false);
-      } finally {
-        setPremiumLoading(false);
-      }
-    };
+setPremiumLoading(true);
 
-    run();
-  }, [session]);
+try {
 
-  const logout = async () => {
-    try {
-      setPremiumLoading(true);
-      await supabase.auth.signOut();
-    } catch (e) {
-      console.error("Logout error:", e);
-    } finally {
-      setSession(null);
-      setSubject("");
-      setIsPremium(false);
-      setPremiumLoading(false);
-    }
-  };
+const { data } = await supabase
+.from("profiles")
+.select("*")
+.eq("id", session.user.id)
+.single();
 
-  // Called after payment verification succeeds
-  const onPremiumSuccess = async (reference) => {
-    if (!session?.user?.id) return;
+if (!data) {
+setIsPremium(false);
+setPremiumLoading(false);
+return;
+}
 
-    setPremiumLoading(true);
+if (data.premium_expires_at) {
 
-    try {
-      const userId = session.user.id;
-      const email = session.user.email || "test@email.com";
+const expires = new Date(data.premium_expires_at);
 
-      // Save payment record (optional)
-      await supabase.from("payments").insert([
-        {
-          user_id: userId,
-          email,
-          reference: reference || `${Date.now()}`,
-          status: "paid",
-        },
-      ]);
+if (expires > new Date()) {
+setIsPremium(true);
+} else {
 
-      // Update premium flag
-      const { error } = await supabase
-        .from("profiles")
-        .upsert({ id: userId, is_premium: true }, { onConflict: "id" });
+setIsPremium(false);
 
-      if (error) throw error;
+await supabase
+.from("profiles")
+.update({ is_premium: false })
+.eq("id", session.user.id);
 
-      setIsPremium(true);
-    } catch (e) {
-      console.error("Premium update error:", e);
-      alert("Payment verified but premium update failed. Check console.");
-    } finally {
-      setPremiumLoading(false);
-    }
-  };
+}
 
-  const startSubject = (picked) => {
-    const clean = String(picked || "").trim();
+} else {
+setIsPremium(false);
+}
 
-    if (premiumSubjects.includes(clean) && !isPremium) {
-      alert(`Unlock Premium to practice: ${clean}`);
-      return;
-    }
+} catch (e) {
 
-    setSubject(clean);
-  };
+console.log("Premium check error:", e);
+setIsPremium(false);
 
-  if (!session) return <Landing />;
+}
 
-  const studentEmail = session.user.email || "test@email.com";
+setPremiumLoading(false);
 
-  if (!subject) {
-   return (
-  <>
-    <SubjectSelect
-      subjects={subjects}
-      onStart={startSubject}
-      onLogout={logout}
-      studentEmail={studentEmail}
-      isPremium={isPremium}
-      premiumLoading={premiumLoading}
-      onPremiumSuccess={onPremiumSuccess}
-      premiumSubjects={premiumSubjects}
-    />
+};
 
-    <ReportButtons />
-   </>
-  );
-  }
+run();
 
-  return (
-    <Quiz
-      selectedSubject={subject}
-      student={studentEmail}
-      onBack={() => setSubject("")}
-    />
-  );
+}, [session]);
+
+
+// LOGOUT
+const logout = async () => {
+
+await supabase.auth.signOut();
+
+setSession(null);
+setSubject("");
+setIsPremium(false);
+
+window.location.reload();
+
+};
+
+
+// START 1 DAY FREE TRIAL
+const startTrial = async () => {
+
+if (!session?.user?.id) return;
+
+const userId = session.user.id;
+
+const now = new Date();
+const expires = new Date(now.getTime() + 24 * 60 * 60 * 1000);
+
+await supabase
+.from("profiles")
+.upsert({
+id: userId,
+is_premium: true,
+trial_started_at: now.toISOString(),
+premium_expires_at: expires.toISOString(),
+});
+
+setIsPremium(true);
+
+alert("Your 1-day free trial has started!");
+
+};
+
+
+// AFTER PAYMENT SUCCESS
+const onPremiumSuccess = async (reference, plan = "weekly") => {
+
+if (!session?.user?.id) return;
+
+const userId = session.user.id;
+
+const now = new Date();
+
+const expires = new Date(
+now.getTime() + (plan === "weekly" ? 7 : 30) * 24 * 60 * 60 * 1000
+);
+
+await supabase
+.from("profiles")
+.upsert({
+id: userId,
+is_premium: true,
+premium_expires_at: expires.toISOString(),
+});
+
+setIsPremium(true);
+
+};
+
+
+// START SUBJECT
+const startSubject = (picked) => {
+
+const clean = String(picked || "").trim();
+
+if (premiumSubjects.includes(clean) && !isPremium) {
+alert(`Unlock Premium to practice: ${clean}`);
+return;
+}
+
+setSubject(clean);
+
+};
+
+
+if (!session) return <Landing />;
+
+const studentEmail = session.user.email || "test@email.com";
+
+
+if (!subject) {
+
+return (
+
+<>
+
+<SubjectSelect
+subjects={subjects}
+onStart={startSubject}
+onLogout={logout}
+studentEmail={studentEmail}
+isPremium={isPremium}
+premiumLoading={premiumLoading}
+onPremiumSuccess={onPremiumSuccess}
+premiumSubjects={premiumSubjects}
+startTrial={startTrial}
+/>
+
+<ReportButtons />
+
+</>
+
+);
+
+}
+
+
+return (
+
+<Quiz
+selectedSubject={subject}
+student={studentEmail}
+onBack={() => setSubject("")}
+/>
+
+);
+
 }
