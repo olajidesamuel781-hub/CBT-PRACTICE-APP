@@ -426,6 +426,1489 @@ export const allQuestions = {
       answer: "Packaging and secretion of proteins"
     },
     ],
+    "BIO 111":[
+   {
+  question: "Protozoa are a subgroup of the domain",
+  options: [
+    "Protista",
+    "Animalia",
+    "Fungi",
+    "Monera",
+    "Prokaryote"
+  ],
+  answer: "Protista"
+},
+
+{
+  question: "Tapeworms are endoparasites of",
+  options: [
+    "Arthropods",
+    "Protozoa",
+    "Vertebrates",
+    "Invertebrates",
+    "Nematodes"
+  ],
+  answer: "Vertebrates"
+},
+
+{
+  question: "Cow and pig are intermediate host of",
+  options: [
+    "Schistosoma spp",
+    "Trichuris spp",
+    "Tapeworm",
+    "Planaria",
+    "Arachida"
+  ],
+  answer: "Tapeworm"
+},
+
+{
+  question: "Suckers, rostellum and hooks in tapeworms are used for",
+  options: [
+    "Feeding",
+    "Motility",
+    "Reproduction",
+    "Defence",
+    "Attachment"
+  ],
+  answer: "Attachment"
+},
+
+{
+  question: "Humans become infected with tapeworms when they",
+  options: [
+    "Eat beef",
+    "Eat pork",
+    "Eat intermediate host harbouring the metacestode",
+    "Consume plant",
+    "Have contact with infected animals"
+  ],
+  answer: "Eat intermediate host harbouring the metacestode"
+},
+
+{
+  question: "Which of the following is an example of a protozoa having two modes of nutrition?",
+  options: [
+    "Paramecium sp",
+    "Plasmodium sp",
+    "Amoeba sp",
+    "Euglena sp",
+    "Entamoeba sp"
+  ],
+  answer: "Euglena sp"
+},
+
+{
+  question: "The animal-like flagellates are called",
+  options: [
+    "Phytoflagellates",
+    "Sporozoa",
+    "Slime mould",
+    "Zooflagellates",
+    "Ciliophora"
+  ],
+  answer: "Zooflagellates"
+},
+
+{
+  question: "Trypanosoma is the causative agent of which disease?",
+  options: [
+    "Trichomoniasis",
+    "Vaginitis",
+    "Malaria",
+    "Trypanosomiasis",
+    "Leishmaniasis"
+  ],
+  answer: "Trypanosomiasis"
+},
+
+{
+  question: "Which of the following is NOT a division/phylum of protozoa?",
+  options: [
+    "Mastigophora",
+    "Ciliophora",
+    "Sarcodina",
+    "Sporozoa",
+    "Slime moulds"
+  ],
+  answer: "Slime moulds"
+},
+
+{
+  question: "Leishmaniasis is transmitted by",
+  options: [
+    "Tsetse flies",
+    "Mosquitoes",
+    "Sandflies",
+    "Chrysops",
+    "Blackflies"
+  ],
+  answer: "Sandflies"
+},
+
+{
+  question: "Which of the following is NOT an example of Plasmodium spp?",
+  options: [
+    "Plasmodium vivax",
+    "Plasmodium ovale",
+    "Plasmodium malariae",
+    "Plasmodium falciparum",
+    "Plasmodium ovali"
+  ],
+  answer: "Plasmodium ovali"
+},
+
+{
+  question: "The life vector of Plasmodium spp requires an arthropod vector called",
+  options: [
+    "Female mosquito",
+    "Female Anopheles mosquito",
+    "Female Aedes mosquito",
+    "Blackfly",
+    "Tsetse fly"
+  ],
+  answer: "Female Anopheles mosquito"
+},
+
+{
+  question: "Which of the following is NOT an example of a coelenterate?",
+  options: [
+    "Hydra",
+    "Sea anemones",
+    "Jelly fish",
+    "Corals",
+    "Cestodes"
+  ],
+  answer: "Cestodes"
+},
+
+{
+  question: "The phylum Platyhelminthes are commonly referred to as",
+  options: [
+    "Trematodes",
+    "Cestodes",
+    "Flatworms",
+    "Roundworms",
+    "Hookworms"
+  ],
+  answer: "Flatworms"
+},
+
+{
+  question: "Which of the following is NOT a class of Platyhelminthes?",
+  options: [
+    "Turbellaria",
+    "Planaria",
+    "Trematoda",
+    "Cestoda",
+    "Phasmidia"
+  ],
+  answer: "Phasmidia"
+},
+
+{
+  question: "Schistosomiasis is a disease caused by",
+  options: [
+    "Schistosoma haematobium",
+    "Amoeba proteus",
+    "Trichuris trichiura",
+    "Plasmodium sp",
+    "Entamoeba sp"
+  ],
+  answer: "Schistosoma haematobium"
+},
+
+{
+  question: "Loiasis is also known as",
+  options: [
+    "Leopard skin",
+    "Elephantiasis",
+    "Lizard skin",
+    "Calabar swelling",
+    "Necrosis"
+  ],
+  answer: "Calabar swelling"
+},
+
+{
+  question: "The intermediate host of Schistosoma haematobium is",
+  options: [
+    "Pig",
+    "Snail",
+    "Mosquito",
+    "Fly",
+    "Fish"
+  ],
+  answer: "Snail"
+},
+
+{
+  question: "Trichuriasis is a disease caused by",
+  options: [
+    "Schistosoma haematobium",
+    "Trichuris trichiura",
+    "Onchocerca volvulus",
+    "Ascaris lumbricoides",
+    "Loa loa"
+  ],
+  answer: "Trichuris trichiura"
+},
+
+{
+  question: "The following are used for locomotion EXCEPT",
+  options: [
+    "Rhizopodia",
+    "Volvents",
+    "Stenoteles",
+    "Spicules"
+  ],
+  answer: "Stenoteles"
+},
+
+{
+  question: "River blindness is transmitted by",
+  options: [
+    "Blackfly",
+    "Whitefly",
+    "Tabanid flies",
+    "Housefly",
+    "Mosquitoes"
+  ],
+  answer: "Blackfly"
+},
+
+{
+  question: "Which of the following is NOT an example of an annelid?",
+  options: [
+    "Lugworm",
+    "Sandworms",
+    "Earthworms",
+    "Tubeworms",
+    "Tapeworms"
+  ],
+  answer: "Tapeworms"
+},
+
+{
+  question: "Wuchereria bancrofti is the causative agent of",
+  options: [
+    "Sleeping sickness",
+    "Leishmaniasis",
+    "Elephantiasis",
+    "Loiasis",
+    "Ascariasis"
+  ],
+  answer: "Elephantiasis"
+},
+
+{
+  question: "The causative agent of onchocerciasis is",
+  options: [
+    "Onchocerca volvulus",
+    "Onchocerca vivax",
+    "Onchocerca volvulae",
+    "Onchocerca bancrofti",
+    "Loa loa"
+  ],
+  answer: "Onchocerca volvulus"
+},
+
+{
+  question: "Earthworms belong to which class of annelid?",
+  options: [
+    "Oligochaeta",
+    "Polychaeta",
+    "Hirudinea",
+    "Arachnida",
+    "Hexapoda"
+  ],
+  answer: "Oligochaeta"
+},
+
+{
+  question: "Which of the following is NOT a characteristic of arthropods?",
+  options: [
+    "Presence of exoskeleton",
+    "Specialized mouth parts",
+    "Jointed legs",
+    "Compound eyes",
+    "Unsegmented body"
+  ],
+  answer: "Unsegmented body"
+},
+
+{
+  question: "Which of the following is NOT a class of phylum arthropoda?",
+  options: [
+    "Phasmidia",
+    "Myriapoda",
+    "Crustacea",
+    "Chelicerata",
+    "Insecta"
+  ],
+  answer: "Phasmidia"
+},
+
+{
+  question: "The thoracic segment of insects bears how many pairs of legs?",
+  options: [
+    "4",
+    "3",
+    "5",
+    "2"
+  ],
+  answer: "3"
+},
+
+{
+  question: "Flame cell is the excretory organ of",
+  options: [
+    "Nematodes",
+    "Flatworms",
+    "Annelida",
+    "Mollusca",
+    "Protozoa"
+  ],
+  answer: "Flatworms"
+},
+
+{
+  question: "Nematocysts are stinging organelles in Cnidaria while ____ are adhesive organelles in Ctenophora",
+  options: [
+    "Tentacles",
+    "Cnidoblast",
+    "Colloblast",
+    "Nematocyst",
+    "Statocyst"
+  ],
+  answer: "Colloblast"
+},
+{
+  question: "Which of the following is an example of Ascaridata?",
+  options: [
+    "Necator americanus",
+    "Loa loa",
+    "Wuchereria bancrofti",
+    "Ascaris lumbricoides",
+    "Onchocerca volvulus"
+  ],
+  answer: "Ascaris lumbricoides"
+},
+
+{
+  question: "Trichuris is also known as",
+  options: [
+    "Flatworms",
+    "Whipworms",
+    "Ribbon worm",
+    "Tubeworms",
+    "Lugworms"
+  ],
+  answer: "Whipworms"
+},
+
+{
+  question: "Taenia saginata and Taenia solium are examples of",
+  options: [
+    "Turbellaria",
+    "Planaria",
+    "Monogenea",
+    "Trematoda",
+    "Cestodes"
+  ],
+  answer: "Cestodes"
+},
+
+{
+  question: "The common name for trematodes is",
+  options: [
+    "Flukes",
+    "Tapeworms",
+    "Roundworms",
+    "Hookworms",
+    "Whipworms"
+  ],
+  answer: "Flukes"
+},
+
+{
+  question: "Which of the following is NOT a class of Platyhelminthes?",
+  options: [
+    "Turbellaria",
+    "Planaria",
+    "Trematoda",
+    "Cestoda",
+    "Phasmidia"
+  ],
+  answer: "Phasmidia"
+},
+
+{
+  question: "Arthropods respire by the following EXCEPT",
+  options: [
+    "Book lungs",
+    "Gills",
+    "Body surface",
+    "Tracheal gills"
+  ],
+  answer: "Body surface"
+},
+
+{
+  question: "Sucking lice is",
+  options: [
+    "Ectoparasite",
+    "Endoparasite",
+    "Commensal",
+    "Platyhelminth"
+  ],
+  answer: "Ectoparasite"
+},
+
+{
+  question: "Reptiles have ____ cranial nerves",
+  options: [
+    "11",
+    "10",
+    "9"
+  ],
+  answer: "10"
+},
+
+{
+  question: "The following are different compartments of the mammalian stomach EXCEPT",
+  options: [
+    "Rumen",
+    "Reticulum",
+    "Plasmid",
+    "Abomasum"
+  ],
+  answer: "Plasmid"
+},
+
+{
+  question: "The following are types of pseudopodia EXCEPT",
+  options: [
+    "Limax",
+    "Mesendomyx",
+    "Blunt reticulopodium"
+  ],
+  answer: "Mesendomyx"
+},
+
+{
+  question: "Streptobacilli are bacilli that occur in",
+  options: [
+    "Pairs",
+    "Chains",
+    "Clusters",
+    "Single",
+    "None of the above"
+  ],
+  answer: "Chains"
+},
+
+{
+  question: "Which bacteria structure enables it to survive unfavorable conditions?",
+  options: [
+    "Granules",
+    "Ribosome",
+    "Nuclear body",
+    "Capsules",
+    "Flagella"
+  ],
+  answer: "Capsules"
+},
+
+{
+  question: "Staphylococci are cocci that occur in",
+  options: [
+    "Pairs",
+    "Irregular clusters",
+    "Long chains",
+    "Short chains"
+  ],
+  answer: "Irregular clusters"
+},
+
+{
+  question: "Yeast is of economic importance in all EXCEPT",
+  options: [
+    "Sources of vitamin B",
+    "Production of alcoholic drinks",
+    "Baking of bread",
+    "As an antibiotic"
+  ],
+  answer: "As an antibiotic"
+},
+
+{
+  question: "Conversion of nitrites to nitrates is called",
+  options: [
+    "Degradation",
+    "Denitrification",
+    "Nitrification",
+    "Nitrogen fixation"
+  ],
+  answer: "Nitrification"
+},
+
+{
+  question: "All of the following are nitrogen fixing bacteria EXCEPT",
+  options: [
+    "Thiobacillus",
+    "Rhizobium",
+    "Azotobacter",
+    "Clostridium"
+  ],
+  answer: "Thiobacillus"
+},
+
+{
+  question: "The biological relationship in which both species benefit is",
+  options: [
+    "Predation",
+    "Mutualism",
+    "Commensalism",
+    "Competition"
+  ],
+  answer: "Mutualism"
+},
+
+{
+  question: "Which does not result in water entering the atmosphere?",
+  options: [
+    "Evaporation",
+    "Respiration",
+    "Transpiration",
+    "Sublimation"
+  ],
+  answer: "Respiration"
+},
+
+{
+  question: "What happens to food energy along a food chain?",
+  options: [
+    "Energy remains the same",
+    "Energy increases",
+    "Energy decreases",
+    "Energy becomes zero"
+  ],
+  answer: "Energy decreases"
+},
+
+{
+  question: "The ____ phylum is a pseudocoelomate",
+  options: [
+    "Annelida",
+    "Mollusca",
+    "Chordata",
+    "Nematoda"
+  ],
+  answer: "Nematoda"
+},
+
+{
+  question: "Endogeny is a characteristic of",
+  options: [
+    "Toxoplasma",
+    "Leishmania",
+    "Sand dollar",
+    "Ascaris"
+  ],
+  answer: "Toxoplasma"
+},
+
+{
+  question: "The ability to aestivate is a feature of",
+  options: [
+    "Dinosaurs",
+    "Amphibians",
+    "Protopterus",
+    "None of the above"
+  ],
+  answer: "Amphibians"
+},
+
+{
+  question: "The body wall of coelenterates is made up of the following EXCEPT",
+  options: [
+    "Gastrodermis",
+    "Vitelline gland",
+    "Food vacuole",
+    "Nematocyst"
+  ],
+  answer: "Food vacuole"
+},
+
+{
+  question: "Carbon dioxide is returned to the atmosphere in all the following EXCEPT",
+  options: [
+    "Plant respiration",
+    "Transpiration",
+    "Firewood burning",
+    "Saprophytic respiration"
+  ],
+  answer: "Transpiration"
+},
+
+{
+  question: "Which of the following are true of vertebrates?",
+  options: [
+    "Are partly unicellular",
+    "Have an internal body framework and a backbone",
+    "Have an external body framework and a backbone",
+    "Are simple multicellular organisms"
+  ],
+  answer: "Have an internal body framework and a backbone"
+},
+
+{
+  question: "Arthropods with characteristically fused head and thorax and which possess antennae are",
+  options: [
+    "Arachnida",
+    "Insects",
+    "Peripatus",
+    "Crustaceans"
+  ],
+  answer: "Insects"
+},
+
+{
+  question: "Which of the following insects undergo incomplete metamorphosis?",
+  options: [
+    "Honey bee",
+    "Butterfly",
+    "Rice weevil",
+    "Aphids"
+  ],
+  answer: "Aphids"
+},
+
+{
+  question: "Green plants are regarded as",
+  options: [
+    "Saprophytic",
+    "Heterotrophic",
+    "Autotrophic",
+    "Hydrotropic"
+  ],
+  answer: "Autotrophic"
+},
+
+{
+  question: "All the following are primary consumers EXCEPT",
+  options: [
+    "Sheep",
+    "Cow",
+    "Grasshopper",
+    "Cat"
+  ],
+  answer: "Cat"
+},
+
+{
+  question: "____ manufacture their own food from simple inorganic substances",
+  options: [
+    "Decomposer",
+    "Heterotrophs",
+    "Autotroph",
+    "Synthesizer"
+  ],
+  answer: "Autotroph"
+},
+{
+  question: "Which of the following is NOT a reptile?",
+  options: [
+    "Snake",
+    "Wall gecko",
+    "Salamander",
+    "Tortoise"
+  ],
+  answer: "Salamander"
+},
+
+{
+  question: "All of the following are fishes EXCEPT",
+  options: [
+    "Whale",
+    "Mudskipper",
+    "Tilapia",
+    "Sole"
+  ],
+  answer: "Whale"
+},
+
+{
+  question: "The group of mammals possessing carnassial teeth are",
+  options: [
+    "Herbivores",
+    "Carnivores",
+    "Omnivores",
+    "Consumers"
+  ],
+  answer: "Carnivores"
+},
+
+{
+  question: "Among mammals, diastema is a characteristic of",
+  options: [
+    "Omnivores",
+    "Herbivores",
+    "Carnivores",
+    "Ungulates"
+  ],
+  answer: "Herbivores"
+},
+
+{
+  question: "Which of the following is a link between invertebrates and vertebrates?",
+  options: [
+    "Arthropods",
+    "Annelids",
+    "Echinoderms",
+    "Nematodes"
+  ],
+  answer: "Echinoderms"
+},
+
+{
+  question: "River blindness is transmitted by",
+  options: [
+    "Whiteflies",
+    "Mosquitoes",
+    "Tabanid flies",
+    "Blackflies",
+    "Houseflies"
+  ],
+  answer: "Blackflies"
+},
+
+{
+  question: "Which of the following is NOT an example of an annelid?",
+  options: [
+    "Lugworms",
+    "Sandworms",
+    "Earthworms",
+    "Tubeworms",
+    "Tapeworms"
+  ],
+  answer: "Tapeworms"
+},
+
+{
+  question: "A primitive backbone are found among the",
+  options: [
+    "Notochords",
+    "Cranium",
+    "Nerve cord",
+    "Cartilage"
+  ],
+  answer: "Notochords"
+},
+
+{
+  question: "Medusae and polyps are found among the",
+  options: [
+    "Coelenterates",
+    "Platyhelminthes",
+    "Protozoans",
+    "Nematodes"
+  ],
+  answer: "Coelenterates"
+},
+
+{
+  question: "All of the following can respire by gills EXCEPT",
+  options: [
+    "Myriapods",
+    "Amphibians",
+    "Crustaceans",
+    "Molluscs"
+  ],
+  answer: "Myriapods"
+},
+
+{
+  question: "One of these organelles enables bacteria to evade phagocytosis",
+  options: [
+    "Cell wall",
+    "Cell membrane",
+    "Capsule",
+    "Flagella"
+  ],
+  answer: "Capsule"
+},
+
+{
+  question: "Which of the following is the correct arrangement of organelles from the outer to the inner layer of bacteria cell?",
+  options: [
+    "Nuclear body → capsule → cell wall → cell membrane",
+    "Nuclear body → cell membrane → cell wall → capsule",
+    "Cell wall → cell membrane → capsule → nuclear body",
+    "Capsule → cell wall → cell membrane → nuclear body"
+  ],
+  answer: "Capsule → cell wall → cell membrane → nuclear body"
+},
+
+{
+  question: "Which of the following is NOT an example of a crustacean?",
+  options: [
+    "Shrimp",
+    "Crab",
+    "Lobster",
+    "Housefly"
+  ],
+  answer: "Housefly"
+},
+
+{
+  question: "Gills in fish are used for",
+  options: [
+    "Excretion",
+    "Locomotion",
+    "Reproduction",
+    "Respiration",
+    "Feeding"
+  ],
+  answer: "Respiration"
+},
+
+{
+  question: "Salamanders are examples of",
+  options: [
+    "Reptiles",
+    "Fish",
+    "Amphibians",
+    "Aves",
+    "Mammals"
+  ],
+  answer: "Amphibians"
+},
+
+{
+  question: "Which of the following structures is NOT found on bacteria cells?",
+  options: [
+    "Cell wall",
+    "Cell membrane",
+    "Flagella",
+    "Cilia",
+    "Capsule"
+  ],
+  answer: "Cilia"
+},
+
+{
+  question: "Which of the following is NOT a characteristic of mammals?",
+  options: [
+    "All mammals have bones",
+    "All mammals are warm blooded",
+    "All mammals have mammary glands",
+    "All mammals have hair or fur on their bodies",
+    "All mammals are oviparous"
+  ],
+  answer: "All mammals are oviparous"
+},
+
+{
+  question: "Bristle worms and leeches are examples of",
+  options: [
+    "Coelenterates",
+    "Arthropods",
+    "Annelids",
+    "Nematodes"
+  ],
+  answer: "Annelids"
+},
+
+{
+  question: "Bivalves such as oysters and scallops are examples of",
+  options: [
+    "Mollusks",
+    "Arthropods",
+    "Echinoderms",
+    "Annelids"
+  ],
+  answer: "Mollusks"
+},
+
+{
+  question: "All the following are features of chordates EXCEPT",
+  options: [
+    "Spicules",
+    "Chorda dorsalis",
+    "Nerve cord",
+    "Post anal tail"
+  ],
+  answer: "Spicules"
+},
+
+{
+  question: "The following are included in stratification of water bodies according to temperature EXCEPT",
+  options: [
+    "Intertidal zone",
+    "Epilimnion",
+    "Thermocline",
+    "Hypolimnion"
+  ],
+  answer: "Intertidal zone"
+},
+
+{
+  question: "Which of the following statement is correct?",
+  options: [
+    "Dissolved gases are limiting factors in terrestrial habitat",
+    "Pressure is not a limiting factor on land",
+    "Tides and waves are limiting factors on land",
+    "Temperature is limiting factor on both land and aquatic habitat"
+  ],
+  answer: "Temperature is limiting factor on both land and aquatic habitat"
+},
+
+{
+  question: "All of the following are parameters of population of an organism EXCEPT",
+  options: [
+    "Natality",
+    "Mortality",
+    "Immigration",
+    "Water"
+  ],
+  answer: "Water"
+},
+
+{
+  question: "Amphids occur among",
+  options: [
+    "Nematodes",
+    "Annelids",
+    "Chordates",
+    "None of the above"
+  ],
+  answer: "Nematodes"
+},
+
+{
+  question: "Protonephridia system is found among",
+  options: [
+    "Nematodes",
+    "Coelenterates",
+    "Platyhelminthes",
+    "Echinoderms"
+  ],
+  answer: "Platyhelminthes"
+},
+
+{
+  question: "Cyclosis is a feature of",
+  options: [
+    "Protozoa",
+    "Sponges",
+    "Platyhelminthes",
+    "Nematodes"
+  ],
+  answer: "Protozoa"
+},
+
+{
+  question: "Encystment occurs in",
+  options: [
+    "Mammals",
+    "Protozoans",
+    "Coelenterates",
+    "Echinoderms"
+  ],
+  answer: "Protozoans"
+},
+
+{
+  question: "Swim bladder is a feature of",
+  options: [
+    "Cartilaginous fish",
+    "Toad",
+    "Star fish",
+    "None of the above"
+  ],
+  answer: "None of the above"
+},
+
+{
+  question: "The following are components of a cilium EXCEPT",
+  options: [
+    "Basal granule",
+    "Rooting structure",
+    "Choanocytes",
+    "Fibres"
+  ],
+  answer: "Choanocytes"
+},
+
+{
+  question: "The following are features of protochordates EXCEPT",
+  options: [
+    "Nerve cord",
+    "Notochord",
+    "Plasmodium",
+    "Pharyngeal gill slits"
+  ],
+  answer: "Plasmodium"
+},
+{
+  question: "Trypanosomiasis can be transmitted by",
+  options: [
+    "Glossina",
+    "Phlebotomus",
+    "Plasmodium",
+    "Entamoeba"
+  ],
+  answer: "Glossina"
+},
+
+{
+  question: "Pigidium is a peculiar feature of",
+  options: [
+    "Arthropoda",
+    "Annelids",
+    "Echinoderms",
+    "Sponges"
+  ],
+  answer: "Annelids"
+},
+
+{
+  question: "The ability to aestivate is a feature of",
+  options: [
+    "Dinosaurs",
+    "Amphibians",
+    "Protopterus",
+    "None of the above"
+  ],
+  answer: "Amphibians"
+},
+
+{
+  question: "The body wall of coelenterates is made up of the following EXCEPT",
+  options: [
+    "Gastrodermis",
+    "Vitelline gland",
+    "Food vacuole",
+    "Nematocyst"
+  ],
+  answer: "Food vacuole"
+},
+
+{
+  question: "Carbon dioxide is returned to the atmosphere in all the following EXCEPT",
+  options: [
+    "Plant respiration",
+    "Transpiration",
+    "Firewood burning",
+    "Saprophytic respiration"
+  ],
+  answer: "Transpiration"
+},
+
+{
+  question: "Which of the following are true of vertebrates?",
+  options: [
+    "Are partly unicellular",
+    "Have an internal body framework and a backbone",
+    "Have an external body framework and a backbone",
+    "Are simple multicellular organisms"
+  ],
+  answer: "Have an internal body framework and a backbone"
+},
+
+{
+  question: "Arthropods with fused head and thorax and possessing antennae are",
+  options: [
+    "Arachnida",
+    "Insects",
+    "Peripatus",
+    "Crustaceans"
+  ],
+  answer: "Insects"
+},
+
+{
+  question: "Which insect undergoes incomplete metamorphosis?",
+  options: [
+    "Honey bee",
+    "Butterfly",
+    "Rice weevil",
+    "Aphids"
+  ],
+  answer: "Aphids"
+},
+
+{
+  question: "Green plants are regarded as",
+  options: [
+    "Saprophytic",
+    "Heterotrophic",
+    "Autotrophic",
+    "Hydrotropic"
+  ],
+  answer: "Autotrophic"
+},
+
+{
+  question: "All the following are primary consumers EXCEPT",
+  options: [
+    "Sheep",
+    "Cow",
+    "Grasshopper",
+    "Cat"
+  ],
+  answer: "Cat"
+},
+
+{
+  question: "____ manufacture their own food from simple inorganic substances",
+  options: [
+    "Decomposer",
+    "Heterotrophs",
+    "Autotroph",
+    "Synthesizer"
+  ],
+  answer: "Autotroph"
+},
+
+{
+  question: "Which of the following is NOT a reptile?",
+  options: [
+    "Snake",
+    "Wall gecko",
+    "Salamander",
+    "Tortoise"
+  ],
+  answer: "Salamander"
+},
+
+{
+  question: "All of the following are fishes EXCEPT",
+  options: [
+    "Whale",
+    "Mudskipper",
+    "Tilapia",
+    "Sole"
+  ],
+  answer: "Whale"
+},
+
+{
+  question: "The group of mammals possessing carnassial teeth are",
+  options: [
+    "Herbivores",
+    "Carnivores",
+    "Omnivores",
+    "Consumers"
+  ],
+  answer: "Carnivores"
+},
+
+{
+  question: "Among mammals, diastema is a characteristic of",
+  options: [
+    "Omnivores",
+    "Herbivores",
+    "Carnivores",
+    "Ungulates"
+  ],
+  answer: "Herbivores"
+},
+
+{
+  question: "Which of the following is a link between invertebrates and vertebrates?",
+  options: [
+    "Arthropods",
+    "Annelids",
+    "Echinoderms",
+    "Nematodes"
+  ],
+  answer: "Echinoderms"
+},
+
+{
+  question: "River blindness is transmitted by",
+  options: [
+    "Whiteflies",
+    "Mosquitoes",
+    "Tabanid flies",
+    "Blackflies",
+    "Houseflies"
+  ],
+  answer: "Blackflies"
+},
+
+{
+  question: "Which of the following is NOT an example of an annelid?",
+  options: [
+    "Lugworms",
+    "Sandworms",
+    "Earthworms",
+    "Tubeworms",
+    "Tapeworms"
+  ],
+  answer: "Tapeworms"
+},
+
+{
+  question: "A primitive backbone are found among the",
+  options: [
+    "Notochords",
+    "Cranium",
+    "Nerve cord",
+    "Cartilage"
+  ],
+  answer: "Notochords"
+},
+
+{
+  question: "Medusae and polyps are found among the",
+  options: [
+    "Coelenterates",
+    "Platyhelminthes",
+    "Protozoans",
+    "Nematodes"
+  ],
+  answer: "Coelenterates"
+},
+{
+  question: "All of the following can respire by gills EXCEPT",
+  options: [
+    "Myriapods",
+    "Amphibians",
+    "Crustaceans",
+    "Molluscs"
+  ],
+  answer: "Myriapods"
+},
+
+{
+  question: "One of these organelles enables bacteria to evade phagocytosis",
+  options: [
+    "Cell wall",
+    "Cell membrane",
+    "Capsule",
+    "Flagella"
+  ],
+  answer: "Capsule"
+},
+
+{
+  question: "Which of the following is the correct arrangement of organelles from the outer to the inner layer of bacteria cell?",
+  options: [
+    "Nuclear body → capsule → cell wall → cell membrane",
+    "Nuclear body → cell membrane → cell wall → capsule",
+    "Cell wall → cell membrane → capsule → nuclear body",
+    "Capsule → cell wall → cell membrane → nuclear body"
+  ],
+  answer: "Capsule → cell wall → cell membrane → nuclear body"
+},
+
+{
+  question: "Which of the following is NOT an example of a crustacean?",
+  options: [
+    "Shrimp",
+    "Crab",
+    "Lobster",
+    "Housefly"
+  ],
+  answer: "Housefly"
+},
+
+{
+  question: "Gills in fish are used for",
+  options: [
+    "Excretion",
+    "Locomotion",
+    "Reproduction",
+    "Respiration",
+    "Feeding"
+  ],
+  answer: "Respiration"
+},
+
+{
+  question: "Salamanders are examples of",
+  options: [
+    "Reptiles",
+    "Fish",
+    "Amphibians",
+    "Aves",
+    "Mammals"
+  ],
+  answer: "Amphibians"
+},
+
+{
+  question: "Which of the following structures is NOT found on bacteria cells?",
+  options: [
+    "Cell wall",
+    "Cell membrane",
+    "Flagella",
+    "Cilia",
+    "Capsule"
+  ],
+  answer: "Cilia"
+},
+
+{
+  question: "Which of the following is NOT a characteristic of mammals?",
+  options: [
+    "All mammals have bones",
+    "All mammals are warm blooded",
+    "All mammals have mammary glands",
+    "All mammals have hair or fur on their bodies",
+    "All mammals are oviparous"
+  ],
+  answer: "All mammals are oviparous"
+},
+
+{
+  question: "Bristle worms and leeches are examples of",
+  options: [
+    "Coelenterates",
+    "Arthropods",
+    "Annelids",
+    "Nematodes"
+  ],
+  answer: "Annelids"
+},
+
+{
+  question: "Bivalves such as oysters and scallops are examples of",
+  options: [
+    "Mollusks",
+    "Arthropods",
+    "Echinoderms",
+    "Annelids"
+  ],
+  answer: "Mollusks"
+},
+
+{
+  question: "All the following are features of chordates EXCEPT",
+  options: [
+    "Spicules",
+    "Chorda dorsalis",
+    "Nerve cord",
+    "Post anal tail"
+  ],
+  answer: "Spicules"
+},
+
+{
+  question: "The following are included in stratification of water bodies according to temperature EXCEPT",
+  options: [
+    "Intertidal zone",
+    "Epilimnion",
+    "Thermocline",
+    "Hypolimnion"
+  ],
+  answer: "Intertidal zone"
+},
+
+{
+  question: "Which of the following statement is correct?",
+  options: [
+    "Dissolved gases are limiting factors in terrestrial habitat",
+    "Pressure is not a limiting factor on land",
+    "Tides and waves are limiting factors on land",
+    "Temperature is limiting factor on both land and aquatic habitat"
+  ],
+  answer: "Temperature is limiting factor on both land and aquatic habitat"
+},
+
+{
+  question: "All of the following are parameters of population of an organism EXCEPT",
+  options: [
+    "Natality",
+    "Mortality",
+    "Immigration",
+    "Water"
+  ],
+  answer: "Water"
+},
+
+{
+  question: "Amphids occur among",
+  options: [
+    "Nematodes",
+    "Annelids",
+    "Chordates",
+    "None of the above"
+  ],
+  answer: "Nematodes"
+},
+
+{
+  question: "Protonephridia system is found among",
+  options: [
+    "Nematodes",
+    "Coelenterates",
+    "Platyhelminthes",
+    "Echinoderms"
+  ],
+  answer: "Platyhelminthes"
+},
+
+{
+  question: "Cyclosis is a feature of",
+  options: [
+    "Protozoa",
+    "Sponges",
+    "Platyhelminthes",
+    "Nematodes"
+  ],
+  answer: "Protozoa"
+},
+
+{
+  question: "Encystment occurs in",
+  options: [
+    "Mammals",
+    "Protozoans",
+    "Coelenterates",
+    "Echinoderms"
+  ],
+  answer: "Protozoans"
+},
+
+{
+  question: "Swim bladder is a feature of",
+  options: [
+    "Cartilaginous fish",
+    "Toad",
+    "Star fish",
+    "None of the above"
+  ],
+  answer: "None of the above"
+},
+
+{
+  question: "The following are components of a cilium EXCEPT",
+  options: [
+    "Basal granule",
+    "Rooting structure",
+    "Choanocytes",
+    "Fibres"
+  ],
+  answer: "Choanocytes"
+},
+
+{
+  question: "The following are features of protochordates EXCEPT",
+  options: [
+    "Nerve cord",
+    "Notochord",
+    "Plasmodium",
+    "Pharyngeal gill slits"
+  ],
+  answer: "Plasmodium"
+},
+    ],
   "CHM 101": [
         {
     question: "The Brønsted–Lowry concept of acid and bases failed to explain __________.",
@@ -2946,6 +4429,1433 @@ export const allQuestions = {
     options: ["large scale integration", "small scale integration", "medium scale integration", "cathode ray tubes"],
     answer: "small scale integration"
   }
+    ],
+    "CSC 115":[
+      {
+  question: "What does OSI stand for?",
+  options: [
+    "Open System Interconnection",
+    "Operating System Interface",
+    "Online System Interlink",
+    "Open Software Interface"
+  ],
+  answer: "Open System Interconnection"
+},
+
+{
+  question: "Which layer of the OSI model is responsible for routing?",
+  options: [
+    "Data Link",
+    "Network",
+    "Transport",
+    "Session"
+  ],
+  answer: "Network"
+},
+
+{
+  question: "What device operates at the Data Link layer?",
+  options: [
+    "Router",
+    "Hub",
+    "Switch",
+    "Repeater"
+  ],
+  answer: "Switch"
+},
+
+{
+  question: "Which protocol is used to send emails?",
+  options: [
+    "HTTP",
+    "FTP",
+    "SMTP",
+    "SNMP"
+  ],
+  answer: "SMTP"
+},
+
+{
+  question: "What is the full meaning of IP?",
+  options: [
+    "Internal Protocol",
+    "Internet Protocol",
+    "Intranet Protocol",
+    "Information Packet"
+  ],
+  answer: "Internet Protocol"
+},
+
+{
+  question: "Which of the following is a Class C IP address?",
+  options: [
+    "192.168.1.1",
+    "10.0.0.1",
+    "172.16.0.1",
+    "224.0.0.1"
+  ],
+  answer: "192.168.1.1"
+},
+
+{
+  question: "What does TCP stand for?",
+  options: [
+    "Transmission Control Protocol",
+    "Technical Control Protocol",
+    "Transport Channel Packet",
+    "Transferred Communication Protocol"
+  ],
+  answer: "Transmission Control Protocol"
+},
+
+{
+  question: "Which of these is NOT a network topology?",
+  options: [
+    "Star",
+    "Mesh",
+    "Ring",
+    "Pair"
+  ],
+  answer: "Pair"
+},
+
+{
+  question: "What is the main function of a router?",
+  options: [
+    "Repeat signals",
+    "Connect different networks",
+    "Amplify signals",
+    "Store data"
+  ],
+  answer: "Connect different networks"
+},
+
+{
+  question: "Which port does HTTP use by default?",
+  options: [
+    "25",
+    "443",
+    "110",
+    "80"
+  ],
+  answer: "80"
+},
+
+{
+  question: "What type of cable is used in Ethernet networks?",
+  options: [
+    "Coaxial",
+    "Twisted pair",
+    "Fiber optic",
+    "Serial"
+  ],
+  answer: "Twisted pair"
+},
+
+{
+  question: "Which protocol is used for secure web browsing?",
+  options: [
+    "FTP",
+    "HTTPS",
+    "Telnet",
+    "SNMP"
+  ],
+  answer: "HTTPS"
+},
+
+{
+  question: "The device that connects two LANs is a:",
+  options: [
+    "Switch",
+    "Router",
+    "Bridge",
+    "Modem"
+  ],
+  answer: "Router"
+},
+
+{
+  question: "Which of the following works at Layer 4 of OSI?",
+  options: [
+    "IP",
+    "TCP",
+    "MAC",
+    "DNS"
+  ],
+  answer: "TCP"
+},
+
+{
+  question: "Which is NOT a function of the data link layer?",
+  options: [
+    "Framing",
+    "Error detection",
+    "Routing",
+    "MAC addressing"
+  ],
+  answer: "Routing"
+},
+
+{
+  question: "What is a MAC address?",
+  options: [
+    "A type of IP address",
+    "A hardware address",
+    "A routing table",
+    "A protocol"
+  ],
+  answer: "A hardware address"
+},
+
+{
+  question: "Which of these is a wireless networking protocol?",
+  options: [
+    "Ethernet",
+    "Wi-Fi",
+    "Coaxial",
+    "Token Ring"
+  ],
+  answer: "Wi-Fi"
+},
+
+{
+  question: "The purpose of DNS is to:",
+  options: [
+    "Assign MAC addresses",
+    "Translate domain names to IP addresses",
+    "Send emails",
+    "Secure network connections"
+  ],
+  answer: "Translate domain names to IP addresses"
+},
+
+{
+  question: "Which protocol transfers files between computers?",
+  options: [
+    "FTP",
+    "POP3",
+    "DHCP",
+    "HTTP"
+  ],
+  answer: "FTP"
+},
+
+{
+  question: "In networking, what does LAN stand for?",
+  options: [
+    "Local Area Network",
+    "Large Area Network",
+    "Logical Access Node",
+    "Long Area Network"
+  ],
+  answer: "Local Area Network"
+},
+
+{
+  question: "A network that spans a city is called a:",
+  options: [
+    "LAN",
+    "MAN",
+    "WAN",
+    "PAN"
+  ],
+  answer: "MAN"
+},
+
+{
+  question: "What device connects a LAN to the Internet?",
+  options: [
+    "Modem",
+    "Switch",
+    "Bridge",
+    "Repeater"
+  ],
+  answer: "Modem"
+},
+
+{
+  question: "Which layer is responsible for end-to-end communication?",
+  options: [
+    "Transport",
+    "Session",
+    "Application",
+    "Network"
+  ],
+  answer: "Transport"
+},
+
+{
+  question: "Which topology has a central hub?",
+  options: [
+    "Mesh",
+    "Ring",
+    "Star",
+    "Bus"
+  ],
+  answer: "Star"
+},
+
+{
+  question: "Which of these is not an Internet protocol?",
+  options: [
+    "TCP",
+    "IP",
+    "HTML",
+    "UDP"
+  ],
+  answer: "HTML"
+},
+
+{
+  question: "What does DHCP stand for?",
+  options: [
+    "Dynamic Host Control Protocol",
+    "Data Host Communication Protocol",
+    "Dynamic Host Configuration Protocol",
+    "Digital Hypertext Control Protocol"
+  ],
+  answer: "Dynamic Host Configuration Protocol"
+},
+
+{
+  question: "Which device regenerates signals in a network?",
+  options: [
+    "Router",
+    "Switch",
+    "Bridge",
+    "Repeater"
+  ],
+  answer: "Repeater"
+},
+
+{
+  question: "Which layer in OSI model uses IP?",
+  options: [
+    "Application",
+    "Transport",
+    "Network",
+    "Session"
+  ],
+  answer: "Network"
+},
+
+{
+  question: "IPv4 addresses are made up of how many bits?",
+  options: [
+    "32",
+    "64",
+    "128",
+    "16"
+  ],
+  answer: "32"
+},
+
+{
+  question: "A collection of connected computers within one building is a:",
+  options: [
+    "WAN",
+    "LAN",
+    "MAN",
+    "GAN"
+  ],
+  answer: "LAN"
+},
+{
+  question: "Which protocol uses port 443?",
+  options: [
+    "FTP",
+    "HTTP",
+    "HTTPS",
+    "Telnet"
+  ],
+  answer: "HTTPS"
+},
+
+{
+  question: "What is a function of a switch?",
+  options: [
+    "Broadcasts packets",
+    "Routes packets between networks",
+    "Forwards packets within a LAN",
+    "Converts digital to analog"
+  ],
+  answer: "Forwards packets within a LAN"
+},
+
+{
+  question: "Which protocol is used to get an IP address automatically?",
+  options: [
+    "DNS",
+    "DHCP",
+    "FTP",
+    "IPX"
+  ],
+  answer: "DHCP"
+},
+
+{
+  question: "What does URL stand for?",
+  options: [
+    "Uniform Resource Locator",
+    "Uniform Reference Link",
+    "Unified Routing Line",
+    "User Routing Locator"
+  ],
+  answer: "Uniform Resource Locator"
+},
+
+{
+  question: "The standard cable used for Ethernet is:",
+  options: [
+    "STP",
+    "UTP",
+    "Coaxial",
+    "Fiber"
+  ],
+  answer: "UTP"
+},
+
+{
+  question: "Which layer manages encryption?",
+  options: [
+    "Session",
+    "Presentation",
+    "Application",
+    "Transport"
+  ],
+  answer: "Presentation"
+},
+
+{
+  question: "What is a packet?",
+  options: [
+    "A virus",
+    "A unit of data transmission",
+    "A protocol",
+    "A device"
+  ],
+  answer: "A unit of data transmission"
+},
+
+{
+  question: "Which of the following is a public IP address?",
+  options: [
+    "192.168.1.1",
+    "172.16.0.1",
+    "10.0.0.5",
+    "8.8.8.8"
+  ],
+  answer: "8.8.8.8"
+},
+
+{
+  question: "What is the use of NAT?",
+  options: [
+    "Assigns IP addresses",
+    "Converts public to private IPs",
+    "Encrypts data",
+    "Scans networks"
+  ],
+  answer: "Converts public to private IPs"
+},
+
+{
+  question: "Which protocol ensures reliable data transmission?",
+  options: [
+    "UDP",
+    "IP",
+    "TCP",
+    "ICMP"
+  ],
+  answer: "TCP"
+},
+
+{
+  question: "Which of these is a hybrid topology?",
+  options: [
+    "Mesh",
+    "Star",
+    "Tree",
+    "Ring"
+  ],
+  answer: "Tree"
+},
+
+{
+  question: "A switch works at which OSI layer?",
+  options: [
+    "Network",
+    "Data Link",
+    "Transport",
+    "Session"
+  ],
+  answer: "Data Link"
+},
+
+{
+  question: "Which of these is used for remote login?",
+  options: [
+    "FTP",
+    "Telnet",
+    "SMTP",
+    "DNS"
+  ],
+  answer: "Telnet"
+},
+
+{
+  question: "Which of these is a private IP range?",
+  options: [
+    "192.0.2.0",
+    "172.16.0.0",
+    "8.8.4.4",
+    "1.1.1.1"
+  ],
+  answer: "172.16.0.0"
+},
+
+{
+  question: "How many layers are in the OSI model?",
+  options: [
+    "5",
+    "6",
+    "7",
+    "4"
+  ],
+  answer: "7"
+},
+
+{
+  question: "Which protocol is connectionless?",
+  options: [
+    "TCP",
+    "FTP",
+    "UDP",
+    "SMTP"
+  ],
+  answer: "UDP"
+},
+
+{
+  question: "Which address is hardcoded into a NIC?",
+  options: [
+    "IP address",
+    "MAC address",
+    "Subnet mask",
+    "Gateway address"
+  ],
+  answer: "MAC address"
+},
+
+{
+  question: "What is subnetting used for?",
+  options: [
+    "Encrypting data",
+    "Dividing networks",
+    "Assigning IPs",
+    "Amplifying signals"
+  ],
+  answer: "Dividing networks"
+},
+
+{
+  question: "What does SSL secure?",
+  options: [
+    "DNS queries",
+    "FTP uploads",
+    "HTTP connections",
+    "Email delivery"
+  ],
+  answer: "HTTP connections"
+},
+
+{
+  question: "Which of the following is NOT a network device?",
+  options: [
+    "Router",
+    "Switch",
+    "Repeater",
+    "Printer"
+  ],
+  answer: "Printer"
+},
+
+{
+  question: "What is the function of ICMP?",
+  options: [
+    "Encrypt data",
+    "Send error and control messages",
+    "Assign IP addresses",
+    "Transfer files"
+  ],
+  answer: "Send error and control messages"
+},
+
+{
+  question: "What does the Transport layer in OSI ensure?",
+  options: [
+    "IP addressing",
+    "Physical transmission",
+    "End-to-end delivery",
+    "Data encryption"
+  ],
+  answer: "End-to-end delivery"
+},
+
+{
+  question: "What is the main function of a firewall?",
+  options: [
+    "Convert IP addresses",
+    "Filter network traffic",
+    "Assign MAC addresses",
+    "Route data"
+  ],
+  answer: "Filter network traffic"
+},
+
+{
+  question: "What does the term bandwidth refer to?",
+  options: [
+    "Internet speed",
+    "Cable length",
+    "Signal strength",
+    "Data transfer capacity"
+  ],
+  answer: "Data transfer capacity"
+},
+
+{
+  question: "Which of these is NOT a type of transmission media?",
+  options: [
+    "Twisted pair",
+    "Coaxial",
+    "Fiber optic",
+    "Modem"
+  ],
+  answer: "Modem"
+},
+
+{
+  question: "Which network topology is most fault tolerant?",
+  options: [
+    "Bus",
+    "Ring",
+    "Mesh",
+    "Star"
+  ],
+  answer: "Mesh"
+},
+
+{
+  question: "What is the loopback IP address?",
+  options: [
+    "255.255.255.0",
+    "127.0.0.1",
+    "192.168.0.1",
+    "10.10.10.10"
+  ],
+  answer: "127.0.0.1"
+},
+
+{
+  question: "Which protocol is used to retrieve emails?",
+  options: [
+    "SMTP",
+    "IMAP",
+    "HTTP",
+    "FTP"
+  ],
+  answer: "IMAP"
+},
+
+{
+  question: "A VPN is used to:",
+  options: [
+    "Monitor data",
+    "Connect private networks securely over the Internet",
+    "Assign IP addresses",
+    "Translate domain names"
+  ],
+  answer: "Connect private networks securely over the Internet"
+},
+
+{
+  question: "What does the ping command test?",
+  options: [
+    "Server load",
+    "IP address configuration",
+    "Network connectivity",
+    "Data encryption"
+  ],
+  answer: "Network connectivity"
+},
+{
+  question: "What layer does DNS operate on?",
+  options: [
+    "Network",
+    "Transport",
+    "Application",
+    "Session"
+  ],
+  answer: "Application"
+},
+
+{
+  question: "What kind of addressing does IPv6 use?",
+  options: [
+    "32-bit",
+    "48-bit",
+    "64-bit",
+    "128-bit"
+  ],
+  answer: "128-bit"
+},
+
+{
+  question: "What is a gateway?",
+  options: [
+    "A type of protocol",
+    "A router with protocol translation capabilities",
+    "A cable",
+    "A firewall"
+  ],
+  answer: "A router with protocol translation capabilities"
+},
+
+{
+  question: "Which protocol is used to assign dynamic IP addresses?",
+  options: [
+    "DHCP",
+    "DNS",
+    "ICMP",
+    "HTTP"
+  ],
+  answer: "DHCP"
+},
+
+{
+  question: "In which topology does each computer connect to exactly two others?",
+  options: [
+    "Mesh",
+    "Ring",
+    "Star",
+    "Tree"
+  ],
+  answer: "Ring"
+},
+
+{
+  question: "What is jitter in networking?",
+  options: [
+    "Data loss",
+    "Delay variation",
+    "Packet size",
+    "Noise"
+  ],
+  answer: "Delay variation"
+},
+
+{
+  question: "In which layer is encryption typically handled?",
+  options: [
+    "Transport",
+    "Application",
+    "Presentation",
+    "Network"
+  ],
+  answer: "Presentation"
+},
+
+{
+  question: "Which command displays your IP configuration in Windows?",
+  options: [
+    "ping",
+    "tracert",
+    "ipconfig",
+    "netstat"
+  ],
+  answer: "ipconfig"
+},
+
+{
+  question: "The smallest network is a:",
+  options: [
+    "WAN",
+    "MAN",
+    "PAN",
+    "CAN"
+  ],
+  answer: "PAN"
+},
+
+{
+  question: "Which device filters traffic based on rules?",
+  options: [
+    "Switch",
+    "Firewall",
+    "Repeater",
+    "Hub"
+  ],
+  answer: "Firewall"
+},
+
+{
+  question: "Which of these is NOT a characteristic of UDP?",
+  options: [
+    "Unreliable",
+    "No error checking",
+    "Connection-oriented",
+    "Faster than TCP"
+  ],
+  answer: "Connection-oriented"
+},
+
+{
+  question: "What layer handles flow control?",
+  options: [
+    "Network",
+    "Transport",
+    "Data Link",
+    "Application"
+  ],
+  answer: "Transport"
+},
+
+{
+  question: "A MAC address is usually written in:",
+  options: [
+    "Decimal",
+    "Binary",
+    "Hexadecimal",
+    "Octal"
+  ],
+  answer: "Hexadecimal"
+},
+
+{
+  question: "Which protocol is used to monitor network devices?",
+  options: [
+    "SMTP",
+    "SNMP",
+    "TCP",
+    "DNS"
+  ],
+  answer: "SNMP"
+},
+
+{
+  question: "What does FTP stand for?",
+  options: [
+    "File Transfer Protocol",
+    "Fast Transmission Protocol",
+    "File Transmission Program",
+    "Fixed Time Protocol"
+  ],
+  answer: "File Transfer Protocol"
+},
+
+{
+  question: "Which network uses telephone lines for connectivity?",
+  options: [
+    "LAN",
+    "DSL",
+    "Ethernet",
+    "Fiber"
+  ],
+  answer: "DSL"
+},
+
+{
+  question: "What is a repeater used for?",
+  options: [
+    "Routing data",
+    "Filtering traffic",
+    "Amplifying signals",
+    "Assigning IPs"
+  ],
+  answer: "Amplifying signals"
+},
+
+{
+  question: "The default gateway in a network refers to:",
+  options: [
+    "DNS server",
+    "IP address of the user",
+    "IP address of the router",
+    "Subnet mask"
+  ],
+  answer: "IP address of the router"
+},
+
+{
+  question: "Which device breaks collision domains?",
+  options: [
+    "Hub",
+    "Router",
+    "Switch",
+    "Bridge"
+  ],
+  answer: "Switch"
+},
+
+{
+  question: "What is the standard protocol for web traffic?",
+  options: [
+    "HTTPS",
+    "FTP",
+    "TCP",
+    "HTTP"
+  ],
+  answer: "HTTP"
+},
+
+{
+  question: "Which is NOT a benefit of networking?",
+  options: [
+    "Resource sharing",
+    "Centralized data",
+    "Data security risks",
+    "Communication"
+  ],
+  answer: "Data security risks"
+},
+
+{
+  question: "A node in a network refers to:",
+  options: [
+    "A software",
+    "A cable",
+    "A connected device",
+    "A data packet"
+  ],
+  answer: "A connected device"
+},
+
+{
+  question: "What protocol is used by web browsers?",
+  options: [
+    "DNS",
+    "FTP",
+    "HTTP",
+    "DHCP"
+  ],
+  answer: "HTTP"
+},
+
+{
+  question: "What is the primary purpose of the network layer?",
+  options: [
+    "Provide encryption",
+    "Ensure session recovery",
+    "Enable logical addressing and routing",
+    "Manage media access"
+  ],
+  answer: "Enable logical addressing and routing"
+},
+
+{
+  question: "What is the maximum number of IP addresses in Class C?",
+  options: [
+    "65,534",
+    "254",
+    "1,024",
+    "128"
+  ],
+  answer: "254"
+},
+
+{
+  question: "Which port number is used by SMTP?",
+  options: [
+    "25",
+    "110",
+    "443",
+    "53"
+  ],
+  answer: "25"
+},
+
+{
+  question: "What is a collision domain?",
+  options: [
+    "Area with multiple routes",
+    "Area where data packets can collide",
+    "Area where nodes are isolated",
+    "Area outside the network"
+  ],
+  answer: "Area where data packets can collide"
+},
+
+{
+  question: "Which protocol is commonly used for Voice over IP (VoIP)?",
+  options: [
+    "HTTP",
+    "SIP",
+    "FTP",
+    "SMTP"
+  ],
+  answer: "SIP"
+},
+
+{
+  question: "What is a proxy server used for?",
+  options: [
+    "IP allocation",
+    "Caching and filtering content",
+    "Encrypting data",
+    "Converting protocols"
+  ],
+  answer: "Caching and filtering content"
+},
+
+{
+  question: "Which layer breaks data into segments?",
+  options: [
+    "Data Link",
+    "Transport",
+    "Network",
+    "Session"
+  ],
+  answer: "Transport"
+},
+{
+  question: "Which cable offers the highest bandwidth?",
+  options: [
+    "Coaxial",
+    "Twisted pair",
+    "Fiber optic",
+    "USB"
+  ],
+  answer: "Fiber optic"
+},
+
+{
+  question: "How many bits are in a MAC address?",
+  options: [
+    "64",
+    "32",
+    "48",
+    "128"
+  ],
+  answer: "48"
+},
+
+{
+  question: "A network spread over multiple countries is a:",
+  options: [
+    "LAN",
+    "WAN",
+    "MAN",
+    "CAN"
+  ],
+  answer: "WAN"
+},
+
+{
+  question: "What does the traceroute (tracert) command do?",
+  options: [
+    "Pings a host",
+    "Lists active connections",
+    "Tracks packet route",
+    "Lists IP addresses"
+  ],
+  answer: "Tracks packet route"
+},
+
+{
+  question: "Which protocol does DNS use primarily?",
+  options: [
+    "TCP",
+    "ICMP",
+    "UDP",
+    "FTP"
+  ],
+  answer: "UDP"
+},
+
+{
+  question: "The OSI model was developed by:",
+  options: [
+    "ISO",
+    "IEEE",
+    "IETF",
+    "ITU"
+  ],
+  answer: "ISO"
+},
+
+{
+  question: "Which of these operates only at the Physical layer?",
+  options: [
+    "Router",
+    "Repeater",
+    "Switch",
+    "Bridge"
+  ],
+  answer: "Repeater"
+},
+
+{
+  question: "How many layers are in the TCP/IP model?",
+  options: [
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  answer: "4"
+},
+
+{
+  question: "Which is a secure alternative to Telnet?",
+  options: [
+    "FTP",
+    "SSH",
+    "HTTP",
+    "SNMP"
+  ],
+  answer: "SSH"
+},
+
+{
+  question: "What is the role of a network administrator?",
+  options: [
+    "Coding software",
+    "Managing network infrastructure",
+    "Designing CPUs",
+    "Manufacturing hardware"
+  ],
+  answer: "Managing network infrastructure"
+},
+
+{
+  question: "Which device connects networks using different protocols?",
+  options: [
+    "Switch",
+    "Hub",
+    "Gateway",
+    "Repeater"
+  ],
+  answer: "Gateway"
+},
+
+{
+  question: "What is the full form of ARP?",
+  options: [
+    "Address Routing Protocol",
+    "Address Resolution Protocol",
+    "Automatic Routing Protocol",
+    "Advanced Resolution Process"
+  ],
+  answer: "Address Resolution Protocol"
+},
+
+{
+  question: "Which protocol handles packet fragmentation?",
+  options: [
+    "TCP",
+    "IP",
+    "DNS",
+    "UDP"
+  ],
+  answer: "IP"
+},
+
+{
+  question: "What is the main purpose of a hub?",
+  options: [
+    "Filter traffic",
+    "Broadcast data to all ports",
+    "Route packets",
+    "Assign IP addresses"
+  ],
+  answer: "Broadcast data to all ports"
+},
+
+{
+  question: "Which port number is used by DNS?",
+  options: [
+    "53",
+    "80",
+    "110",
+    "443"
+  ],
+  answer: "53"
+},
+
+{
+  question: "Which layer is responsible for establishing a connection?",
+  options: [
+    "Session",
+    "Network",
+    "Transport",
+    "Presentation"
+  ],
+  answer: "Session"
+},
+
+{
+  question: "What is port forwarding used for?",
+  options: [
+    "Forwarding emails",
+    "Hiding IP addresses",
+    "Allowing external access to internal network services",
+    "Assigning MAC addresses"
+  ],
+  answer: "Allowing external access to internal network services"
+},
+
+{
+  question: "What is encapsulation in networking?",
+  options: [
+    "Creating packets",
+    "Assigning addresses",
+    "Wrapping data with protocol headers",
+    "Encrypting information"
+  ],
+  answer: "Wrapping data with protocol headers"
+},
+
+{
+  question: "Which protocol is used for LAN communication?",
+  options: [
+    "IP",
+    "Ethernet",
+    "FTP",
+    "HTTP"
+  ],
+  answer: "Ethernet"
+},
+
+{
+  question: "A default subnet mask for Class B is:",
+  options: [
+    "255.0.0.0",
+    "255.255.0.0",
+    "255.255.255.0",
+    "255.255.255.255"
+  ],
+  answer: "255.255.0.0"
+},
+
+{
+  question: "Which device reduces broadcast domains?",
+  options: [
+    "Hub",
+    "Switch",
+    "Router",
+    "Repeater"
+  ],
+  answer: "Router"
+},
+
+{
+  question: "Which protocol is used to send voice and video over IP?",
+  options: [
+    "HTTP",
+    "SIP",
+    "SMTP",
+    "FTP"
+  ],
+  answer: "SIP"
+},
+
+{
+  question: "What is the full form of NIC?",
+  options: [
+    "Network Internal Card",
+    "Network Interface Card",
+    "Net Information Center",
+    "None of the above"
+  ],
+  answer: "Network Interface Card"
+},
+
+{
+  question: "What type of network is Bluetooth?",
+  options: [
+    "WAN",
+    "LAN",
+    "PAN",
+    "MAN"
+  ],
+  answer: "PAN"
+},
+
+{
+  question: "What’s the function of a bridge?",
+  options: [
+    "Connect different networks",
+    "Connect two similar LANs",
+    "Assign IPs",
+    "Filter websites"
+  ],
+  answer: "Connect two similar LANs"
+},
+
+{
+  question: "What does the “ping” utility check?",
+  options: [
+    "IP allocation",
+    "Internet download speed",
+    "Host reachability",
+    "Network size"
+  ],
+  answer: "Host reachability"
+},
+
+{
+  question: "What does the Presentation layer handle?",
+  options: [
+    "Routing",
+    "Encryption and formatting",
+    "Flow control",
+    "Session maintenance"
+  ],
+  answer: "Encryption and formatting"
+},
+
+{
+  question: "A packet’s path is determined by:",
+  options: [
+    "Switch",
+    "Hub",
+    "Router",
+    "Modem"
+  ],
+  answer: "Router"
+},
+
+{
+  question: "What’s the purpose of a subnet mask?",
+  options: [
+    "Encrypt packets",
+    "Define network and host parts of an IP address",
+    "Assign MAC addresses",
+    "Split physical networks"
+  ],
+  answer: "Define network and host parts of an IP address"
+},
+
+{
+  question: "Which protocol is commonly used for time synchronization?",
+  options: [
+    "HTTP",
+    "FTP",
+    "NTP",
+    "ARP"
+  ],
+  answer: "NTP"
+},
+{
+  question: "A Class A IP address starts with:",
+  options: [
+    "10.x.x.x",
+    "172.x.x.x",
+    "192.x.x.x",
+    "224.x.x.x"
+  ],
+  answer: "10.x.x.x"
+},
+
+{
+  question: "Which of these is used for hostname resolution?",
+  options: [
+    "DHCP",
+    "ICMP",
+    "DNS",
+    "FTP"
+  ],
+  answer: "DNS"
+},
+
+{
+  question: "A broadcast address is used to:",
+  options: [
+    "Send to a single host",
+    "Send to a specific network",
+    "Send to all hosts in a subnet",
+    "Assign IP addresses"
+  ],
+  answer: "Send to all hosts in a subnet"
+},
+
+{
+  question: "Which command lists all network connections?",
+  options: [
+    "ping",
+    "netstat",
+    "tracert",
+    "ipconfig"
+  ],
+  answer: "netstat"
+},
+
+{
+  question: "What does the Application layer provide?",
+  options: [
+    "Data routing",
+    "File system access",
+    "User interface and services",
+    "Signal modulation"
+  ],
+  answer: "User interface and services"
+},
+
+{
+  question: "Which cable is most immune to EMI?",
+  options: [
+    "UTP",
+    "Coaxial",
+    "Fiber optic",
+    "STP"
+  ],
+  answer: "Fiber optic"
+},
+
+{
+  question: "A switch creates:",
+  options: [
+    "Broadcast domains",
+    "Collision domains",
+    "IP addresses",
+    "Encryption"
+  ],
+  answer: "Collision domains"
+},
+
+{
+  question: "A host on the internet is uniquely identified by:",
+  options: [
+    "MAC address",
+    "Port number",
+    "Hostname",
+    "IP address"
+  ],
+  answer: "IP address"
+},
+
+{
+  question: "Which device does not understand IP addresses?",
+  options: [
+    "Switch",
+    "Router",
+    "Gateway",
+    "Firewall"
+  ],
+  answer: "Switch"
+},
+
+{
+  question: "Which protocol is used for encrypted remote login?",
+  options: [
+    "Telnet",
+    "SSH",
+    "FTP",
+    "SNMP"
+  ],
+  answer: "SSH"
+},
     ],
     "ELS 103": [
              {
@@ -11427,7 +14337,391 @@ export const allQuestions = {
     "answer": "Northern and Southern tips"
   },
     ],
-    "MTH 101": [],
+    "MTH 101": [
+          {
+  question: "Which of the following best defines a set?",
+  options: [
+    "A collection of well-defined objects",
+    "A group of random numbers only",
+    "A collection of letters only",
+    "An arrangement of equations"
+  ],
+  answer: "A collection of well-defined objects"
+},
+
+{
+  question: "If A = {1,2,3,4} and B = {3,4,5,6}, what is A ∩ B?",
+  options: [
+    "{1,2}",
+    "{3,4}",
+    "{5,6}",
+    "{1,2,3,4,5,6}"
+  ],
+  answer: "{3,4}"
+},
+
+{
+  question: "If U = {1,2,3,4,5,6,7} and A = {2,4,6}, what is A'?",
+  options: [
+    "{1,3,5,7}",
+    "{2,4,6,7}",
+    "{1,2,3,4}",
+    "{3,5,7}"
+  ],
+  answer: "{1,3,5,7}"
+},
+
+{
+  question: "If A = {a,e,i,o,u} and B = {a,b,c,d,e}, what is A ∪ B?",
+  options: [
+    "{a,e}",
+    "{i,o,u,b,c,d}",
+    "{a,b,c,d,e,i,o,u}",
+    "{a,e,i,o,u}"
+  ],
+  answer: "{a,b,c,d,e,i,o,u}"
+},
+
+{
+  question: "How many subsets does a set with 3 elements have?",
+  options: [
+    "3",
+    "6",
+    "8",
+    "9"
+  ],
+  answer: "8"
+},
+
+{
+  question: "Which of the following represents the empty set?",
+  options: [
+    "{0}",
+    "{}",
+    "{1}",
+    "{a}"
+  ],
+  answer: "{}"
+},
+
+{
+  question: "If A = {1,2,3} and B = {3,4,5}, what is A ∪ B?",
+  options: [
+    "{1,2,3}",
+    "{3,4,5}",
+    "{1,2,3,4,5}",
+    "{2,3,4}"
+  ],
+  answer: "{1,2,3,4,5}"
+},
+
+{
+  question: "If A = {2,4,6,8} and B = {4,6}, then B is called a ______ of A.",
+  options: [
+    "subset",
+    "universal set",
+    "complement",
+    "disjoint set"
+  ],
+  answer: "subset"
+},
+
+{
+  question: "Two sets are said to be disjoint if they have ______.",
+  options: [
+    "equal elements",
+    "no common element",
+    "infinite elements",
+    "same subsets"
+  ],
+  answer: "no common element"
+},
+
+{
+  question: "If A = {1,2,3,4,5} and B = {2,4}, what is A − B?",
+  options: [
+    "{2,4}",
+    "{1,3,5}",
+    "{1,2,3}",
+    "{3,4,5}"
+  ],
+  answer: "{1,3,5}"
+},
+
+{
+  question: "A relation from set A to set B is defined as ______.",
+  options: [
+    "a subset of A × B",
+    "a subset of B × A",
+    "a union of A and B",
+    "an empty set"
+  ],
+  answer: "a subset of A × B"
+},
+
+{
+  question: "If A = {1,2} and B = {a,b}, how many elements are in A × B?",
+  options: [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  answer: "4"
+},
+
+{
+  question: "Which of the following is an example of a relation?",
+  options: [
+    "{(1,2),(2,3)}",
+    "{1,2,3}",
+    "{a,b,c}",
+    "{x,y}"
+  ],
+  answer: "{(1,2),(2,3)}"
+},
+
+{
+  question: "The sequence 2,4,6,8,... is called ______.",
+  options: [
+    "geometric sequence",
+    "arithmetic sequence",
+    "harmonic sequence",
+    "constant sequence"
+  ],
+  answer: "arithmetic sequence"
+},
+
+{
+  question: "What is the common difference in the sequence 5, 8, 11, 14?",
+  options: [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  answer: "3"
+},
+
+{
+  question: "Find the next term in the sequence 3, 6, 12, 24, ...",
+  options: [
+    "36",
+    "40",
+    "48",
+    "96"
+  ],
+  answer: "48"
+},
+
+{
+  question: "The sum of the first n terms of an arithmetic progression is given by ______.",
+  options: [
+    "n(a + d)",
+    "n/2[2a + (n−1)d]",
+    "a + nd",
+    "ad + n"
+  ],
+  answer: "n/2[2a + (n−1)d]"
+},
+
+{
+  question: "The sequence 2, 6, 18, 54 is an example of ______.",
+  options: [
+    "arithmetic progression",
+    "geometric progression",
+    "harmonic progression",
+    "natural numbers"
+  ],
+  answer: "geometric progression"
+},
+
+{
+  question: "The common ratio of the sequence 3, 9, 27, 81 is ______.",
+  options: [
+    "2",
+    "3",
+    "4",
+    "9"
+  ],
+  answer: "3"
+},
+{
+  question: "What is the 5th term of the arithmetic sequence 2, 5, 8, 11, ...?",
+  options: [
+    "13",
+    "14",
+    "15",
+    "17"
+  ],
+  answer: "14"
+},
+
+{
+  question: "Find the 6th term of the arithmetic progression 3, 7, 11, 15,...",
+  options: [
+    "21",
+    "23",
+    "19",
+    "24"
+  ],
+  answer: "23"
+},
+
+{
+  question: "What is the common difference of the sequence 10, 13, 16, 19?",
+  options: [
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  answer: "3"
+},
+
+{
+  question: "Find the next term in the geometric sequence 2, 6, 18, 54,...",
+  options: [
+    "108",
+    "162",
+    "216",
+    "324"
+  ],
+  answer: "162"
+},
+
+{
+  question: "The common ratio of the geometric progression 5, 10, 20, 40 is ______.",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  answer: "2"
+},
+
+{
+  question: "Solve the quadratic equation x² − 5x + 6 = 0.",
+  options: [
+    "x = 1 or x = 6",
+    "x = 2 or x = 3",
+    "x = 3 or x = 5",
+    "x = 1 or x = 5"
+  ],
+  answer: "x = 2 or x = 3"
+},
+
+{
+  question: "The roots of the equation x² − 9 = 0 are ______.",
+  options: [
+    "3 and -3",
+    "1 and 9",
+    "2 and -2",
+    "9 and -9"
+  ],
+  answer: "3 and -3"
+},
+
+{
+  question: "The degree of the polynomial 4x³ + 2x² + x + 7 is ______.",
+  options: [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  answer: "3"
+},
+
+{
+  question: "Which of the following is a quadratic polynomial?",
+  options: [
+    "x + 5",
+    "x² + 3x + 2",
+    "x³ + 4",
+    "5x⁴ + 2"
+  ],
+  answer: "x² + 3x + 2"
+},
+
+{
+  question: "Expand (a + b)².",
+  options: [
+    "a² + b²",
+    "a² + 2ab + b²",
+    "a² − b²",
+    "2a + 2b"
+  ],
+  answer: "a² + 2ab + b²"
+},
+
+{
+  question: "Find the first term of a geometric progression if the common ratio is 2 and the second term is 8.",
+  options: [
+    "2",
+    "4",
+    "6",
+    "8"
+  ],
+  answer: "4"
+},
+
+{
+  question: "Simplify √50.",
+  options: [
+    "5√2",
+    "7√2",
+    "10√5",
+    "25√2"
+  ],
+  answer: "5√2"
+},
+
+{
+  question: "Simplify √18 + √8.",
+  options: [
+    "5√2",
+    "6√2",
+    "7√2",
+    "8√2"
+  ],
+  answer: "5√2"
+},
+
+{
+  question: "Rationalize the denominator of 1/√5.",
+  options: [
+    "√5 / 5",
+    "5 / √5",
+    "√5",
+    "5√5"
+  ],
+  answer: "√5 / 5"
+},
+
+{
+  question: "Simplify √32.",
+  options: [
+    "4√2",
+    "8√2",
+    "16√2",
+    "2√16"
+  ],
+  answer: "4√2"
+},
+
+{
+  question: "If √x = 7, find the value of x.",
+  options: [
+    "14",
+    "21",
+    "49",
+    "98"
+  ],
+  answer: "49"
+},
+    ],
 
     "PHY 101": [
         {
@@ -12664,6 +15958,413 @@ export const allQuestions = {
     
     "PHY 102": [
       
+    ],
+    "PHY 103": [
+          { question: "Which instrument can measure the diameter of a wire to an accuracy of 0.001 cm?", options: ["Meter rule", "Vernier caliper", "Micrometer screw gauge", "Tape rule"], answer: "Micrometer screw gauge" },
+       { question: "The volume of a regular solid shape can be obtained directly from its formula.", options: ["True", "False", "Sometimes", "None"], answer: "True" },
+       { question: "Which instrument cannot be used to measure the mass of an object directly?", options: ["Beam balance", "Lever balance", "Spring balance", "None of the above"], answer: "Spring balance" },
+       { question: "Which instrument is best used for measuring the diameter of a thin wire?", options: ["Vernier caliper", "Micrometer screw gauge", "Meter rule", "All of the above"], answer: "Micrometer screw gauge" },
+       { question: "Which of the following readings cannot be determined with a meter rule?", options: ["2.56 cm", "2.50 cm", "2.5 cm", "2.0 cm"], answer: "2.56 cm" },
+       { question: "Which instrument has a reading accuracy of 0.5 mm?", options: ["Spring balance", "Tape rule", "Meter rule", "Vernier caliper"], answer: "Meter rule" },
+       { question: "One of the following readings represents a measurement with a vernier caliper:", options: ["5 cm", "5.160 cm", "5.16 cm", "5.165 cm"], answer: "5.16 cm" },
+       { question: "Which instrument can measure accurately to three decimal places in cm?", options: ["Meter rule", "Ruler", "Micrometer screw gauge", "None of the above"], answer: "Micrometer screw gauge" },
+       { question: "The internal diameter of a small test tube can be measured using:", options: ["Vernier caliper", "Meter rule", "Micrometer screw gauge", "Pair of dividers"], answer: "Vernier caliper" },
+       { question: "The thickness of a thin converging lens is best measured with:", options: ["Vernier caliper", "Micrometer screw gauge", "Telescope", "Microscope"], answer: "Micrometer screw gauge" },
+       { question: "A thermometer is likely to have a parallax error.", options: ["True", "False", "Sometimes", "None"], answer: "True" },
+       { question: "The best instrument to measure the external diameter of a tube is:", options: ["Vernier caliper", "Meter rule", "Micrometer screw gauge", "None of the above"], answer: "Vernier caliper" },
+       { question: "Error caused by wear at the ends of a meter rule is called:", options: ["Parallax error", "Zero error", "Ruler error", "Measurement error"], answer: "Ruler error" },
+       { question: "The best instrument for measuring the thickness of a hollow tube is:", options: ["Meter rule", "Tape rule", "Micrometer screw gauge", "Vernier caliper"], answer: "Vernier caliper" },
+       { question: "The Eureka can is used to measure the specific heat capacity of alcohol.", options: ["True", "False", "Sometimes", "None"], answer: "False" },
+       { question: "The uncertainty of a beam balance is:", options: ["0.001 g", "0.1 g", "0.0001 g", "1 g"], answer: "0.1 g" },
+       { question: "Which instrument is least likely to have zero error?", options: ["Meter rule", "Vernier caliper", "Tape rule", "Beam balance"], answer: "Meter rule" },
+       { question: "The SI unit of force constant of a spiral spring is:", options: ["Nm", "N/m", "N/m²", "Nm²"], answer: "N/m" },
+       { question: "The instrument used to measure the diameter of a thin wire is:", options: ["Micrometer screw gauge", "Vernier caliper", "Meter rule", "Divider"], answer: "Micrometer screw gauge" },
+       { question: "Vernier caliper has an accuracy of:", options: ["0.1 cm", "0.1 mm", "0.01 mm", "1 mm"], answer: "0.1 mm" },
+       { question: "A measuring tape can measure length more than:", options: ["Meter", "Centimeter", "Inch", "Millimeter"], answer: "Meter" },
+       { question: "Digital stopwatches display readings up to:", options: ["2 decimal places", "3 decimal places", "1 decimal place", "4 significant figures"], answer: "2 decimal places" },
+       { question: "The range of a micrometer screw gauge is usually:", options: ["More than 1 cm", "2 cm", "Less than meter", "Less than 1 cm"], answer: "Less than 1 cm" },
+       { question: "Precision of most stopwatches is:", options: ["1 sec", "0.1 sec", "0.01 sec", "1 mm"], answer: "0.1 sec" },
+       { question: "Common instrument used to measure the diameter of a circle:", options: ["Meter rule", "Vernier caliper", "Micrometer screw gauge", "None"], answer: "Vernier caliper" },
+       { question: "Range of a vernier caliper is:", options: ["1 cm – 10 cm", "1 cm – 5 cm", "1 cm – 2 cm", "1 cm – 20 cm"], answer: "1 cm – 10 cm" },
+       { question: "The minimum length an instrument can measure is called:", options: ["Accuracy", "Estimate", "Precision", "Limitation"], answer: "Precision" },
+       { question: "Precision of micrometer screw gauge is:", options: ["0.1 cm", "0.01 cm", "0.1 mm", "0.01 mm"], answer: "0.01 mm" },
+       { question: "Error due to eye vision is called:", options: ["Sight error", "Visual error", "Zero error", "Parallax"], answer: "Parallax" },
+       { question: "Time is calibrated using oscillation of:", options: ["Rubidium atom", "Cesium atom", "Strontium atom", "Uranium atom"], answer: "Cesium atom" },
+       { question: "Prefix femto has factor:", options: ["10⁻¹²", "10¹²", "10¹⁵", "10⁻¹⁵"], answer: "10⁻¹⁵" },
+       { question: "Uncertainty of measurement occurs due to:", options: ["Instrument limitation", "Natural variation", "Frequent error", "A and B"], answer: "A and B" },
+       { question: "Smallest division on a ruler is:", options: ["1 cm", "1 m", "1 mm", "10 mm"], answer: "1 mm" },
+       { question: "Clinical thermometer is likely to have zero error.", options: ["True", "False", "Sometimes", "None"], answer: "False" },
+       { question: "Device that reads 0.01 cm:", options: ["Vernier caliper", "Micrometer screw gauge", "Meter rule", "None"], answer: "Vernier caliper" },
+       { question: "Unit of G in Newton’s law:", options: ["Nm²kg⁻²", "Nmkg²", "Nm²kg²", "Nkg"], answer: "Nm²kg⁻²" },
+       { question: "If measurement can be read to nearest 1 mm, maximum error is:", options: ["0.1 mm", "0.1 cm", "1 mm", "5 mm"], answer: "0.1 mm" },
+       { question: "Mass can be measured directly with a spring balance.", options: ["True", "False", "Sometimes", "None"], answer: "False" },
+       { question: "Standard form of 0.0000000014 m is:", options: ["1.4 × 10⁻⁶", "1.4 × 10⁻⁹", "1.4 × 10¹¹", "1.4 × 10⁻³"], answer: "1.4 × 10⁻⁹" },
+       { question: "Instrument measuring internal and external diameter:", options: ["Tape rule", "Meter rule", "Micrometer screw gauge", "Vernier caliper"], answer: "Vernier caliper" },
+       { question: "Instrument used to measure mass:", options: ["Beam balance", "Lever balance", "Top pan balance", "All of the above"], answer: "All of the above" },
+       { question: "Volume of irregular solid measured using:", options: ["Eureka can", "Cylinder", "Beaker", "None"], answer: "Eureka can" },
+       { question: "Instrument that cannot measure time:", options: ["Stop clock", "Simple pendulum", "Pendulum clock", "Heart beat"], answer: "Heart beat" },
+       { question: "Instrument least likely to have parallax error:", options: ["Tape rule", "Vernier caliper", "Micrometer screw gauge", "None"], answer: "Micrometer screw gauge" },
+       { question: "Instrument with 0.01 mm error:", options: ["Ruler", "Vernier caliper", "Micrometer screw gauge", "Meter rule"], answer: "Micrometer screw gauge" },
+       { question: "Spring balance works on:", options: ["Ohm’s law", "Principle of moment", "Hooke’s law", "None"], answer: "Hooke’s law" },
+       { question: "Time period of simple pendulum depends on:", options: ["Mass", "Length", "Mass of thread", "None"], answer: "Length" },
+       { question: "Meter rule maximum length:", options: ["0.5 m", "1 m", "1.5 m", "2 m"], answer: "1 m" },
+       { question: "Physical quantity consists of:", options: ["Analogical magnitude", "Numerical magnitude", "Alphabetical", "Symbolic magnitude"], answer: "Numerical magnitude" },
+       { question: "Instrument likely to have zero error:", options: ["Meter rule", "Vernier caliper", "Chemical balance", "B and C"], answer: "B and C" },
+           { question: "In an experiment the observed value is 56.2 while the standard value is 59.5. Determine the percentage error.", options: ["5.5%", "4.5%", "4.8%", "7%"], answer: "4.8%" },
+    { question: "For most people, human reaction error is about:", options: ["0.03 s", "0.3 s", "3 s", "30 s"], answer: "0.3 s" },
+    { question: "Error due to manually stopping a stopwatch is called:", options: ["Parallax error", "Human reaction error", "Human reaction time", "Calibration error"], answer: "Human reaction error" },
+    { question: "Zero error produced by measuring instrument is called:", options: ["Personal error", "Systematic error", "Random error", "None of the above"], answer: "Systematic error" },
+    { question: "The length of a cylinder is 6.35 cm ± 0.01 cm. The percentage uncertainty is:", options: ["4.35%", "2.3%", "0.16%", "0.15%"], answer: "0.16%" },
+    { question: "Systematic error due to poor calibration of instrument can be corrected by:", options: ["Taking several readings", "Replacing the instrument", "Taking mean value", "Taking median value"], answer: "Replacing the instrument" },
+    { question: "The error that occurs due to equally affected measurements is called:", options: ["Random error", "Systematic error", "Frequent error", "Uncertainty"], answer: "Systematic error" },
+    { question: "Errors that occur during measurement of quantities are:", options: ["Random error", "Systematic error", "Frequent error", "Both A and B"], answer: "Both A and B" },
+    { question: "Measurement which is close to the true value is called:", options: ["Accurate", "Average", "Precise", "Error"], answer: "Accurate" },
+    { question: "A measurement which on repetition gives same or nearly same results is called:", options: ["Average", "Precise", "Accurate", "Estimated"], answer: "Precise" },
+    { question: "Error that increases or decreases measurement in the same direction is:", options: ["Systematic error", "Random error", "Personal error", "Parallax error"], answer: "Systematic error" },
+    { question: "Error from parallax reading and scale interpretation is termed:", options: ["Adjustment error", "Instrumental error", "Observational error", "None of the above"], answer: "Observational error" },
+    { question: "Fluctuation due to room temperature variation is an example of:", options: ["Random error", "Systematic error", "Personal error", "Observational error"], answer: "Random error" },
+    { question: "Error caused by faulty physical constant values is an example of:", options: ["Personal error", "Random error", "Systematic error", "None of the above"], answer: "Systematic error" },
+    { question: "Error affecting measurement in irregular manner is called:", options: ["Observational error", "Magnitude error", "Personal error", "Random error"], answer: "Random error" },
+    { question: "Imperfection of human judgement is an example of:", options: ["Personal error", "Random error", "Systematic error", "Instrumental error"], answer: "Personal error" },
+    { question: "Error inherent in the apparatus used is:", options: ["Adjustment error", "Observational error", "Instrumental error", "Personal error"], answer: "Instrumental error" },
+    { question: "Which of the following is not an example of zero error of an instrument?", options: ["Vernier caliper", "Meter rule", "Thermometer", "None of the above"], answer: "Meter rule" },
+    { question: "The presence of ______ error can be detected and eliminated by measuring the same quantity repeatedly.", options: ["Systematic", "Observational", "Personal", "Random"], answer: "Random" },
+    { question: "Estimated value of acceleration due to gravity = 9.3 m/s², True value = 9.8 m/s². Percentage error =", options: ["2%", "5%", "8%", "10%"], answer: "5%" },
+    { question: "Diameter readings of wire using micrometer screw gauge are: 0.0047, 0.0045, 0.0046 mm. Mean diameter =", options: ["0.0045 mm", "0.0046 mm", "0.0047 mm", "0.0048 mm"], answer: "0.0046 mm" },
+    { question: "Standard error from question above is approximately:", options: ["6.7 × 10⁻⁶ mm", "5.6 × 10⁻⁴ mm", "7.6 × 10⁻³ mm", "7.6 × 10⁻⁵ mm"], answer: "6.7 × 10⁻⁶ mm" },
+    { question: "Starting and stopping a stopwatch is an example of:", options: ["Random error", "Systematic error", "Personal error", "Observational error"], answer: "Personal error" },
+    { question: "Error characterized by lack of regularity is called:", options: ["Personal error", "Erratic error", "Random error", "Systematic error"], answer: "Random error" },
+    { question: "Misreading of scale is an example of:", options: ["Erratic error", "Random error", "Personal error", "Systematic error"], answer: "Personal error" },
+    { question: "Error minimized by careful observation is:", options: ["Observational error", "Personal error", "Systematic error", "Random error"], answer: "Observational error" },
+    { question: "A measured value that is systematic-error free is called:", options: ["Accurate", "Precise", "Estimated", "None of the above"], answer: "Accurate" },
+    { question: "Cross-sectional area of wire calculation result is approximately:", options: ["1.65 × 10⁻⁴ cm²", "1.65 × 10⁻⁵ cm²", "1.65 × 10⁻³ cm²", "1.65 × 10⁻² cm²"], answer: "1.65 × 10⁻⁵ cm²" },
+    { question: "Maximum error in refractive index calculation is:", options: ["1.5 ± 0.6", "1.6 ± 0.6", "1.5 ± 0.06", "1.6 ± 0.06"], answer: "1.5 ± 0.06" },
+    { question: "Fractional error in measurement is approximately:", options: ["5 ± 0.03 cm", "5 ± 0.3 cm", "10 ± 0.03 cm", "10 ± 0.3 cm"], answer: "10 ± 0.03 cm" },
+    { question: "If length = 3 cm and instrument reads nearest 1 mm, it is written as:", options: ["3 ± 0.1 cm", "3 ± 0.1 mm", "3 ± 0.01 cm", "3 ± 0.01 mm"], answer: "3 ± 0.1 cm" },
+    { question: "Value of A = 0.608101 ± 0.0003 rounded correctly is:", options: ["0.6 ± 0.003", "0.7 ± 0.03", "0.6 ± 0.3", "0.608 ± 0.003"], answer: "0.608 ± 0.003" },
+    { question: "If Z = f(A) then error in Z depends on:", options: ["Error in A", "Value of Z", "Value of A", "None"], answer: "Error in A" },
+    { question: "If Z = Kf(p) where K is constant, error in Z depends on:", options: ["Error in p", "Error in K", "Both", "None"], answer: "Error in p" },
+    { question: "Power consumed by electric meter calculation gives:", options: ["6 × 10⁵ W", "6 × 10⁴ W", "6 × 10³ W", "6 × 10² W"], answer: "6 × 10⁵ W" },
+    { question: "Potential difference across resistor = 4 V, current = 1.3 A. Resistance ≈", options: ["3.23 Ω", "4.35 Ω", "5.20 Ω", "2.30 Ω"], answer: "3.23 Ω" },
+    { question: "Experimental errors inherent in apparatus are called:", options: ["Random error", "Observational error", "Instrumental error", "Personal error"], answer: "Instrumental error" },
+    { question: "When two physical quantities are combined, absolute errors are:", options: ["Added", "Subtracted", "Multiplied", "Divided"], answer: "Added" },
+    { question: "Faulty electrical constant is example of:", options: ["Random error", "Systematic error", "Instrumental error", "Personal error"], answer: "Systematic error" },
+    { question: "Measured value of specific heat capacity uncertainty:", options: ["0.1 Jkg⁻¹K⁻¹", "0.01 Jkg⁻¹K⁻¹", "0.9 Jkg⁻¹K⁻¹", "0.09 Jkg⁻¹K⁻¹"], answer: "0.1 Jkg⁻¹K⁻¹" },
+    { question: "Reading with high precision but not accurate has:", options: ["Systematic error", "Personal error", "Random error", "Erratic error"], answer: "Systematic error" },
+    { question: "Reading skill error is an example of:", options: ["Systematic error", "Erratic error", "Personal error", "Random error"], answer: "Personal error" },
+    { question: "Standard deviation from pendulum readings ≈", options: ["0.18", "0.21", "0.14", "0.13"], answer: "0.14" },
+    { question: "Standard error from above data ≈", options: ["0.094", "0.080", "0.0080", "0.009"], answer: "0.080" },
+    { question: "Maximum error expression depends on:", options: ["Product rule", "Sum rule", "Division rule", "Combination"], answer: "Combination" },
+    { question: "Measured value free from personal error but with small random error is:", options: ["Accurate", "Precise", "Calculated", "None"], answer: "Precise" },
+    { question: "Maximum error calculation result ≈", options: ["0.19 ± 0.05 cm", "0.19 ± 0.03 cm", "0.11 ± 0.03 cm", "0.19 ± 0.5 cm"], answer: "0.19 ± 0.03 cm" },
+    { question: "Area of circular disk ≈", options: ["1503 cm²", "567 cm²", "567 ± 0.01 cm²", "1809 cm²"], answer: "567 cm²" },
+    { question: "Given quantity P = x/y calculation ≈", options: ["9 ± 0.4", "7 ± 0.04", "8.33 ± 0.04", "8.33 ± 0.4"], answer: "8.33 ± 0.04" },
+    { question: "Percentage error in resistivity experiment ≈", options: ["18.4%", "15.3%", "16.24%", "20.20%"], answer: "16.24%" },
+    {
+      question: "If two quantities are inversely proportional, the graph of y against x is:",
+      options: ["Straight line", "Parabola", "Hyperbola", "Circle"],
+      answer: "Hyperbola"
+    },
+    {
+      question: "If two quantities are inversely proportional, the graph of y against 1/x is:",
+      options: ["Straight line cutting axis", "Straight line through origin", "Parabolic curve", "Hyperbolic curve"],
+      answer: "Straight line through origin"
+    },
+    {
+      question: "While taking readings from an instrument, the line of sight should be:",
+      options: ["At an acute angle", "Parallel to the scale", "Perpendicular to the scale", "At an obtuse angle"],
+      answer: "Perpendicular to the scale"
+    },
+    {
+      question: "A graph plotted from experimental data helps to:",
+      options: ["Determine relationships between variables", "Reduce measurement errors", "Predict values", "All of the above"],
+      answer: "All of the above"
+    },
+    {
+      question: "If a graph passes through the origin, it indicates that:",
+      options: ["Variables are inversely proportional", "Variables are directly proportional", "Variables are unrelated", "Variables are exponential"],
+      answer: "Variables are directly proportional"
+    },
+    {
+      question: "The gradient of a graph represents:",
+      options: ["Ratio of change in y to change in x", "Change in x only", "Change in y only", "None of the above"],
+      answer: "Ratio of change in y to change in x"
+    },
+    {
+      question: "The intercept of a straight-line graph occurs where the line:",
+      options: ["Crosses the axis", "Becomes horizontal", "Becomes vertical", "Changes direction"],
+      answer: "Crosses the axis"
+    },
+    {
+      question: "If T = KL, then plotting T against L will give:",
+      options: ["Straight line", "Hyperbola", "Parabola", "Circle"],
+      answer: "Straight line"
+    },
+    {
+      question: "If T = KL, the slope of the graph T vs L represents:",
+      options: ["K", "L", "T", "1/K"],
+      answer: "K"
+    },
+    {
+      question: "The intercept of the graph above is:",
+      options: ["0", "K", "L", "T"],
+      answer: "0"
+    },
+    {
+      question: "The best line drawn through plotted points is called:",
+      options: ["Curve line", "Best-fit line", "Random line", "Average line"],
+      answer: "Best-fit line"
+    },
+    {
+      question: "Graph plotting should be done using:",
+      options: ["Pen", "Pencil", "Marker", "Chalk"],
+      answer: "Pencil"
+    },
+    {
+      question: "Axes on a graph should be drawn using:",
+      options: ["Pencil", "Pen", "Ruler", "Chalk"],
+      answer: "Ruler"
+    },
+    {
+      question: "Independent variable is usually plotted on the:",
+      options: ["Vertical axis", "Horizontal axis", "Both axes", "None"],
+      answer: "Horizontal axis"
+    },
+    {
+      question: "Dependent variable is plotted on the:",
+      options: ["Horizontal axis", "Vertical axis", "Diagonal axis", "None"],
+      answer: "Vertical axis"
+    },
+    {
+      question: "Graph scales should be chosen to:",
+      options: ["Cover most of the graph sheet", "Use only small portion", "Fit random values", "None"],
+      answer: "Cover most of the graph sheet"
+    },
+    {
+      question: "When drawing graph points, they should be marked using:",
+      options: ["Large circles", "Small dots or crosses", "Thick squares", "Any shape"],
+      answer: "Small dots or crosses"
+    },
+    {
+      question: "If a graph is not straight, the relationship between variables may be:",
+      options: ["Non-linear", "Linear", "Constant", "Uniform"],
+      answer: "Non-linear"
+    },
+    {
+      question: "A graph of y = ax² + bx + c represents a:",
+      options: ["Straight line", "Parabola", "Circle", "Hyperbola"],
+      answer: "Parabola"
+    },
+    {
+      question: "General equation of a straight-line graph is:",
+      options: ["y = x + c", "y = mx", "y = mx + c", "y = mx²"],
+      answer: "y = mx + c"
+    },
+    {
+      question: "The slope of a straight line is calculated as:",
+      options: ["Δy / Δx", "Δx / Δy", "x + y", "y − x"],
+      answer: "Δy / Δx"
+    },
+    {
+      question: "A negative slope indicates that:",
+      options: ["Both variables increase", "One variable increases while the other decreases", "Both variables decrease", "No change occurs"],
+      answer: "One variable increases while the other decreases"
+    },
+    {
+      question: "The intercept of the equation y = mx + c is:",
+      options: ["m", "x", "y", "c"],
+      answer: "c"
+    },
+    {
+      question: "The slope of the graph log T vs log L represents:",
+      options: ["n", "log K", "log L", "log T"],
+      answer: "n"
+    },
+    {
+      question: "The intercept of the graph log T vs log L is:",
+      options: ["log K", "log L", "log T", "n"],
+      answer: "log K"
+    },
+    {
+      question: "A graph showing exponential growth appears as:",
+      options: ["Straight line", "Curve rising rapidly", "Hyperbola", "Circle"],
+      answer: "Curve rising rapidly"
+    },
+    {
+      question: "Graphical analysis helps scientists to:",
+      options: ["Interpret data easily", "Identify trends", "Predict outcomes", "All of the above"],
+      answer: "All of the above"
+    },
+    {
+      question: "Error bars on graphs represent:",
+      options: ["Exact values", "Measurement uncertainty", "Graph decoration", "Axis labels"],
+      answer: "Measurement uncertainty"
+    },
+    {
+      question: "A straight-line graph passing through origin indicates:",
+      options: ["y ∝ x", "y ∝ 1/x", "y ∝ x²", "y ∝ √x"],
+      answer: "y ∝ x"
+    },
+    {
+      question: "Plotting experimental data on graph helps to:",
+      options: ["Determine slope", "Determine intercept", "Identify relationship", "All of the above"],
+      answer: "All of the above"
+    },
+    {
+      question: "The equation y = mx + c represents:",
+      options: ["Parabola", "Straight line", "Circle", "Hyperbola"],
+      answer: "Straight line"
+    },
+    {
+      question: "The equation y = ax² + bx + c represents:",
+      options: ["Straight line", "Hyperbola", "Parabola", "Ellipse"],
+      answer: "Parabola"
+    },
+    {
+      question: "If y ∝ 1/x, then y × x =",
+      options: ["Variable", "Constant", "Zero", "Undefined"],
+      answer: "Constant"
+    },
+    {
+      question: "Graph plotting is useful in:",
+      options: ["Physics experiments", "Chemistry experiments", "Biology experiments", "All of the above"],
+      answer: "All of the above"
+    },
+    {
+      question: "Slope of a horizontal line is:",
+      options: ["1", "-1", "0", "Infinite"],
+      answer: "0"
+    },
+    {
+      question: "Slope of a vertical line is:",
+      options: ["0", "Infinite", "1", "-1"],
+      answer: "Infinite"
+    },
+    {
+      question: "A line parallel to the x-axis has slope:",
+      options: ["0", "Infinite", "1", "-1"],
+      answer: "0"
+    },
+    {
+      question: "A line parallel to the y-axis has slope:",
+      options: ["0", "Infinite", "1", "-1"],
+      answer: "Infinite"
+    },
+    {
+      question: "The relationship y ∝ x² produces a graph of:",
+      options: ["Straight line", "Parabola", "Circle", "Hyperbola"],
+      answer: "Parabola"
+    },
+    {
+      question: "Graph interpretation helps in:",
+      options: ["Understanding experimental results", "Identifying patterns", "Making predictions", "All of the above"],
+      answer: "All of the above"
+    },
+    {
+      question: "When plotting graphs, units must be:",
+      options: ["Ignored", "Included on axes", "Optional", "Random"],
+      answer: "Included on axes"
+    },
+    {
+      question: "Points plotted on graph must be:",
+      options: ["Random", "Accurate", "Large circles", "Thick marks"],
+      answer: "Accurate"
+    },
+    {
+      question: "Graph scale should be:",
+      options: ["Uniform", "Irregular", "Random", "Small"],
+      answer: "Uniform"
+    },
+    {
+      question: "When two variables increase together, relationship is:",
+      options: ["Direct", "Inverse", "Constant", "Logarithmic"],
+      answer: "Direct"
+    },
+    {
+      question: "Inverse relationship graph shape is:",
+      options: ["Hyperbola", "Parabola", "Straight line", "Circle"],
+      answer: "Hyperbola"
+    },
+    {
+      question: "The graph of y = constant is:",
+      options: ["Horizontal line", "Vertical line", "Curve", "Hyperbola"],
+      answer: "Horizontal line"
+    },
+    {
+      question: "A graph that slopes upward indicates:",
+      options: ["Negative relation", "Positive relation", "No relation", "Random relation"],
+      answer: "Positive relation"
+    },
+    {
+      question: "Best-fit line should:",
+      options: ["Pass through all points", "Pass near most points", "Avoid points", "Touch origin always"],
+      answer: "Pass near most points"
+    },
+    {
+      question: "Experimental graphs help determine:",
+      options: ["Constants", "Equations", "Relationships", "All of the above"],
+      answer: "All of the above"
+    },
+    {
+      question: "Graph plotting is important in experimental physics because it:",
+      options: ["Simplifies analysis", "Shows trends", "Predicts unknown values", "All of the above"],
+      answer: "All of the above"
+    },
+    {
+     question: "The effective capacitance for capacitors connected in parallel is given by:",
+     options: ["C_T = C₁ + C₂ + C₃", "C_T = 1/C₁ + 1/C₂ + 1/C₃", "1/C_T = 1/C₁ + 1/C₂ + 1/C₃", "C_T = C₁C₂C₃"],
+     answer: "C_T = C₁ + C₂ + C₃"
+   },
+   {
+     question: "The magnification of a convex lens is given by:",
+     options: ["M = 1/F + 1", "M = 1/F", "M = 1/F − 1", "M = V/F − 1"],
+     answer: "M = V/F − 1"
+   },
+   {
+     question: "The effective resistance of resistors connected in parallel is:",
+     options: ["1/R_T = R₁ + R₂ + R₃", "R_T = 1/R₁ + 1/R₂ + 1/R₃", "1/R_T = 1/R₁ + 1/R₂ + 1/R₃", "R_T = R₁ + R₂ + R₃"],
+     answer: "1/R_T = 1/R₁ + 1/R₂ + 1/R₃"
+   },
+   {
+     question: "The region around a magnet where another magnet experiences force is called:",
+     options: ["Magnetic flux", "Magnetic field", "Magnetic force", "Magnetic strength"],
+     answer: "Magnetic field"
+   },
+   {
+     question: "If an object is placed between the pole and focus of a concave mirror, the image formed is:",
+     options: ["Virtual and erect", "Real and inverted", "Real and erect", "Virtual and inverted"],
+     answer: "Virtual and erect"
+   },
+   {
+     question: "Two mirrors inclined at 30° produce how many images?",
+     options: ["12", "11", "5", "3"],
+     answer: "11"
+   },
+   {
+     question: "The graph of current (I) against voltage (V) for an ohmic conductor is a straight line passing through the origin.",
+     options: ["True", "False", "Sometimes", "Not sure"],
+     answer: "True"
+   },
+   {
+     question: "Hooke’s law states that force is proportional to extension provided the elastic limit is not exceeded.",
+     options: ["True", "False", "Sometimes", "None"],
+     answer: "True"
+   },
+   {
+     question: "A measurement that gives the same result repeatedly is called:",
+     options: ["Accurate measurement", "Precise measurement", "Estimated measurement", "Random measurement"],
+     answer: "Precise measurement"
+   },
+   {
+     question: "When two plane mirrors are parallel, the number of images formed is:",
+     options: ["3", "6", "1", "Infinite"],
+     answer: "Infinite"
+   },
+   {
+     question: "The working principle of a beam balance is based on:",
+     options: ["Hooke’s law", "Principle of moments", "Snell’s law", "Archimedes principle"],
+     answer: "Principle of moments"
+   },
     ],
     "PSY 111": [
 

@@ -35,6 +35,7 @@ const premiumSubjects = useMemo(
 "POS 216",
 "PHY 102",
 "ELS 103",
+"PHY 113",
 ],
 []
 );
@@ -293,4 +294,4 @@ onBack={() => setSubject("")}
 
 );
 
-}
+} 
