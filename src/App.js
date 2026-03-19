@@ -1,5 +1,4 @@
 import { useEffect, useMemo, useState } from "react";
-
 import Quiz from "./Quiz";
 import Landing from "./Landing";
 import SubjectSelect from "./SubjectSelect";
@@ -9,7 +8,6 @@ import { supabase } from "./supabaseClient";
 import ReportButtons from "./ReportButtons";
 
 export default function App() {
-  // Prevent copy/paste
   useEffect(() => {
     document.addEventListener("copy", (e) => e.preventDefault());
     document.addEventListener("cut", (e) => e.preventDefault());
@@ -21,9 +19,10 @@ export default function App() {
   const [page, setPage] = useState("subjects");
   const [isPremium, setIsPremium] = useState(false);
   const [premiumLoading, setPremiumLoading] = useState(false);
-  const [trialUsed, setTrialUsed] = useState(false); // Track if trial was used
+  const [trialUsed, setTrialUsed] = useState(false);
 
   const subjects = useMemo(() => Object.keys(allQuestions), []);
+
   const premiumSubjects = useMemo(
     () => [
       "GST 102",
@@ -67,16 +66,17 @@ export default function App() {
     };
   }, []);
 
-  // CHECK PREMIUM STATUS + TRIAL EXPIRATION
+  // CHECK PREMIUM STATUS
   useEffect(() => {
     const run = async () => {
       if (!session?.user?.id) return;
+
       setPremiumLoading(true);
 
       try {
         const { data } = await supabase
           .from("profiles")
-          .select("trial_started_at, premium_expires_at, is_premium")
+          .select("*")
           .eq("id", session.user.id)
           .single();
 
@@ -87,31 +87,27 @@ export default function App() {
           return;
         }
 
-        // Check if trial already used
-        setTrialUsed(!!data.trial_started_at);
+        // Check if trial has been used
+        if (data.trial_started_at) setTrialUsed(true);
 
-        // Check if premium/trial expired
+        // Check if premium is active
         if (data.premium_expires_at) {
-          const now = new Date();
           const expires = new Date(data.premium_expires_at);
-          if (now > expires) {
-            // Trial or premium expired
+          if (expires > new Date()) {
+            setIsPremium(true);
+          } else {
             setIsPremium(false);
             await supabase
               .from("profiles")
               .update({ is_premium: false })
               .eq("id", session.user.id);
-          } else {
-            setIsPremium(true);
           }
         } else {
           setIsPremium(false);
         }
-
       } catch (e) {
         console.log("Premium check error:", e);
         setIsPremium(false);
-        setTrialUsed(false);
       }
 
       setPremiumLoading(false);
@@ -126,47 +122,31 @@ export default function App() {
     setSession(null);
     setSubject("");
     setIsPremium(false);
-    setTrialUsed(false);
     setPage("subjects");
     window.location.reload();
   };
 
-  // FREE TRIAL (1-day, only once per account)
+  // FREE TRIAL
   const startTrial = async () => {
     if (!session?.user?.id) return;
 
-    try {
-      const { data } = await supabase
-        .from("profiles")
-        .select("trial_started_at, is_premium")
-        .eq("id", session.user.id)
-        .single();
+    const now = new Date();
+    const expires = new Date(now);
+    expires.setDate(now.getDate() + 1); // 1-day trial
 
-      // If trial already used
-      if (data?.trial_started_at) {
-        alert("You have already used your 1-day free trial.");
-        setTrialUsed(true); // hide button just in case
-        return;
-      }
-
-      // Start trial
-      const now = new Date();
-      const expires = new Date(now.getTime() + 24 * 60 * 60 * 1000); // 1 day
-
-      await supabase.from("profiles").upsert({
+    await supabase
+      .from("profiles")
+      .upsert({
         id: session.user.id,
         is_premium: true,
         trial_started_at: now.toISOString(),
         premium_expires_at: expires.toISOString(),
+        plan_type: "trial",
       });
 
-      setIsPremium(true);
-      setTrialUsed(true); // hide the button after starting trial
-      alert("Your 1-day free trial has started!");
-    } catch (error) {
-      console.error("Error starting trial:", error);
-      alert("Could not start trial. Try again later.");
-    }
+    setIsPremium(true);
+    setTrialUsed(true);
+    alert("Your 1-day free trial has started!");
   };
 
   // PAYMENT SUCCESS
@@ -174,28 +154,29 @@ export default function App() {
     if (!session?.user?.id) return;
 
     const now = new Date();
-    const expires = new Date(
-      now.getTime() + (plan === "weekly" ? 7 : 30) * 24 * 60 * 60 * 1000
-    );
+    const expires = new Date(now);
+    expires.setDate(now.getDate() + (plan === "weekly" ? 7 : 30));
 
-    await supabase.from("profiles").upsert({
-      id: session.user.id,
-      is_premium: true,
-      premium_expires_at: expires.toISOString(),
-    });
+    await supabase
+      .from("profiles")
+      .upsert({
+        id: session.user.id,
+        is_premium: true,
+        premium_expires_at: expires.toISOString(),
+        plan_type: plan,
+      });
 
     setIsPremium(true);
+    alert(`${plan.charAt(0).toUpperCase() + plan.slice(1)} plan activated!`);
   };
 
   // START SUBJECT
   const startSubject = async (picked) => {
     const clean = String(picked || "").trim();
-
     if (premiumSubjects.includes(clean) && !isPremium) {
       alert(`Unlock Premium to practice: ${clean}`);
       return;
     }
-
     setSubject(clean);
 
     // SAVE ANALYTICS
@@ -230,10 +211,11 @@ export default function App() {
           onPremiumSuccess={onPremiumSuccess}
           premiumSubjects={premiumSubjects}
           startTrial={startTrial}
-          trialUsed={trialUsed} // pass trialUsed to SubjectSelect
           onViewResults={() => setPage("results")}
+          trialUsed={trialUsed}
         />
-        <ReportButtons />
+        {/* Add ReportButtons here to avoid unused warning */}
+        <ReportButtons userEmail={studentEmail} />
       </>
     );
   }
